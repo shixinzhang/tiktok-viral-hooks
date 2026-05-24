@@ -1,25 +1,3 @@
----
-title: "#goodthing #tiktok #goodthings "
-description: "The hook surprises viewers by claiming water vapor can instantly juice fruit, sparking curiosity."
-lang: zh-CN
-video_id: "tiktok-transcript-goodthing-tiktok-goodthings-93ee"
-available_languages: ["en", "zh-CN"]
-original_language: zh
-translated: true
-creator: "@sharing.of.good.t887"
-creator_url: "https://www.tiktok.com/@sharing.of.good.t887"
-video_url: "https://vt.tiktok.com/ZSxay4QCQ/"
-views: 29400000
-likes: 0
-posted_date: 2026-05-24
-niche: other
-hook_pattern: unknown
-duration_seconds: 0
-keywords: ["other", "viral", "hook"]
-generated_with: toktranscript
-generated_date: 2026-05-24
----
-
 # #goodthing #tiktok #goodthings 
 
 > 🌐 **Read this in:** [English](../../en/2026-05/tiktok-transcript-goodthing-tiktok-goodthings-93ee.md) · **中文**
@@ -109,6 +87,21 @@ Unexpectedly There is such a thing Water vapor that can squeeze fruit into juice
 
 - All [other](../../by-niche/zh-CN/other.md) breakdowns
 - All [unknown](../../by-pattern/zh-CN/hook-unknown.md) examples
+
+## Video Info
+
+| | |
+|---|---|
+| Creator | [@sharing.of.good.t887](https://www.tiktok.com/@sharing.of.good.t887) |
+| Original video | [https://vt.tiktok.com/ZSxay4QCQ/](https://vt.tiktok.com/ZSxay4QCQ/) |
+| Views | 29.4M (29400000) |
+| Posted | 2026-05-24 |
+| Duration | 0s |
+| Niche | `other` |
+| Hook pattern | `unknown` |
+| Original language | `zh` (this page translated by AI) |
+| Available languages | en, zh-CN |
+| Generated | 2026-05-24 by [TokTranscript](https://toktranscript.com/) |
 
 ---
 

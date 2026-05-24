@@ -1,25 +1,3 @@
----
-title: "Is Alina Ross actually Candy Love?#influencer #celebrity #candylove #..."
-description: "Opens with a direct, provocative question that immediately hooks curiosity and sets up a mystery."
-lang: en
-video_id: "tiktok-transcript-is-alina-ross-actually-candy-love-influencer-celebrity-candy-2a7b"
-available_languages: ["en", "zh-CN"]
-original_language: th
-translated: true
-creator: "@havocx.1nfluensir"
-creator_url: "https://www.tiktok.com/@havocx.1nfluensir"
-video_url: "https://vt.tiktok.com/ZSxafQYdk/"
-views: 10100000
-likes: 0
-posted_date: 2026-05-24
-niche: other
-hook_pattern: unknown
-duration_seconds: 0
-keywords: ["other", "viral", "hook"]
-generated_with: toktranscript
-generated_date: 2026-05-24
----
-
 # Is Alina Ross actually Candy Love?#influencer #celebrity #candylove #...
 
 > 🌐 **Read this in:** **English** · [中文](../../zh-CN/2026-05/tiktok-transcript-is-alina-ross-actually-candy-love-influencer-celebrity-candy-2a7b.md)
@@ -113,6 +91,21 @@ Is Alina Ross actually candy love? If you don't know who Candy Love is, she is c
 
 - All [other](../../by-niche/en/other.md) breakdowns
 - All [unknown](../../by-pattern/en/hook-unknown.md) examples
+
+## Video Info
+
+| | |
+|---|---|
+| Creator | [@havocx.1nfluensir](https://www.tiktok.com/@havocx.1nfluensir) |
+| Original video | [https://vt.tiktok.com/ZSxafQYdk/](https://vt.tiktok.com/ZSxafQYdk/) |
+| Views | 10.1M (10100000) |
+| Posted | 2026-05-24 |
+| Duration | 0s |
+| Niche | `other` |
+| Hook pattern | `unknown` |
+| Original language | `th` (this page translated by AI) |
+| Available languages | en, zh-CN |
+| Generated | 2026-05-24 by [TokTranscript](https://toktranscript.com/) |
 
 ---
 

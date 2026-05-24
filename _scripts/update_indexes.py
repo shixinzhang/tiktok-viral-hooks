@@ -1,19 +1,23 @@
-"""Rebuild aggregation pages from frontmatter on disk.
+"""Rebuild aggregation pages from _data/all-videos.json + on-disk file tree.
 
   - by-niche/{lang}/{niche}.md
   - by-pattern/{lang}/hook-{pattern}.md
   - README*.md AUTO_GENERATED_LATEST_{START,END} block (latest 10)
+
+Metadata source: _data/all-videos.json (written by generate_breakdown.py).
+We no longer parse YAML frontmatter from each markdown — those files are
+content-only so GitHub doesn't render a metadata table at the top.
 
 Safe to re-run; output is deterministic for a given on-disk state.
 """
 
 from __future__ import annotations
 
+import json
 import re
 import sys
 from pathlib import Path
 
-import frontmatter
 from jinja2 import Environment, FileSystemLoader
 
 
@@ -22,9 +26,10 @@ TEMPLATE_DIR = Path(__file__).resolve().parent / "templates"
 BREAKDOWNS_DIR = ROOT / "breakdowns"
 BY_NICHE_DIR = ROOT / "by-niche"
 BY_PATTERN_DIR = ROOT / "by-pattern"
+ALL_VIDEOS = ROOT / "_data" / "all-videos.json"
 
 
-def _format_views(n: int) -> str:
+def _format_views(n) -> str:
     n = int(n or 0)
     if n >= 1_000_000:
         return f"{n / 1_000_000:.1f}M"
@@ -34,25 +39,32 @@ def _format_views(n: int) -> str:
 
 
 def _collect() -> list[dict]:
-    """Walk breakdowns/ and return a list of {lang, slug, niche, hook_pattern, title, views, posted_date, path}."""
+    """Walk breakdowns/ and join each file with _data/all-videos.json."""
     items: list[dict] = []
-    if not BREAKDOWNS_DIR.exists():
+    if not BREAKDOWNS_DIR.exists() or not ALL_VIDEOS.exists():
         return items
+    try:
+        catalog = json.loads(ALL_VIDEOS.read_text(encoding="utf-8"))
+    except Exception as e:
+        print(f"failed to read {ALL_VIDEOS}: {e}", file=sys.stderr)
+        return items
+
     for md_path in BREAKDOWNS_DIR.rglob("*.md"):
-        try:
-            post = frontmatter.load(md_path)
-        except Exception as e:
-            print(f"skip {md_path}: {e}", file=sys.stderr)
+        slug = md_path.stem
+        meta = catalog.get(slug) or {}
+        if not meta:
+            print(f"skip {md_path}: slug {slug} missing from all-videos.json", file=sys.stderr)
             continue
-        meta = post.metadata or {}
+        # Path layout: breakdowns/{lang}/{YYYY-MM}/{slug}.md
+        lang = md_path.parts[-3] if len(md_path.parts) >= 3 else "en"
         items.append({
-            "lang": meta.get("lang") or md_path.parts[-3],
-            "slug": meta.get("video_id") or md_path.stem,
+            "lang": lang,
+            "slug": slug,
             "niche": meta.get("niche") or "other",
             "hook_pattern": meta.get("hook_pattern") or "unknown",
-            "title": meta.get("title") or md_path.stem,
-            "views": int(meta.get("views") or 0),
-            "views_formatted": _format_views(meta.get("views") or 0),
+            "title": meta.get("title") or slug,
+            "views": int(meta.get("view_count") or 0),
+            "views_formatted": _format_views(meta.get("view_count")),
             "posted_date": str(meta.get("posted_date") or "")[:10],
             "path": md_path,
         })
@@ -60,11 +72,9 @@ def _collect() -> list[dict]:
 
 
 def _relpath_from_index(item: dict, index_dir: Path) -> str:
-    """Relative link from an index page to a breakdown file."""
     try:
         return str(item["path"].relative_to(index_dir.parent.parent)).replace("\\", "/")
     except ValueError:
-        # Fallback to a path relative to repo root, prefixed with ../../
         return "../../" + str(item["path"].relative_to(ROOT)).replace("\\", "/")
 
 
@@ -81,18 +91,13 @@ def _write_aggregations(env: Environment, items: list[dict], group_key: str,
         index_dir = out_root / lang
         index_dir.mkdir(parents=True, exist_ok=True)
         out_path = index_dir / f"{path_prefix}{key}.md"
-        # Sort by views DESC, then posted_date DESC
-        entries.sort(key=lambda x: (-int(x["views"] or 0), x["posted_date"]), reverse=False)
         entries.sort(key=lambda x: -int(x["views"] or 0))
         rendered = env.get_template(template_name).render(
             lang=lang,
             count=len(entries),
             **{title_field: key.replace("-", " ").title()},
             items=[
-                {
-                    **e,
-                    "relpath": _relpath_from_index(e, index_dir),
-                }
+                {**e, "relpath": _relpath_from_index(e, index_dir)}
                 for e in entries
             ],
         )

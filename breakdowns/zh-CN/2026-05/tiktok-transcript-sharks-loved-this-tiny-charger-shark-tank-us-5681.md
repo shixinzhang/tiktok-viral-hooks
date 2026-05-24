@@ -1,25 +1,3 @@
----
-title: "Sharks Loved This TINY Charger🔥｜ Shark Tank US"
-description: "Opens with a surprising question that challenges assumptions, immediately engaging curiosity."
-lang: zh-CN
-video_id: "tiktok-transcript-sharks-loved-this-tiny-charger-shark-tank-us-5681"
-available_languages: ["en", "zh-CN"]
-original_language: zh
-translated: true
-creator: "@brentstephens88"
-creator_url: "https://www.tiktok.com/@brentstephens88"
-video_url: "https://www.tiktok.com/@brentstephens88/video/7631595223222734110"
-views: 1400000
-likes: 0
-posted_date: 2026-05-23
-niche: other
-hook_pattern: unknown
-duration_seconds: 0
-keywords: ["other", "viral", "hook"]
-generated_with: toktranscript
-generated_date: 2026-05-24
----
-
 # Sharks Loved This TINY Charger🔥｜ Shark Tank US
 
 > 🌐 **Read this in:** [English](../../en/2026-05/tiktok-transcript-sharks-loved-this-tiny-charger-shark-tank-us-5681.md) · **中文**
@@ -35,7 +13,7 @@ generated_date: 2026-05-24
 
 ## Why This Went Viral
 
-## Hook（前3秒）
+## 钩子（前3秒）
 - **逐字开场**：“你是把它扔掉，还是可以给它充电？”
 - **钩子类型**：**对比冲突**（“扔掉” vs “可充电”）
 - **停止滑动的理由**：用一个反常识的二元选择瞬间制造认知冲突——观众第一反应是“充电宝当然可充电”，但画面里是个小塑料块，反差逼人停下来看答案。
@@ -107,6 +85,21 @@ Do you throw this away or you can recharge this? Yes, ma'am. That's rechargeable
 
 - All [other](../../by-niche/zh-CN/other.md) breakdowns
 - All [unknown](../../by-pattern/zh-CN/hook-unknown.md) examples
+
+## Video Info
+
+| | |
+|---|---|
+| Creator | [@brentstephens88](https://www.tiktok.com/@brentstephens88) |
+| Original video | [https://www.tiktok.com/@brentstephens88/video/7631595223222734110](https://www.tiktok.com/@brentstephens88/video/7631595223222734110) |
+| Views | 1.4M (1400000) |
+| Posted | 2026-05-23 |
+| Duration | 0s |
+| Niche | `other` |
+| Hook pattern | `unknown` |
+| Original language | `zh` (this page translated by AI) |
+| Available languages | en, zh-CN |
+| Generated | 2026-05-24 by [TokTranscript](https://toktranscript.com/) |
 
 ---
 

@@ -1,25 +1,3 @@
----
-title: "tu préfères... 🔴 🔵? macaroni au fromage  nuggets de poulet  snickers ..."
-description: "Challenges the viewer's taste, prompting immediate engagement."
-lang: en
-video_id: "tiktok-transcript-tu-pr-f-res-macaroni-au-fromage-nuggets-de-poulet-snickers-8840"
-available_languages: ["en", "zh-CN"]
-original_language: en
-translated: false
-creator: "@noro.tupreferes"
-creator_url: "https://www.tiktok.com/@noro.tupreferes"
-video_url: "https://vm.tiktok.com/ZS9YCYe7wbGpK-EDO4i/ تتم مشاركة هذا المنشور عبر TikTok Lite. نزّل TikTok Lite للاستمتاع بمزيد من المنشورات: https://www.tiktok.com/tiktoklite"
-views: 1000000
-likes: 0
-posted_date: 2026-05-23
-niche: other
-hook_pattern: unknown
-duration_seconds: 0
-keywords: ["other", "viral", "hook"]
-generated_with: toktranscript
-generated_date: 2026-05-24
----
-
 # tu préfères... 🔴 🔵? macaroni au fromage  nuggets de poulet  snickers ...
 
 > 🌐 **Read this in:** **English** · [中文](../../zh-CN/2026-05/tiktok-transcript-tu-pr-f-res-macaroni-au-fromage-nuggets-de-poulet-snickers-8840.md)
@@ -120,6 +98,21 @@ Let's see if you have good taste, do you prefer good macaroni and cheese or nugg
 
 - All [other](../../by-niche/en/other.md) breakdowns
 - All [unknown](../../by-pattern/en/hook-unknown.md) examples
+
+## Video Info
+
+| | |
+|---|---|
+| Creator | [@noro.tupreferes](https://www.tiktok.com/@noro.tupreferes) |
+| Original video | [https://vm.tiktok.com/ZS9YCYe7wbGpK-EDO4i/ تتم مشاركة هذا المنشور عبر TikTok Lite. نزّل TikTok Lite للاستمتاع بمزيد من المنشورات: https://www.tiktok.com/tiktoklite](https://vm.tiktok.com/ZS9YCYe7wbGpK-EDO4i/ تتم مشاركة هذا المنشور عبر TikTok Lite. نزّل TikTok Lite للاستمتاع بمزيد من المنشورات: https://www.tiktok.com/tiktoklite) |
+| Views | 1.0M (1000000) |
+| Posted | 2026-05-23 |
+| Duration | 0s |
+| Niche | `other` |
+| Hook pattern | `unknown` |
+| Original language | `en` |
+| Available languages | en, zh-CN |
+| Generated | 2026-05-24 by [TokTranscript](https://toktranscript.com/) |
 
 ---
 

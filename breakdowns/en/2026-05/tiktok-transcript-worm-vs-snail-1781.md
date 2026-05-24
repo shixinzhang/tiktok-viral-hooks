@@ -1,25 +1,3 @@
----
-title: "Worm vs Snail"
-description: "The hook flips a somber apology into a defiant, humorous refusal, instantly grabbing attention."
-lang: en
-video_id: "tiktok-transcript-worm-vs-snail-1781"
-available_languages: ["en", "zh-CN"]
-original_language: en
-translated: false
-creator: "@nicole.shaine"
-creator_url: "https://www.tiktok.com/@nicole.shaine"
-video_url: "https://vm.tiktok.com/ZNRnfAeBx/"
-views: 2800000
-likes: 0
-posted_date: 2026-05-23
-niche: other
-hook_pattern: unknown
-duration_seconds: 0
-keywords: ["other", "viral", "hook"]
-generated_with: toktranscript
-generated_date: 2026-05-24
----
-
 # Worm vs Snail
 
 > 🌐 **Read this in:** **English** · [中文](../../zh-CN/2026-05/tiktok-transcript-worm-vs-snail-1781.md)
@@ -115,6 +93,21 @@ I'm sorry. I'm not going
 
 - All [other](../../by-niche/en/other.md) breakdowns
 - All [unknown](../../by-pattern/en/hook-unknown.md) examples
+
+## Video Info
+
+| | |
+|---|---|
+| Creator | [@nicole.shaine](https://www.tiktok.com/@nicole.shaine) |
+| Original video | [https://vm.tiktok.com/ZNRnfAeBx/](https://vm.tiktok.com/ZNRnfAeBx/) |
+| Views | 2.8M (2800000) |
+| Posted | 2026-05-23 |
+| Duration | 0s |
+| Niche | `other` |
+| Hook pattern | `unknown` |
+| Original language | `en` |
+| Available languages | en, zh-CN |
+| Generated | 2026-05-24 by [TokTranscript](https://toktranscript.com/) |
 
 ---
 
