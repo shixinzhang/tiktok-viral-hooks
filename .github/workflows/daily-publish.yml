@@ -2,7 +2,7 @@ name: Daily Breakdown Publish
 
 on:
   schedule:
-    - cron: '0 13 * * *'   # 13:00 UTC = 08:00 ET, 21:00 Beijing
+    - cron: '0 0 * * *'    # 00:00 UTC = 08:00 Beijing, 20:00 ET (prev day), 17:00 PT (prev day)
   workflow_dispatch:
 
 jobs:
