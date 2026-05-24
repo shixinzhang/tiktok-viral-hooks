@@ -1,4 +1,4 @@
-# Other Breakdowns
+# other Breakdowns
 
 > 5 viral TikTok videos in this niche, with hook analysis and mind maps.
 

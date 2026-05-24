@@ -29,6 +29,14 @@ BY_PATTERN_DIR = ROOT / "by-pattern"
 ALL_VIDEOS = ROOT / "_data" / "all-videos.json"
 
 
+def _slugify(s) -> str:
+    """File-name-safe slug for niche / hook_pattern values."""
+    if not s:
+        return "unknown"
+    out = re.sub(r"[^a-z0-9]+", "-", str(s).lower()).strip("-")
+    return out or "unknown"
+
+
 def _format_views(n) -> str:
     n = int(n or 0)
     if n >= 1_000_000:
@@ -57,11 +65,15 @@ def _collect() -> list[dict]:
             continue
         # Path layout: breakdowns/{lang}/{YYYY-MM}/{slug}.md
         lang = md_path.parts[-3] if len(md_path.parts) >= 3 else "en"
+        niche = meta.get("niche") or "other"
+        hook = meta.get("hook_pattern") or "unknown"
         items.append({
             "lang": lang,
             "slug": slug,
-            "niche": meta.get("niche") or "other",
-            "hook_pattern": meta.get("hook_pattern") or "unknown",
+            "niche": niche,
+            "niche_slug": _slugify(niche),
+            "hook_pattern": hook,
+            "hook_pattern_slug": _slugify(hook),
             "title": meta.get("title") or slug,
             "views": int(meta.get("view_count") or 0),
             "views_formatted": _format_views(meta.get("view_count")),
@@ -81,9 +93,16 @@ def _relpath_from_index(item: dict, index_dir: Path) -> str:
 def _write_aggregations(env: Environment, items: list[dict], group_key: str,
                         out_root: Path, template_name: str, title_field: str,
                         path_prefix: str = "") -> None:
+    slug_key = f"{group_key}_slug"
+    # (lang, slug) groups all entries that share a normalized key, even if
+    # the human-readable group_key differs slightly across runs.
     grouped: dict[tuple[str, str], list[dict]] = {}
+    titles: dict[tuple[str, str], str] = {}
     for it in items:
-        grouped.setdefault((it["lang"], it[group_key]), []).append(it)
+        key = it.get(slug_key) or "unknown"
+        gk = (it["lang"], key)
+        grouped.setdefault(gk, []).append(it)
+        titles.setdefault(gk, it.get(group_key) or key)
 
     for (lang, key), entries in grouped.items():
         if not key:
@@ -95,7 +114,7 @@ def _write_aggregations(env: Environment, items: list[dict], group_key: str,
         rendered = env.get_template(template_name).render(
             lang=lang,
             count=len(entries),
-            **{title_field: key.replace("-", " ").title()},
+            **{title_field: titles[(lang, key)]},
             items=[
                 {**e, "relpath": _relpath_from_index(e, index_dir)}
                 for e in entries

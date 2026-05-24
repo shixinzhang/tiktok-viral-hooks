@@ -124,6 +124,16 @@ def _save_json(path: Path, data) -> None:
     path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
+def _slugify(s: str | None) -> str:
+    """Filesystem/URL-safe slug. LLM-generated hook_pattern values like
+    "Mystery/Curiosity Gap" or "Bold Claim + Question" need cleaning before
+    they become part of a file name or relative link."""
+    if not s:
+        return "unknown"
+    out = re.sub(r"[^a-z0-9]+", "-", str(s).lower()).strip("-")
+    return out or "unknown"
+
+
 def _outline_to_mermaid(text: str, fallback_root: str = "Mind Map") -> str:
     """Convert a markdown outline (#/##/###/-) to Mermaid mindmap syntax.
 
@@ -317,7 +327,9 @@ def _build_context(item: dict, lang: str, breakdown_body: str, translated: bool,
         "likes": int(likes or 0),
         "posted_date": (item.get("posted_date") or "")[:10],
         "niche": item.get("niche") or "other",
+        "niche_slug": _slugify(item.get("niche") or "other"),
         "hook_pattern": item.get("hook_pattern"),
+        "hook_pattern_slug": _slugify(item.get("hook_pattern") or "unknown"),
         "duration_seconds": int(duration or 0),
         "keywords": [item.get("niche") or "tiktok", "viral", item.get("hook_pattern") or "hook"],
         "generated_date": datetime.now(timezone.utc).strftime("%Y-%m-%d"),

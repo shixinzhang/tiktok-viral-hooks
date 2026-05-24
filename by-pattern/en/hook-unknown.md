@@ -1,4 +1,4 @@
-# Hook Pattern: Unknown
+# Hook Pattern: unknown
 
 > 5 viral TikTok videos that use this hook pattern.
 
