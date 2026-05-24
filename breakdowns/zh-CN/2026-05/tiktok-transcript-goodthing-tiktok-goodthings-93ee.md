@@ -5,7 +5,7 @@
 <a href="https://vt.tiktok.com/ZSxay4QCQ/" target="_blank"><img src="https://images.toktranscript.com/thumbnails/548b77a4bdc904aeac4b48b5ac752321c84836d1.jpg" alt="Water Vapor Squeezes Fruit Into Pure Juice Instantly" width="320" /></a>
 
 
-> **Creator:** [@sharing.of.good.t887](https://www.tiktok.com/@sharing.of.good.t887) · **Views:** 29.4M · **Posted:** 2026-05-24 · **Niche:** other
+> **Creator:** [@sharing.of.good.t887](https://www.tiktok.com/@sharing.of.good.t887) · **Views:** 29.4M · **Posted:** 2026-05-24 · **Niche:** food
 >
 > **TL;DR:** The hook surprises viewers by claiming water vapor can instantly juice fruit, sparking curiosity.
 
@@ -86,7 +86,8 @@ Unexpectedly There is such a thing Water vapor that can squeeze fruit into juice
 
 ## Browse More
 
-- All [other](../../by-niche/zh-CN/other.md) breakdowns
+- All [food](../../by-niche/zh-CN/food.md) breakdowns
+- All [Unexpected twist](../../by-pattern/zh-CN/hook-unexpected-twist.md) examples
 
 ## Video Info
 
@@ -98,7 +99,8 @@ Unexpectedly There is such a thing Water vapor that can squeeze fruit into juice
 | Views | 29.4M (29400000) |
 | Posted | 2026-05-24 |
 | Duration | 0s |
-| Niche | `other` |
+| Niche | `food` |
+| Hook pattern | `Unexpected twist` |
 | Original language | `zh` |
 | Available languages | en, zh-CN |
 | Generated | 2026-05-24 by [TokTranscript](https://toktranscript.com/) |

@@ -5,7 +5,7 @@
 <a href="https://vt.tiktok.com/ZSxf8nd9h/" target="_blank"><img src="https://images.toktranscript.com/thumbnails/51330de97eb5b1df431bfd2be108f8c09bc54adf.jpg" alt="Part 2: Oxidized Silver and Ruby Story" width="320" /></a>
 
 
-> **Creator:** [@night.clock3](https://www.tiktok.com/@night.clock3) · **Views:** 3.6M · **Posted:** 2026-05-22 · **Niche:** other
+> **Creator:** [@night.clock3](https://www.tiktok.com/@night.clock3) · **Views:** 3.6M · **Posted:** 2026-05-22 · **Niche:** entertainment
 >
 > **TL;DR:** The hook immediately establishes a painful family dynamic through a simple question and a cruel answer.
 
@@ -98,7 +98,8 @@ Mom, why don't you have any photos of me on the refrigerator? Because the photos
 
 ## Browse More
 
-- All [other](../../by-niche/en/other.md) breakdowns
+- All [entertainment](../../by-niche/en/entertainment.md) breakdowns
+- All [Question-Answer Conflict](../../by-pattern/en/hook-question-answer-conflict.md) examples
 
 ## Video Info
 
@@ -110,7 +111,8 @@ Mom, why don't you have any photos of me on the refrigerator? Because the photos
 | Views | 3.6M (3600000) |
 | Posted | 2026-05-22 |
 | Duration | 0s |
-| Niche | `other` |
+| Niche | `entertainment` |
+| Hook pattern | `Question-Answer Conflict` |
 | Original language | `en` |
 | Available languages | en, zh-CN |
 | Generated | 2026-05-24 by [TokTranscript](https://toktranscript.com/) |

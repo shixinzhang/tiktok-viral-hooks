@@ -83,6 +83,7 @@ Your fear of rejection is pure lack of shame. Son of a bitch. You have no sorrow
 ## Browse More
 
 - All [other](../../by-niche/en/other.md) breakdowns
+- All [Confrontational Reframe](../../by-pattern/en/hook-confrontational-reframe.md) examples
 
 ## Video Info
 
@@ -95,6 +96,7 @@ Your fear of rejection is pure lack of shame. Son of a bitch. You have no sorrow
 | Posted | 2026-05-22 |
 | Duration | 0s |
 | Niche | `other` |
+| Hook pattern | `Confrontational Reframe` |
 | Original language | `en` |
 | Available languages | en, zh-CN |
 | Generated | 2026-05-24 by [TokTranscript](https://toktranscript.com/) |

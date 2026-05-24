@@ -88,6 +88,7 @@ I have an apron belly. You do not see it in this dress, you guys. Plus, it has s
 ## Browse More
 
 - All [other](../../by-niche/en/other.md) breakdowns
+- All [Vulnerability + Transformation](../../by-pattern/en/hook-vulnerability-transformation.md) examples
 
 ## Video Info
 
@@ -100,6 +101,7 @@ I have an apron belly. You do not see it in this dress, you guys. Plus, it has s
 | Posted | 2026-05-22 |
 | Duration | 0s |
 | Niche | `other` |
+| Hook pattern | `Vulnerability + Transformation` |
 | Original language | `en` |
 | Available languages | en, zh-CN |
 | Generated | 2026-05-24 by [TokTranscript](https://toktranscript.com/) |

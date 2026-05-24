@@ -35,28 +35,28 @@ Want to tear down your own viral candidate? [Paste a TikTok URL into TokTranscri
 ### By niche
 
 <!-- AUTO_GENERATED_NICHE_START -->
-[Other](./by-niche/en/other.md) (9) · [Entertainment](./by-niche/en/entertainment.md) (1)
+[Other](./by-niche/en/other.md) (4) · [Entertainment](./by-niche/en/entertainment.md) (4) · [Tech](./by-niche/en/tech.md) (1) · [Food](./by-niche/en/food.md) (1)
 <!-- AUTO_GENERATED_NICHE_END -->
 
 ### By hook pattern
 
 <!-- AUTO_GENERATED_PATTERN_START -->
-[Mystery/Curiosity Gap](./by-pattern/en/hook-mystery-curiosity-gap.md) (1)
+[Vulnerability + Transformation](./by-pattern/en/hook-vulnerability-transformation.md) (1) · [Subverted Expectation](./by-pattern/en/hook-subverted-expectation.md) (1) · [Question Answer Surprise](./by-pattern/en/hook-question-answer-surprise.md) (1) · [Confrontational Reframe](./by-pattern/en/hook-confrontational-reframe.md) (1) · [Rhetorical Question](./by-pattern/en/hook-rhetorical-question.md) (1) · [Challenge/Test](./by-pattern/en/hook-challenge-test.md) (1) · [Question Answer Conflict](./by-pattern/en/hook-question-answer-conflict.md) (1) · [Curiosity Gap](./by-pattern/en/hook-curiosity-gap.md) (1) · [Mystery/Curiosity Gap](./by-pattern/en/hook-mystery-curiosity-gap.md) (1) · [Unexpected Twist](./by-pattern/en/hook-unexpected-twist.md) (1)
 <!-- AUTO_GENERATED_PATTERN_END -->
 
 ### Latest
 
 <!-- AUTO_GENERATED_LATEST_START -->
-- [Water Vapor Squeezes Fruit Into Pure Juice Instantly](./breakdowns/en/2026-05/tiktok-transcript-goodthing-tiktok-goodthings-93ee.md) — 29.4M views · 2026-05-24
-- [Is Alina Ross Actually Candy Love](./breakdowns/en/2026-05/tiktok-transcript-is-alina-ross-actually-candy-love-influencer-celebrity-candy-2a7b.md) — 10.1M views · 2026-05-24
+- [Water Vapor Squeezes Fruit Into Pure Juice Instantly](./breakdowns/en/2026-05/tiktok-transcript-goodthing-tiktok-goodthings-93ee.md) — 29.4M views · `Unexpected twist` · 2026-05-24
+- [Is Alina Ross Actually Candy Love](./breakdowns/en/2026-05/tiktok-transcript-is-alina-ross-actually-candy-love-influencer-celebrity-candy-2a7b.md) — 10.1M views · `Rhetorical Question` · 2026-05-24
 - [The Terrifying True Story Behind Wrong Turn](./breakdowns/en/2026-05/tiktok-transcript-the-real-story-behind-wrong-turn-creepy-1900s-storytime-wron-337b.md) — 5.8M views · `Mystery/Curiosity Gap` · 2026-05-24
-- [Dream Dress Hides Apron Belly for Curvy Women](./breakdowns/en/2026-05/tiktok-transcript-dream-dress-for-us-curvy-girls-dress-apronbelly-curvyfashion-ecbc.md) — 5.6M views · 2026-05-22
-- [Part 2: Oxidized Silver and Ruby Story](./breakdowns/en/2026-05/tiktok-transcript-part-2-the-oxidized-sliver-and-the-ruby-story-part-1-fruitst-375f.md) — 3.6M views · 2026-05-22
-- [Today's Advice: Fear of Rejection Is Lack of Shame](./breakdowns/en/2026-05/tiktok-transcript-consejo-de-hoy-5a21.md) — 3.1M views · 2026-05-22
-- [Worm Fights Snail in Epic Garden Battle](./breakdowns/en/2026-05/tiktok-transcript-worm-vs-snail-1781.md) — 2.8M views · 2026-05-23
-- [Tailored Set With High-Waist Pants And Long Vest](./breakdowns/en/2026-05/tiktok-transcript-look-de-milh-es-conjuntofeminino-alfaiataria-elegante-177d.md) — 2.4M views · 2026-05-22
-- [Pocket-Sized Emergency Phone Charger on Shark Tank US](./breakdowns/en/2026-05/tiktok-transcript-sharks-loved-this-tiny-charger-shark-tank-us-5681.md) — 1.4M views · 2026-05-23
-- [Macaroni and Cheese vs Chicken Nuggets: Which Do You Prefer?](./breakdowns/en/2026-05/tiktok-transcript-tu-pr-f-res-macaroni-au-fromage-nuggets-de-poulet-snickers-8840.md) — 1.0M views · 2026-05-23
+- [Dream Dress Hides Apron Belly for Curvy Women](./breakdowns/en/2026-05/tiktok-transcript-dream-dress-for-us-curvy-girls-dress-apronbelly-curvyfashion-ecbc.md) — 5.6M views · `Vulnerability + Transformation` · 2026-05-22
+- [Part 2: Oxidized Silver and Ruby Story](./breakdowns/en/2026-05/tiktok-transcript-part-2-the-oxidized-sliver-and-the-ruby-story-part-1-fruitst-375f.md) — 3.6M views · `Question-Answer Conflict` · 2026-05-22
+- [Today's Advice: Fear of Rejection Is Lack of Shame](./breakdowns/en/2026-05/tiktok-transcript-consejo-de-hoy-5a21.md) — 3.1M views · `Confrontational Reframe` · 2026-05-22
+- [Worm Fights Snail in Epic Garden Battle](./breakdowns/en/2026-05/tiktok-transcript-worm-vs-snail-1781.md) — 2.8M views · `Subverted Expectation` · 2026-05-23
+- [Tailored Set With High-Waist Pants And Long Vest](./breakdowns/en/2026-05/tiktok-transcript-look-de-milh-es-conjuntofeminino-alfaiataria-elegante-177d.md) — 2.4M views · `Curiosity Gap` · 2026-05-22
+- [Pocket-Sized Emergency Phone Charger on Shark Tank US](./breakdowns/en/2026-05/tiktok-transcript-sharks-loved-this-tiny-charger-shark-tank-us-5681.md) — 1.4M views · `Question-Answer Surprise` · 2026-05-23
+- [Macaroni and Cheese vs Chicken Nuggets: Which Do You Prefer?](./breakdowns/en/2026-05/tiktok-transcript-tu-pr-f-res-macaroni-au-fromage-nuggets-de-poulet-snickers-8840.md) — 1.0M views · `Challenge/Test` · 2026-05-23
 <!-- AUTO_GENERATED_LATEST_END -->
 
 ## How these are made

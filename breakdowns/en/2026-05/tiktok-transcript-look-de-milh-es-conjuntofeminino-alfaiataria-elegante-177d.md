@@ -89,6 +89,7 @@ You will not believe. This look here in the millions just went on awind offer. I
 ## Browse More
 
 - All [other](../../by-niche/en/other.md) breakdowns
+- All [Curiosity Gap](../../by-pattern/en/hook-curiosity-gap.md) examples
 
 ## Video Info
 
@@ -101,6 +102,7 @@ You will not believe. This look here in the millions just went on awind offer. I
 | Posted | 2026-05-22 |
 | Duration | 0s |
 | Niche | `other` |
+| Hook pattern | `Curiosity Gap` |
 | Original language | `en` |
 | Available languages | en, zh-CN |
 | Generated | 2026-05-24 by [TokTranscript](https://toktranscript.com/) |

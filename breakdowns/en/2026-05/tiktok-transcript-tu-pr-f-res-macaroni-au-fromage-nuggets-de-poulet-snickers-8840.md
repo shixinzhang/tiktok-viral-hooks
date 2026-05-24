@@ -97,6 +97,7 @@ Let's see if you have good taste, do you prefer good macaroni and cheese or nugg
 ## Browse More
 
 - All [other](../../by-niche/en/other.md) breakdowns
+- All [Challenge/Test](../../by-pattern/en/hook-challenge-test.md) examples
 
 ## Video Info
 
@@ -109,6 +110,7 @@ Let's see if you have good taste, do you prefer good macaroni and cheese or nugg
 | Posted | 2026-05-23 |
 | Duration | 0s |
 | Niche | `other` |
+| Hook pattern | `Challenge/Test` |
 | Original language | `en` |
 | Available languages | en, zh-CN |
 | Generated | 2026-05-24 by [TokTranscript](https://toktranscript.com/) |

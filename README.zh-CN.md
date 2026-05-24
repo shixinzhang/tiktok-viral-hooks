@@ -35,28 +35,28 @@
 ### 按品类
 
 <!-- AUTO_GENERATED_NICHE_START -->
-[Other](./by-niche/zh-CN/other.md) (9) · [Entertainment](./by-niche/zh-CN/entertainment.md) (1)
+[Other](./by-niche/zh-CN/other.md) (4) · [Entertainment](./by-niche/zh-CN/entertainment.md) (4) · [Tech](./by-niche/zh-CN/tech.md) (1) · [Food](./by-niche/zh-CN/food.md) (1)
 <!-- AUTO_GENERATED_NICHE_END -->
 
 ### 按钩子套路
 
 <!-- AUTO_GENERATED_PATTERN_START -->
-[Mystery/Curiosity Gap](./by-pattern/zh-CN/hook-mystery-curiosity-gap.md) (1)
+[Vulnerability + Transformation](./by-pattern/zh-CN/hook-vulnerability-transformation.md) (1) · [Subverted Expectation](./by-pattern/zh-CN/hook-subverted-expectation.md) (1) · [Question Answer Surprise](./by-pattern/zh-CN/hook-question-answer-surprise.md) (1) · [Confrontational Reframe](./by-pattern/zh-CN/hook-confrontational-reframe.md) (1) · [Rhetorical Question](./by-pattern/zh-CN/hook-rhetorical-question.md) (1) · [Challenge/Test](./by-pattern/zh-CN/hook-challenge-test.md) (1) · [Question Answer Conflict](./by-pattern/zh-CN/hook-question-answer-conflict.md) (1) · [Curiosity Gap](./by-pattern/zh-CN/hook-curiosity-gap.md) (1) · [Mystery/Curiosity Gap](./by-pattern/zh-CN/hook-mystery-curiosity-gap.md) (1) · [Unexpected Twist](./by-pattern/zh-CN/hook-unexpected-twist.md) (1)
 <!-- AUTO_GENERATED_PATTERN_END -->
 
 ### 最新拆解
 
 <!-- AUTO_GENERATED_LATEST_START -->
-- [Water Vapor Squeezes Fruit Into Pure Juice Instantly](./breakdowns/zh-CN/2026-05/tiktok-transcript-goodthing-tiktok-goodthings-93ee.md) — 29.4M 次播放 · 2026-05-24
-- [Is Alina Ross Actually Candy Love](./breakdowns/zh-CN/2026-05/tiktok-transcript-is-alina-ross-actually-candy-love-influencer-celebrity-candy-2a7b.md) — 10.1M 次播放 · 2026-05-24
+- [Water Vapor Squeezes Fruit Into Pure Juice Instantly](./breakdowns/zh-CN/2026-05/tiktok-transcript-goodthing-tiktok-goodthings-93ee.md) — 29.4M 次播放 · `Unexpected twist` · 2026-05-24
+- [Is Alina Ross Actually Candy Love](./breakdowns/zh-CN/2026-05/tiktok-transcript-is-alina-ross-actually-candy-love-influencer-celebrity-candy-2a7b.md) — 10.1M 次播放 · `Rhetorical Question` · 2026-05-24
 - [The Terrifying True Story Behind Wrong Turn](./breakdowns/zh-CN/2026-05/tiktok-transcript-the-real-story-behind-wrong-turn-creepy-1900s-storytime-wron-337b.md) — 5.8M 次播放 · `Mystery/Curiosity Gap` · 2026-05-24
-- [Dream Dress Hides Apron Belly for Curvy Women](./breakdowns/zh-CN/2026-05/tiktok-transcript-dream-dress-for-us-curvy-girls-dress-apronbelly-curvyfashion-ecbc.md) — 5.6M 次播放 · 2026-05-22
-- [Part 2: Oxidized Silver and Ruby Story](./breakdowns/zh-CN/2026-05/tiktok-transcript-part-2-the-oxidized-sliver-and-the-ruby-story-part-1-fruitst-375f.md) — 3.6M 次播放 · 2026-05-22
-- [Today's Advice: Fear of Rejection Is Lack of Shame](./breakdowns/zh-CN/2026-05/tiktok-transcript-consejo-de-hoy-5a21.md) — 3.1M 次播放 · 2026-05-22
-- [Worm Fights Snail in Epic Garden Battle](./breakdowns/zh-CN/2026-05/tiktok-transcript-worm-vs-snail-1781.md) — 2.8M 次播放 · 2026-05-23
-- [Tailored Set With High-Waist Pants And Long Vest](./breakdowns/zh-CN/2026-05/tiktok-transcript-look-de-milh-es-conjuntofeminino-alfaiataria-elegante-177d.md) — 2.4M 次播放 · 2026-05-22
-- [Pocket-Sized Emergency Phone Charger on Shark Tank US](./breakdowns/zh-CN/2026-05/tiktok-transcript-sharks-loved-this-tiny-charger-shark-tank-us-5681.md) — 1.4M 次播放 · 2026-05-23
-- [Macaroni and Cheese vs Chicken Nuggets: Which Do You Prefer?](./breakdowns/zh-CN/2026-05/tiktok-transcript-tu-pr-f-res-macaroni-au-fromage-nuggets-de-poulet-snickers-8840.md) — 1.0M 次播放 · 2026-05-23
+- [Dream Dress Hides Apron Belly for Curvy Women](./breakdowns/zh-CN/2026-05/tiktok-transcript-dream-dress-for-us-curvy-girls-dress-apronbelly-curvyfashion-ecbc.md) — 5.6M 次播放 · `Vulnerability + Transformation` · 2026-05-22
+- [Part 2: Oxidized Silver and Ruby Story](./breakdowns/zh-CN/2026-05/tiktok-transcript-part-2-the-oxidized-sliver-and-the-ruby-story-part-1-fruitst-375f.md) — 3.6M 次播放 · `Question-Answer Conflict` · 2026-05-22
+- [Today's Advice: Fear of Rejection Is Lack of Shame](./breakdowns/zh-CN/2026-05/tiktok-transcript-consejo-de-hoy-5a21.md) — 3.1M 次播放 · `Confrontational Reframe` · 2026-05-22
+- [Worm Fights Snail in Epic Garden Battle](./breakdowns/zh-CN/2026-05/tiktok-transcript-worm-vs-snail-1781.md) — 2.8M 次播放 · `Subverted Expectation` · 2026-05-23
+- [Tailored Set With High-Waist Pants And Long Vest](./breakdowns/zh-CN/2026-05/tiktok-transcript-look-de-milh-es-conjuntofeminino-alfaiataria-elegante-177d.md) — 2.4M 次播放 · `Curiosity Gap` · 2026-05-22
+- [Pocket-Sized Emergency Phone Charger on Shark Tank US](./breakdowns/zh-CN/2026-05/tiktok-transcript-sharks-loved-this-tiny-charger-shark-tank-us-5681.md) — 1.4M 次播放 · `Question-Answer Surprise` · 2026-05-23
+- [Macaroni and Cheese vs Chicken Nuggets: Which Do You Prefer?](./breakdowns/zh-CN/2026-05/tiktok-transcript-tu-pr-f-res-macaroni-au-fromage-nuggets-de-poulet-snickers-8840.md) — 1.0M 次播放 · `Challenge/Test` · 2026-05-23
 <!-- AUTO_GENERATED_LATEST_END -->
 
 ## 拆解流程
