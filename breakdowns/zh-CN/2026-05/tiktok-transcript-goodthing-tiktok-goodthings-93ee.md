@@ -14,7 +14,7 @@
 ## Why This Went Viral
 
 ## Hook（前3秒）
-- 开场台词：“没想到还有这种东西，水蒸气一秒就能把水果榨成汁”
+- 开篇台词：“没想到还有这种东西，水蒸气一秒就能把水果榨成汁”
 - 钩子类型：**惊人事实 + 场景反转**（“水蒸气榨汁”打破常识）
 - 为什么让用户停下：用“水蒸气”这个日常元素与“一秒榨汁”的极端效率制造认知冲突，瞬间激发好奇心
 
@@ -100,7 +100,7 @@ Unexpectedly There is such a thing Water vapor that can squeeze fruit into juice
 | Duration | 0s |
 | Niche | `other` |
 | Hook pattern | `unknown` |
-| Original language | `zh` (this page translated by AI) |
+| Original language | `zh` |
 | Available languages | en, zh-CN |
 | Generated | 2026-05-24 by [TokTranscript](https://toktranscript.com/) |
 

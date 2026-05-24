@@ -14,12 +14,12 @@
 ## Why This Went Viral
 
 ## Hook（前3秒）
-- **逐字开场**：“你是把它扔掉，还是可以给它充电？”
+- **逐字开场**：“Do you throw this away or you can recharge this?”
 - **钩子类型**：**对比冲突**（“扔掉” vs “可充电”）
 - **停止滑动的理由**：用一个反常识的二元选择瞬间制造认知冲突——观众第一反应是“充电宝当然可充电”，但画面里是个小塑料块，反差逼人停下来看答案。
 
 ## 情绪节奏
-- **好奇**（0-5秒）：抛出问题，观众想知道答案。
+- **好奇**（0-5秒）：抛问题，观众想知道答案。
 - **惊讶**（5-10秒）：“USB C口”、“能放几年”——信息密度高，连续刷新认知。
 - **认同**（10-20秒）：鲨鱼们说“简单方便”，观众点头。
 - **悬念**（20-35秒）：成本3.65美元 vs 零售12.99-19.99美元——利润空间勾起商业兴趣。
@@ -79,7 +79,7 @@
 
 > 📝 Transcripts on this page are auto-generated and show the first 60%. Want to transcribe any TikTok in 30 seconds and get the full version? [Try TokTranscript free →](https://toktranscript.com/?utm_source=github&utm_medium=breakdown&utm_campaign=transcript_cta)
 
-Do you throw this away or you can recharge this? Yes, ma'am. That's rechargeable with the USB C port where your fingers at. And they'll hold charge for a couple of years on the shelf just like that. A couple of years? Yeah. Interesting. It. It. He created a pocket size emergency phone charger that's ready to use anytime. And the sharks loved how simple and convenient. What's is your idea? This is a convenience. I'm out at 7 11 or something, I need a charger. I didn't bring my charger. I grab it off the shelf. Yeah. Yes, sir. Same problem. What do you charge for it? Uh, they retail for 1299 to 1999. What does it cost you to make one? Three dollars and sixty five c
+Do you throw this away or you can recharge this? Yes, ma'am. That's rechargeable with the USB C port where your fingers at. And they'll hold charge for a couple of years on the shelf just like that. A couple of years? Yeah. Interesting. It. It. He created a pocket size emergency phone charger that's ready to use anytime. And the sharks loved how simple and convenient. What's is your idea? This is a convenience. I'm out at 7 11 or something, I need a charger. I didn't bring my charger. I grab it off the shelf. Yeah. Yes, sir. Same problem. What do you charge for it? Uh, they retail for 1299 to 1999. What does it cost you to make one?
 
 *[Read the full transcript on TokTranscript →](https://toktranscript.com/plaza/tiktok-transcript-sharks-loved-this-tiny-charger-shark-tank-us-5681?utm_source=github&utm_medium=breakdown&utm_campaign=transcript_full)*
 
@@ -99,7 +99,7 @@ Do you throw this away or you can recharge this? Yes, ma'am. That's rechargeable
 | Duration | 0s |
 | Niche | `other` |
 | Hook pattern | `unknown` |
-| Original language | `zh` (this page translated by AI) |
+| Original language | `zh` |
 | Available languages | en, zh-CN |
 | Generated | 2026-05-24 by [TokTranscript](https://toktranscript.com/) |
 

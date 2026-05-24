@@ -411,27 +411,38 @@ def main(argv: list[str] | None = None) -> int:
             print(f"skip {slug}: already published in en+zh-CN", file=sys.stderr)
             continue
 
-        original_language = item.get("language") or "en"
+        original_language = (item.get("language") or "en").lower()
         available_languages = ["en", "zh-CN"]
-        en_body = item.get("viral_breakdown_markdown") or ""
+        source_body = item.get("viral_breakdown_markdown") or ""
 
-        # ----- EN -----
+        def _matches(src: str, tgt: str) -> bool:
+            """src='zh' matches tgt='zh-CN'; src='en' matches tgt='en'."""
+            src = src.lower()
+            tgt = tgt.lower()
+            return src == tgt or tgt.startswith(src + "-") or src.startswith(tgt + "-")
+
+        def _body_for(target_lang: str) -> str:
+            if not source_body:
+                return ""
+            if _matches(original_language, target_lang):
+                return source_body
+            if client is None:
+                return f"（dry-run: would translate to {target_lang}）\n\n{source_body}"
+            try:
+                return client.translate(source_body, target_lang)
+            except Exception as e:
+                print(f"translate({target_lang}) failed for {slug}: {e}", file=sys.stderr)
+                return source_body
+
+        en_body = _body_for("en")
+        zh_body = _body_for("zh-CN")
+
         en_md = _render(env, item, "en", en_body,
-                        translated=(original_language != "en"),
+                        translated=not _matches(original_language, "en"),
                         original_language=original_language,
                         available_languages=available_languages)
-
-        # ----- ZH -----
-        if client is None:
-            zh_body = "（dry-run 模式：未调用 DeepSeek 翻译。生产环境会把上方英文 breakdown 译成中文。）\n\n" + en_body
-        else:
-            try:
-                zh_body = client.translate(en_body, "zh-CN")
-            except Exception as e:
-                print(f"translate failed for {slug}: {e}", file=sys.stderr)
-                zh_body = en_body
         zh_md = _render(env, item, "zh-CN", zh_body,
-                        translated=(original_language != "zh-CN"),
+                        translated=not _matches(original_language, "zh-CN"),
                         original_language=original_language,
                         available_languages=available_languages)
 
