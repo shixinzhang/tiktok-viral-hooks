@@ -1,0 +1,44 @@
+name: Daily Breakdown Publish
+
+on:
+  schedule:
+    - cron: '0 13 * * *'   # 13:00 UTC = 08:00 ET, 21:00 Beijing
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r _scripts/requirements.txt
+
+      - name: Generate breakdowns
+        env:
+          TOKTRANSCRIPT_API_BASE: ${{ secrets.TOKTRANSCRIPT_API_BASE }}
+          INTERNAL_API_KEY: ${{ secrets.INTERNAL_API_KEY }}
+        run: python _scripts/generate_breakdown.py --limit 5
+
+      - name: Update indexes
+        run: python _scripts/update_indexes.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add breakdowns/ by-niche/ by-pattern/ _data/ README*.md
+          git diff --staged --quiet || git commit -m "feat: daily breakdowns $(date -u +%Y-%m-%d)"
+          git push
+
+      - name: IndexNow ping
+        if: success()
+        env:
+          INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
+        run: python _scripts/indexnow_ping.py

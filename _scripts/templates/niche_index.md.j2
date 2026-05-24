@@ -1,0 +1,9 @@
+# {{ niche_title }} Breakdowns
+
+> {{ count }} viral TikTok videos in this niche, with hook analysis and mind maps.
+
+[← Back to README](../../README.md){% if lang != "en" %}.{{ lang }}.md{% endif %}
+
+{% for item in items %}
+- [{{ item.title }}]({{ item.relpath }}) — {{ item.views_formatted }} views · `{{ item.hook_pattern or "unknown" }}` · {{ item.posted_date }}
+{% endfor %}

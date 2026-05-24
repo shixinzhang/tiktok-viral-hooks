@@ -1,0 +1,9 @@
+# Hook Pattern: {{ pattern_title }}
+
+> {{ count }} viral TikTok videos that use this hook pattern.
+
+[← Back to README](../../README.md){% if lang != "en" %}.{{ lang }}.md{% endif %}
+
+{% for item in items %}
+- [{{ item.title }}]({{ item.relpath }}) — {{ item.views_formatted }} views · `{{ item.niche }}` · {{ item.posted_date }}
+{% endfor %}
