@@ -97,10 +97,11 @@ def _collect() -> list[dict]:
 
 
 def _relpath_from_index(item: dict, index_dir: Path) -> str:
-    try:
-        return str(item["path"].relative_to(index_dir.parent.parent)).replace("\\", "/")
-    except ValueError:
-        return "../../" + str(item["path"].relative_to(ROOT)).replace("\\", "/")
+    """Build a markdown link from an aggregation page (e.g. by-niche/en/foo.md)
+    to a breakdown file. Both are absolute; use os.path.relpath so we get
+    the proper number of '..' segments."""
+    import os
+    return os.path.relpath(item["path"], start=index_dir).replace("\\", "/")
 
 
 def _write_aggregations(env: Environment, items: list[dict], group_key: str,

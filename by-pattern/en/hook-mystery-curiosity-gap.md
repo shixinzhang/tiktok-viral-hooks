@@ -5,4 +5,4 @@
 [← Back to README](../../README.md)
 
 
-- [The Terrifying True Story Behind Wrong Turn](breakdowns/en/2026-05/tiktok-transcript-the-real-story-behind-wrong-turn-creepy-1900s-storytime-wron-337b.md) — 5.8M views · `entertainment` · 2026-05-24
+- [The Terrifying True Story Behind Wrong Turn](../../breakdowns/en/2026-05/tiktok-transcript-the-real-story-behind-wrong-turn-creepy-1900s-storytime-wron-337b.md) — 5.8M views · `entertainment` · 2026-05-24
