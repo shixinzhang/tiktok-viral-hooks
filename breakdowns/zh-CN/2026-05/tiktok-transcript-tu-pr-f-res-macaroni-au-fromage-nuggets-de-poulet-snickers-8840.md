@@ -112,7 +112,7 @@ generated_date: 2026-05-24
 
 Let's see if you have good taste, do you prefer good macaroni and cheese or nuggets. Sneakers or twix watermelon or fried chicken? Lose all your money or win ten million euros, but never again. See the second person who appears when you click on 
 
-*[Read the full transcript on TokTranscript →](https://toktranscript.com/p/tiktok-transcript-tu-pr-f-res-macaroni-au-fromage-nuggets-de-poulet-snickers-8840?utm_source=github&utm_medium=breakdown&utm_campaign=transcript_full)*
+*[Read the full transcript on TokTranscript →](https://toktranscript.com/plaza/tiktok-transcript-tu-pr-f-res-macaroni-au-fromage-nuggets-de-poulet-snickers-8840?utm_source=github&utm_medium=breakdown&utm_campaign=transcript_full)*
 
 ## Browse More
 

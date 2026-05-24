@@ -100,7 +100,7 @@ generated_date: 2026-05-24
 
 Do you throw this away or you can recharge this? Yes, ma'am. That's rechargeable with the USB C port where your fingers at. And they'll hold charge for a couple of years on the shelf just like that. A couple of years? Yeah. Interesting. It. It. He created a pocket size emergency phone charger that's ready to use anytime. And the sharks loved how simple and convenient. What's is your idea? This is a convenience. I'm out at 7 11 or something, I need a charger. I didn't bring my charger. I grab it off the shelf. Yeah. Yes, sir. Same problem. What do you charge for it? Uh, they retail for 1299 to 1999. What does it cost you to make one? Three dollars and sixty five c
 
-*[Read the full transcript on TokTranscript →](https://toktranscript.com/p/tiktok-transcript-sharks-loved-this-tiny-charger-shark-tank-us-5681?utm_source=github&utm_medium=breakdown&utm_campaign=transcript_full)*
+*[Read the full transcript on TokTranscript →](https://toktranscript.com/plaza/tiktok-transcript-sharks-loved-this-tiny-charger-shark-tank-us-5681?utm_source=github&utm_medium=breakdown&utm_campaign=transcript_full)*
 
 ## Browse More
 

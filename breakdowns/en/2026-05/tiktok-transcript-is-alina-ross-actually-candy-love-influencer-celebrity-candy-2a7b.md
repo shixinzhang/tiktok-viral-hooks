@@ -107,7 +107,7 @@ generated_date: 2026-05-24
 
 Is Alina Ross actually candy love? If you don't know who Candy Love is, she is currently one of the most popular amateur performers on Orange Page, consistently ranking at the top with millions of followers. Her defining trait is that she never shows her face, but her body is extremely eye catching. Because her identity has always been hidden, it has greatly fueled fans curiosity. Due to the recent Bob House incident, more and more people have started paying attention to Alina Ross. Fans were surprised to find that Alina Ross and Candy Love share striking similarities. Not only do their visible mouths look alike, but their body shapes also closely match what is seen in the videos. On top of that, both of them operate accounts on Blue Page and Orange Page in our adult con
 
-*[Read the full transcript on TokTranscript →](https://toktranscript.com/p/tiktok-transcript-is-alina-ross-actually-candy-love-influencer-celebrity-candy-2a7b?utm_source=github&utm_medium=breakdown&utm_campaign=transcript_full)*
+*[Read the full transcript on TokTranscript →](https://toktranscript.com/plaza/tiktok-transcript-is-alina-ross-actually-candy-love-influencer-celebrity-candy-2a7b?utm_source=github&utm_medium=breakdown&utm_campaign=transcript_full)*
 
 ## Browse More
 

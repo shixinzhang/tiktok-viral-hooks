@@ -101,7 +101,7 @@ generated_date: 2026-05-24
 
 Unexpectedly There is such a thing Water vapor that can squeeze fruit into juice in a second 100% pure juice Health no additions Put the fruit in Easy to press to squeeze out all the juice It is suitable for all kinds of fruits wi
 
-*[Read the full transcript on TokTranscript →](https://toktranscript.com/p/tiktok-transcript-goodthing-tiktok-goodthings-93ee?utm_source=github&utm_medium=breakdown&utm_campaign=transcript_full)*
+*[Read the full transcript on TokTranscript →](https://toktranscript.com/plaza/tiktok-transcript-goodthing-tiktok-goodthings-93ee?utm_source=github&utm_medium=breakdown&utm_campaign=transcript_full)*
 
 ## Browse More
 

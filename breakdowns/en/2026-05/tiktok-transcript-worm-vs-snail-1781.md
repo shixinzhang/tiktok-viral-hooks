@@ -105,7 +105,7 @@ generated_date: 2026-05-24
 
 I'm sorry. I'm not going 
 
-*[Read the full transcript on TokTranscript →](https://toktranscript.com/p/tiktok-transcript-worm-vs-snail-1781?utm_source=github&utm_medium=breakdown&utm_campaign=transcript_full)*
+*[Read the full transcript on TokTranscript →](https://toktranscript.com/plaza/tiktok-transcript-worm-vs-snail-1781?utm_source=github&utm_medium=breakdown&utm_campaign=transcript_full)*
 
 ## Browse More
 
