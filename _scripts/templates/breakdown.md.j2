@@ -30,7 +30,9 @@
 ## Browse More
 
 - All [{{ niche }}](../../by-niche/{{ lang }}/{{ niche_slug }}.md) breakdowns
-- All [{{ hook_pattern or "unknown" }}](../../by-pattern/{{ lang }}/hook-{{ hook_pattern_slug }}.md) examples
+{%- if hook_pattern and hook_pattern_slug %}
+- All [{{ hook_pattern }}](../../by-pattern/{{ lang }}/hook-{{ hook_pattern_slug }}.md) examples
+{%- endif %}
 
 ## Video Info
 
@@ -38,11 +40,14 @@
 |---|---|
 | Creator | [{{ creator }}]({{ creator_url }}) |
 | Original video | [{{ video_url }}]({{ video_url }}) |
+| Original title | {{ raw_title }} |
 | Views | {{ views_formatted }} ({{ views }}) |
 | Posted | {{ posted_date }} |
 | Duration | {{ duration_seconds }}s |
 | Niche | `{{ niche }}` |
-| Hook pattern | `{{ hook_pattern or "unknown" }}` |
+{% if hook_pattern -%}
+| Hook pattern | `{{ hook_pattern }}` |
+{% endif -%}
 | Original language | `{{ original_language }}`{% if translated %} (this page translated by AI){% endif %} |
 | Available languages | {{ available_languages | join(", ") }} |
 | Generated | {{ generated_date }} by [TokTranscript](https://toktranscript.com/) |

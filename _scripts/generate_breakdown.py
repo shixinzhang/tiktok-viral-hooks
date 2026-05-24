@@ -261,6 +261,15 @@ class BackendClient:
         r.raise_for_status()
         return r.json()["data"]
 
+    def rewrite_title(self, title: str, context: str = "") -> str:
+        r = self.client.post(
+            f"{self.base}/api/internal/rewrite-title",
+            headers=self.headers,
+            json={"title": title, "context": context},
+        )
+        r.raise_for_status()
+        return r.json()["data"]["title"]
+
     def translate(self, text: str, target_language: str) -> str:
         r = self.client.post(
             f"{self.base}/api/internal/translate-markdown",
@@ -309,11 +318,23 @@ def _build_context(item: dict, lang: str, breakdown_body: str, translated: bool,
     hook_obj = viral_json.get("hook") or {}
     tldr = hook_obj.get("explanation") or hook_obj.get("verbatim") or "Why this video went viral, in one minute."
 
-    title = item.get("title") or f"Viral breakdown: {slug}"
+    # Title: prefer SEO-rewritten title stashed on the item, fall back to raw.
+    raw_title = item.get("title") or f"Viral breakdown: {slug}"
+    title = item.get("title_seo") or raw_title
     description = (tldr[:155] + "…") if len(tldr) > 158 else tldr
+
+    # Hook pattern: treat "unknown" / empty as None so the template can hide it.
+    hp_raw = (item.get("hook_pattern") or "").strip()
+    if not hp_raw or hp_raw.lower() == "unknown":
+        hook_pattern_display = None
+        hook_pattern_slug = None
+    else:
+        hook_pattern_display = hp_raw
+        hook_pattern_slug = _slugify(hp_raw)
 
     return {
         "title": title,
+        "raw_title": raw_title,
         "description": description,
         "lang": lang,
         "slug": slug,
@@ -328,10 +349,10 @@ def _build_context(item: dict, lang: str, breakdown_body: str, translated: bool,
         "posted_date": (item.get("posted_date") or "")[:10],
         "niche": item.get("niche") or "other",
         "niche_slug": _slugify(item.get("niche") or "other"),
-        "hook_pattern": item.get("hook_pattern"),
-        "hook_pattern_slug": _slugify(item.get("hook_pattern") or "unknown"),
+        "hook_pattern": hook_pattern_display,
+        "hook_pattern_slug": hook_pattern_slug,
         "duration_seconds": int(duration or 0),
-        "keywords": [item.get("niche") or "tiktok", "viral", item.get("hook_pattern") or "hook"],
+        "keywords": [item.get("niche") or "tiktok", "viral"] + ([hook_pattern_display] if hook_pattern_display else []),
         "generated_date": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
         "views_formatted": _format_views(item.get("view_count")),
         "tldr": tldr,
@@ -439,6 +460,20 @@ def main(argv: list[str] | None = None) -> int:
         available_languages = ["en", "zh-CN"]
         source_body = item.get("viral_breakdown_markdown") or ""
 
+        # SEO title: reuse cached value from all-videos.json if present, otherwise
+        # ask backend to rewrite. Avoids one LLM call per rerender of an existing slug.
+        cached_seo = (all_videos.get(slug) or {}).get("title_seo")
+        if cached_seo:
+            item["title_seo"] = cached_seo
+        elif client is not None:
+            try:
+                subtitle = item.get("subtitle_json") or {}
+                ctx = (subtitle.get("full_text") if isinstance(subtitle, dict) else "") or ""
+                item["title_seo"] = client.rewrite_title(item.get("title") or slug, ctx[:300])
+            except Exception as e:
+                print(f"rewrite_title failed for {slug}: {e}", file=sys.stderr)
+                item["title_seo"] = item.get("title") or slug
+
         def _matches(src: str, tgt: str) -> bool:
             """src='zh' matches tgt='zh-CN'; src='en' matches tgt='en'."""
             src = src.lower()
@@ -496,6 +531,9 @@ def main(argv: list[str] | None = None) -> int:
                 "posted_date": item.get("posted_date"),
                 "view_count": int(item.get("view_count") or 0),
                 "title": item.get("title") or "",
+                "title_seo": item.get("title_seo") or item.get("title") or "",
+                "thumbnail": item.get("thumbnail") or "",
+                "video_url": item.get("url") or "",
             }
         processed += 1
 

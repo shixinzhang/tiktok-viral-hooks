@@ -1,8 +1,8 @@
-# Worm vs Snail
+# Worm Fights Snail in Epic Garden Battle
 
 > 🌐 **Read this in:** **English** · [中文](../../zh-CN/2026-05/tiktok-transcript-worm-vs-snail-1781.md)
 
-<a href="https://vm.tiktok.com/ZNRnfAeBx/" target="_blank"><img src="https://images.toktranscript.com/thumbnails/3a49272544f8c12201dfc4bc12389810b2cd4877.jpg" alt="Worm vs Snail" width="320" /></a>
+<a href="https://vm.tiktok.com/ZNRnfAeBx/" target="_blank"><img src="https://images.toktranscript.com/thumbnails/3a49272544f8c12201dfc4bc12389810b2cd4877.jpg" alt="Worm Fights Snail in Epic Garden Battle" width="320" /></a>
 
 
 > **Creator:** [@nicole.shaine](https://www.tiktok.com/@nicole.shaine) · **Views:** 2.8M · **Posted:** 2026-05-23 · **Niche:** other
@@ -92,7 +92,6 @@ I'm sorry. I'm not going
 ## Browse More
 
 - All [other](../../by-niche/en/other.md) breakdowns
-- All [unknown](../../by-pattern/en/hook-unknown.md) examples
 
 ## Video Info
 
@@ -100,11 +99,11 @@ I'm sorry. I'm not going
 |---|---|
 | Creator | [@nicole.shaine](https://www.tiktok.com/@nicole.shaine) |
 | Original video | [https://vm.tiktok.com/ZNRnfAeBx/](https://vm.tiktok.com/ZNRnfAeBx/) |
+| Original title | Worm vs Snail |
 | Views | 2.8M (2800000) |
 | Posted | 2026-05-23 |
 | Duration | 0s |
 | Niche | `other` |
-| Hook pattern | `unknown` |
 | Original language | `en` |
 | Available languages | en, zh-CN |
 | Generated | 2026-05-24 by [TokTranscript](https://toktranscript.com/) |

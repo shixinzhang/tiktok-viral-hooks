@@ -1,8 +1,8 @@
-# Dream dress for us curvy girls!! #dress #apronbelly #curvyfashion #mi...
+# Dream Dress Hides Apron Belly for Curvy Women
 
 > 🌐 **Read this in:** **English** · [中文](../../zh-CN/2026-05/tiktok-transcript-dream-dress-for-us-curvy-girls-dress-apronbelly-curvyfashion-ecbc.md)
 
-<a href="https://www.tiktok.com/@ashleykmcdonaldd/video/7613961412796353823?is_from_webapp=1&sender_device=pc" target="_blank"><img src="https://images.toktranscript.com/thumbnails/a68fd95fec1d842d02749d2ab0736a7ca43f0cfe.jpg" alt="Dream dress for us curvy girls!! #dress #apronbelly #curvyfashion #mi..." width="320" /></a>
+<a href="https://www.tiktok.com/@ashleykmcdonaldd/video/7613961412796353823?is_from_webapp=1&sender_device=pc" target="_blank"><img src="https://images.toktranscript.com/thumbnails/a68fd95fec1d842d02749d2ab0736a7ca43f0cfe.jpg" alt="Dream Dress Hides Apron Belly for Curvy Women" width="320" /></a>
 
 
 > **Creator:** [@ashleykmcdonaldd](https://www.tiktok.com/@ashleykmcdonaldd) · **Views:** 5.6M · **Posted:** 2026-05-22 · **Niche:** other
@@ -88,7 +88,6 @@ I have an apron belly. You do not see it in this dress, you guys. Plus, it has s
 ## Browse More
 
 - All [other](../../by-niche/en/other.md) breakdowns
-- All [unknown](../../by-pattern/en/hook-unknown.md) examples
 
 ## Video Info
 
@@ -96,11 +95,11 @@ I have an apron belly. You do not see it in this dress, you guys. Plus, it has s
 |---|---|
 | Creator | [@ashleykmcdonaldd](https://www.tiktok.com/@ashleykmcdonaldd) |
 | Original video | [https://www.tiktok.com/@ashleykmcdonaldd/video/7613961412796353823?is_from_webapp=1&sender_device=pc](https://www.tiktok.com/@ashleykmcdonaldd/video/7613961412796353823?is_from_webapp=1&sender_device=pc) |
+| Original title | Dream dress for us curvy girls!! #dress #apronbelly #curvyfashion #mi... |
 | Views | 5.6M (5600000) |
 | Posted | 2026-05-22 |
 | Duration | 0s |
 | Niche | `other` |
-| Hook pattern | `unknown` |
 | Original language | `en` |
 | Available languages | en, zh-CN |
 | Generated | 2026-05-24 by [TokTranscript](https://toktranscript.com/) |

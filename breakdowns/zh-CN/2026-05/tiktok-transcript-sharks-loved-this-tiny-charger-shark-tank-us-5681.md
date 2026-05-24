@@ -1,8 +1,8 @@
-# Sharks Loved This TINY Charger🔥｜ Shark Tank US
+# Pocket-Sized Emergency Phone Charger on Shark Tank US
 
 > 🌐 **Read this in:** [English](../../en/2026-05/tiktok-transcript-sharks-loved-this-tiny-charger-shark-tank-us-5681.md) · **中文**
 
-<a href="https://www.tiktok.com/@brentstephens88/video/7631595223222734110" target="_blank"><img src="https://images.toktranscript.com/thumbnails/9f04dde70c80350749d76188f4c16cd38d9855ea.jpg" alt="Sharks Loved This TINY Charger🔥｜ Shark Tank US" width="320" /></a>
+<a href="https://www.tiktok.com/@brentstephens88/video/7631595223222734110" target="_blank"><img src="https://images.toktranscript.com/thumbnails/9f04dde70c80350749d76188f4c16cd38d9855ea.jpg" alt="Pocket-Sized Emergency Phone Charger on Shark Tank US" width="320" /></a>
 
 
 > **Creator:** [@brentstephens88](https://www.tiktok.com/@brentstephens88) · **Views:** 1.4M · **Posted:** 2026-05-23 · **Niche:** other
@@ -86,7 +86,6 @@ Do you throw this away or you can recharge this? Yes, ma'am. That's rechargeable
 ## Browse More
 
 - All [other](../../by-niche/zh-CN/other.md) breakdowns
-- All [unknown](../../by-pattern/zh-CN/hook-unknown.md) examples
 
 ## Video Info
 
@@ -94,11 +93,11 @@ Do you throw this away or you can recharge this? Yes, ma'am. That's rechargeable
 |---|---|
 | Creator | [@brentstephens88](https://www.tiktok.com/@brentstephens88) |
 | Original video | [https://www.tiktok.com/@brentstephens88/video/7631595223222734110](https://www.tiktok.com/@brentstephens88/video/7631595223222734110) |
+| Original title | Sharks Loved This TINY Charger🔥｜ Shark Tank US |
 | Views | 1.4M (1400000) |
 | Posted | 2026-05-23 |
 | Duration | 0s |
 | Niche | `other` |
-| Hook pattern | `unknown` |
 | Original language | `zh` |
 | Available languages | en, zh-CN |
 | Generated | 2026-05-24 by [TokTranscript](https://toktranscript.com/) |

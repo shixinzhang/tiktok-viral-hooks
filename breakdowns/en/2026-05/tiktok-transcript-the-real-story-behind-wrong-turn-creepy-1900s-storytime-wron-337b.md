@@ -1,8 +1,8 @@
-# the real story behind wrong turn  #creepy #1900s #storytime #wrongturn 
+# The Terrifying True Story Behind Wrong Turn
 
 > 🌐 **Read this in:** **English** · [中文](../../zh-CN/2026-05/tiktok-transcript-the-real-story-behind-wrong-turn-creepy-1900s-storytime-wron-337b.md)
 
-<a href="https://vm.tiktok.com/ZNRn9bLj9/" target="_blank"><img src="https://images.toktranscript.com/thumbnails/c7d83a3041ffdbdf7a3c199ccc5dd7de436f4697.jpg" alt="the real story behind wrong turn  #creepy #1900s #storytime #wrongturn " width="320" /></a>
+<a href="https://vm.tiktok.com/ZNRn9bLj9/" target="_blank"><img src="https://images.toktranscript.com/thumbnails/c7d83a3041ffdbdf7a3c199ccc5dd7de436f4697.jpg" alt="The Terrifying True Story Behind Wrong Turn" width="320" /></a>
 
 
 > **Creator:** [@darkhistorytales1](https://www.tiktok.com/@darkhistorytales1) · **Views:** 5.8M · **Posted:** 2026-05-24 · **Niche:** entertainment
@@ -107,6 +107,7 @@ this is the terrifying story behind Wrong Turn in the 1950s near the quiet town 
 |---|---|
 | Creator | [@darkhistorytales1](https://www.tiktok.com/@darkhistorytales1) |
 | Original video | [https://vm.tiktok.com/ZNRn9bLj9/](https://vm.tiktok.com/ZNRn9bLj9/) |
+| Original title | the real story behind wrong turn  #creepy #1900s #storytime #wrongturn  |
 | Views | 5.8M (5800000) |
 | Posted | 2026-05-24 |
 | Duration | 0s |

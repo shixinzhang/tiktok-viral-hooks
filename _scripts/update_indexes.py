@@ -66,15 +66,28 @@ def _collect() -> list[dict]:
         # Path layout: breakdowns/{lang}/{YYYY-MM}/{slug}.md
         lang = md_path.parts[-3] if len(md_path.parts) >= 3 else "en"
         niche = meta.get("niche") or "other"
-        hook = meta.get("hook_pattern") or "unknown"
+        hook_raw = (meta.get("hook_pattern") or "").strip()
+        # Treat empty / "unknown" as no pattern so we don't surface a useless tag.
+        if not hook_raw or hook_raw.lower() == "unknown":
+            hook = None
+            hook_slug = None
+        else:
+            hook = hook_raw
+            hook_slug = _slugify(hook_raw)
+        # Title: SEO title preferred, fall back to original.
+        seo_title = (meta.get("title_seo") or "").strip()
+        title = seo_title or meta.get("title") or slug
         items.append({
             "lang": lang,
             "slug": slug,
             "niche": niche,
             "niche_slug": _slugify(niche),
             "hook_pattern": hook,
-            "hook_pattern_slug": _slugify(hook),
-            "title": meta.get("title") or slug,
+            "hook_pattern_slug": hook_slug,
+            "title": title,
+            "raw_title": meta.get("title") or slug,
+            "thumbnail": meta.get("thumbnail") or "",
+            "video_url": meta.get("video_url") or "",
             "views": int(meta.get("view_count") or 0),
             "views_formatted": _format_views(meta.get("view_count")),
             "posted_date": str(meta.get("posted_date") or "")[:10],
@@ -94,12 +107,14 @@ def _write_aggregations(env: Environment, items: list[dict], group_key: str,
                         out_root: Path, template_name: str, title_field: str,
                         path_prefix: str = "") -> None:
     slug_key = f"{group_key}_slug"
-    # (lang, slug) groups all entries that share a normalized key, even if
-    # the human-readable group_key differs slightly across runs.
     grouped: dict[tuple[str, str], list[dict]] = {}
     titles: dict[tuple[str, str], str] = {}
     for it in items:
-        key = it.get(slug_key) or "unknown"
+        key = it.get(slug_key)
+        if not key:
+            # Items without a normalized key (e.g. hook_pattern unknown) don't
+            # generate an aggregation page — they only show in Latest / niche.
+            continue
         gk = (it["lang"], key)
         grouped.setdefault(gk, []).append(it)
         titles.setdefault(gk, it.get(group_key) or key)
@@ -124,10 +139,87 @@ def _write_aggregations(env: Environment, items: list[dict], group_key: str,
         print(f"wrote {out_path.relative_to(ROOT)} ({len(entries)} items)")
 
 
-_LATEST_RE = re.compile(
-    r"(<!-- AUTO_GENERATED_LATEST_START -->)(.*?)(<!-- AUTO_GENERATED_LATEST_END -->)",
-    re.DOTALL,
-)
+def _replace_block(text: str, marker: str, body: str) -> str:
+    pat = re.compile(
+        rf"(<!-- AUTO_GENERATED_{marker}_START -->)(.*?)(<!-- AUTO_GENERATED_{marker}_END -->)",
+        re.DOTALL,
+    )
+    return pat.sub(lambda m: m.group(1) + body + m.group(3), text)
+
+
+def _build_featured_block(lang_items: list[dict], lang: str) -> str:
+    """Top-1 by views, rendered as a 'Today's top breakdown' card."""
+    if not lang_items:
+        return "\n_No breakdown published yet._\n"
+    top = max(lang_items, key=lambda x: int(x["views"] or 0))
+    rel = "./" + str(top["path"].relative_to(ROOT)).replace("\\", "/")
+    label_views = "views" if lang == "en" else "次播放"
+    label_full = "Full breakdown →" if lang == "en" else "完整拆解 →"
+    parts = ["\n"]
+    if top.get("thumbnail") and top.get("video_url"):
+        parts.append(
+            f'<a href="{top["video_url"]}" target="_blank">'
+            f'<img src="{top["thumbnail"]}" alt="{top["title"]}" width="240" align="left" /></a>\n\n'
+        )
+    parts.append(f"**[{top['title']}]({rel})** — {top['views_formatted']} {label_views}\n\n")
+    parts.append(f"[{label_full}]({rel})\n\n")
+    parts.append("<br clear=\"left\" />\n")
+    return "".join(parts)
+
+
+def _build_niche_block(lang_items: list[dict], lang: str) -> str:
+    """Render `[niche-a](...) · [niche-b](...)` with only niches that actually exist."""
+    buckets: dict[str, dict] = {}
+    for it in lang_items:
+        slug = it.get("niche_slug")
+        if not slug:
+            continue
+        b = buckets.setdefault(slug, {"label": it["niche"], "count": 0})
+        b["count"] += 1
+    if not buckets:
+        return "\n_No niches published yet._\n"
+    sep = " · "
+    entries = sorted(buckets.items(), key=lambda kv: -kv[1]["count"])
+    label = lambda x: x.replace("-", " ").title()
+    out = sep.join(
+        f"[{label(b['label'])}](./by-niche/{lang}/{slug}.md) ({b['count']})"
+        for slug, b in entries
+    )
+    return "\n" + out + "\n"
+
+
+def _build_pattern_block(lang_items: list[dict], lang: str) -> str:
+    buckets: dict[str, dict] = {}
+    for it in lang_items:
+        slug = it.get("hook_pattern_slug")
+        if not slug:
+            continue
+        b = buckets.setdefault(slug, {"label": it["hook_pattern"], "count": 0})
+        b["count"] += 1
+    if not buckets:
+        return "\n_Hook patterns will appear here once enough breakdowns are tagged._\n"
+    sep = " · "
+    entries = sorted(buckets.items(), key=lambda kv: -kv[1]["count"])
+    label = lambda x: x.replace("-", " ").title()
+    out = sep.join(
+        f"[{label(b['label'])}](./by-pattern/{lang}/hook-{slug}.md) ({b['count']})"
+        for slug, b in entries
+    )
+    return "\n" + out + "\n"
+
+
+def _build_latest_block(lang_items: list[dict], lang: str = "en") -> str:
+    lang_items = sorted(lang_items, key=lambda x: -int(x["views"] or 0))
+    top = lang_items[:10]
+    if not top:
+        return "\n_No breakdowns published yet._\n"
+    label_views = "views" if lang == "en" else "次播放"
+    lines = []
+    for it in top:
+        rel = "./" + str(it["path"].relative_to(ROOT)).replace("\\", "/")
+        tag = f" · `{it['hook_pattern']}`" if it.get("hook_pattern") else ""
+        lines.append(f"- [{it['title']}]({rel}) — {it['views_formatted']} {label_views}{tag} · {it['posted_date']}")
+    return "\n" + "\n".join(lines) + "\n"
 
 
 def _rewrite_readme(items: list[dict], readme_path: Path, lang: str) -> None:
@@ -135,19 +227,16 @@ def _rewrite_readme(items: list[dict], readme_path: Path, lang: str) -> None:
         return
     text = readme_path.read_text(encoding="utf-8")
     lang_items = [i for i in items if i["lang"] == lang]
-    # Sort by view_count DESC so the highest-performing breakdowns surface
-    # first in the README "Latest" block.
-    lang_items.sort(key=lambda x: -int(x["views"] or 0))
-    top = lang_items[:10]
-    lines = []
-    for it in top:
-        rel = "./" + str(it["path"].relative_to(ROOT)).replace("\\", "/")
-        lines.append(f"- [{it['title']}]({rel}) — {it['views_formatted']} views · `{it['hook_pattern']}` · {it['posted_date']}")
-    body = ("\n" + "\n".join(lines) + "\n") if lines else "\n_No breakdowns published yet._\n"
-    new_text = _LATEST_RE.sub(lambda m: m.group(1) + body + m.group(3), text)
+
+    new_text = text
+    new_text = _replace_block(new_text, "FEATURED", _build_featured_block(lang_items, lang))
+    new_text = _replace_block(new_text, "NICHE", _build_niche_block(lang_items, lang))
+    new_text = _replace_block(new_text, "PATTERN", _build_pattern_block(lang_items, lang))
+    new_text = _replace_block(new_text, "LATEST", _build_latest_block(lang_items, lang))
+
     if new_text != text:
         readme_path.write_text(new_text, encoding="utf-8")
-        print(f"refreshed Latest block in {readme_path.name} ({len(top)} entries)")
+        print(f"refreshed README {readme_path.name} (featured + niche + pattern + latest)")
 
 
 def main() -> int:

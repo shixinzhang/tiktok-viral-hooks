@@ -1,8 +1,8 @@
-# ✨consejo de hoy✨
+# Today's Advice: Fear of Rejection Is Lack of Shame
 
 > 🌐 **Read this in:** **English** · [中文](../../zh-CN/2026-05/tiktok-transcript-consejo-de-hoy-5a21.md)
 
-<a href="https://vt.tiktok.com/ZSxUYptN4/" target="_blank"><img src="https://images.toktranscript.com/thumbnails/06bcf3b434bc7087483e6276412cef96d68090ec.jpg" alt="✨consejo de hoy✨" width="320" /></a>
+<a href="https://vt.tiktok.com/ZSxUYptN4/" target="_blank"><img src="https://images.toktranscript.com/thumbnails/06bcf3b434bc7087483e6276412cef96d68090ec.jpg" alt="Today's Advice: Fear of Rejection Is Lack of Shame" width="320" /></a>
 
 
 > **Creator:** [@locodelaselva504](https://www.tiktok.com/@locodelaselva504) · **Views:** 3.1M · **Posted:** 2026-05-22 · **Niche:** other
@@ -83,7 +83,6 @@ Your fear of rejection is pure lack of shame. Son of a bitch. You have no sorrow
 ## Browse More
 
 - All [other](../../by-niche/en/other.md) breakdowns
-- All [unknown](../../by-pattern/en/hook-unknown.md) examples
 
 ## Video Info
 
@@ -91,11 +90,11 @@ Your fear of rejection is pure lack of shame. Son of a bitch. You have no sorrow
 |---|---|
 | Creator | [@locodelaselva504](https://www.tiktok.com/@locodelaselva504) |
 | Original video | [https://vt.tiktok.com/ZSxUYptN4/](https://vt.tiktok.com/ZSxUYptN4/) |
+| Original title | ✨consejo de hoy✨ |
 | Views | 3.1M (3100000) |
 | Posted | 2026-05-22 |
 | Duration | 0s |
 | Niche | `other` |
-| Hook pattern | `unknown` |
 | Original language | `en` |
 | Available languages | en, zh-CN |
 | Generated | 2026-05-24 by [TokTranscript](https://toktranscript.com/) |

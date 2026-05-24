@@ -1,8 +1,8 @@
-# Part 2 | The Oxidized sliver and the ruby story Part 1   #fruitstory ...
+# Part 2: Oxidized Silver and Ruby Story
 
 > 🌐 **Read this in:** **English** · [中文](../../zh-CN/2026-05/tiktok-transcript-part-2-the-oxidized-sliver-and-the-ruby-story-part-1-fruitst-375f.md)
 
-<a href="https://vt.tiktok.com/ZSxf8nd9h/" target="_blank"><img src="https://images.toktranscript.com/thumbnails/51330de97eb5b1df431bfd2be108f8c09bc54adf.jpg" alt="Part 2 | The Oxidized sliver and the ruby story Part 1   #fruitstory ..." width="320" /></a>
+<a href="https://vt.tiktok.com/ZSxf8nd9h/" target="_blank"><img src="https://images.toktranscript.com/thumbnails/51330de97eb5b1df431bfd2be108f8c09bc54adf.jpg" alt="Part 2: Oxidized Silver and Ruby Story" width="320" /></a>
 
 
 > **Creator:** [@night.clock3](https://www.tiktok.com/@night.clock3) · **Views:** 3.6M · **Posted:** 2026-05-22 · **Niche:** other
@@ -99,7 +99,6 @@ Mom, why don't you have any photos of me on the refrigerator? Because the photos
 ## Browse More
 
 - All [other](../../by-niche/en/other.md) breakdowns
-- All [unknown](../../by-pattern/en/hook-unknown.md) examples
 
 ## Video Info
 
@@ -107,11 +106,11 @@ Mom, why don't you have any photos of me on the refrigerator? Because the photos
 |---|---|
 | Creator | [@night.clock3](https://www.tiktok.com/@night.clock3) |
 | Original video | [https://vt.tiktok.com/ZSxf8nd9h/](https://vt.tiktok.com/ZSxf8nd9h/) |
+| Original title | Part 2 | The Oxidized sliver and the ruby story Part 1   #fruitstory ... |
 | Views | 3.6M (3600000) |
 | Posted | 2026-05-22 |
 | Duration | 0s |
 | Niche | `other` |
-| Hook pattern | `unknown` |
 | Original language | `en` |
 | Available languages | en, zh-CN |
 | Generated | 2026-05-24 by [TokTranscript](https://toktranscript.com/) |

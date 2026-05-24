@@ -1,8 +1,8 @@
-# Look de milhões ✨✨ #conjuntofeminino #alfaiataria #elegante 
+# Tailored Set With High-Waist Pants And Long Vest
 
 > 🌐 **Read this in:** **English** · [中文](../../zh-CN/2026-05/tiktok-transcript-look-de-milh-es-conjuntofeminino-alfaiataria-elegante-177d.md)
 
-<a href="https://www.tiktok.com/@fabifigueiro_/video/7593764719668792596?is_from_webapp=1&sender_device=pc&web_id=7569766293202830868" target="_blank"><img src="https://images.toktranscript.com/thumbnails/be0d6c3d0ef6e61e0d08e5cd6ec7e0d8be74ac98.jpg" alt="Look de milhões ✨✨ #conjuntofeminino #alfaiataria #elegante " width="320" /></a>
+<a href="https://www.tiktok.com/@fabifigueiro_/video/7593764719668792596?is_from_webapp=1&sender_device=pc&web_id=7569766293202830868" target="_blank"><img src="https://images.toktranscript.com/thumbnails/be0d6c3d0ef6e61e0d08e5cd6ec7e0d8be74ac98.jpg" alt="Tailored Set With High-Waist Pants And Long Vest" width="320" /></a>
 
 
 > **Creator:** [@fabifigueiro_](https://www.tiktok.com/@fabifigueiro_) · **Views:** 2.4M · **Posted:** 2026-05-22 · **Niche:** other
@@ -89,7 +89,6 @@ You will not believe. This look here in the millions just went on awind offer. I
 ## Browse More
 
 - All [other](../../by-niche/en/other.md) breakdowns
-- All [unknown](../../by-pattern/en/hook-unknown.md) examples
 
 ## Video Info
 
@@ -97,11 +96,11 @@ You will not believe. This look here in the millions just went on awind offer. I
 |---|---|
 | Creator | [@fabifigueiro_](https://www.tiktok.com/@fabifigueiro_) |
 | Original video | [https://www.tiktok.com/@fabifigueiro_/video/7593764719668792596?is_from_webapp=1&sender_device=pc&web_id=7569766293202830868](https://www.tiktok.com/@fabifigueiro_/video/7593764719668792596?is_from_webapp=1&sender_device=pc&web_id=7569766293202830868) |
+| Original title | Look de milhões ✨✨ #conjuntofeminino #alfaiataria #elegante  |
 | Views | 2.4M (2400000) |
 | Posted | 2026-05-22 |
 | Duration | 0s |
 | Niche | `other` |
-| Hook pattern | `unknown` |
 | Original language | `en` |
 | Available languages | en, zh-CN |
 | Generated | 2026-05-24 by [TokTranscript](https://toktranscript.com/) |
