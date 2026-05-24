@@ -234,10 +234,10 @@ class BackendClient:
         self.headers = {"X-Internal-Key": key}
         self.client = httpx.Client(timeout=60)
 
-    def recent(self, limit: int):
+    def recent(self, limit: int, since_hours: int = 24, min_views: int = 100_000):
         r = self.client.get(
             f"{self.base}/api/internal/breakdowns/recent",
-            params={"since_hours": 24, "min_views": 100_000, "limit": limit},
+            params={"since_hours": since_hours, "min_views": min_views, "limit": limit},
             headers=self.headers,
         )
         r.raise_for_status()
@@ -358,7 +358,14 @@ def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--dry-run", action="store_true",
                         help="Use built-in fixture, write to stdout, no backend writes")
-    parser.add_argument("--limit", type=int, default=5)
+    parser.add_argument("--limit", type=int, default=5,
+                        help="Target number of NEW breakdowns to publish per run (skipping already-published slugs).")
+    parser.add_argument("--candidate-pool", type=int, default=None,
+                        help="How many candidates to pull from backend before skip-filtering. "
+                             "Defaults to limit * 5 to account for already-published repeats.")
+    parser.add_argument("--since-hours", type=int, default=72,
+                        help="Backend SQL window. Default 72h so the cron catches videos whose "
+                             "viral_breakdown finished generating after a previous run already missed them.")
     parser.add_argument("--rerender-existing", action="store_true",
                         help="Re-fetch every slug in _data/all-videos.json and overwrite the markdown files. "
                              "Used after template / converter changes.")
@@ -395,11 +402,16 @@ def main(argv: list[str] | None = None) -> int:
                     print(f"by_slug failed for {slug}: {e}", file=sys.stderr)
             print(f"rerender-existing: pulled {len(items)} of {len(slugs)} slug(s)", file=sys.stderr)
         else:
-            items = client.recent(args.limit)
-            print(f"fetched {len(items)} candidate(s) from backend", file=sys.stderr)
+            pool = args.candidate_pool or max(args.limit * 5, 20)
+            items = client.recent(pool, since_hours=args.since_hours)
+            print(f"fetched {len(items)} candidate(s) from backend (target publish: {args.limit})",
+                  file=sys.stderr)
 
     processed = 0
     for item in items:
+        if not args.dry_run and not args.rerender_existing and processed >= args.limit:
+            print(f"reached target publish limit ({args.limit}), stopping", file=sys.stderr)
+            break
         slug = item.get("slug")
         if not slug:
             continue
