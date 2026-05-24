@@ -130,8 +130,18 @@ def _outline_to_mermaid(text: str, fallback_root: str = "Mind Map") -> str:
     GitHub renders ```mermaid + mindmap natively. The backend's
     mindmap_markdown is a plain outline; we adapt it here so the
     published page shows an actual visual mind map.
+
+    Safety guard: Mermaid's mindmap renderer chokes on non-ASCII text
+    (Chinese, Thai, emoji, etc.) — it either drops the node or renders
+    boxes. When the outline contains any non-ASCII character we leave
+    it as a markdown outline, which GitHub renders as nested bullets:
+    readable, just not visual.
     """
-    lines = (text or "").splitlines()
+    if not text:
+        return text or ""
+    if not all(ord(c) < 128 for c in text):
+        return text
+    lines = text.splitlines()
     nodes: list[tuple[int, str]] = []
     root_text = fallback_root
     cur_heading_depth = 0
