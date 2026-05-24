@@ -237,7 +237,7 @@ class BackendClient:
     def recent(self, limit: int):
         r = self.client.get(
             f"{self.base}/api/internal/breakdowns/recent",
-            params={"since_hours": 24, "min_views": 1_000_000, "limit": limit},
+            params={"since_hours": 24, "min_views": 100_000, "limit": limit},
             headers=self.headers,
         )
         r.raise_for_status()

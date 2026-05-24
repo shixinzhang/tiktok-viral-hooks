@@ -116,7 +116,9 @@ def _rewrite_readme(items: list[dict], readme_path: Path, lang: str) -> None:
         return
     text = readme_path.read_text(encoding="utf-8")
     lang_items = [i for i in items if i["lang"] == lang]
-    lang_items.sort(key=lambda x: x["posted_date"], reverse=True)
+    # Sort by view_count DESC so the highest-performing breakdowns surface
+    # first in the README "Latest" block.
+    lang_items.sort(key=lambda x: -int(x["views"] or 0))
     top = lang_items[:10]
     lines = []
     for it in top:
