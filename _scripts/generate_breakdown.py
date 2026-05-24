@@ -124,6 +124,61 @@ def _save_json(path: Path, data) -> None:
     path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
+def _outline_to_mermaid(text: str, fallback_root: str = "Mind Map") -> str:
+    """Convert a markdown outline (#/##/###/-) to Mermaid mindmap syntax.
+
+    GitHub renders ```mermaid + mindmap natively. The backend's
+    mindmap_markdown is a plain outline; we adapt it here so the
+    published page shows an actual visual mind map.
+    """
+    lines = (text or "").splitlines()
+    nodes: list[tuple[int, str]] = []
+    root_text = fallback_root
+    cur_heading_depth = 0
+
+    for line in lines:
+        stripped = line.rstrip()
+        if not stripped.strip():
+            continue
+        m_h = re.match(r'^(#+)\s+(.+)$', stripped)
+        if m_h:
+            level = len(m_h.group(1))
+            text_part = m_h.group(2).strip()
+            if level == 1:
+                root_text = text_part
+                cur_heading_depth = 0
+                continue
+            depth = level - 1
+            cur_heading_depth = depth
+            nodes.append((depth, text_part))
+            continue
+        m_b = re.match(r'^(\s*)[-*+]\s+(.+)$', line)
+        if m_b:
+            indent_spaces = len(m_b.group(1))
+            bullet_depth = cur_heading_depth + 1 + (indent_spaces // 2)
+            text_part = m_b.group(2).strip()
+            text_part = re.sub(r'\*+', '', text_part)
+            text_part = re.sub(r'`+', '', text_part)
+            nodes.append((bullet_depth, text_part))
+
+    if not nodes:
+        return text or ""
+
+    def _clean(s: str) -> str:
+        s = re.sub(r'[\[\](){}|]', '', s)
+        s = s.replace('"', "'").strip()
+        return s[:80]
+
+    out = ["```mermaid", "mindmap", f"  root(({_clean(root_text)[:60] or 'Mind Map'}))"]
+    for depth, text_part in nodes:
+        clean = _clean(text_part)
+        if not clean:
+            continue
+        out.append("  " * (depth + 1) + clean)
+    out.append("```")
+    return "\n".join(out)
+
+
 def _format_views(n: int) -> str:
     n = int(n or 0)
     if n >= 1_000_000:
@@ -177,6 +232,14 @@ class BackendClient:
         )
         r.raise_for_status()
         return r.json()["data"]["items"]
+
+    def by_slug(self, slug: str):
+        r = self.client.get(
+            f"{self.base}/api/internal/breakdowns/by-slug/{slug}",
+            headers=self.headers,
+        )
+        r.raise_for_status()
+        return r.json()["data"]
 
     def translate(self, text: str, target_language: str) -> str:
         r = self.client.post(
@@ -251,7 +314,11 @@ def _build_context(item: dict, lang: str, breakdown_body: str, translated: bool,
         "views_formatted": _format_views(item.get("view_count")),
         "tldr": tldr,
         "breakdown_body": breakdown_body,
-        "mindmap_markdown": item.get("mindmap_markdown") or "_(no mind map available)_",
+        "thumbnail": item.get("thumbnail") or "",
+        "mindmap_markdown": _outline_to_mermaid(
+            item.get("mindmap_markdown") or "",
+            fallback_root=title[:60] or "Mind Map",
+        ) or "_(no mind map available)_",
         "transcript_first_60_percent": transcript_60 or "_(transcript not available)_",
         "language_switcher": language_switcher,
         "tool_anchor_attribution": pick_anchor(lang, seed=f"{slug}-attrib"),
@@ -282,6 +349,9 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--dry-run", action="store_true",
                         help="Use built-in fixture, write to stdout, no backend writes")
     parser.add_argument("--limit", type=int, default=5)
+    parser.add_argument("--rerender-existing", action="store_true",
+                        help="Re-fetch every slug in _data/all-videos.json and overwrite the markdown files. "
+                             "Used after template / converter changes.")
     args = parser.parse_args(argv)
 
     env = Environment(
@@ -305,8 +375,18 @@ def main(argv: list[str] | None = None) -> int:
                   file=sys.stderr)
             return 2
         client = BackendClient(base, key)
-        items = client.recent(args.limit)
-        print(f"fetched {len(items)} candidate(s) from backend", file=sys.stderr)
+        if args.rerender_existing:
+            slugs = list(all_videos.keys())
+            items = []
+            for slug in slugs:
+                try:
+                    items.append(client.by_slug(slug))
+                except Exception as e:
+                    print(f"by_slug failed for {slug}: {e}", file=sys.stderr)
+            print(f"rerender-existing: pulled {len(items)} of {len(slugs)} slug(s)", file=sys.stderr)
+        else:
+            items = client.recent(args.limit)
+            print(f"fetched {len(items)} candidate(s) from backend", file=sys.stderr)
 
     processed = 0
     for item in items:
@@ -317,7 +397,7 @@ def main(argv: list[str] | None = None) -> int:
             print(f"skip {slug}: takedown", file=sys.stderr)
             continue
         already = set((all_videos.get(slug) or {}).get("languages", []))
-        if {"en", "zh-CN"}.issubset(already) and not args.dry_run:
+        if {"en", "zh-CN"}.issubset(already) and not args.dry_run and not args.rerender_existing:
             print(f"skip {slug}: already published in en+zh-CN", file=sys.stderr)
             continue
 

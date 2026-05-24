@@ -23,6 +23,9 @@ generated_date: {{ generated_date }}
 # {{ title }}
 
 > 🌐 **Read this in:** {{ language_switcher }}
+{% if thumbnail %}
+<a href="{{ video_url }}" target="_blank"><img src="{{ thumbnail }}" alt="{{ title }}" width="320" /></a>
+{% endif %}
 
 > **Creator:** [{{ creator }}]({{ creator_url }}) · **Views:** {{ views_formatted }} · **Posted:** {{ posted_date }} · **Niche:** {{ niche }}
 >
