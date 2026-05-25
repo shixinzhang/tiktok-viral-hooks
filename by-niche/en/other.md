@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 7 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 8 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -18,3 +18,5 @@
 - [I Couldn't Love Anyone After You Left](../../breakdowns/en/2026-05/tiktok-transcript-ak-akash7060-6372.md) — 1.5M views · `Emotional confession` · 2026-05-24
 
 - [Macaroni and Cheese vs Chicken Nuggets: Which Do You Prefer?](../../breakdowns/en/2026-05/tiktok-transcript-tu-pr-f-res-macaroni-au-fromage-nuggets-de-poulet-snickers-8840.md) — 1.0M views · `Challenge/Test` · 2026-05-23
+
+- [Letter to Dad: First Love, First Disappointment](../../breakdowns/en/2026-05/tiktok-transcript-ya-tocaba-uno-as-monlaferte-fpy-desamor-fenmefatale-parati-b1d2.md) — 933.8K views · `Contrasting Emotion` · 2026-05-25
