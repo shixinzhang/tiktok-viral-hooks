@@ -1,9 +1,11 @@
 # entertainment Breakdowns
 
-> 8 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 10 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
+
+- [Night Shift Truck Driver Rules for Surviving Ravens Hollow](../../breakdowns/en/2026-05/tiktok-transcript-could-you-survive-the-road-tiktokhorror-horror-horrortok-cre-5b01.md) — 18.8M views · `Second-person immersive setup` · 2026-05-25
 
 - [Is Alina Ross Actually Candy Love](../../breakdowns/en/2026-05/tiktok-transcript-is-alina-ross-actually-candy-love-influencer-celebrity-candy-2a7b.md) — 10.1M views · `Rhetorical Question` · 2026-05-24
 
@@ -14,6 +16,8 @@
 - [Part 2: Oxidized Silver and Ruby Story](../../breakdowns/en/2026-05/tiktok-transcript-part-2-the-oxidized-sliver-and-the-ruby-story-part-1-fruitst-375f.md) — 3.6M views · `Question-Answer Conflict` · 2026-05-22
 
 - [Worm Fights Snail in Epic Garden Battle](../../breakdowns/en/2026-05/tiktok-transcript-worm-vs-snail-1781.md) — 2.8M views · `Subverted Expectation` · 2026-05-23
+
+- [She Says Save Money Then Asks for Ice Cream](../../breakdowns/en/2026-05/tiktok-transcript-me-dice-que-ahorremos-y-me-sale-con-esto-2664.md) — 2.2M views · `Contrasting setup` · 2026-05-25
 
 - [Paranormal Encounter Horror Story at 3:33 AM](../../breakdowns/en/2026-05/tiktok-transcript-historia-de-terror-de-un-encuentro-paranormal-a-las-3-33-de-36d6.md) — 1.5M views · `Personal anecdote with eerie setting` · 2026-05-24
 
