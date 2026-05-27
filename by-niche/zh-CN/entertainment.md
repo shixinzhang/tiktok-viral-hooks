@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 10 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 13 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -19,8 +19,14 @@
 
 - [She Says Save Money Then Asks for Ice Cream](../../breakdowns/zh-CN/2026-05/tiktok-transcript-me-dice-que-ahorremos-y-me-sale-con-esto-2664.md) — 2.2M views · `Contrasting setup` · 2026-05-25
 
+- [Life Lesson: Flirting With a Married Woman](../../breakdowns/zh-CN/2026-05/tiktok-transcript-trietlynhansinh-af29.md) — 1.7M views · `Contrasting scenario + direct command` · 2026-05-26
+
 - [Paranormal Encounter Horror Story at 3:33 AM](../../breakdowns/zh-CN/2026-05/tiktok-transcript-historia-de-terror-de-un-encuentro-paranormal-a-las-3-33-de-36d6.md) — 1.5M views · `Personal anecdote with eerie setting` · 2026-05-24
 
 - [Subway Hero Stops Harasser Before Job Interview](../../breakdowns/zh-CN/2026-05/tiktok-transcript-movie-foryou-usa-tik-tok-a7d3.md) — 1.4M views · `Immediate tension` · 2026-05-22
 
 - [This Is for All My Baby Girls](../../breakdowns/zh-CN/2026-05/tiktok-transcript-this-is-for-all-my-babygorls-2021tiktok-fyp-targetaudience-9e0a.md) — 1.3M views · `Direct address to a specific audience` · 2026-05-22
+
+- [Virtual Serenade Surprise: What Happened Next](../../breakdowns/zh-CN/2026-05/tiktok-transcript-serenata-virtual-mira-lo-que-pas-amor-duosfreefire-garenafre-ff5e.md) — 1.1M views · `Mystery Setup` · 2026-05-26
+
+- [Human Body Quiz: What Causes Headaches?](../../breakdowns/zh-CN/2026-05/tiktok-transcript-quiz-sur-le-corps-humain-pourtoi-cultureg-quizz-france-corps-64ff.md) — 962.7K views · `Challenge with stakes` · 2026-05-25

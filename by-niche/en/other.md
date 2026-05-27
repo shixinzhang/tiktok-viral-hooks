@@ -1,11 +1,13 @@
 # other Breakdowns
 
-> 11 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 13 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
 
 - [Arafa Night Prayer for Life Change](../../breakdowns/en/2026-05/tiktok-transcript-video-a962.md) — 15.2M views · `Promise of transformation` · 2026-05-25
+
+- [Let Go When Someone Replaces You](../../breakdowns/en/2026-05/tiktok-transcript-deixa-ir-coringa-motiva-o-reflexaododia-videostatus-capcut-8a03.md) — 8.3M views · `conditional cascade` · 2026-05-26
 
 - [Let Him Fully Experience That Decision](../../breakdowns/en/2026-05/tiktok-transcript-baby-let-him-experience-that-decision-fully-nopryorwarning-a115.md) — 6.3M views · `Conditional Challenge` · 2026-05-25
 
@@ -19,9 +21,11 @@
 
 - [Aceh Floods Reach Unimaginable Heights on December 6](../../breakdowns/en/2026-05/tiktok-transcript-6-december-25-aceh-taming-can-not-imagine-this-high-of-the-f-f7b4.md) — 1.7M views · `Question-Answer Mismatch` · 2026-05-24
 
+- [I Couldn't Love Anyone After You Left](../../breakdowns/en/2026-05/tiktok-transcript-ak-akash7060-6372.md) — 1.5M views · `Emotional confession` · 2026-05-24
+
 - [Admitting My Mistake and the Pain I Caused](../../breakdowns/en/2026-05/tiktok-transcript-tiktok-video-7642225034412428552-3d4b.md) — 1.5M views · `Vulnerability & Accountability` · 2026-05-24
 
-- [I Couldn't Love Anyone After You Left](../../breakdowns/en/2026-05/tiktok-transcript-ak-akash7060-6372.md) — 1.5M views · `Emotional confession` · 2026-05-24
+- [3 Reasons Not to Buy the Viral Slushy Cup](../../breakdowns/en/2026-05/tiktok-transcript-n-achetez-pas-ce-gobelet-granita-viral-slushycupfreeze-st-a102.md) — 1.3M views · `Reverse Psychology List` · 2026-05-25
 
 - [Macaroni and Cheese vs Chicken Nuggets: Which Do You Prefer?](../../breakdowns/en/2026-05/tiktok-transcript-tu-pr-f-res-macaroni-au-fromage-nuggets-de-poulet-snickers-8840.md) — 1.0M views · `Challenge/Test` · 2026-05-23
 
