@@ -1,17 +1,25 @@
 # other Breakdowns
 
-> 13 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 17 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
 
+- [A Love That Sees and Chooses Me](../../breakdowns/zh-CN/2026-05/tiktok-transcript-a-public-witness-of-what-heaven-already-knew-7ab7.md) — 26.4M views · `Relatable vulnerability + unexpected twist` · 2026-05-27
+
+- [Sweetest Wedding Vows Made Me Cry While Editing](../../breakdowns/zh-CN/2026-05/tiktok-transcript-i-actually-cried-editing-this-the-sweetest-vows-weddingtikto-6126.md) — 17.9M views · `conditional promise` · 2026-05-27
+
 - [Arafa Night Prayer for Life Change](../../breakdowns/zh-CN/2026-05/tiktok-transcript-video-a962.md) — 15.2M views · `Promise of transformation` · 2026-05-25
+
+- [Sharing My Wedding Vows and Crying Through Them](../../breakdowns/zh-CN/2026-05/tiktok-transcript-i-realized-i-never-shared-my-wedding-vows-and-i-am-the-bigge-5de6.md) — 8.9M views · `Selfish wish twist` · 2026-05-27
 
 - [Let Go When Someone Replaces You](../../breakdowns/zh-CN/2026-05/tiktok-transcript-deixa-ir-coringa-motiva-o-reflexaododia-videostatus-capcut-8a03.md) — 8.3M views · `conditional cascade` · 2026-05-26
 
 - [Let Him Fully Experience That Decision](../../breakdowns/zh-CN/2026-05/tiktok-transcript-baby-let-him-experience-that-decision-fully-nopryorwarning-a115.md) — 6.3M views · `Conditional Challenge` · 2026-05-25
 
 - [Dream Dress Hides Apron Belly for Curvy Women](../../breakdowns/zh-CN/2026-05/tiktok-transcript-dream-dress-for-us-curvy-girls-dress-apronbelly-curvyfashion-ecbc.md) — 5.6M views · `Vulnerability + Transformation` · 2026-05-22
+
+- [Letter to Dad: First Love, First Heartbreak](../../breakdowns/zh-CN/2026-05/tiktok-transcript-ya-tocaba-uno-as-monlaferte-fpy-desamor-fenmefatale-parati-0f8e.md) — 3.4M views · `Contradiction Hook` · 2026-05-28
 
 - [Today's Advice: Fear of Rejection Is Lack of Shame](../../breakdowns/zh-CN/2026-05/tiktok-transcript-consejo-de-hoy-5a21.md) — 3.1M views · `Confrontational Reframe` · 2026-05-22
 
