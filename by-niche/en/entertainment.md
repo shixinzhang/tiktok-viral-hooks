@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 14 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 17 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -11,7 +11,11 @@
 
 - [Girl Plants GPS Tracker on Boyfriend, Finds Him at Hospital](../../breakdowns/en/2026-05/tiktok-transcript-film-movie-foryou-9be2.md) — 8.8M views · `Mystery/Deception Hook` · 2026-05-24
 
+- [Apology for Making Love Hard and Draining](../../breakdowns/en/2026-05/tiktok-transcript-tiktok-video-7502794542438124846-ae88.md) — 7.7M views · `Apology Hook` · 2026-05-28
+
 - [The Terrifying True Story Behind Wrong Turn](../../breakdowns/en/2026-05/tiktok-transcript-the-real-story-behind-wrong-turn-creepy-1900s-storytime-wron-337b.md) — 5.8M views · `Mystery/Curiosity Gap` · 2026-05-24
+
+- [Must-See Space Events of 2026 You Can't Miss](../../breakdowns/en/2026-05/tiktok-transcript-make-sure-you-don-t-miss-them-65f4.md) — 3.7M views · `Time urgency + curiosity gap` · 2026-05-28
 
 - [Part 2: Oxidized Silver and Ruby Story](../../breakdowns/en/2026-05/tiktok-transcript-part-2-the-oxidized-sliver-and-the-ruby-story-part-1-fruitst-375f.md) — 3.6M views · `Question-Answer Conflict` · 2026-05-22
 
@@ -20,6 +24,8 @@
 - [She Says Save Money Then Asks for Ice Cream](../../breakdowns/en/2026-05/tiktok-transcript-me-dice-que-ahorremos-y-me-sale-con-esto-2664.md) — 2.2M views · `Contrasting setup` · 2026-05-25
 
 - [70-Year-Old Indian Grandma's Dating Game Is Strong](../../breakdowns/en/2026-05/tiktok-transcript-she-may-be-70-but-her-dating-game-is-timeless-indian-grandma-6bdc.md) — 2.1M views · `Exaggerated compliment` · 2026-05-27
+
+- [Sharing My Story at Blue Valley Northwest Graduation](../../breakdowns/en/2026-05/tiktok-transcript-dream-come-true-getting-to-share-my-story-in-front-of-people-a9cc.md) — 1.9M views · `Shared anticipation` · 2026-05-27
 
 - [Life Lesson: Flirting With a Married Woman](../../breakdowns/en/2026-05/tiktok-transcript-trietlynhansinh-af29.md) — 1.7M views · `Contrasting scenario + direct command` · 2026-05-26
 

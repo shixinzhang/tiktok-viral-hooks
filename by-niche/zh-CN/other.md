@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 17 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 19 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -19,6 +19,8 @@
 
 - [Dream Dress Hides Apron Belly for Curvy Women](../../breakdowns/zh-CN/2026-05/tiktok-transcript-dream-dress-for-us-curvy-girls-dress-apronbelly-curvyfashion-ecbc.md) — 5.6M views · `Vulnerability + Transformation` · 2026-05-22
 
+- [Artemis Crew Flying Behind the Moon Monday](../../breakdowns/zh-CN/2026-05/tiktok-transcript-don-t-miss-it-8da8.md) — 4.1M views · `Urgency + Promise of Significance` · 2026-05-28
+
 - [Letter to Dad: First Love, First Heartbreak](../../breakdowns/zh-CN/2026-05/tiktok-transcript-ya-tocaba-uno-as-monlaferte-fpy-desamor-fenmefatale-parati-0f8e.md) — 3.4M views · `Contradiction Hook` · 2026-05-28
 
 - [Today's Advice: Fear of Rejection Is Lack of Shame](../../breakdowns/zh-CN/2026-05/tiktok-transcript-consejo-de-hoy-5a21.md) — 3.1M views · `Confrontational Reframe` · 2026-05-22
@@ -26,6 +28,8 @@
 - [Ebola Outbreak Declared Global Health Emergency, US Bans...](../../breakdowns/zh-CN/2026-05/tiktok-transcript-one-thing-after-another-504d.md) — 3.0M views · `Urgent News Alert` · 2026-05-25
 
 - [Tailored Set With High-Waist Pants And Long Vest](../../breakdowns/zh-CN/2026-05/tiktok-transcript-look-de-milh-es-conjuntofeminino-alfaiataria-elegante-177d.md) — 2.4M views · `Curiosity Gap` · 2026-05-22
+
+- [Abelardo De La Espriella's Proposals to Govern Colombia](../../breakdowns/zh-CN/2026-05/tiktok-transcript-estas-son-las-propuestas-de-abelardo-de-la-espriella-para-go-6f8d.md) — 2.4M views · `List of bold proposals` · 2026-05-28
 
 - [Aceh Floods Reach Unimaginable Heights on December 6](../../breakdowns/zh-CN/2026-05/tiktok-transcript-6-december-25-aceh-taming-can-not-imagine-this-high-of-the-f-f7b4.md) — 1.7M views · `Question-Answer Mismatch` · 2026-05-24
 
