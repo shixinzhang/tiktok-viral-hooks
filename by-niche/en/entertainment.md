@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 21 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 22 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -12,6 +12,8 @@
 - [Is Alina Ross Actually Candy Love](../../breakdowns/en/2026-05/tiktok-transcript-is-alina-ross-actually-candy-love-influencer-celebrity-candy-2a7b.md) — 10.1M views · `Rhetorical Question` · 2026-05-24
 
 - [Girl Plants GPS Tracker on Boyfriend, Finds Him at Hospital](../../breakdowns/en/2026-05/tiktok-transcript-film-movie-foryou-9be2.md) — 8.8M views · `Mystery/Deception Hook` · 2026-05-24
+
+- [Angry People Are Often Misunderstood: Honest Souls Speak...](../../breakdowns/en/2026-05/tiktok-transcript-4-6m-views-395k-reactions-loud-fake-reality-truth-emotional-60f7.md) — 7.7M views · `Rhetorical question with emotional framing` · 2026-05-30
 
 - [Apology for Making Love Hard and Draining](../../breakdowns/en/2026-05/tiktok-transcript-tiktok-video-7502794542438124846-ae88.md) — 7.7M views · `Apology Hook` · 2026-05-28
 
