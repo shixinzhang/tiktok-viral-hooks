@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 23 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 26 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -9,9 +9,13 @@
 
 - [The Number One Question I Get Has the Same Answer: AG1](../../breakdowns/en/2026-05/tiktok-transcript-the-number-one-question-i-get-always-has-the-same-answer-i-d-d0f4.md) — 24.3M views · `Curiosity Gap` · 2026-05-29
 
+- [How to Control Your Mood and Stop Reacting to Others](../../breakdowns/en/2026-05/tiktok-transcript-selfworth-peace-relationships-mood-86ca.md) — 22.6M views · `Authority Statement` · 2026-05-31
+
 - [Sweetest Wedding Vows Made Me Cry While Editing](../../breakdowns/en/2026-05/tiktok-transcript-i-actually-cried-editing-this-the-sweetest-vows-weddingtikto-6126.md) — 17.9M views · `conditional promise` · 2026-05-27
 
 - [Arafa Night Prayer for Life Change](../../breakdowns/en/2026-05/tiktok-transcript-video-a962.md) — 15.2M views · `Promise of transformation` · 2026-05-25
+
+- [Choosing Between the Life You Know and the Life You Want...](../../breakdowns/en/2026-05/tiktok-transcript-mindset-relationships-growth-motivation-attitude-a93c.md) — 9.4M views · `Anticipatory dilemma` · 2026-05-31
 
 - [Not Everyone Who Gets Angry Is Bad](../../breakdowns/en/2026-05/tiktok-transcript-984k-views-453k-reactions-trendingreels-reelitfeelit-hindire-eb72.md) — 9.1M views · `Contrasting Assumption` · 2026-05-30
 
@@ -30,6 +34,8 @@
 - [Today's Advice: Fear of Rejection Is Lack of Shame](../../breakdowns/en/2026-05/tiktok-transcript-consejo-de-hoy-5a21.md) — 3.1M views · `Confrontational Reframe` · 2026-05-22
 
 - [Ebola Outbreak Declared Global Health Emergency, US Bans...](../../breakdowns/en/2026-05/tiktok-transcript-one-thing-after-another-504d.md) — 3.0M views · `Urgent News Alert` · 2026-05-25
+
+- [Happy People Encourage, Successful People Support](../../breakdowns/en/2026-05/tiktok-transcript-freedon-growth-earnmoneyonline-entrepreneur-studentloans-3cac.md) — 3.0M views · `contrast list` · 2026-05-31
 
 - [Tailored Set With High-Waist Pants And Long Vest](../../breakdowns/en/2026-05/tiktok-transcript-look-de-milh-es-conjuntofeminino-alfaiataria-elegante-177d.md) — 2.4M views · `Curiosity Gap` · 2026-05-22
 
