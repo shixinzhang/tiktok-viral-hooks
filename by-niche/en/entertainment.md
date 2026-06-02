@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 22 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 23 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -30,6 +30,8 @@
 - [Model Strangers Street Photography After Three Years](../../breakdowns/en/2026-05/tiktok-transcript-i-have-been-working-on-model-strangers-for-almost-three-year-df88.md) — 3.1M views · `Compliment Hook` · 2026-05-29
 
 - [Worm Fights Snail in Epic Garden Battle](../../breakdowns/en/2026-05/tiktok-transcript-worm-vs-snail-1781.md) — 2.8M views · `Subverted Expectation` · 2026-05-23
+
+- [Part 2: Confronting Steven Over the Birthday Lie](../../breakdowns/en/2026-06/tiktok-transcript-part-2-diy-storytime-fyp-foryou-tiktok-2744.md) — 2.5M views · `Betrayal Reveal` · 2026-06-01
 
 - [She Says Save Money Then Asks for Ice Cream](../../breakdowns/en/2026-05/tiktok-transcript-me-dice-que-ahorremos-y-me-sale-con-esto-2664.md) — 2.2M views · `Contrasting setup` · 2026-05-25
 

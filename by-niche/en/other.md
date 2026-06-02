@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 26 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 29 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -14,6 +14,8 @@
 - [Sweetest Wedding Vows Made Me Cry While Editing](../../breakdowns/en/2026-05/tiktok-transcript-i-actually-cried-editing-this-the-sweetest-vows-weddingtikto-6126.md) — 17.9M views · `conditional promise` · 2026-05-27
 
 - [Arafa Night Prayer for Life Change](../../breakdowns/en/2026-05/tiktok-transcript-video-a962.md) — 15.2M views · `Promise of transformation` · 2026-05-25
+
+- [You Are Enough Every Minute of Every Day](../../breakdowns/en/2026-06/tiktok-transcript-you-are-enough-every-minute-of-everyday-remind-yourself-how-3500.md) — 14.2M views · `Direct address + time constraint` · 2026-06-01
 
 - [Choosing Between the Life You Know and the Life You Want...](../../breakdowns/en/2026-05/tiktok-transcript-mindset-relationships-growth-motivation-attitude-a93c.md) — 9.4M views · `Anticipatory dilemma` · 2026-05-31
 
@@ -37,9 +39,13 @@
 
 - [Happy People Encourage, Successful People Support](../../breakdowns/en/2026-05/tiktok-transcript-freedon-growth-earnmoneyonline-entrepreneur-studentloans-3cac.md) — 3.0M views · `contrast list` · 2026-05-31
 
+- [Modern Consciousness Catastrophe Explained](../../breakdowns/en/2026-05/tiktok-transcript-note-this-video-will-lag-if-you-catch-it-early-you-can-downl-5a47.md) — 2.7M views · `Urgent philosophical revelation` · 2026-05-31
+
 - [Tailored Set With High-Waist Pants And Long Vest](../../breakdowns/en/2026-05/tiktok-transcript-look-de-milh-es-conjuntofeminino-alfaiataria-elegante-177d.md) — 2.4M views · `Curiosity Gap` · 2026-05-22
 
 - [Abelardo De La Espriella's Proposals to Govern Colombia](../../breakdowns/en/2026-05/tiktok-transcript-estas-son-las-propuestas-de-abelardo-de-la-espriella-para-go-6f8d.md) — 2.4M views · `List of bold proposals` · 2026-05-28
+
+- [Men Feel Pain But Don't Express It](../../breakdowns/en/2026-06/tiktok-transcript-6-2m-views-297k-reactions-aadmi-quotes-realtionship-podcast-7b6b.md) — 2.3M views · `Contradiction/Revelation` · 2026-06-01
 
 - [Review of Viral Matcha Lake in China](../../breakdowns/en/2026-05/tiktok-transcript-review-h-matcha-si-u-hot-m-ng-x-h-i-th-gi-i-xem-n-cu-i-th-d28f.md) — 1.8M views · `Curiosity Gap` · 2026-05-28
 
