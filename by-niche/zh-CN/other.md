@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 29 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 33 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -17,6 +17,8 @@
 
 - [You Are Enough Every Minute of Every Day](../../breakdowns/zh-CN/2026-06/tiktok-transcript-you-are-enough-every-minute-of-everyday-remind-yourself-how-3500.md) — 14.2M views · `Direct address + time constraint` · 2026-06-01
 
+- [Loving the Sentence About Doing Enough](../../breakdowns/zh-CN/2026-06/tiktok-transcript-just-because-you-could-be-doing-more-doesn-t-mean-you-re-not-88b7.md) — 11.9M views · `Reframe` · 2026-06-02
+
 - [Choosing Between the Life You Know and the Life You Want...](../../breakdowns/zh-CN/2026-05/tiktok-transcript-mindset-relationships-growth-motivation-attitude-a93c.md) — 9.4M views · `Anticipatory dilemma` · 2026-05-31
 
 - [Not Everyone Who Gets Angry Is Bad](../../breakdowns/zh-CN/2026-05/tiktok-transcript-984k-views-453k-reactions-trendingreels-reelitfeelit-hindire-eb72.md) — 9.1M views · `Contrasting Assumption` · 2026-05-30
@@ -24,6 +26,8 @@
 - [Sharing My Wedding Vows and Crying Through Them](../../breakdowns/zh-CN/2026-05/tiktok-transcript-i-realized-i-never-shared-my-wedding-vows-and-i-am-the-bigge-5de6.md) — 8.9M views · `Selfish wish twist` · 2026-05-27
 
 - [Let Go When Someone Replaces You](../../breakdowns/zh-CN/2026-05/tiktok-transcript-deixa-ir-coringa-motiva-o-reflexaododia-videostatus-capcut-8a03.md) — 8.3M views · `conditional cascade` · 2026-05-26
+
+- [The Best Thing I Ever Did Was Stay Quiet](../../breakdowns/zh-CN/2026-06/tiktok-transcript-the-best-i-have-ever-done-is-to-stay-quiet-denzelwashington-89b9.md) — 7.4M views · `Contrarian declaration` · 2026-06-02
 
 - [Let Him Fully Experience That Decision](../../breakdowns/zh-CN/2026-05/tiktok-transcript-baby-let-him-experience-that-decision-fully-nopryorwarning-a115.md) — 6.3M views · `Conditional Challenge` · 2026-05-25
 
@@ -46,6 +50,10 @@
 - [Abelardo De La Espriella's Proposals to Govern Colombia](../../breakdowns/zh-CN/2026-05/tiktok-transcript-estas-son-las-propuestas-de-abelardo-de-la-espriella-para-go-6f8d.md) — 2.4M views · `List of bold proposals` · 2026-05-28
 
 - [Men Feel Pain But Don't Express It](../../breakdowns/zh-CN/2026-06/tiktok-transcript-6-2m-views-297k-reactions-aadmi-quotes-realtionship-podcast-7b6b.md) — 2.3M views · `Contradiction/Revelation` · 2026-06-01
+
+- [Ready Is a Decision, Not a Feeling](../../breakdowns/zh-CN/2026-06/tiktok-transcript-ready-isn-t-a-vibe-it-s-a-choice-healingjourney-chooseyourse-74b5.md) — 1.9M views · `Counterintuitive reframe` · 2026-06-01
+
+- [If Someone Asks What You Did Today, Don't Say It Was Hard](../../breakdowns/zh-CN/2026-06/tiktok-transcript-699k-views-100k-reactions-theek-hai-ashish-bagrecha-c2a0.md) — 1.8M views · `Hypothetical Question + Emotional Contrast` · 2026-06-01
 
 - [Review of Viral Matcha Lake in China](../../breakdowns/zh-CN/2026-05/tiktok-transcript-review-h-matcha-si-u-hot-m-ng-x-h-i-th-gi-i-xem-n-cu-i-th-d28f.md) — 1.8M views · `Curiosity Gap` · 2026-05-28
 
