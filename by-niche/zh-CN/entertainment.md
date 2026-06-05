@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 24 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 25 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -12,6 +12,8 @@
 - [Is Alina Ross Actually Candy Love](../../breakdowns/zh-CN/2026-05/tiktok-transcript-is-alina-ross-actually-candy-love-influencer-celebrity-candy-2a7b.md) — 10.1M views · `Rhetorical Question` · 2026-05-24
 
 - [Girl Plants GPS Tracker on Boyfriend, Finds Him at Hospital](../../breakdowns/zh-CN/2026-05/tiktok-transcript-film-movie-foryou-9be2.md) — 8.8M views · `Mystery/Deception Hook` · 2026-05-24
+
+- [Meeting Cleopatra: A Time Travel Fantasy](../../breakdowns/zh-CN/2026-06/tiktok-transcript-i-will-say-it-would-be-really-cool-to-meet-cleopatra-just-to-1de2.md) — 8.1M views · `Hypothetical Question` · 2026-06-04
 
 - [Angry People Are Often Misunderstood: Honest Souls Speak...](../../breakdowns/zh-CN/2026-05/tiktok-transcript-4-6m-views-395k-reactions-loud-fake-reality-truth-emotional-60f7.md) — 7.7M views · `Rhetorical question with emotional framing` · 2026-05-30
 
