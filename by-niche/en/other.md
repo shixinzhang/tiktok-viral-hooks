@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 39 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 42 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -82,3 +82,9 @@
 - [Letter to Dad: First Love, First Disappointment](../../breakdowns/en/2026-05/tiktok-transcript-ya-tocaba-uno-as-monlaferte-fpy-desamor-fenmefatale-parati-b1d2.md) — 933.8K views · `Contrasting Emotion` · 2026-05-25
 
 - [Forgetting Happens When You Wake Up One Day](../../breakdowns/en/2026-06/tiktok-transcript-dimenticare-perte-fyp-foryoupage-andiamoneiperte-3c46.md) — 711.7K views · `Relatable mundane setup with twist` · 2026-06-04
+
+- [4 Secrets of a Happy Married Life – A Mother’s Advice](../../breakdowns/en/2026-06/tiktok-transcript-802k-views-22k-reactions-4-secrets-of-a-happy-married-life-a-e640.md) — 365.9K views · `List-based curiosity gap` · 2026-06-05
+
+- [Young Girl Walks Into Lake in Dress Without Fear](../../breakdowns/en/2026-06/tiktok-transcript-flim-movie-tvshow-fyp-2dc2.md) — 330.2K views · `Mysterious Action` · 2026-06-05
+
+- [Gratitude Is a Superpower for Your Normal Day](../../breakdowns/en/2026-06/tiktok-transcript-love-the-life-god-gave-you-299b.md) — 322.8K views · `Perspective Shift` · 2026-06-03

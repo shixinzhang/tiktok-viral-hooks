@@ -1,6 +1,6 @@
 # food Breakdowns
 
-> 4 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 5 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -12,3 +12,5 @@
 - [Unlimited Steak and Sides for 90 Minutes in Sydney](../../breakdowns/en/2026-05/tiktok-transcript-unlimited-steak-run-follow-for-best-sydney-guide-get-10-off-a4a9.md) — 1.5M views · `Scarcity + Abundance` · 2026-05-22
 
 - [Story Time: My Cake Business Secret Part 1](../../breakdowns/en/2026-06/tiktok-transcript-story-time-part-1-story-fyp-diy-foryoupage-viral-tiktok-7513.md) — 1.4M views · `Rhetorical question + shocking reveal` · 2026-06-02
+
+- [Beef Burger or Veggie Burger? Food Preference Quiz](../../breakdowns/en/2026-06/tiktok-transcript-tu-pr-f-res-quoi-tupreferes-quiz-tiktokfrance-nourriture-fr-3d22.md) — 481.9K views · `Challenge/Test` · 2026-06-03
