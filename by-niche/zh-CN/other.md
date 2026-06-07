@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 42 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 45 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -18,6 +18,8 @@
 - [You Are Enough Every Minute of Every Day](../../breakdowns/zh-CN/2026-06/tiktok-transcript-you-are-enough-every-minute-of-everyday-remind-yourself-how-3500.md) — 14.2M views · `Direct address + time constraint` · 2026-06-01
 
 - [Loving the Sentence About Doing Enough](../../breakdowns/zh-CN/2026-06/tiktok-transcript-just-because-you-could-be-doing-more-doesn-t-mean-you-re-not-88b7.md) — 11.9M views · `Reframe` · 2026-06-02
+
+- [People Change](../../breakdowns/zh-CN/2026-06/tiktok-transcript-la-gente-cambia-fyp-motivation-sad-farieddieck-fea7.md) — 9.9M views · `Direct accountability` · 2026-06-06
 
 - [Choosing Between the Life You Know and the Life You Want...](../../breakdowns/zh-CN/2026-05/tiktok-transcript-mindset-relationships-growth-motivation-attitude-a93c.md) — 9.4M views · `Anticipatory dilemma` · 2026-05-31
 
@@ -73,11 +75,15 @@
 
 - [Admitting My Mistake and the Pain I Caused](../../breakdowns/zh-CN/2026-05/tiktok-transcript-tiktok-video-7642225034412428552-3d4b.md) — 1.5M views · `Vulnerability & Accountability` · 2026-05-24
 
+- [Lain Edit: You Are Needed by No One in the Real World](../../breakdowns/zh-CN/2026-06/tiktok-transcript-lain-edit-6ec4.md) — 1.5M views · `brutal truth reveal` · 2026-06-06
+
 - [Marriage Is a One-Month Blessing](../../breakdowns/zh-CN/2026-06/tiktok-transcript-fyp-capcut-612d.md) — 1.4M views · `Rhetorical question + absurd premise` · 2026-06-02
 
 - [3 Reasons Not to Buy the Viral Slushy Cup](../../breakdowns/zh-CN/2026-05/tiktok-transcript-n-achetez-pas-ce-gobelet-granita-viral-slushycupfreeze-st-a102.md) — 1.3M views · `Reverse Psychology List` · 2026-05-25
 
 - [Macaroni and Cheese vs Chicken Nuggets: Which Do You Prefer?](../../breakdowns/zh-CN/2026-05/tiktok-transcript-tu-pr-f-res-macaroni-au-fromage-nuggets-de-poulet-snickers-8840.md) — 1.0M views · `Challenge/Test` · 2026-05-23
+
+- [Would You Rather Nuggets or Cookies? Dilemma Quiz](../../breakdowns/zh-CN/2026-06/tiktok-transcript-tu-pr-f-res-ou-tupreferes-wouldyourather-dilemme-question-efc6.md) — 971.1K views · `Challenge + Binary Choice` · 2026-06-06
 
 - [Letter to Dad: First Love, First Disappointment](../../breakdowns/zh-CN/2026-05/tiktok-transcript-ya-tocaba-uno-as-monlaferte-fpy-desamor-fenmefatale-parati-b1d2.md) — 933.8K views · `Contrasting Emotion` · 2026-05-25
 

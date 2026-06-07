@@ -1,6 +1,6 @@
 # food Breakdowns
 
-> 5 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 6 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -14,3 +14,5 @@
 - [Story Time: My Cake Business Secret Part 1](../../breakdowns/en/2026-06/tiktok-transcript-story-time-part-1-story-fyp-diy-foryoupage-viral-tiktok-7513.md) — 1.4M views · `Rhetorical question + shocking reveal` · 2026-06-02
 
 - [Beef Burger or Veggie Burger? Food Preference Quiz](../../breakdowns/en/2026-06/tiktok-transcript-tu-pr-f-res-quoi-tupreferes-quiz-tiktokfrance-nourriture-fr-3d22.md) — 481.9K views · `Challenge/Test` · 2026-06-03
+
+- [Slow French: Cooking Mexican Pancakes the French Way](../../breakdowns/en/2026-06/tiktok-transcript-slow-french-tu-cuisines-avec-moi-comprehensibleinput-frenchc-c3cf.md) — 304.4K views · `Invitation to participate` · 2026-06-04

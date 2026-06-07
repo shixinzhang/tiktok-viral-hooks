@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 25 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 26 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -54,3 +54,5 @@
 - [Virtual Serenade Surprise: What Happened Next](../../breakdowns/en/2026-05/tiktok-transcript-serenata-virtual-mira-lo-que-pas-amor-duosfreefire-garenafre-ff5e.md) — 1.1M views · `Mystery Setup` · 2026-05-26
 
 - [Human Body Quiz: What Causes Headaches?](../../breakdowns/en/2026-05/tiktok-transcript-quiz-sur-le-corps-humain-pourtoi-cultureg-quizz-france-corps-64ff.md) — 962.7K views · `Challenge with stakes` · 2026-05-25
+
+- [Escanor's Fuckdometer Scale: From Virgin Mary to Bonnie Blue](../../breakdowns/en/2026-06/tiktok-transcript-escanor-escanor-sevendeadlysins-7deadlysins-anime-whodecided-579e.md) — 271.6K views · `absurd scale` · 2026-06-06
