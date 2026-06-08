@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 45 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 48 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -89,8 +89,14 @@
 
 - [Forgetting Happens When You Wake Up One Day](../../breakdowns/zh-CN/2026-06/tiktok-transcript-dimenticare-perte-fyp-foryoupage-andiamoneiperte-3c46.md) — 711.7K views · `Relatable mundane setup with twist` · 2026-06-04
 
+- [Peer E Kamil: Only God Remains When All Relationships End](../../breakdowns/zh-CN/2026-06/tiktok-transcript-peer-e-kamil-unfreezemyacount-foryoupage-umerahmednovel-nov-daa4.md) — 367.4K views · `Provocative Statement` · 2026-06-07
+
 - [4 Secrets of a Happy Married Life – A Mother’s Advice](../../breakdowns/zh-CN/2026-06/tiktok-transcript-802k-views-22k-reactions-4-secrets-of-a-happy-married-life-a-e640.md) — 365.9K views · `List-based curiosity gap` · 2026-06-05
+
+- [Customized Necklace Gift With Two-Sided Coin Design](../../breakdowns/zh-CN/2026-06/tiktok-transcript-video-6676.md) — 337.3K views · `Superlative + Specific` · 2026-06-07
 
 - [Young Girl Walks Into Lake in Dress Without Fear](../../breakdowns/zh-CN/2026-06/tiktok-transcript-flim-movie-tvshow-fyp-2dc2.md) — 330.2K views · `Mysterious Action` · 2026-06-05
 
 - [Gratitude Is a Superpower for Your Normal Day](../../breakdowns/zh-CN/2026-06/tiktok-transcript-love-the-life-god-gave-you-299b.md) — 322.8K views · `Perspective Shift` · 2026-06-03
+
+- [How to Make Roblox Thumbnails for Your Game Easily](../../breakdowns/zh-CN/2026-06/tiktok-transcript-how-to-make-roblox-thumbnails-for-your-game-easily-robloxdev-1a53.md) — 124.1K views · `Speed/Result Promise` · 2026-06-07

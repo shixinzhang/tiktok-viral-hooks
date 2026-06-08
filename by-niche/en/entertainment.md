@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 26 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 27 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -8,6 +8,8 @@
 - [Night Shift Truck Driver Rules for Surviving Ravens Hollow](../../breakdowns/en/2026-05/tiktok-transcript-could-you-survive-the-road-tiktokhorror-horror-horrortok-cre-5b01.md) — 18.8M views · `Second-person immersive setup` · 2026-05-25
 
 - [Past Tense of Read Is Read That's Why](../../breakdowns/en/2026-05/tiktok-transcript-the-past-tense-of-read-is-read-that-s-why-english-lol-joe-fe-582f.md) — 15.9M views · `False expectation setup` · 2026-05-29
+
+- [Family Rejects PS5 Then Unexpected Baby Reveal](../../breakdowns/en/2026-06/tiktok-transcript-they-didn-t-want-the-ps5-but-this-happened-fruitstory-fruitd-5173.md) — 13.1M views · `Contrasting absurdity` · 2026-06-07
 
 - [Is Alina Ross Actually Candy Love](../../breakdowns/en/2026-05/tiktok-transcript-is-alina-ross-actually-candy-love-influencer-celebrity-candy-2a7b.md) — 10.1M views · `Rhetorical Question` · 2026-05-24
 
