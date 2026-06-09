@@ -1,9 +1,11 @@
 # entertainment Breakdowns
 
-> 27 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 31 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
+
+- [He Tapped Back: Morse Code With Twin Brother After Accident](../../breakdowns/en/2026-06/tiktok-transcript-he-tapped-back-3danimation-animationart-digitalart-ed-2eee.md) — 50.6M views · `Childhood secret code setup` · 2026-06-08
 
 - [Night Shift Truck Driver Rules for Surviving Ravens Hollow](../../breakdowns/en/2026-05/tiktok-transcript-could-you-survive-the-road-tiktokhorror-horror-horrortok-cre-5b01.md) — 18.8M views · `Second-person immersive setup` · 2026-05-25
 
@@ -31,6 +33,8 @@
 
 - [Bury Me With a Picture of My Sister in My Front Pocket](../../breakdowns/en/2026-05/tiktok-transcript-bury-me-with-a-picture-of-my-sister-in-my-front-pocket-inspo-4ad4.md) — 3.2M views · `Unexpected Reversal` · 2026-05-29
 
+- [The Dancing Plague of 1518 in Strasbourg](../../breakdowns/en/2026-06/tiktok-transcript-the-dancing-plague-fyp-history-dff4.md) — 3.2M views · `Imaginary scenario` · 2026-06-08
+
 - [Model Strangers Street Photography After Three Years](../../breakdowns/en/2026-05/tiktok-transcript-i-have-been-working-on-model-strangers-for-almost-three-year-df88.md) — 3.1M views · `Compliment Hook` · 2026-05-29
 
 - [Worm Fights Snail in Epic Garden Battle](../../breakdowns/en/2026-05/tiktok-transcript-worm-vs-snail-1781.md) — 2.8M views · `Subverted Expectation` · 2026-05-23
@@ -38,6 +42,8 @@
 - [Part 2: Confronting Steven Over the Birthday Lie](../../breakdowns/en/2026-06/tiktok-transcript-part-2-diy-storytime-fyp-foryou-tiktok-2744.md) — 2.5M views · `Betrayal Reveal` · 2026-06-01
 
 - [She Says Save Money Then Asks for Ice Cream](../../breakdowns/en/2026-05/tiktok-transcript-me-dice-que-ahorremos-y-me-sale-con-esto-2664.md) — 2.2M views · `Contrasting setup` · 2026-05-25
+
+- [Rare 1800s Historical Photos: Chestnut Crushing Shoes & More](../../breakdowns/en/2026-06/tiktok-transcript-rare-historical-photos-of-1800-historical-creepy-storytime-f-02cb.md) — 2.2M views · `Curiosity gap with specific oddity` · 2026-06-08
 
 - [70-Year-Old Indian Grandma's Dating Game Is Strong](../../breakdowns/en/2026-05/tiktok-transcript-she-may-be-70-but-her-dating-game-is-timeless-indian-grandma-6bdc.md) — 2.1M views · `Exaggerated compliment` · 2026-05-27
 
@@ -58,3 +64,5 @@
 - [Human Body Quiz: What Causes Headaches?](../../breakdowns/en/2026-05/tiktok-transcript-quiz-sur-le-corps-humain-pourtoi-cultureg-quizz-france-corps-64ff.md) — 962.7K views · `Challenge with stakes` · 2026-05-25
 
 - [Escanor's Fuckdometer Scale: From Virgin Mary to Bonnie Blue](../../breakdowns/en/2026-06/tiktok-transcript-escanor-escanor-sevendeadlysins-7deadlysins-anime-whodecided-579e.md) — 271.6K views · `absurd scale` · 2026-06-06
+
+- [Kratos 6 Rerun: Poseidon Drowned](../../breakdowns/en/2026-06/tiktok-transcript-kratos-6-rerun-kratos-godofwar-gow-godofwarragnarok-godofwar-940b.md) — 109.3K views · `Urgent Call to Action` · 2026-06-06

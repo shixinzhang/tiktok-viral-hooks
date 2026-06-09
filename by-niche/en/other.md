@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 48 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 49 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -12,6 +12,8 @@
 - [How to Control Your Mood and Stop Reacting to Others](../../breakdowns/en/2026-05/tiktok-transcript-selfworth-peace-relationships-mood-86ca.md) — 22.6M views · `Authority Statement` · 2026-05-31
 
 - [Sweetest Wedding Vows Made Me Cry While Editing](../../breakdowns/en/2026-05/tiktok-transcript-i-actually-cried-editing-this-the-sweetest-vows-weddingtikto-6126.md) — 17.9M views · `conditional promise` · 2026-05-27
+
+- [The Chosen Son Part 1: Mother Sent to Gatekeeper House](../../breakdowns/en/2026-06/tiktok-transcript-the-chosen-son-part-1-storytelling-motherandson-storytime-st-376f.md) — 16.5M views · `Shocking Revelation` · 2026-06-08
 
 - [Arafa Night Prayer for Life Change](../../breakdowns/en/2026-05/tiktok-transcript-video-a962.md) — 15.2M views · `Promise of transformation` · 2026-05-25
 
