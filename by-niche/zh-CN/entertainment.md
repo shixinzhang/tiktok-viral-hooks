@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 32 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 33 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -54,6 +54,8 @@
 - [Life Lesson: Flirting With a Married Woman](../../breakdowns/zh-CN/2026-05/tiktok-transcript-trietlynhansinh-af29.md) — 1.7M views · `Contrasting scenario + direct command` · 2026-05-26
 
 - [Paranormal Encounter Horror Story at 3:33 AM](../../breakdowns/zh-CN/2026-05/tiktok-transcript-historia-de-terror-de-un-encuentro-paranormal-a-las-3-33-de-36d6.md) — 1.5M views · `Personal anecdote with eerie setting` · 2026-05-24
+
+- [Jarvis Plots a Course for Rosehill Tennessee](../../breakdowns/zh-CN/2026-06/tiktok-transcript-jarvis-plot-a-course-for-rosehill-tennessee-jarvis-ironman-p-dbf9.md) — 1.5M views · `Call and response` · 2026-06-10
 
 - [Boy's Father Buys Prostitute as His 11th Mom This Year](../../breakdowns/zh-CN/2026-06/tiktok-transcript-tiktok-movie-foryou-fullrecap-fyp-70e8.md) — 1.5M views · `Shocking Reveal` · 2026-06-03
 

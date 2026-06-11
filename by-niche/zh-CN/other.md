@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 49 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 52 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -45,17 +45,17 @@
 
 - [Today's Advice: Fear of Rejection Is Lack of Shame](../../breakdowns/zh-CN/2026-05/tiktok-transcript-consejo-de-hoy-5a21.md) — 3.1M views · `Confrontational Reframe` · 2026-05-22
 
-- [Ebola Outbreak Declared Global Health Emergency, US Bans...](../../breakdowns/zh-CN/2026-05/tiktok-transcript-one-thing-after-another-504d.md) — 3.0M views · `Urgent News Alert` · 2026-05-25
-
 - [Happy People Encourage, Successful People Support](../../breakdowns/zh-CN/2026-05/tiktok-transcript-freedon-growth-earnmoneyonline-entrepreneur-studentloans-3cac.md) — 3.0M views · `contrast list` · 2026-05-31
+
+- [Ebola Outbreak Declared Global Health Emergency, US Bans...](../../breakdowns/zh-CN/2026-05/tiktok-transcript-one-thing-after-another-504d.md) — 3.0M views · `Urgent News Alert` · 2026-05-25
 
 - [Modern Consciousness Catastrophe Explained](../../breakdowns/zh-CN/2026-05/tiktok-transcript-note-this-video-will-lag-if-you-catch-it-early-you-can-downl-5a47.md) — 2.7M views · `Urgent philosophical revelation` · 2026-05-31
 
 - [How Criminals Clean Dirty Money](../../breakdowns/zh-CN/2026-06/tiktok-transcript-how-to-clean-dirty-money-finance-animation-uk-b0d3.md) — 2.6M views · `Rhetorical question + personal stake` · 2026-06-03
 
-- [Tailored Set With High-Waist Pants And Long Vest](../../breakdowns/zh-CN/2026-05/tiktok-transcript-look-de-milh-es-conjuntofeminino-alfaiataria-elegante-177d.md) — 2.4M views · `Curiosity Gap` · 2026-05-22
-
 - [Abelardo De La Espriella's Proposals to Govern Colombia](../../breakdowns/zh-CN/2026-05/tiktok-transcript-estas-son-las-propuestas-de-abelardo-de-la-espriella-para-go-6f8d.md) — 2.4M views · `List of bold proposals` · 2026-05-28
+
+- [Tailored Set With High-Waist Pants And Long Vest](../../breakdowns/zh-CN/2026-05/tiktok-transcript-look-de-milh-es-conjuntofeminino-alfaiataria-elegante-177d.md) — 2.4M views · `Curiosity Gap` · 2026-05-22
 
 - [Men Feel Pain But Don't Express It](../../breakdowns/zh-CN/2026-06/tiktok-transcript-6-2m-views-297k-reactions-aadmi-quotes-realtionship-podcast-7b6b.md) — 2.3M views · `Contradiction/Revelation` · 2026-06-01
 
@@ -73,9 +73,9 @@
 
 - [Boy Shines Shoes Outside Faisal Mosque Islamabad Earns 40...](../../breakdowns/zh-CN/2026-06/tiktok-transcript-creatorsearchinsights-trustgod-faithoverfear-nasirkhan-foryo-271e.md) — 1.6M views · `Character introduction with vivid detail` · 2026-06-04
 
-- [I Couldn't Love Anyone After You Left](../../breakdowns/zh-CN/2026-05/tiktok-transcript-ak-akash7060-6372.md) — 1.5M views · `Emotional confession` · 2026-05-24
-
 - [Admitting My Mistake and the Pain I Caused](../../breakdowns/zh-CN/2026-05/tiktok-transcript-tiktok-video-7642225034412428552-3d4b.md) — 1.5M views · `Vulnerability & Accountability` · 2026-05-24
+
+- [I Couldn't Love Anyone After You Left](../../breakdowns/zh-CN/2026-05/tiktok-transcript-ak-akash7060-6372.md) — 1.5M views · `Emotional confession` · 2026-05-24
 
 - [Lain Edit: You Are Needed by No One in the Real World](../../breakdowns/zh-CN/2026-06/tiktok-transcript-lain-edit-6ec4.md) — 1.5M views · `brutal truth reveal` · 2026-06-06
 
@@ -89,7 +89,13 @@
 
 - [Letter to Dad: First Love, First Disappointment](../../breakdowns/zh-CN/2026-05/tiktok-transcript-ya-tocaba-uno-as-monlaferte-fpy-desamor-fenmefatale-parati-b1d2.md) — 933.8K views · `Contrasting Emotion` · 2026-05-25
 
+- [Join 2 Free Handmade Soap Classes Starting May 26](../../breakdowns/zh-CN/2026-06/tiktok-transcript-nete-a-2-clases-gratuitas-de-jabones-artesanales-en-el-link-d2f7.md) — 887.7K views · `Rhetorical Question + Metaphor` · 2026-06-11
+
 - [Forgetting Happens When You Wake Up One Day](../../breakdowns/zh-CN/2026-06/tiktok-transcript-dimenticare-perte-fyp-foryoupage-andiamoneiperte-3c46.md) — 711.7K views · `Relatable mundane setup with twist` · 2026-06-04
+
+- [The Worst Moment for Independent Store Sellers: Returns](../../breakdowns/zh-CN/2026-06/tiktok-transcript-the-worst-moment-for-independent-store-sellers-warehousing-d-4afa.md) — 569.4K views · `Problem-Agitate` · 2026-06-10
+
+- [Letting Go of Love Without Possession](../../breakdowns/zh-CN/2026-06/tiktok-transcript-you-have-to-let-it-go-not-because-it-didn-t-matter-not-becau-6f93.md) — 370.4K views · `Unexpected twist on a common metaphor` · 2026-06-10
 
 - [Peer E Kamil: Only God Remains When All Relationships End](../../breakdowns/zh-CN/2026-06/tiktok-transcript-peer-e-kamil-unfreezemyacount-foryoupage-umerahmednovel-nov-daa4.md) — 367.4K views · `Provocative Statement` · 2026-06-07
 
