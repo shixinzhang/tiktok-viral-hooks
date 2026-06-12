@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 33 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 37 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -63,9 +63,17 @@
 
 - [This Is for All My Baby Girls](../../breakdowns/zh-CN/2026-05/tiktok-transcript-this-is-for-all-my-babygorls-2021tiktok-fyp-targetaudience-9e0a.md) — 1.3M views · `Direct address to a specific audience` · 2026-05-22
 
+- [Ghost Train of Hiroshima Passes Daily at 8:15 AM](../../breakdowns/zh-CN/2026-06/tiktok-transcript-o-trem-fantasma-de-hiroshima-historias-hiroshima-historiarea-0a42.md) — 1.3M views · `Did you know + specific location + supernatural element` · 2026-06-11
+
 - [Virtual Serenade Surprise: What Happened Next](../../breakdowns/zh-CN/2026-05/tiktok-transcript-serenata-virtual-mira-lo-que-pas-amor-duosfreefire-garenafre-ff5e.md) — 1.1M views · `Mystery Setup` · 2026-05-26
 
 - [Human Body Quiz: What Causes Headaches?](../../breakdowns/zh-CN/2026-05/tiktok-transcript-quiz-sur-le-corps-humain-pourtoi-cultureg-quizz-france-corps-64ff.md) — 962.7K views · `Challenge with stakes` · 2026-05-25
+
+- [The Devil's Bridge: Strange Phenomena in France Since 1994](../../breakdowns/zh-CN/2026-06/tiktok-transcript-horreurtiktok-horreur-histoire-histoirevrai-urbanlegends-fyp-a88e.md) — 804.4K views · `Mystery/Curiosity Gap` · 2026-06-11
+
+- [The Moroccan Killer Zarzour: A Silent Stranger](../../breakdowns/zh-CN/2026-06/tiktok-transcript-le-tueur-marocain-zarzour-horreurtiktok-horreur-histoire-mys-bfe8.md) — 730.5K views · `Rhetorical question with exotic hook` · 2026-06-11
+
+- [Miami's Most Addictive Ice Cream and Its Deadly Secret](../../breakdowns/zh-CN/2026-06/tiktok-transcript-la-glace-la-plus-addictive-de-miami-et-le-secret-mortel-derr-ad03.md) — 570.5K views · `Forbidden Mystery` · 2026-06-11
 
 - [Escanor's Fuckdometer Scale: From Virgin Mary to Bonnie Blue](../../breakdowns/zh-CN/2026-06/tiktok-transcript-escanor-escanor-sevendeadlysins-7deadlysins-anime-whodecided-579e.md) — 271.6K views · `absurd scale` · 2026-06-06
 

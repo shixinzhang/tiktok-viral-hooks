@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 52 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 53 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -82,6 +82,8 @@
 - [Marriage Is a One-Month Blessing](../../breakdowns/en/2026-06/tiktok-transcript-fyp-capcut-612d.md) — 1.4M views · `Rhetorical question + absurd premise` · 2026-06-02
 
 - [3 Reasons Not to Buy the Viral Slushy Cup](../../breakdowns/en/2026-05/tiktok-transcript-n-achetez-pas-ce-gobelet-granita-viral-slushycupfreeze-st-a102.md) — 1.3M views · `Reverse Psychology List` · 2026-05-25
+
+- [Always Remember: You Don't Lose Them, They Lose You](../../breakdowns/en/2026-06/tiktok-transcript-always-remember-when-motivacion-motivacionvideo-motivacionqu-e331.md) — 1.3M views · `Reversal of expectation` · 2026-06-11
 
 - [Macaroni and Cheese vs Chicken Nuggets: Which Do You Prefer?](../../breakdowns/en/2026-05/tiktok-transcript-tu-pr-f-res-macaroni-au-fromage-nuggets-de-poulet-snickers-8840.md) — 1.0M views · `Challenge/Test` · 2026-05-23
 
