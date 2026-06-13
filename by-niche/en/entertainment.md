@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 37 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 38 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -12,6 +12,8 @@
 - [Past Tense of Read Is Read That's Why](../../breakdowns/en/2026-05/tiktok-transcript-the-past-tense-of-read-is-read-that-s-why-english-lol-joe-fe-582f.md) — 15.9M views · `False expectation setup` · 2026-05-29
 
 - [Family Rejects PS5 Then Unexpected Baby Reveal](../../breakdowns/en/2026-06/tiktok-transcript-they-didn-t-want-the-ps5-but-this-happened-fruitstory-fruitd-5173.md) — 13.1M views · `Contrasting absurdity` · 2026-06-07
+
+- [Phonk Bass Boosted Headphone Test](../../breakdowns/en/2026-06/tiktok-transcript-this-song-hedphones-bass-phonk-phonk-music-bassboosted-m-2fc1.md) — 10.6M views · `Repetition for emphasis` · 2026-06-12
 
 - [Is Alina Ross Actually Candy Love](../../breakdowns/en/2026-05/tiktok-transcript-is-alina-ross-actually-candy-love-influencer-celebrity-candy-2a7b.md) — 10.1M views · `Rhetorical Question` · 2026-05-24
 

@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 53 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 56 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -39,6 +39,8 @@
 
 - [Dream Dress Hides Apron Belly for Curvy Women](../../breakdowns/zh-CN/2026-05/tiktok-transcript-dream-dress-for-us-curvy-girls-dress-apronbelly-curvyfashion-ecbc.md) — 5.6M views · `Vulnerability + Transformation` · 2026-05-22
 
+- [Falcon Tortures Itself 150 Days to Be Reborn](../../breakdowns/zh-CN/2026-06/tiktok-transcript-19-150-8621.md) — 4.2M views · `Curiosity gap with specific age` · 2026-06-12
+
 - [Artemis Crew Flying Behind the Moon Monday](../../breakdowns/zh-CN/2026-05/tiktok-transcript-don-t-miss-it-8da8.md) — 4.1M views · `Urgency + Promise of Significance` · 2026-05-28
 
 - [Letter to Dad: First Love, First Heartbreak](../../breakdowns/zh-CN/2026-05/tiktok-transcript-ya-tocaba-uno-as-monlaferte-fpy-desamor-fenmefatale-parati-0f8e.md) — 3.4M views · `Contradiction Hook` · 2026-05-28
@@ -49,6 +51,8 @@
 
 - [Ebola Outbreak Declared Global Health Emergency, US Bans...](../../breakdowns/zh-CN/2026-05/tiktok-transcript-one-thing-after-another-504d.md) — 3.0M views · `Urgent News Alert` · 2026-05-25
 
+- [Practical Life Hacks You've Never Seen Before](../../breakdowns/zh-CN/2026-06/tiktok-transcript-lifehacks-lifetips-learnontiktok-fyp-foryou-0a55.md) — 3.0M views · `Curiosity Gap with Specific Promise` · 2026-06-12
+
 - [Modern Consciousness Catastrophe Explained](../../breakdowns/zh-CN/2026-05/tiktok-transcript-note-this-video-will-lag-if-you-catch-it-early-you-can-downl-5a47.md) — 2.7M views · `Urgent philosophical revelation` · 2026-05-31
 
 - [How Criminals Clean Dirty Money](../../breakdowns/zh-CN/2026-06/tiktok-transcript-how-to-clean-dirty-money-finance-animation-uk-b0d3.md) — 2.6M views · `Rhetorical question + personal stake` · 2026-06-03
@@ -58,6 +62,8 @@
 - [Tailored Set With High-Waist Pants And Long Vest](../../breakdowns/zh-CN/2026-05/tiktok-transcript-look-de-milh-es-conjuntofeminino-alfaiataria-elegante-177d.md) — 2.4M views · `Curiosity Gap` · 2026-05-22
 
 - [Men Feel Pain But Don't Express It](../../breakdowns/zh-CN/2026-06/tiktok-transcript-6-2m-views-297k-reactions-aadmi-quotes-realtionship-podcast-7b6b.md) — 2.3M views · `Contradiction/Revelation` · 2026-06-01
+
+- [5 Clothes Folding Methods You Need to Know](../../breakdowns/zh-CN/2026-06/tiktok-transcript-life-lifetips-fyp-foryou-lifehacks-viral-d22d.md) — 2.1M views · `Challenge/Knowledge Gap` · 2026-06-13
 
 - [Ready Is a Decision, Not a Feeling](../../breakdowns/zh-CN/2026-06/tiktok-transcript-ready-isn-t-a-vibe-it-s-a-choice-healingjourney-chooseyourse-74b5.md) — 1.9M views · `Counterintuitive reframe` · 2026-06-01
 
