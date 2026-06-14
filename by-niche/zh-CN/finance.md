@@ -1,6 +1,6 @@
 # finance Breakdowns
 
-> 8 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 9 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -18,5 +18,7 @@
 - [Wealthy People Don’t Need to Show Off](../../breakdowns/zh-CN/2026-06/tiktok-transcript-you-ever-notice-how-the-loudest-people-in-the-room-are-usual-4cd4.md) — 1.5M views · `Cautionary reversal` · 2026-06-03
 
 - [Top 3 AI Stocks to Buy for the Next Decade](../../breakdowns/zh-CN/2026-06/tiktok-transcript-here-are-the-top-3-a-i-stocks-to-buy-for-the-next-decade-acc-cbda.md) — 1.5M views · `List-based promise with authority` · 2026-06-12
+
+- [3 Best Stocks to Buy for Wealth Building](../../breakdowns/zh-CN/2026-06/tiktok-transcript-the-best-stocks-to-buy-to-get-rich-9632.md) — 1.4M views · `Unexpected twist` · 2026-06-12
 
 - [4 Years of Financial Education in 60 Seconds](../../breakdowns/zh-CN/2026-06/tiktok-transcript-4-a-os-de-educaci-n-financiera-en-60-segundos-finanzas-diner-053f.md) — 745.4K views · `Counterintuitive statement` · 2026-06-06

@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 38 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 39 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -70,6 +70,8 @@
 - [Virtual Serenade Surprise: What Happened Next](../../breakdowns/zh-CN/2026-05/tiktok-transcript-serenata-virtual-mira-lo-que-pas-amor-duosfreefire-garenafre-ff5e.md) — 1.1M views · `Mystery Setup` · 2026-05-26
 
 - [Human Body Quiz: What Causes Headaches?](../../breakdowns/zh-CN/2026-05/tiktok-transcript-quiz-sur-le-corps-humain-pourtoi-cultureg-quizz-france-corps-64ff.md) — 962.7K views · `Challenge with stakes` · 2026-05-25
+
+- [This Player Almost Scored an Own Goal on a Back Pass](../../breakdowns/zh-CN/2026-06/tiktok-transcript-este-jugador-calcul-muy-mal-1-simple-pase-hacia-atr-s-futbol-3dae.md) — 943.7K views · `Miscalculation / Near Own Goal` · 2026-06-13
 
 - [The Devil's Bridge: Strange Phenomena in France Since 1994](../../breakdowns/zh-CN/2026-06/tiktok-transcript-horreurtiktok-horreur-histoire-histoirevrai-urbanlegends-fyp-a88e.md) — 804.4K views · `Mystery/Curiosity Gap` · 2026-06-11
 

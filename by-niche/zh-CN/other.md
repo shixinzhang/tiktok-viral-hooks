@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 56 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 58 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -73,7 +73,11 @@
 
 - [Aceh Floods Reach Unimaginable Heights on December 6](../../breakdowns/zh-CN/2026-05/tiktok-transcript-6-december-25-aceh-taming-can-not-imagine-this-high-of-the-f-f7b4.md) — 1.7M views · `Question-Answer Mismatch` · 2026-05-24
 
+- [Loving Harder While Protecting Self-Respect](../../breakdowns/zh-CN/2026-06/tiktok-transcript-i-can-love-you-harder-than-you-ever-been-loved-motivetion-mo-4a6b.md) — 1.7M views · `Contrast & Paradox` · 2026-06-13
+
 - [Hypothyroidism Pill Check: Levothyroxine Fatigue Fix](../../breakdowns/zh-CN/2026-05/tiktok-transcript-hipotiroidismo-salud-tiroides-medicina-bc00.md) — 1.6M views · `Challenge/Reversal` · 2026-05-28
+
+- [Join My Free Soap-Making Workshop](../../breakdowns/zh-CN/2026-06/tiktok-transcript-nete-a-mi-taller-sin-costo-d-nde-te-ense-ar-a-elaborar-jabon-074f.md) — 1.6M views · `Regret Aversion` · 2026-06-13
 
 - [Tired of Pride Month Rainbows on Grinder](../../breakdowns/zh-CN/2026-06/tiktok-transcript-this-month-brings-me-great-distress-as-you-could-clearly-tel-cb8f.md) — 1.6M views · `Contrarian Complaint` · 2026-06-04
 
