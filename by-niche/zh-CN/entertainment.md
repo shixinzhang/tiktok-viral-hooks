@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 39 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 42 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -25,7 +25,11 @@
 
 - [Apology for Making Love Hard and Draining](../../breakdowns/zh-CN/2026-05/tiktok-transcript-tiktok-video-7502794542438124846-ae88.md) — 7.7M views · `Apology Hook` · 2026-05-28
 
+- [Bold Job Interview Answer: I'm Here to Help You](../../breakdowns/zh-CN/2026-06/tiktok-transcript-the-job-interview-18a7.md) — 7.6M views · `Deflection and Confidence` · 2026-06-14
+
 - [The Terrifying True Story Behind Wrong Turn](../../breakdowns/zh-CN/2026-05/tiktok-transcript-the-real-story-behind-wrong-turn-creepy-1900s-storytime-wron-337b.md) — 5.8M views · `Mystery/Curiosity Gap` · 2026-05-24
+
+- [Best Movie Recaps: Editing & Narrating Top Film Stories](../../breakdowns/zh-CN/2026-06/tiktok-transcript-welcome-to-my-channel-here-i-edit-and-narrating-the-best-mov-e49d.md) — 3.9M views · `Curiosity gap with shocking premise` · 2026-06-14
 
 - [Catfished Team Helps Betsy Expose Elon Musk Affair](../../breakdowns/zh-CN/2026-06/tiktok-transcript-shout-out-to-the-catfished-team-for-helping-betsy-and-for-pu-ef4a.md) — 3.9M views · `Shocking Claim` · 2026-06-09
 
@@ -52,6 +56,8 @@
 - [70-Year-Old Indian Grandma's Dating Game Is Strong](../../breakdowns/zh-CN/2026-05/tiktok-transcript-she-may-be-70-but-her-dating-game-is-timeless-indian-grandma-6bdc.md) — 2.1M views · `Exaggerated compliment` · 2026-05-27
 
 - [Sharing My Story at Blue Valley Northwest Graduation](../../breakdowns/zh-CN/2026-05/tiktok-transcript-dream-come-true-getting-to-share-my-story-in-front-of-people-a9cc.md) — 1.9M views · `Shared anticipation` · 2026-05-27
+
+- [Joachim Predicts 2026 World Cup Winner After 3 Correct Picks](../../breakdowns/zh-CN/2026-06/tiktok-transcript-depuis-3-ans-joachim-pr-dit-les-vainqueurs-de-chaque-coupe-d-5b24.md) — 1.8M views · `Pattern: Prediction Reveal` · 2026-06-14
 
 - [Life Lesson: Flirting With a Married Woman](../../breakdowns/zh-CN/2026-05/tiktok-transcript-trietlynhansinh-af29.md) — 1.7M views · `Contrasting scenario + direct command` · 2026-05-26
 

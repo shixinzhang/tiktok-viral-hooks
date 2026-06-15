@@ -1,9 +1,11 @@
 # other Breakdowns
 
-> 58 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 60 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
+
+- [10-Year-Old Daughter Pregnancy Dilemma](../../breakdowns/en/2026-06/tiktok-transcript-yikessss-ce18.md) — 30.1M views · `Hypothetical Scenario` · 2026-06-14
 
 - [A Love That Sees and Chooses Me](../../breakdowns/en/2026-05/tiktok-transcript-a-public-witness-of-what-heaven-already-knew-7ab7.md) — 26.4M views · `Relatable vulnerability + unexpected twist` · 2026-05-27
 
@@ -52,6 +54,8 @@
 - [Ebola Outbreak Declared Global Health Emergency, US Bans...](../../breakdowns/en/2026-05/tiktok-transcript-one-thing-after-another-504d.md) — 3.0M views · `Urgent News Alert` · 2026-05-25
 
 - [Practical Life Hacks You've Never Seen Before](../../breakdowns/en/2026-06/tiktok-transcript-lifehacks-lifetips-learnontiktok-fyp-foryou-0a55.md) — 3.0M views · `Curiosity Gap with Specific Promise` · 2026-06-12
+
+- [Day Your Mother Dies, O Son of Adam – Sheikh Kishk](../../breakdowns/en/2026-06/tiktok-transcript-video-9e03.md) — 2.9M views · `Repetition with escalation` · 2026-06-14
 
 - [Modern Consciousness Catastrophe Explained](../../breakdowns/en/2026-05/tiktok-transcript-note-this-video-will-lag-if-you-catch-it-early-you-can-downl-5a47.md) — 2.7M views · `Urgent philosophical revelation` · 2026-05-31
 
