@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 60 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 62 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -30,6 +30,8 @@
 - [Not Everyone Who Gets Angry Is Bad](../../breakdowns/zh-CN/2026-05/tiktok-transcript-984k-views-453k-reactions-trendingreels-reelitfeelit-hindire-eb72.md) — 9.1M views · `Contrasting Assumption` · 2026-05-30
 
 - [Sharing My Wedding Vows and Crying Through Them](../../breakdowns/zh-CN/2026-05/tiktok-transcript-i-realized-i-never-shared-my-wedding-vows-and-i-am-the-bigge-5de6.md) — 8.9M views · `Selfish wish twist` · 2026-05-27
+
+- [Teaching Grandfather to Make Handmade Soaps in 2 Classes](../../breakdowns/zh-CN/2026-06/tiktok-transcript-te-ense-o-a-crear-jabones-artesanales-paso-a-paso-en-2-clase-b940.md) — 8.5M views · `Curiosity Gap with Specific Age` · 2026-06-15
 
 - [Let Go When Someone Replaces You](../../breakdowns/zh-CN/2026-05/tiktok-transcript-deixa-ir-coringa-motiva-o-reflexaododia-videostatus-capcut-8a03.md) — 8.3M views · `conditional cascade` · 2026-05-26
 
@@ -98,6 +100,8 @@
 - [3 Reasons Not to Buy the Viral Slushy Cup](../../breakdowns/zh-CN/2026-05/tiktok-transcript-n-achetez-pas-ce-gobelet-granita-viral-slushycupfreeze-st-a102.md) — 1.3M views · `Reverse Psychology List` · 2026-05-25
 
 - [Always Remember: You Don't Lose Them, They Lose You](../../breakdowns/zh-CN/2026-06/tiktok-transcript-always-remember-when-motivacion-motivacionvideo-motivacionqu-e331.md) — 1.3M views · `Reversal of expectation` · 2026-06-11
+
+- [Why You Shouldn't Pee When Waking Up at Night](../../breakdowns/zh-CN/2026-06/tiktok-transcript-waking-up-in-the-middle-of-the-night-and-immediately-getting-e708.md) — 1.2M views · `Contrarian advice` · 2026-06-15
 
 - [Macaroni and Cheese vs Chicken Nuggets: Which Do You Prefer?](../../breakdowns/zh-CN/2026-05/tiktok-transcript-tu-pr-f-res-macaroni-au-fromage-nuggets-de-poulet-snickers-8840.md) — 1.0M views · `Challenge/Test` · 2026-05-23
 
