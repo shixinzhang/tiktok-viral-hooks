@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 62 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 66 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -14,6 +14,8 @@
 - [How to Control Your Mood and Stop Reacting to Others](../../breakdowns/en/2026-05/tiktok-transcript-selfworth-peace-relationships-mood-86ca.md) — 22.6M views · `Authority Statement` · 2026-05-31
 
 - [Sweetest Wedding Vows Made Me Cry While Editing](../../breakdowns/en/2026-05/tiktok-transcript-i-actually-cried-editing-this-the-sweetest-vows-weddingtikto-6126.md) — 17.9M views · `conditional promise` · 2026-05-27
+
+- [33M Views 1.9M Reactions Winwilliam Vergin90 Greeting and...](../../breakdowns/en/2026-06/tiktok-transcript-33m-views-1-9m-reactions-winwilliam-vergin90-vergin90-af36.md) — 17.1M views · `Direct address with immediate action` · 2026-06-16
 
 - [The Chosen Son Part 1: Mother Sent to Gatekeeper House](../../breakdowns/en/2026-06/tiktok-transcript-the-chosen-son-part-1-storytelling-motherandson-storytime-st-376f.md) — 16.5M views · `Shocking Revelation` · 2026-06-08
 
@@ -39,6 +41,8 @@
 
 - [The Best Thing I Ever Did Was Stay Quiet](../../breakdowns/en/2026-06/tiktok-transcript-the-best-i-have-ever-done-is-to-stay-quiet-denzelwashington-89b9.md) — 7.4M views · `Contrarian declaration` · 2026-06-02
 
+- [Polyurethane Foam Spray Insulation Expanding and Solidifying](../../breakdowns/en/2026-06/tiktok-transcript-l-isolation-par-mousse-de-polyur-thane-isolation-polyurethan-fc83.md) — 6.6M views · `Visual Curiosity Gap` · 2026-06-16
+
 - [Let Him Fully Experience That Decision](../../breakdowns/en/2026-05/tiktok-transcript-baby-let-him-experience-that-decision-fully-nopryorwarning-a115.md) — 6.3M views · `Conditional Challenge` · 2026-05-25
 
 - [Dream Dress Hides Apron Belly for Curvy Women](../../breakdowns/en/2026-05/tiktok-transcript-dream-dress-for-us-curvy-girls-dress-apronbelly-curvyfashion-ecbc.md) — 5.6M views · `Vulnerability + Transformation` · 2026-05-22
@@ -48,6 +52,8 @@
 - [Artemis Crew Flying Behind the Moon Monday](../../breakdowns/en/2026-05/tiktok-transcript-don-t-miss-it-8da8.md) — 4.1M views · `Urgency + Promise of Significance` · 2026-05-28
 
 - [Letter to Dad: First Love, First Heartbreak](../../breakdowns/en/2026-05/tiktok-transcript-ya-tocaba-uno-as-monlaferte-fpy-desamor-fenmefatale-parati-0f8e.md) — 3.4M views · `Contradiction Hook` · 2026-05-28
+
+- [Fix Your Juicer Machine, Stop Wasting Money](../../breakdowns/en/2026-06/tiktok-transcript-saraikimonkey-bandar-viraltiktok-ai-42f3.md) — 3.2M views · `Repetitive command with escalating absurdity` · 2026-06-16
 
 - [Today's Advice: Fear of Rejection Is Lack of Shame](../../breakdowns/en/2026-05/tiktok-transcript-consejo-de-hoy-5a21.md) — 3.1M views · `Confrontational Reframe` · 2026-05-22
 
@@ -62,6 +68,8 @@
 - [Modern Consciousness Catastrophe Explained](../../breakdowns/en/2026-05/tiktok-transcript-note-this-video-will-lag-if-you-catch-it-early-you-can-downl-5a47.md) — 2.7M views · `Urgent philosophical revelation` · 2026-05-31
 
 - [How Criminals Clean Dirty Money](../../breakdowns/en/2026-06/tiktok-transcript-how-to-clean-dirty-money-finance-animation-uk-b0d3.md) — 2.6M views · `Rhetorical question + personal stake` · 2026-06-03
+
+- [Happiest Time in a Paper: Teacher Says Hide It](../../breakdowns/en/2026-06/tiktok-transcript-money-monky-viral-video-monky-55f2.md) — 2.5M views · `Rhetorical question with unexpected answer` · 2026-06-16
 
 - [Abelardo De La Espriella's Proposals to Govern Colombia](../../breakdowns/en/2026-05/tiktok-transcript-estas-son-las-propuestas-de-abelardo-de-la-espriella-para-go-6f8d.md) — 2.4M views · `List of bold proposals` · 2026-05-28
 
