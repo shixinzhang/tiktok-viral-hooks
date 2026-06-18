@@ -1,6 +1,6 @@
 # beauty Breakdowns
 
-> 5 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 6 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -10,6 +10,8 @@
 - [Truth About Grace And Glow Deodorant Roll-On](../../breakdowns/en/2026-06/tiktok-transcript-s-th-t-v-l-n-kh-m-i-grace-and-glow-lannach-lankhumui-huongnu-7e00.md) — 1.5M views · `Social proof + curiosity gap` · 2026-06-14
 
 - [Truth About Grace And Glow Deodorant Roll-On](../../breakdowns/en/2026-06/tiktok-transcript-s-th-t-v-l-n-kh-m-i-grace-and-glow-lannach-lankhumui-huongnu-6f75.md) — 1.5M views · `Social proof + curiosity gap` · 2026-06-14
+
+- [Half Wig Summer: 5 Minute Install](../../breakdowns/en/2026-06/tiktok-transcript-it-s-a-half-wig-summer-5-mns-she-s-on-halfwig-hairstyle-body-55d8.md) — 1.0M views · `Surprise Reveal` · 2026-06-17
 
 - [Bracelet Hack to Prevent Twisting When Packing](../../breakdowns/en/2026-05/tiktok-transcript-dan-kongsikan-ini-dengan-rakan-rakan-anda-yang-pasti-akan-m-0475.md) — 960.8K views · `Problem-Agitation` · 2026-05-22
 

@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 66 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 68 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -113,11 +113,15 @@
 
 - [Macaroni and Cheese vs Chicken Nuggets: Which Do You Prefer?](../../breakdowns/zh-CN/2026-05/tiktok-transcript-tu-pr-f-res-macaroni-au-fromage-nuggets-de-poulet-snickers-8840.md) — 1.0M views · `Challenge/Test` · 2026-05-23
 
+- [Indian Buffalo Grooming Before Sale for Better Price](../../breakdowns/zh-CN/2026-06/tiktok-transcript-tiktok-video-7645058607842741536-6fc0.md) — 1.0M views · `Curiosity gap` · 2026-06-15
+
 - [Would You Rather Nuggets or Cookies? Dilemma Quiz](../../breakdowns/zh-CN/2026-06/tiktok-transcript-tu-pr-f-res-ou-tupreferes-wouldyourather-dilemme-question-efc6.md) — 971.1K views · `Challenge + Binary Choice` · 2026-06-06
 
 - [Letter to Dad: First Love, First Disappointment](../../breakdowns/zh-CN/2026-05/tiktok-transcript-ya-tocaba-uno-as-monlaferte-fpy-desamor-fenmefatale-parati-b1d2.md) — 933.8K views · `Contrasting Emotion` · 2026-05-25
 
 - [Join 2 Free Handmade Soap Classes Starting May 26](../../breakdowns/zh-CN/2026-06/tiktok-transcript-nete-a-2-clases-gratuitas-de-jabones-artesanales-en-el-link-d2f7.md) — 887.7K views · `Rhetorical Question + Metaphor` · 2026-06-11
+
+- [College: Is It Entirely Useless for Growth?](../../breakdowns/zh-CN/2026-06/tiktok-transcript-tiktok-video-7594956396702092557-7611.md) — 733.7K views · `Challenge + Question` · 2026-06-17
 
 - [Forgetting Happens When You Wake Up One Day](../../breakdowns/zh-CN/2026-06/tiktok-transcript-dimenticare-perte-fyp-foryoupage-andiamoneiperte-3c46.md) — 711.7K views · `Relatable mundane setup with twist` · 2026-06-04
 
