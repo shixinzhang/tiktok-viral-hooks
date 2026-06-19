@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 68 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 69 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -124,6 +124,8 @@
 - [College: Is It Entirely Useless for Growth?](../../breakdowns/en/2026-06/tiktok-transcript-tiktok-video-7594956396702092557-7611.md) — 733.7K views · `Challenge + Question` · 2026-06-17
 
 - [Forgetting Happens When You Wake Up One Day](../../breakdowns/en/2026-06/tiktok-transcript-dimenticare-perte-fyp-foryoupage-andiamoneiperte-3c46.md) — 711.7K views · `Relatable mundane setup with twist` · 2026-06-04
+
+- [Father Abandons Will and Trust, Chooses Money Over Daughters](../../breakdowns/en/2026-06/tiktok-transcript-video-1e53.md) — 576.6K views · `Moral Responsibility` · 2026-06-18
 
 - [The Worst Moment for Independent Store Sellers: Returns](../../breakdowns/en/2026-06/tiktok-transcript-the-worst-moment-for-independent-store-sellers-warehousing-d-4afa.md) — 569.4K views · `Problem-Agitate` · 2026-06-10
 

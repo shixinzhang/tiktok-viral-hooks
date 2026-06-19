@@ -1,6 +1,6 @@
 # beauty Breakdowns
 
-> 6 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 7 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -8,6 +8,8 @@
 - [Sea Moss Gummies for Glowing Clear Skin](../../breakdowns/zh-CN/2026-05/tiktok-transcript-glowier-clearer-skin-from-gummies-that-won-t-let-you-down-li-6742.md) — 2.5M views · `Contrast & Relatable Regret` · 2026-05-29
 
 - [Truth About Grace And Glow Deodorant Roll-On](../../breakdowns/zh-CN/2026-06/tiktok-transcript-s-th-t-v-l-n-kh-m-i-grace-and-glow-lannach-lankhumui-huongnu-7e00.md) — 1.5M views · `Social proof + curiosity gap` · 2026-06-14
+
+- [Fluffy Half Wig Freeline Hairstyle for Spring Break](../../breakdowns/zh-CN/2026-06/tiktok-transcript-and-if-the-hair-isn-t-this-fluffy-i-don-t-want-it-another-bo-2a37.md) — 1.5M views · `Shared identity + relatable problem` · 2026-06-18
 
 - [Truth About Grace And Glow Deodorant Roll-On](../../breakdowns/zh-CN/2026-06/tiktok-transcript-s-th-t-v-l-n-kh-m-i-grace-and-glow-lannach-lankhumui-huongnu-6f75.md) — 1.5M views · `Social proof + curiosity gap` · 2026-06-14
 

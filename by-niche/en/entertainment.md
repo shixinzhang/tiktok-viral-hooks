@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 44 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 47 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -28,6 +28,8 @@
 - [Bold Job Interview Answer: I'm Here to Help You](../../breakdowns/en/2026-06/tiktok-transcript-the-job-interview-18a7.md) — 7.6M views · `Deflection and Confidence` · 2026-06-14
 
 - [The Terrifying True Story Behind Wrong Turn](../../breakdowns/en/2026-05/tiktok-transcript-the-real-story-behind-wrong-turn-creepy-1900s-storytime-wron-337b.md) — 5.8M views · `Mystery/Curiosity Gap` · 2026-05-24
+
+- [Two Toxic Conflict Patterns That Ruin Loving Couples](../../breakdowns/en/2026-06/tiktok-transcript-even-the-most-loving-couples-can-t-last-if-they-fall-into-th-d3ec.md) — 5.0M views · `Curiosity Gap` · 2026-06-18
 
 - [Best Movie Recaps: Editing & Narrating Top Film Stories](../../breakdowns/en/2026-06/tiktok-transcript-welcome-to-my-channel-here-i-edit-and-narrating-the-best-mov-e49d.md) — 3.9M views · `Curiosity gap with shocking premise` · 2026-06-14
 
@@ -86,6 +88,10 @@
 - [The Devil's Bridge: Strange Phenomena in France Since 1994](../../breakdowns/en/2026-06/tiktok-transcript-horreurtiktok-horreur-histoire-histoirevrai-urbanlegends-fyp-a88e.md) — 804.4K views · `Mystery/Curiosity Gap` · 2026-06-11
 
 - [The Moroccan Killer Zarzour: A Silent Stranger](../../breakdowns/en/2026-06/tiktok-transcript-le-tueur-marocain-zarzour-horreurtiktok-horreur-histoire-mys-bfe8.md) — 730.5K views · `Rhetorical question with exotic hook` · 2026-06-11
+
+- [Would You Rather Food Edition: Chicken or Beef?](../../breakdowns/en/2026-06/tiktok-transcript-tu-pr-f-res-dition-nourriture-tupreferes-tupreferesquoi-nour-99d8.md) — 719.3K views · `Challenge + Binary Choice` · 2026-06-16
+
+- [Axel Oficial Reveals How He Composed Your Love Forever](../../breakdowns/en/2026-06/tiktok-transcript-esto-tiene-algo-axeloficial-revela-c-mo-compuso-uno-de-sus-m-4286.md) — 625.6K views · `Surprising reveal + emotional confession` · 2026-06-16
 
 - [Miami's Most Addictive Ice Cream and Its Deadly Secret](../../breakdowns/en/2026-06/tiktok-transcript-la-glace-la-plus-addictive-de-miami-et-le-secret-mortel-derr-ad03.md) — 570.5K views · `Forbidden Mystery` · 2026-06-11
 
