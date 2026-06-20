@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 47 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 49 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -29,6 +29,8 @@
 
 - [The Terrifying True Story Behind Wrong Turn](../../breakdowns/zh-CN/2026-05/tiktok-transcript-the-real-story-behind-wrong-turn-creepy-1900s-storytime-wron-337b.md) — 5.8M views · `Mystery/Curiosity Gap` · 2026-05-24
 
+- [Strawberry's Secrets Part 1: Controlling Argument Over Pa...](../../breakdowns/zh-CN/2026-06/tiktok-transcript-part-1-strawberry-s-secrets-aifruit-fruitstory-fruitdrama-ai-6746.md) — 5.3M views · `Accusatory Question` · 2026-06-19
+
 - [Two Toxic Conflict Patterns That Ruin Loving Couples](../../breakdowns/zh-CN/2026-06/tiktok-transcript-even-the-most-loving-couples-can-t-last-if-they-fall-into-th-d3ec.md) — 5.0M views · `Curiosity Gap` · 2026-06-18
 
 - [Best Movie Recaps: Editing & Narrating Top Film Stories](../../breakdowns/zh-CN/2026-06/tiktok-transcript-welcome-to-my-channel-here-i-edit-and-narrating-the-best-mov-e49d.md) — 3.9M views · `Curiosity gap with shocking premise` · 2026-06-14
@@ -40,6 +42,8 @@
 - [Must-See Space Events of 2026 You Can't Miss](../../breakdowns/zh-CN/2026-05/tiktok-transcript-make-sure-you-don-t-miss-them-65f4.md) — 3.7M views · `Time urgency + curiosity gap` · 2026-05-28
 
 - [Part 2: Oxidized Silver and Ruby Story](../../breakdowns/zh-CN/2026-05/tiktok-transcript-part-2-the-oxidized-sliver-and-the-ruby-story-part-1-fruitst-375f.md) — 3.6M views · `Question-Answer Conflict` · 2026-05-22
+
+- [Argentina 3-0 Algeria Match Highlights](../../breakdowns/zh-CN/2026-06/tiktok-transcript-r-sum-argentine-3-0-alg-rie-abonnez-vous-pour-voir-tous-les-a8ed.md) — 3.4M views · `Action-packed play-by-play` · 2026-06-19
 
 - [Bury Me With a Picture of My Sister in My Front Pocket](../../breakdowns/zh-CN/2026-05/tiktok-transcript-bury-me-with-a-picture-of-my-sister-in-my-front-pocket-inspo-4ad4.md) — 3.2M views · `Unexpected Reversal` · 2026-05-29
 

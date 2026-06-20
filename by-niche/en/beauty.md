@@ -1,9 +1,11 @@
 # beauty Breakdowns
 
-> 7 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 8 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
+
+- [My Toothpaste Cocktail for Better Oral Hygiene](../../breakdowns/en/2026-06/tiktok-transcript-i-love-my-toothpaste-cocktail-oralhygiene-oralhealth-6863.md) — 10.5M views · `Problem-Solution Promise` · 2026-06-19
 
 - [Sea Moss Gummies for Glowing Clear Skin](../../breakdowns/en/2026-05/tiktok-transcript-glowier-clearer-skin-from-gummies-that-won-t-let-you-down-li-6742.md) — 2.5M views · `Contrast & Relatable Regret` · 2026-05-29
 

@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 69 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 71 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -128,6 +128,10 @@
 - [Father Abandons Will and Trust, Chooses Money Over Daughters](../../breakdowns/zh-CN/2026-06/tiktok-transcript-video-1e53.md) — 576.6K views · `Moral Responsibility` · 2026-06-18
 
 - [The Worst Moment for Independent Store Sellers: Returns](../../breakdowns/zh-CN/2026-06/tiktok-transcript-the-worst-moment-for-independent-store-sellers-warehousing-d-4afa.md) — 569.4K views · `Problem-Agitate` · 2026-06-10
+
+- [Black Woman Explains Why White Privilege Exists](../../breakdowns/zh-CN/2026-06/tiktok-transcript-onthisday-36b0.md) — 546.3K views · `Controversial Identity Declaration` · 2026-06-19
+
+- [Chinese Rotating Monument Mechanism Illusion](../../breakdowns/zh-CN/2026-06/tiktok-transcript-video-f1b0.md) — 516.2K views · `Curiosity gap with promise of coolness` · 2026-06-17
 
 - [Letting Go of Love Without Possession](../../breakdowns/zh-CN/2026-06/tiktok-transcript-you-have-to-let-it-go-not-because-it-didn-t-matter-not-becau-6f93.md) — 370.4K views · `Unexpected twist on a common metaphor` · 2026-06-10
 
