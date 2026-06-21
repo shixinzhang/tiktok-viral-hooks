@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 49 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 50 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -78,6 +78,8 @@
 - [Boy's Father Buys Prostitute as His 11th Mom This Year](../../breakdowns/en/2026-06/tiktok-transcript-tiktok-movie-foryou-fullrecap-fyp-70e8.md) — 1.5M views · `Shocking Reveal` · 2026-06-03
 
 - [Subway Hero Stops Harasser Before Job Interview](../../breakdowns/en/2026-05/tiktok-transcript-movie-foryou-usa-tik-tok-a7d3.md) — 1.4M views · `Immediate tension` · 2026-05-22
+
+- [Sisters Get Shrink and Enlarge Systems Before Apocalypse](../../breakdowns/en/2026-06/tiktok-transcript-loredeepdive-tiktoktvfilmcontest-shortdramareview-tiktok-fyp-6822.md) — 1.4M views · `Choice with consequence` · 2026-06-20
 
 - [This Is for All My Baby Girls](../../breakdowns/en/2026-05/tiktok-transcript-this-is-for-all-my-babygorls-2021tiktok-fyp-targetaudience-9e0a.md) — 1.3M views · `Direct address to a specific audience` · 2026-05-22
 
