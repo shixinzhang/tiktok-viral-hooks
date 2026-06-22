@@ -1,6 +1,6 @@
 # Hook Pattern: Curiosity Gap
 
-> 6 viral TikTok videos that use this hook pattern.
+> 7 viral TikTok videos that use this hook pattern.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -16,3 +16,5 @@
 - [Review of Viral Matcha Lake in China](../../breakdowns/zh-CN/2026-05/tiktok-transcript-review-h-matcha-si-u-hot-m-ng-x-h-i-th-gi-i-xem-n-cu-i-th-d28f.md) — 1.8M views · `other` · 2026-05-28
 
 - [Indian Buffalo Grooming Before Sale for Better Price](../../breakdowns/zh-CN/2026-06/tiktok-transcript-tiktok-video-7645058607842741536-6fc0.md) — 1.0M views · `other` · 2026-06-15
+
+- [Australia: The Sixth Largest and Most Beautiful Country](../../breakdowns/zh-CN/2026-06/tiktok-transcript-australia-au-4a36.md) — 519.9K views · `other` · 2026-06-20

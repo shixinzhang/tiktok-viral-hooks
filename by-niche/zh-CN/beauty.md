@@ -1,6 +1,6 @@
 # beauty Breakdowns
 
-> 8 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 9 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -20,3 +20,5 @@
 - [Bracelet Hack to Prevent Twisting When Packing](../../breakdowns/zh-CN/2026-05/tiktok-transcript-dan-kongsikan-ini-dengan-rakan-rakan-anda-yang-pasti-akan-m-0475.md) — 960.8K views · `Problem-Agitation` · 2026-05-22
 
 - [Glueless 360 Wig Install With Curly Edges by Ashy Mary](../../breakdowns/zh-CN/2026-06/tiktok-transcript-the-type-of-natural-that-makes-people-ask-if-it-s-yours-ashi-521a.md) — 707.7K views · `Relatable confession` · 2026-06-10
+
+- [Platinum Blonde 24 Inch Extensions Blend Seamlessly](../../breakdowns/zh-CN/2026-06/tiktok-transcript-they-eat-everytime-googoohair-official-bbb8.md) — 652.4K views · `Contrasting advice` · 2026-06-21

@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 74 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 78 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -53,6 +53,8 @@
 
 - [Artemis Crew Flying Behind the Moon Monday](../../breakdowns/en/2026-05/tiktok-transcript-don-t-miss-it-8da8.md) — 4.1M views · `Urgency + Promise of Significance` · 2026-05-28
 
+- [The Hardest Part of ADHD: Hyperfixation on Loved Ones](../../breakdowns/en/2026-06/tiktok-transcript-the-truth-about-adhd-no-one-talks-about-adhdawareness-psycho-400d.md) — 4.1M views · `Relatable Revelation` · 2026-06-21
+
 - [Letter to Dad: First Love, First Heartbreak](../../breakdowns/en/2026-05/tiktok-transcript-ya-tocaba-uno-as-monlaferte-fpy-desamor-fenmefatale-parati-0f8e.md) — 3.4M views · `Contradiction Hook` · 2026-05-28
 
 - [Fix Your Juicer Machine, Stop Wasting Money](../../breakdowns/en/2026-06/tiktok-transcript-saraikimonkey-bandar-viraltiktok-ai-42f3.md) — 3.2M views · `Repetitive command with escalating absurdity` · 2026-06-16
@@ -99,6 +101,8 @@
 
 - [Tired of Pride Month Rainbows on Grinder](../../breakdowns/en/2026-06/tiktok-transcript-this-month-brings-me-great-distress-as-you-could-clearly-tel-cb8f.md) — 1.6M views · `Contrarian Complaint` · 2026-06-04
 
+- [Dara - Bangaranga, Your Eurovision 2026 Winning Song](../../breakdowns/en/2026-06/tiktok-transcript-dara-bangaranga-your-eurovision2026-winning-song-eurovisiond-3133.md) — 1.6M views · `Curiosity Gap + Emotional Stakes` · 2026-06-21
+
 - [Boy Shines Shoes Outside Faisal Mosque Islamabad Earns 40...](../../breakdowns/en/2026-06/tiktok-transcript-creatorsearchinsights-trustgod-faithoverfear-nasirkhan-foryo-271e.md) — 1.6M views · `Character introduction with vivid detail` · 2026-06-04
 
 - [Admitting My Mistake and the Pain I Caused](../../breakdowns/en/2026-05/tiktok-transcript-tiktok-video-7642225034412428552-3d4b.md) — 1.5M views · `Vulnerability & Accountability` · 2026-05-24
@@ -131,11 +135,15 @@
 
 - [Forgetting Happens When You Wake Up One Day](../../breakdowns/en/2026-06/tiktok-transcript-dimenticare-perte-fyp-foryoupage-andiamoneiperte-3c46.md) — 711.7K views · `Relatable mundane setup with twist` · 2026-06-04
 
+- [Denim Pants Recommendation for Style and Fit](../../breakdowns/en/2026-06/tiktok-transcript-foryou-fyp-pants-pantsrecommendation-denimpants-1fa7.md) — 608.6K views · `conditional attention grabber` · 2026-06-20
+
 - [Father Abandons Will and Trust, Chooses Money Over Daughters](../../breakdowns/en/2026-06/tiktok-transcript-video-1e53.md) — 576.6K views · `Moral Responsibility` · 2026-06-18
 
 - [The Worst Moment for Independent Store Sellers: Returns](../../breakdowns/en/2026-06/tiktok-transcript-the-worst-moment-for-independent-store-sellers-warehousing-d-4afa.md) — 569.4K views · `Problem-Agitate` · 2026-06-10
 
 - [Black Woman Explains Why White Privilege Exists](../../breakdowns/en/2026-06/tiktok-transcript-onthisday-36b0.md) — 546.3K views · `Controversial Identity Declaration` · 2026-06-19
+
+- [Australia: The Sixth Largest and Most Beautiful Country](../../breakdowns/en/2026-06/tiktok-transcript-australia-au-4a36.md) — 519.9K views · `Curiosity Gap` · 2026-06-20
 
 - [Chinese Rotating Monument Mechanism Illusion](../../breakdowns/en/2026-06/tiktok-transcript-video-f1b0.md) — 516.2K views · `Curiosity gap with promise of coolness` · 2026-06-17
 
