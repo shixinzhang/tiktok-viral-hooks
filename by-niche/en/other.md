@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 78 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 82 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -67,6 +67,8 @@
 
 - [Practical Life Hacks You've Never Seen Before](../../breakdowns/en/2026-06/tiktok-transcript-lifehacks-lifetips-learnontiktok-fyp-foryou-0a55.md) — 3.0M views · `Curiosity Gap with Specific Promise` · 2026-06-12
 
+- [All Algebra Rules in One Minute](../../breakdowns/en/2026-06/tiktok-transcript-quick-maths-study-oneminute-algebra-all-study-sat-rules-your-ea5f.md) — 2.9M views · `Promise of rapid mastery` · 2026-06-22
+
 - [Day Your Mother Dies, O Son of Adam – Sheikh Kishk](../../breakdowns/en/2026-06/tiktok-transcript-video-9e03.md) — 2.9M views · `Repetition with escalation` · 2026-06-14
 
 - [Modern Consciousness Catastrophe Explained](../../breakdowns/en/2026-05/tiktok-transcript-note-this-video-will-lag-if-you-catch-it-early-you-can-downl-5a47.md) — 2.7M views · `Urgent philosophical revelation` · 2026-05-31
@@ -131,9 +133,13 @@
 
 - [Join 2 Free Handmade Soap Classes Starting May 26](../../breakdowns/en/2026-06/tiktok-transcript-nete-a-2-clases-gratuitas-de-jabones-artesanales-en-el-link-d2f7.md) — 887.7K views · `Rhetorical Question + Metaphor` · 2026-06-11
 
+- [Breakup Advice for Teenage Girls](../../breakdowns/en/2026-06/tiktok-transcript-fup-f002.md) — 811.2K views · `Direct Address + Authority` · 2026-06-22
+
 - [College: Is It Entirely Useless for Growth?](../../breakdowns/en/2026-06/tiktok-transcript-tiktok-video-7594956396702092557-7611.md) — 733.7K views · `Challenge + Question` · 2026-06-17
 
 - [Forgetting Happens When You Wake Up One Day](../../breakdowns/en/2026-06/tiktok-transcript-dimenticare-perte-fyp-foryoupage-andiamoneiperte-3c46.md) — 711.7K views · `Relatable mundane setup with twist` · 2026-06-04
+
+- [Ojalá Un Día Te Duél Mi Ausencia Mon Laferte](../../breakdowns/en/2026-06/tiktok-transcript-tal-vez-nunca-entendi-cu-nto-lo-am-monlaferte-decepcion-tikt-2163.md) — 629.6K views · `Ojalá + dolor inverso` · 2026-06-22
 
 - [Denim Pants Recommendation for Style and Fit](../../breakdowns/en/2026-06/tiktok-transcript-foryou-fyp-pants-pantsrecommendation-denimpants-1fa7.md) — 608.6K views · `conditional attention grabber` · 2026-06-20
 
@@ -158,5 +164,7 @@
 - [Young Girl Walks Into Lake in Dress Without Fear](../../breakdowns/en/2026-06/tiktok-transcript-flim-movie-tvshow-fyp-2dc2.md) — 330.2K views · `Mysterious Action` · 2026-06-05
 
 - [Gratitude Is a Superpower for Your Normal Day](../../breakdowns/en/2026-06/tiktok-transcript-love-the-life-god-gave-you-299b.md) — 322.8K views · `Perspective Shift` · 2026-06-03
+
+- [What Happens If You Drink Ginsomin for 7 Days](../../breakdowns/en/2026-06/tiktok-transcript-ini-yang-terjadi-jika-kamu-minum-ginsomin-selama-7-hari-diab-750e.md) — 320.0K views · `Curiosity Gap` · 2026-06-22
 
 - [How to Make Roblox Thumbnails for Your Game Easily](../../breakdowns/en/2026-06/tiktok-transcript-how-to-make-roblox-thumbnails-for-your-game-easily-robloxdev-1a53.md) — 124.1K views · `Speed/Result Promise` · 2026-06-07

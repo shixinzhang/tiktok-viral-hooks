@@ -1,6 +1,6 @@
 # Hook Pattern: Curiosity Gap
 
-> 7 viral TikTok videos that use this hook pattern.
+> 8 viral TikTok videos that use this hook pattern.
 
 [← Back to README](../../README.md)
 
@@ -18,3 +18,5 @@
 - [Indian Buffalo Grooming Before Sale for Better Price](../../breakdowns/en/2026-06/tiktok-transcript-tiktok-video-7645058607842741536-6fc0.md) — 1.0M views · `other` · 2026-06-15
 
 - [Australia: The Sixth Largest and Most Beautiful Country](../../breakdowns/en/2026-06/tiktok-transcript-australia-au-4a36.md) — 519.9K views · `other` · 2026-06-20
+
+- [What Happens If You Drink Ginsomin for 7 Days](../../breakdowns/en/2026-06/tiktok-transcript-ini-yang-terjadi-jika-kamu-minum-ginsomin-selama-7-hari-diab-750e.md) — 320.0K views · `other` · 2026-06-22
