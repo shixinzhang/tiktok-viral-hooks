@@ -1,9 +1,11 @@
 # beauty Breakdowns
 
-> 9 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 10 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
+
+- [Dentist Teeth Whitening Strips 30 Minute Result](../../breakdowns/en/2026-06/tiktok-transcript-guys-i-m-scared-what-just-happened-drdent-teethwhitening-tee-2e0c.md) — 14.2M views · `Instructional curiosity` · 2026-06-23
 
 - [My Toothpaste Cocktail for Better Oral Hygiene](../../breakdowns/en/2026-06/tiktok-transcript-i-love-my-toothpaste-cocktail-oralhygiene-oralhealth-6863.md) — 10.5M views · `Problem-Solution Promise` · 2026-06-19
 

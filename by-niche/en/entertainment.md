@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 51 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 53 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -12,6 +12,8 @@
 - [Past Tense of Read Is Read That's Why](../../breakdowns/en/2026-05/tiktok-transcript-the-past-tense-of-read-is-read-that-s-why-english-lol-joe-fe-582f.md) — 15.9M views · `False expectation setup` · 2026-05-29
 
 - [Family Rejects PS5 Then Unexpected Baby Reveal](../../breakdowns/en/2026-06/tiktok-transcript-they-didn-t-want-the-ps5-but-this-happened-fruitstory-fruitd-5173.md) — 13.1M views · `Contrasting absurdity` · 2026-06-07
+
+- [Former Gang Leaders: Why I Left the Life](../../breakdowns/en/2026-06/tiktok-transcript-part-1-fyp-redditstories-viral-foryoupage-2f6f.md) — 12.2M views · `Personal anecdote with a name` · 2026-06-23
 
 - [Phonk Bass Boosted Headphone Test](../../breakdowns/en/2026-06/tiktok-transcript-this-song-hedphones-bass-phonk-phonk-music-bassboosted-m-2fc1.md) — 10.6M views · `Repetition for emphasis` · 2026-06-12
 
@@ -32,6 +34,8 @@
 - [Strawberry's Secrets Part 1: Controlling Argument Over Pa...](../../breakdowns/en/2026-06/tiktok-transcript-part-1-strawberry-s-secrets-aifruit-fruitstory-fruitdrama-ai-6746.md) — 5.3M views · `Accusatory Question` · 2026-06-19
 
 - [Two Toxic Conflict Patterns That Ruin Loving Couples](../../breakdowns/en/2026-06/tiktok-transcript-even-the-most-loving-couples-can-t-last-if-they-fall-into-th-d3ec.md) — 5.0M views · `Curiosity Gap` · 2026-06-18
+
+- [Best Relationship Advice From a Father](../../breakdowns/en/2026-06/tiktok-transcript-what-s-the-best-relationship-advice-you-ve-ever-gotten-reddi-c803.md) — 3.9M views · `Question Hook` · 2026-06-23
 
 - [Best Movie Recaps: Editing & Narrating Top Film Stories](../../breakdowns/en/2026-06/tiktok-transcript-welcome-to-my-channel-here-i-edit-and-narrating-the-best-mov-e49d.md) — 3.9M views · `Curiosity gap with shocking premise` · 2026-06-14
 
