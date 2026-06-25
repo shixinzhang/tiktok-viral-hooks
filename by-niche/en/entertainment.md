@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 53 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 55 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -14,6 +14,8 @@
 - [Family Rejects PS5 Then Unexpected Baby Reveal](../../breakdowns/en/2026-06/tiktok-transcript-they-didn-t-want-the-ps5-but-this-happened-fruitstory-fruitd-5173.md) — 13.1M views · `Contrasting absurdity` · 2026-06-07
 
 - [Former Gang Leaders: Why I Left the Life](../../breakdowns/en/2026-06/tiktok-transcript-part-1-fyp-redditstories-viral-foryoupage-2f6f.md) — 12.2M views · `Personal anecdote with a name` · 2026-06-23
+
+- [Shoe Shiner Returns Wallet, Gets Life Changed](../../breakdowns/en/2026-06/tiktok-transcript-brainrot-ai-fruitdrama-fruits-fruitstory-4d72.md) — 11.6M views · `Emotional urgency` · 2026-06-24
 
 - [Phonk Bass Boosted Headphone Test](../../breakdowns/en/2026-06/tiktok-transcript-this-song-hedphones-bass-phonk-phonk-music-bassboosted-m-2fc1.md) — 10.6M views · `Repetition for emphasis` · 2026-06-12
 
@@ -58,6 +60,8 @@
 - [Worm Fights Snail in Epic Garden Battle](../../breakdowns/en/2026-05/tiktok-transcript-worm-vs-snail-1781.md) — 2.8M views · `Subverted Expectation` · 2026-05-23
 
 - [Part 2: Confronting Steven Over the Birthday Lie](../../breakdowns/en/2026-06/tiktok-transcript-part-2-diy-storytime-fyp-foryou-tiktok-2744.md) — 2.5M views · `Betrayal Reveal` · 2026-06-01
+
+- [Secret Billionaire Father's Child - Episode 8 Finale (Tag...](../../breakdowns/en/2026-06/tiktok-transcript-sekretong-anak-bilyonaryong-ama-episode-8-ang-pagwawakas-tag-e36e.md) — 2.2M views · `Resigned Acceptance` · 2026-06-24
 
 - [She Says Save Money Then Asks for Ice Cream](../../breakdowns/en/2026-05/tiktok-transcript-me-dice-que-ahorremos-y-me-sale-con-esto-2664.md) — 2.2M views · `Contrasting setup` · 2026-05-25
 
