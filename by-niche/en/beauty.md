@@ -1,9 +1,11 @@
 # beauty Breakdowns
 
-> 12 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 13 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
+
+- [Teeth Whitening Strips Results After 30 Minutes](../../breakdowns/en/2026-06/tiktok-transcript-they-worked-after-one-30-minute-session-purplewhiteningstrip-a16a.md) — 15.5M views · `Contrast/Comparison Challenge` · 2026-06-26
 
 - [Dentist Teeth Whitening Strips 30 Minute Result](../../breakdowns/en/2026-06/tiktok-transcript-guys-i-m-scared-what-just-happened-drdent-teethwhitening-tee-2e0c.md) — 14.2M views · `Instructional curiosity` · 2026-06-23
 

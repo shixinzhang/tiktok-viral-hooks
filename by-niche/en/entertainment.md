@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 55 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 57 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -30,6 +30,8 @@
 - [Apology for Making Love Hard and Draining](../../breakdowns/en/2026-05/tiktok-transcript-tiktok-video-7502794542438124846-ae88.md) — 7.7M views · `Apology Hook` · 2026-05-28
 
 - [Bold Job Interview Answer: I'm Here to Help You](../../breakdowns/en/2026-06/tiktok-transcript-the-job-interview-18a7.md) — 7.6M views · `Deflection and Confidence` · 2026-06-14
+
+- [Fruit Seller's Emotional AI Story](../../breakdowns/en/2026-06/tiktok-transcript-fruits-fruit-ai-aistory-emotional-emotionalstory-56ca.md) — 7.3M views · `Curiosity gap + Incentive` · 2026-06-25
 
 - [The Terrifying True Story Behind Wrong Turn](../../breakdowns/en/2026-05/tiktok-transcript-the-real-story-behind-wrong-turn-creepy-1900s-storytime-wron-337b.md) — 5.8M views · `Mystery/Curiosity Gap` · 2026-05-24
 
@@ -98,6 +100,8 @@
 - [Human Body Quiz: What Causes Headaches?](../../breakdowns/en/2026-05/tiktok-transcript-quiz-sur-le-corps-humain-pourtoi-cultureg-quizz-france-corps-64ff.md) — 962.7K views · `Challenge with stakes` · 2026-05-25
 
 - [This Player Almost Scored an Own Goal on a Back Pass](../../breakdowns/en/2026-06/tiktok-transcript-este-jugador-calcul-muy-mal-1-simple-pase-hacia-atr-s-futbol-3dae.md) — 943.7K views · `Miscalculation / Near Own Goal` · 2026-06-13
+
+- [Part 2: Confronting the Past in Manhattan](../../breakdowns/en/2026-06/tiktok-transcript-part-2-fyp-redditstories-viral-foryoupage-d9db.md) — 889.9K views · `Emotional confession` · 2026-06-23
 
 - [The Devil's Bridge: Strange Phenomena in France Since 1994](../../breakdowns/en/2026-06/tiktok-transcript-horreurtiktok-horreur-histoire-histoirevrai-urbanlegends-fyp-a88e.md) — 804.4K views · `Mystery/Curiosity Gap` · 2026-06-11
 

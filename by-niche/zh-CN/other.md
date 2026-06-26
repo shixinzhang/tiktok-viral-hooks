@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 85 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 86 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -36,6 +36,8 @@
 - [Teaching Grandfather to Make Handmade Soaps in 2 Classes](../../breakdowns/zh-CN/2026-06/tiktok-transcript-te-ense-o-a-crear-jabones-artesanales-paso-a-paso-en-2-clase-b940.md) — 8.5M views · `Curiosity Gap with Specific Age` · 2026-06-15
 
 - [Let Go When Someone Replaces You](../../breakdowns/zh-CN/2026-05/tiktok-transcript-deixa-ir-coringa-motiva-o-reflexaododia-videostatus-capcut-8a03.md) — 8.3M views · `conditional cascade` · 2026-05-26
+
+- [Prophet Ibrahim Visits Ismail's Wife Story](../../breakdowns/zh-CN/2026-06/tiktok-transcript-20m-views-2m-reactions-hazrat-ibrahim-a-s-aur-hazrat-ismail-464c.md) — 8.3M views · `Narrative hook with immediate conflict` · 2026-06-25
 
 - [The World's Strongest Beetle Shell Structure](../../breakdowns/zh-CN/2026-06/tiktok-transcript-el-escarabajo-m-s-fuerte-del-mundo-estadosunidos-datoscurios-e2a1.md) — 7.8M views · `Contrast & Surprise` · 2026-06-04
 
