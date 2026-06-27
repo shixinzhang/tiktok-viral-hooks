@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 57 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 59 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -63,6 +63,8 @@
 
 - [Part 2: Confronting Steven Over the Birthday Lie](../../breakdowns/en/2026-06/tiktok-transcript-part-2-diy-storytime-fyp-foryou-tiktok-2744.md) — 2.5M views · `Betrayal Reveal` · 2026-06-01
 
+- [Father Tests Daughters With $67 Million Each](../../breakdowns/en/2026-06/tiktok-transcript-he-gave-the-money-to-his-daughters-as-a-test-storyline-fruit-e256.md) — 2.3M views · `Shock and Awe` · 2026-06-26
+
 - [Secret Billionaire Father's Child - Episode 8 Finale (Tag...](../../breakdowns/en/2026-06/tiktok-transcript-sekretong-anak-bilyonaryong-ama-episode-8-ang-pagwawakas-tag-e36e.md) — 2.2M views · `Resigned Acceptance` · 2026-06-24
 
 - [She Says Save Money Then Asks for Ice Cream](../../breakdowns/en/2026-05/tiktok-transcript-me-dice-que-ahorremos-y-me-sale-con-esto-2664.md) — 2.2M views · `Contrasting setup` · 2026-05-25
@@ -96,6 +98,8 @@
 - [Ghost Train of Hiroshima Passes Daily at 8:15 AM](../../breakdowns/en/2026-06/tiktok-transcript-o-trem-fantasma-de-hiroshima-historias-hiroshima-historiarea-0a42.md) — 1.3M views · `Did you know + specific location + supernatural element` · 2026-06-11
 
 - [Virtual Serenade Surprise: What Happened Next](../../breakdowns/en/2026-05/tiktok-transcript-serenata-virtual-mira-lo-que-pas-amor-duosfreefire-garenafre-ff5e.md) — 1.1M views · `Mystery Setup` · 2026-05-26
+
+- [Hiding Baby Secret From Wife](../../breakdowns/en/2026-06/tiktok-transcript-how-long-can-he-keep-little-cuh-a-secret-fruitstory-aistory-ee2e.md) — 1.1M views · `Misdirection / Unexpected Reveal` · 2026-06-26
 
 - [Human Body Quiz: What Causes Headaches?](../../breakdowns/en/2026-05/tiktok-transcript-quiz-sur-le-corps-humain-pourtoi-cultureg-quizz-france-corps-64ff.md) — 962.7K views · `Challenge with stakes` · 2026-05-25
 
