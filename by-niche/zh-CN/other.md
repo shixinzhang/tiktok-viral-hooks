@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 88 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 89 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -88,6 +88,8 @@
 - [Millionaire Buys 100 Hats and 200 Dresses for Embarrassed...](../../breakdowns/zh-CN/2026-06/tiktok-transcript-latintiktok-viralusaticktok-movieexplained-f6ec.md) — 2.4M views · `Contrast & Embarrassment` · 2026-06-23
 
 - [Men Feel Pain But Don't Express It](../../breakdowns/zh-CN/2026-06/tiktok-transcript-6-2m-views-297k-reactions-aadmi-quotes-realtionship-podcast-7b6b.md) — 2.3M views · `Contradiction/Revelation` · 2026-06-01
+
+- [They Call Me a Stranger Here](../../breakdowns/zh-CN/2026-06/tiktok-transcript-capcut-3ydo-50ca.md) — 2.3M views · `Contrast & Warning` · 2026-06-27
 
 - [5 Clothes Folding Methods You Need to Know](../../breakdowns/zh-CN/2026-06/tiktok-transcript-life-lifetips-fyp-foryou-lifehacks-viral-d22d.md) — 2.1M views · `Challenge/Knowledge Gap` · 2026-06-13
 

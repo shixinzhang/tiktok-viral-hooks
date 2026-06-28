@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 59 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 61 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -32,6 +32,8 @@
 - [Bold Job Interview Answer: I'm Here to Help You](../../breakdowns/zh-CN/2026-06/tiktok-transcript-the-job-interview-18a7.md) — 7.6M views · `Deflection and Confidence` · 2026-06-14
 
 - [Fruit Seller's Emotional AI Story](../../breakdowns/zh-CN/2026-06/tiktok-transcript-fruits-fruit-ai-aistory-emotional-emotionalstory-56ca.md) — 7.3M views · `Curiosity gap + Incentive` · 2026-06-25
+
+- [CR7 Fans React to Name Reveal](../../breakdowns/zh-CN/2026-06/tiktok-transcript-cr7-tiktok-foryoupage-fyp-tiktok-7d77.md) — 6.8M views · `Curiosity Gap + Bold Claim` · 2026-06-27
 
 - [The Terrifying True Story Behind Wrong Turn](../../breakdowns/zh-CN/2026-05/tiktok-transcript-the-real-story-behind-wrong-turn-creepy-1900s-storytime-wron-337b.md) — 5.8M views · `Mystery/Curiosity Gap` · 2026-05-24
 
@@ -72,6 +74,8 @@
 - [Rare 1800s Historical Photos: Chestnut Crushing Shoes & More](../../breakdowns/zh-CN/2026-06/tiktok-transcript-rare-historical-photos-of-1800-historical-creepy-storytime-f-02cb.md) — 2.2M views · `Curiosity gap with specific oddity` · 2026-06-08
 
 - [70-Year-Old Indian Grandma's Dating Game Is Strong](../../breakdowns/zh-CN/2026-05/tiktok-transcript-she-may-be-70-but-her-dating-game-is-timeless-indian-grandma-6bdc.md) — 2.1M views · `Exaggerated compliment` · 2026-05-27
+
+- [Late for School, Forgot Epilepsy Meds, Mom Angry](../../breakdowns/zh-CN/2026-06/tiktok-transcript-while-i-was-late-for-school-i-realized-i-forgot-to-take-my-e-4270.md) — 2.1M views · `Urgent confession` · 2026-06-27
 
 - [Rio God Mode: Unstoppable Action](../../breakdowns/zh-CN/2026-06/tiktok-transcript-214k-views-289k-reactions-rio-god-mode-rio-films-97a8.md) — 2.1M views · `Defiance/Reversal` · 2026-06-16
 

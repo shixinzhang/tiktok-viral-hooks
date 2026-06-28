@@ -1,6 +1,6 @@
 # finance Breakdowns
 
-> 9 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 10 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -12,6 +12,8 @@
 - [House Affordability on a $20/Hour Salary](../../breakdowns/zh-CN/2026-05/tiktok-transcript-here-s-how-much-you-can-afford-for-a-house-if-you-make-20-ho-32a7.md) — 2.9M views · `Curiosity Gap + Specificity` · 2026-05-31
 
 - [School Doesn't Create Winners, It Creates Obedient Employees](../../breakdowns/zh-CN/2026-06/tiktok-transcript-la-escuela-no-forma-ganadores-forma-empleados-obedientes-y-e-77d8.md) — 2.8M views · `Rhetorical question + contrarian statement` · 2026-06-07
+
+- [Want a Million Dollars? Follow These Rules](../../breakdowns/zh-CN/2026-06/tiktok-transcript-4-2m-views-102k-reactions-millionbanknote-7bb1.md) — 2.0M views · `Aspirational Challenge` · 2026-06-27
 
 - [How to Achieve Financial Freedom Through House Hacking](../../breakdowns/zh-CN/2026-06/tiktok-transcript-earn-financial-freedom-by-house-hacking-realestate-wealth-hu-e7bf.md) — 1.7M views · `Direct Promise` · 2026-06-09
 
