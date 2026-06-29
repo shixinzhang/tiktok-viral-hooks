@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 89 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 90 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -100,6 +100,8 @@
 - [If Someone Asks What You Did Today, Don't Say It Was Hard](../../breakdowns/zh-CN/2026-06/tiktok-transcript-699k-views-100k-reactions-theek-hai-ashish-bagrecha-c2a0.md) — 1.8M views · `Hypothetical Question + Emotional Contrast` · 2026-06-01
 
 - [Review of Viral Matcha Lake in China](../../breakdowns/zh-CN/2026-05/tiktok-transcript-review-h-matcha-si-u-hot-m-ng-x-h-i-th-gi-i-xem-n-cu-i-th-d28f.md) — 1.8M views · `Curiosity Gap` · 2026-05-28
+
+- [Poem: What Are You Afraid of Losing When Nothing Belongs...](../../breakdowns/zh-CN/2026-06/tiktok-transcript-4-7m-views-170k-reactions-what-are-you-afraid-of-losing-when-a99b.md) — 1.7M views · `Rhetorical Question` · 2026-06-27
 
 - [Aceh Floods Reach Unimaginable Heights on December 6](../../breakdowns/zh-CN/2026-05/tiktok-transcript-6-december-25-aceh-taming-can-not-imagine-this-high-of-the-f-f7b4.md) — 1.7M views · `Question-Answer Mismatch` · 2026-05-24
 

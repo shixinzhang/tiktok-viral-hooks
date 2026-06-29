@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 61 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 64 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -39,7 +39,11 @@
 
 - [Strawberry's Secrets Part 1: Controlling Argument Over Pa...](../../breakdowns/en/2026-06/tiktok-transcript-part-1-strawberry-s-secrets-aifruit-fruitstory-fruitdrama-ai-6746.md) — 5.3M views · `Accusatory Question` · 2026-06-19
 
+- [We Suffer More in Imagination Than in Reality](../../breakdowns/en/2026-06/tiktok-transcript-we-suffer-more-in-imagination-than-in-reality-seneca-stoicis-2c7e.md) — 5.0M views · `Rhetorical questions + contrast` · 2026-06-28
+
 - [Two Toxic Conflict Patterns That Ruin Loving Couples](../../breakdowns/en/2026-06/tiktok-transcript-even-the-most-loving-couples-can-t-last-if-they-fall-into-th-d3ec.md) — 5.0M views · `Curiosity Gap` · 2026-06-18
+
+- [Part 1: My Dad Told Me to Walk Home](../../breakdowns/en/2026-06/tiktok-transcript-part-1-storytime-redditstories-fyp-foryou-askreddit-foryoupa-f573.md) — 4.9M views · `Twist/Reversal` · 2026-06-28
 
 - [Best Relationship Advice From a Father](../../breakdowns/en/2026-06/tiktok-transcript-what-s-the-best-relationship-advice-you-ve-ever-gotten-reddi-c803.md) — 3.9M views · `Question Hook` · 2026-06-23
 
@@ -62,6 +66,8 @@
 - [Model Strangers Street Photography After Three Years](../../breakdowns/en/2026-05/tiktok-transcript-i-have-been-working-on-model-strangers-for-almost-three-year-df88.md) — 3.1M views · `Compliment Hook` · 2026-05-29
 
 - [Worm Fights Snail in Epic Garden Battle](../../breakdowns/en/2026-05/tiktok-transcript-worm-vs-snail-1781.md) — 2.8M views · `Subverted Expectation` · 2026-05-23
+
+- [Shoutout to Aries and Taurus for 2023](../../breakdowns/en/2026-06/tiktok-transcript-shoutout-to-aries-taurus-2f18.md) — 2.6M views · `Astrological Authority + Bold Claim` · 2026-06-28
 
 - [Part 2: Confronting Steven Over the Birthday Lie](../../breakdowns/en/2026-06/tiktok-transcript-part-2-diy-storytime-fyp-foryou-tiktok-2744.md) — 2.5M views · `Betrayal Reveal` · 2026-06-01
 
