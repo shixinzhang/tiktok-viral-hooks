@@ -1,8 +1,10 @@
 # Hook Pattern: conditional promise
 
-> 1 viral TikTok videos that use this hook pattern.
+> 2 viral TikTok videos that use this hook pattern.
 
 [← Back to README](../../README.md).zh-CN.md
 
 
 - [Sweetest Wedding Vows Made Me Cry While Editing](../../breakdowns/zh-CN/2026-05/tiktok-transcript-i-actually-cried-editing-this-the-sweetest-vows-weddingtikto-6126.md) — 17.9M views · `other` · 2026-05-27
+
+- [Body Pain Relief Remedy with Milk and Spices](../../breakdowns/zh-CN/2026-06/tiktok-transcript-dekhein-21fe.md) — 3.6M views · `food` · 2026-06-29

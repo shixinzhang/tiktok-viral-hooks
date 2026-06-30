@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 90 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 92 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -41,6 +41,8 @@
 
 - [The World's Strongest Beetle Shell Structure](../../breakdowns/zh-CN/2026-06/tiktok-transcript-el-escarabajo-m-s-fuerte-del-mundo-estadosunidos-datoscurios-e2a1.md) — 7.8M views · `Contrast & Surprise` · 2026-06-04
 
+- [Heart's Electrical Energy Explained](../../breakdowns/zh-CN/2026-06/tiktok-transcript-heart-heartmath-fyp-mindblown-energy-loveislove-greenscreenv-cfb4.md) — 7.7M views · `Curiosity gap + personal astonishment` · 2026-06-29
+
 - [The Best Thing I Ever Did Was Stay Quiet](../../breakdowns/zh-CN/2026-06/tiktok-transcript-the-best-i-have-ever-done-is-to-stay-quiet-denzelwashington-89b9.md) — 7.4M views · `Contrarian declaration` · 2026-06-02
 
 - [Polyurethane Foam Spray Insulation Expanding and Solidifying](../../breakdowns/zh-CN/2026-06/tiktok-transcript-l-isolation-par-mousse-de-polyur-thane-isolation-polyurethan-fc83.md) — 6.6M views · `Visual Curiosity Gap` · 2026-06-16
@@ -56,6 +58,8 @@
 - [Artemis Crew Flying Behind the Moon Monday](../../breakdowns/zh-CN/2026-05/tiktok-transcript-don-t-miss-it-8da8.md) — 4.1M views · `Urgency + Promise of Significance` · 2026-05-28
 
 - [The Hardest Part of ADHD: Hyperfixation on Loved Ones](../../breakdowns/zh-CN/2026-06/tiktok-transcript-the-truth-about-adhd-no-one-talks-about-adhdawareness-psycho-400d.md) — 4.1M views · `Relatable Revelation` · 2026-06-21
+
+- [Keep Kidneys Healthy With These Tips](../../breakdowns/zh-CN/2026-06/tiktok-transcript-kidney-bb8a.md) — 3.8M views · `Numbered list with urgent warning` · 2026-06-29
 
 - [Letter to Dad: First Love, First Heartbreak](../../breakdowns/zh-CN/2026-05/tiktok-transcript-ya-tocaba-uno-as-monlaferte-fpy-desamor-fenmefatale-parati-0f8e.md) — 3.4M views · `Contradiction Hook` · 2026-05-28
 

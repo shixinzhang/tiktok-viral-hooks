@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 64 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 65 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -20,6 +20,8 @@
 - [Phonk Bass Boosted Headphone Test](../../breakdowns/zh-CN/2026-06/tiktok-transcript-this-song-hedphones-bass-phonk-phonk-music-bassboosted-m-2fc1.md) — 10.6M views · `Repetition for emphasis` · 2026-06-12
 
 - [Is Alina Ross Actually Candy Love](../../breakdowns/zh-CN/2026-05/tiktok-transcript-is-alina-ross-actually-candy-love-influencer-celebrity-candy-2a7b.md) — 10.1M views · `Rhetorical Question` · 2026-05-24
+
+- [Don't Tell Your Dreams to Everybody Around](../../breakdowns/zh-CN/2026-06/tiktok-transcript-don-t-tell-your-dreams-capcut-fyp-trend-lyrics-templatecapcu-55fa.md) — 9.6M views · `Cautionary advice with contrast` · 2026-06-29
 
 - [Girl Plants GPS Tracker on Boyfriend, Finds Him at Hospital](../../breakdowns/zh-CN/2026-05/tiktok-transcript-film-movie-foryou-9be2.md) — 8.8M views · `Mystery/Deception Hook` · 2026-05-24
 

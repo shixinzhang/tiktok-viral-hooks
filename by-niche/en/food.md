@@ -1,6 +1,6 @@
 # food Breakdowns
 
-> 10 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 12 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -11,9 +11,13 @@
 
 - [Easy Chicken Alfredo Recipe With Chipotle Seasoning](../../breakdowns/en/2026-06/tiktok-transcript-my-new-chicken-alfredo-recipe-2595.md) — 14.1M views · `Direct invitation with sensory payoff` · 2026-06-27
 
+- [Body Pain Relief Remedy with Milk and Spices](../../breakdowns/en/2026-06/tiktok-transcript-dekhein-21fe.md) — 3.6M views · `Conditional promise` · 2026-06-29
+
 - [3-Ingredient Snack Recipe](../../breakdowns/en/2026-05/tiktok-transcript-salgadinho-de-s-3-ingredientes-salgadinho-receita-facil-004b.md) — 3.3M views · `Curiosity gap + promise` · 2026-05-31
 
 - [Tasty Burger Production: Marinade to Meat Grinder](../../breakdowns/en/2026-06/tiktok-transcript-movie-usa-foryou-film-tiktok-d95e.md) — 2.2M views · `Curiosity Gap` · 2026-06-13
+
+- [Food Dilemma: Beef vs Chicken, Carbonara vs Bolognese](../../breakdowns/en/2026-06/tiktok-transcript-part-340-tu-pr-f-res-tupreferes-tupreferesquoi-dilemme-375f.md) — 1.8M views · `Interactive choice hook` · 2026-06-29
 
 - [Unlimited Steak and Sides for 90 Minutes in Sydney](../../breakdowns/en/2026-05/tiktok-transcript-unlimited-steak-run-follow-for-best-sydney-guide-get-10-off-a4a9.md) — 1.5M views · `Scarcity + Abundance` · 2026-05-22
 
