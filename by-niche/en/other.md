@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 92 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 95 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -25,6 +25,8 @@
 
 - [Loving the Sentence About Doing Enough](../../breakdowns/en/2026-06/tiktok-transcript-just-because-you-could-be-doing-more-doesn-t-mean-you-re-not-88b7.md) — 11.9M views · `Reframe` · 2026-06-02
 
+- [Leo Skepi on Betrayal and Ending a Friendship](../../breakdowns/en/2026-07/tiktok-transcript-leo-skepi-fyp-betrayal-hurt-forgiveness-leoskepi-loyalty-fri-e611.md) — 9.9M views · `Moral Contrast` · 2026-07-01
+
 - [People Change](../../breakdowns/en/2026-06/tiktok-transcript-la-gente-cambia-fyp-motivation-sad-farieddieck-fea7.md) — 9.9M views · `Direct accountability` · 2026-06-06
 
 - [Choosing Between the Life You Know and the Life You Want...](../../breakdowns/en/2026-05/tiktok-transcript-mindset-relationships-growth-motivation-attitude-a93c.md) — 9.4M views · `Anticipatory dilemma` · 2026-05-31
@@ -44,6 +46,8 @@
 - [Heart's Electrical Energy Explained](../../breakdowns/en/2026-06/tiktok-transcript-heart-heartmath-fyp-mindblown-energy-loveislove-greenscreenv-cfb4.md) — 7.7M views · `Curiosity gap + personal astonishment` · 2026-06-29
 
 - [The Best Thing I Ever Did Was Stay Quiet](../../breakdowns/en/2026-06/tiktok-transcript-the-best-i-have-ever-done-is-to-stay-quiet-denzelwashington-89b9.md) — 7.4M views · `Contrarian declaration` · 2026-06-02
+
+- [Switzerland: A Peaceful Paradise in Central Europe](../../breakdowns/en/2026-06/tiktok-transcript-switzerland-switzerlandnature-6e36.md) — 7.1M views · `Curiosity gap with contrast` · 2026-06-30
 
 - [Polyurethane Foam Spray Insulation Expanding and Solidifying](../../breakdowns/en/2026-06/tiktok-transcript-l-isolation-par-mousse-de-polyur-thane-isolation-polyurethan-fc83.md) — 6.6M views · `Visual Curiosity Gap` · 2026-06-16
 
@@ -120,6 +124,8 @@
 - [Dara - Bangaranga, Your Eurovision 2026 Winning Song](../../breakdowns/en/2026-06/tiktok-transcript-dara-bangaranga-your-eurovision2026-winning-song-eurovisiond-3133.md) — 1.6M views · `Curiosity Gap + Emotional Stakes` · 2026-06-21
 
 - [Boy Shines Shoes Outside Faisal Mosque Islamabad Earns 40...](../../breakdowns/en/2026-06/tiktok-transcript-creatorsearchinsights-trustgod-faithoverfear-nasirkhan-foryo-271e.md) — 1.6M views · `Character introduction with vivid detail` · 2026-06-04
+
+- [Best Home Remedies For Stomach Diseases And Digestion](../../breakdowns/en/2026-06/tiktok-transcript-3-1m-views-62k-reactions-personalgrowth-digestion-curd-amazi-df93.md) — 1.5M views · `numbered list with specific duration` · 2026-06-28
 
 - [The Happiest People Appreciate What They Have](../../breakdowns/en/2026-06/tiktok-transcript-3-6m-views-73k-reactions-the-happiest-people-are-not-the-one-5c6d.md) — 1.5M views · `Reframing` · 2026-06-25
 
