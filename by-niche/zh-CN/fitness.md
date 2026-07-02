@@ -1,9 +1,11 @@
 # fitness Breakdowns
 
-> 2 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 3 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
+
+- [Magnesium Glycinate For Better Sleep: Dosage Guide](../../breakdowns/zh-CN/2026-07/tiktok-transcript-this-supplement-will-change-your-life-menopause-magnesium-su-603d.md) — 3.6M views · `Universal Command` · 2026-07-01
 
 - [Unlock Summer Body with Goli Gummies Routine](../../breakdowns/zh-CN/2026-06/tiktok-transcript-code-golijune-goli-ashwagandha-applecidervinegar-probiotics-1f33.md) — 3.4M views · `Regret & Urgency` · 2026-06-15
 

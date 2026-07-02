@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 95 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 96 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -138,6 +138,8 @@
 - [Marriage Is a One-Month Blessing](../../breakdowns/zh-CN/2026-06/tiktok-transcript-fyp-capcut-612d.md) — 1.4M views · `Rhetorical question + absurd premise` · 2026-06-02
 
 - [3 Reasons Not to Buy the Viral Slushy Cup](../../breakdowns/zh-CN/2026-05/tiktok-transcript-n-achetez-pas-ce-gobelet-granita-viral-slushycupfreeze-st-a102.md) — 1.3M views · `Reverse Psychology List` · 2026-05-25
+
+- [Excessive Paw Itching Caused by Fungi and Bacteria](../../breakdowns/zh-CN/2026-06/tiktok-transcript-coceiras-em-excesso-nas-patolas-podem-ser-causadas-por-fungo-71c0.md) — 1.3M views · `Curiosity gap with absurd analogy` · 2026-06-29
 
 - [Always Remember: You Don't Lose Them, They Lose You](../../breakdowns/zh-CN/2026-06/tiktok-transcript-always-remember-when-motivacion-motivacionvideo-motivacionqu-e331.md) — 1.3M views · `Reversal of expectation` · 2026-06-11
 

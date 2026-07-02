@@ -1,13 +1,17 @@
 # finance Breakdowns
 
-> 11 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 13 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
 
 - [No Money, Big Problem: Work Hard and Be Smart](../../breakdowns/zh-CN/2026-06/tiktok-transcript-no-boy-friend-no-problem-no-girl-friend-no-problem-no-money-b0e9.md) — 76.3M views · `contrast escalation` · 2026-06-02
 
+- [The 3 Worst Businesses to Buy According to an Expert](../../breakdowns/zh-CN/2026-07/tiktok-transcript-here-are-the-3-worst-businesses-you-could-ever-buy-because-i-b7ad.md) — 12.4M views · `Listicle with contrarian premise` · 2026-07-01
+
 - [House Hacking Explained: Pay $100 a Month to Live Here](../../breakdowns/zh-CN/2026-05/tiktok-transcript-house-hacking-explained-realestate-househacking-wealth-inves-15af.md) — 8.4M views · `Surprising reveal` · 2026-05-31
+
+- [Dave Ramsey Refuses Billion Dollar Zero-Interest Loan](../../breakdowns/zh-CN/2026-07/tiktok-transcript-dave-ramsey-is-crazy-for-this-businesscoach-daveramsey-finan-ce5d.md) — 3.3M views · `Authority challenge` · 2026-07-01
 
 - [House Affordability on a $20/Hour Salary](../../breakdowns/zh-CN/2026-05/tiktok-transcript-here-s-how-much-you-can-afford-for-a-house-if-you-make-20-ho-32a7.md) — 2.9M views · `Curiosity Gap + Specificity` · 2026-05-31
 
