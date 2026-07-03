@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 96 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 100 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -8,6 +8,8 @@
 - [10-Year-Old Daughter Pregnancy Dilemma](../../breakdowns/en/2026-06/tiktok-transcript-yikessss-ce18.md) — 30.1M views · `Hypothetical Scenario` · 2026-06-14
 
 - [A Love That Sees and Chooses Me](../../breakdowns/en/2026-05/tiktok-transcript-a-public-witness-of-what-heaven-already-knew-7ab7.md) — 26.4M views · `Relatable vulnerability + unexpected twist` · 2026-05-27
+
+- [Steve Harvey Asks How You'd Feel If You Never Saw Him Again](../../breakdowns/en/2026-07/tiktok-transcript-if-you-never-saw-me-again-steveharvey-mindset-mentality-succ-5e54.md) — 25.0M views · `Hypothetical Question` · 2026-07-02
 
 - [The Number One Question I Get Has the Same Answer: AG1](../../breakdowns/en/2026-05/tiktok-transcript-the-number-one-question-i-get-always-has-the-same-answer-i-d-d0f4.md) — 24.3M views · `Curiosity Gap` · 2026-05-29
 
@@ -63,11 +65,17 @@
 
 - [The Hardest Part of ADHD: Hyperfixation on Loved Ones](../../breakdowns/en/2026-06/tiktok-transcript-the-truth-about-adhd-no-one-talks-about-adhdawareness-psycho-400d.md) — 4.1M views · `Relatable Revelation` · 2026-06-21
 
+- [Tom Hardy Explains Why He Chooses to Be Single](../../breakdowns/en/2026-07/tiktok-transcript-tom-hardy-motivation-tomhardy-relationshipgoals-relationship-9d4f.md) — 4.0M views · `Contradiction/Reframe` · 2026-07-02
+
 - [Keep Kidneys Healthy With These Tips](../../breakdowns/en/2026-06/tiktok-transcript-kidney-bb8a.md) — 3.8M views · `Numbered list with urgent warning` · 2026-06-29
+
+- [Angelina Jolie: Stay Single and Invest in Yourself](../../breakdowns/en/2026-07/tiktok-transcript-angelina-jolie-motivation-fyp-viral-angelinajolie-lifelesson-1adf.md) — 3.5M views · `Empowerment with divine promise` · 2026-07-02
 
 - [Letter to Dad: First Love, First Heartbreak](../../breakdowns/en/2026-05/tiktok-transcript-ya-tocaba-uno-as-monlaferte-fpy-desamor-fenmefatale-parati-0f8e.md) — 3.4M views · `Contradiction Hook` · 2026-05-28
 
 - [Best Car Phone Mount Hack Drivers Keep Secret](../../breakdowns/en/2026-06/tiktok-transcript-carphonemount-don-t-let-people-who-drive-know-about-this-car-e498.md) — 3.4M views · `Musical Hook` · 2026-06-23
+
+- [Nail in Onion Behind Door Blocks Neighbors Evil Eye](../../breakdowns/en/2026-07/tiktok-transcript-7-1m-views-115k-reactions-protection-bodyfacts-lifestyle-vir-d28c.md) — 3.4M views · `numbered list with surprising remedy` · 2026-07-02
 
 - [Fix Your Juicer Machine, Stop Wasting Money](../../breakdowns/en/2026-06/tiktok-transcript-saraikimonkey-bandar-viraltiktok-ai-42f3.md) — 3.2M views · `Repetitive command with escalating absurdity` · 2026-06-16
 

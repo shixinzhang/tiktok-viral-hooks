@@ -1,8 +1,10 @@
 # Hook Pattern: Surprise Reveal
 
-> 1 viral TikTok videos that use this hook pattern.
+> 2 viral TikTok videos that use this hook pattern.
 
 [← Back to README](../../README.md)
 
+
+- [Loc Wig Install Is Easy and Breathable](../../breakdowns/en/2026-07/tiktok-transcript-locs-are-sooo-beautiful-free-shipping-locwig-lochairstyles-g-b9b8.md) — 6.2M views · `beauty` · 2026-07-02
 
 - [Half Wig Summer: 5 Minute Install](../../breakdowns/en/2026-06/tiktok-transcript-it-s-a-half-wig-summer-5-mns-she-s-on-halfwig-hairstyle-body-55d8.md) — 1.0M views · `beauty` · 2026-06-17
