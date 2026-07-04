@@ -1,9 +1,11 @@
 # entertainment Breakdowns
 
-> 67 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 69 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
+
+- [My First Original Rap Song Performance](../../breakdowns/en/2026-07/tiktok-transcript-my-first-own-rap-song-1477.md) — 129.5M views · `Identity + Status Reveal` · 2026-07-03
 
 - [He Tapped Back: Morse Code With Twin Brother After Accident](../../breakdowns/en/2026-06/tiktok-transcript-he-tapped-back-3danimation-animationart-digitalart-ed-2eee.md) — 50.6M views · `Childhood secret code setup` · 2026-06-08
 
@@ -20,6 +22,8 @@
 - [Phonk Bass Boosted Headphone Test](../../breakdowns/en/2026-06/tiktok-transcript-this-song-hedphones-bass-phonk-phonk-music-bassboosted-m-2fc1.md) — 10.6M views · `Repetition for emphasis` · 2026-06-12
 
 - [Is Alina Ross Actually Candy Love](../../breakdowns/en/2026-05/tiktok-transcript-is-alina-ross-actually-candy-love-influencer-celebrity-candy-2a7b.md) — 10.1M views · `Rhetorical Question` · 2026-05-24
+
+- [Goodbye My Favorite Stranger With Memories](../../breakdowns/en/2026-07/tiktok-transcript-goodbye-my-favorite-stranger-motivacion-inspiration-displine-84e6.md) — 9.8M views · `Contradictory juxtaposition` · 2026-07-03
 
 - [Don't Tell Your Dreams to Everybody Around](../../breakdowns/en/2026-06/tiktok-transcript-don-t-tell-your-dreams-capcut-fyp-trend-lyrics-templatecapcu-55fa.md) — 9.6M views · `Cautionary advice with contrast` · 2026-06-29
 

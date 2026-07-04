@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 100 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 102 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -13,6 +13,8 @@
 
 - [The Number One Question I Get Has the Same Answer: AG1](../../breakdowns/en/2026-05/tiktok-transcript-the-number-one-question-i-get-always-has-the-same-answer-i-d-d0f4.md) — 24.3M views · `Curiosity Gap` · 2026-05-29
 
+- [We Don't Deserve Dogs](../../breakdowns/en/2026-07/tiktok-transcript-we-don-t-deserve-dogs-hopecore-wholesome-positivity-dogs-8129.md) — 23.3M views · `Shock non-sequitur` · 2026-07-03
+
 - [How to Control Your Mood and Stop Reacting to Others](../../breakdowns/en/2026-05/tiktok-transcript-selfworth-peace-relationships-mood-86ca.md) — 22.6M views · `Authority Statement` · 2026-05-31
 
 - [Sweetest Wedding Vows Made Me Cry While Editing](../../breakdowns/en/2026-05/tiktok-transcript-i-actually-cried-editing-this-the-sweetest-vows-weddingtikto-6126.md) — 17.9M views · `conditional promise` · 2026-05-27
@@ -24,6 +26,8 @@
 - [Arafa Night Prayer for Life Change](../../breakdowns/en/2026-05/tiktok-transcript-video-a962.md) — 15.2M views · `Promise of transformation` · 2026-05-25
 
 - [You Are Enough Every Minute of Every Day](../../breakdowns/en/2026-06/tiktok-transcript-you-are-enough-every-minute-of-everyday-remind-yourself-how-3500.md) — 14.2M views · `Direct address + time constraint` · 2026-06-01
+
+- [Giant S'more Roast and Skittles Separation Reaction](../../breakdowns/en/2026-07/tiktok-transcript-jtvjember-evakuasi-sidoarjo-fyp-foryou-b9ba.md) — 12.0M views · `Surprise and escalating curiosity` · 2026-07-03
 
 - [Loving the Sentence About Doing Enough](../../breakdowns/en/2026-06/tiktok-transcript-just-because-you-could-be-doing-more-doesn-t-mean-you-re-not-88b7.md) — 11.9M views · `Reframe` · 2026-06-02
 

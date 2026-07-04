@@ -1,11 +1,13 @@
 # food Breakdowns
 
-> 12 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 13 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
 
 - [Water Vapor Squeezes Fruit Into Pure Juice Instantly](../../breakdowns/zh-CN/2026-05/tiktok-transcript-goodthing-tiktok-goodthings-93ee.md) — 29.4M views · `Unexpected twist` · 2026-05-24
+
+- [My Favorite Dinner for Type 2 Diabetes](../../breakdowns/zh-CN/2026-07/tiktok-transcript-mejora-tus-niveles-de-glucosa-obt-n-tu-libro-en-el-enlace-de-8700.md) — 18.0M views · `Identity + Benefit` · 2026-07-03
 
 - [Carrot Beetroot Cabbage Lemon Juice Detox Benefits by Dr....](../../breakdowns/zh-CN/2026-06/tiktok-transcript-esse-suco-um-potente-detox-para-o-corpo-dr-dayan-siebra-no-01fe.md) — 17.3M views · `Bold Claim` · 2026-06-28
 
