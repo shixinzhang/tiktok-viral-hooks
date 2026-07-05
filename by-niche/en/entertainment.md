@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 69 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 70 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -64,6 +64,8 @@
 - [Part 2: Oxidized Silver and Ruby Story](../../breakdowns/en/2026-05/tiktok-transcript-part-2-the-oxidized-sliver-and-the-ruby-story-part-1-fruitst-375f.md) — 3.6M views · `Question-Answer Conflict` · 2026-05-22
 
 - [Argentina 3-0 Algeria Match Highlights](../../breakdowns/en/2026-06/tiktok-transcript-r-sum-argentine-3-0-alg-rie-abonnez-vous-pour-voir-tous-les-a8ed.md) — 3.4M views · `Action-packed play-by-play` · 2026-06-19
+
+- [Queen of Pop Out Now Stream Everywhere](../../breakdowns/en/2026-07/tiktok-transcript-queen-of-pop-out-now-jetzt-auf-allen-plattformen-streamen-f03a.md) — 3.3M views · `Identity Shift / Status Claim` · 2026-07-03
 
 - [Bury Me With a Picture of My Sister in My Front Pocket](../../breakdowns/en/2026-05/tiktok-transcript-bury-me-with-a-picture-of-my-sister-in-my-front-pocket-inspo-4ad4.md) — 3.2M views · `Unexpected Reversal` · 2026-05-29
 

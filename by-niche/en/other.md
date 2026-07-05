@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 102 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 106 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -27,6 +27,8 @@
 
 - [You Are Enough Every Minute of Every Day](../../breakdowns/en/2026-06/tiktok-transcript-you-are-enough-every-minute-of-everyday-remind-yourself-how-3500.md) — 14.2M views · `Direct address + time constraint` · 2026-06-01
 
+- [Life Hacks 99% of People Don't Know](../../breakdowns/en/2026-07/tiktok-transcript-life-lifetips-fyp-foryou-lifehacks-1d3f.md) — 12.4M views · `Curiosity Gap + Numbered List` · 2026-07-05
+
 - [Giant S'more Roast and Skittles Separation Reaction](../../breakdowns/en/2026-07/tiktok-transcript-jtvjember-evakuasi-sidoarjo-fyp-foryou-b9ba.md) — 12.0M views · `Surprise and escalating curiosity` · 2026-07-03
 
 - [Loving the Sentence About Doing Enough](../../breakdowns/en/2026-06/tiktok-transcript-just-because-you-could-be-doing-more-doesn-t-mean-you-re-not-88b7.md) — 11.9M views · `Reframe` · 2026-06-02
@@ -40,6 +42,8 @@
 - [Not Everyone Who Gets Angry Is Bad](../../breakdowns/en/2026-05/tiktok-transcript-984k-views-453k-reactions-trendingreels-reelitfeelit-hindire-eb72.md) — 9.1M views · `Contrasting Assumption` · 2026-05-30
 
 - [Sharing My Wedding Vows and Crying Through Them](../../breakdowns/en/2026-05/tiktok-transcript-i-realized-i-never-shared-my-wedding-vows-and-i-am-the-bigge-5de6.md) — 8.9M views · `Selfish wish twist` · 2026-05-27
+
+- [Best Cat Litter for Your Feline Friends](../../breakdowns/en/2026-07/tiktok-transcript-the-best-litter-for-your-cats-catlovers-cutecats-funnycats-b6bb.md) — 8.8M views · `Direct Gratitude` · 2026-07-03
 
 - [Teaching Grandfather to Make Handmade Soaps in 2 Classes](../../breakdowns/en/2026-06/tiktok-transcript-te-ense-o-a-crear-jabones-artesanales-paso-a-paso-en-2-clase-b940.md) — 8.5M views · `Curiosity Gap with Specific Age` · 2026-06-15
 
@@ -81,6 +85,8 @@
 
 - [Nail in Onion Behind Door Blocks Neighbors Evil Eye](../../breakdowns/en/2026-07/tiktok-transcript-7-1m-views-115k-reactions-protection-bodyfacts-lifestyle-vir-d28c.md) — 3.4M views · `numbered list with surprising remedy` · 2026-07-02
 
+- [Why Silent People Withdraw When Hurt](../../breakdowns/en/2026-07/tiktok-transcript-people-who-go-silent-38db.md) — 3.3M views · `Psychological label reveal` · 2026-07-02
+
 - [Fix Your Juicer Machine, Stop Wasting Money](../../breakdowns/en/2026-06/tiktok-transcript-saraikimonkey-bandar-viraltiktok-ai-42f3.md) — 3.2M views · `Repetitive command with escalating absurdity` · 2026-06-16
 
 - [Today's Advice: Fear of Rejection Is Lack of Shame](../../breakdowns/en/2026-05/tiktok-transcript-consejo-de-hoy-5a21.md) — 3.1M views · `Confrontational Reframe` · 2026-05-22
@@ -90,6 +96,8 @@
 - [Ebola Outbreak Declared Global Health Emergency, US Bans...](../../breakdowns/en/2026-05/tiktok-transcript-one-thing-after-another-504d.md) — 3.0M views · `Urgent News Alert` · 2026-05-25
 
 - [Practical Life Hacks You've Never Seen Before](../../breakdowns/en/2026-06/tiktok-transcript-lifehacks-lifetips-learnontiktok-fyp-foryou-0a55.md) — 3.0M views · `Curiosity Gap with Specific Promise` · 2026-06-12
+
+- [Karma Is Real: What Goes Around Comes Back Tenfold](../../breakdowns/en/2026-07/tiktok-transcript-karma-is-real-motivation-podcast-quotes-podcastclips-womene-dd79.md) — 2.9M views · `Bold Statement` · 2026-07-04
 
 - [All Algebra Rules in One Minute](../../breakdowns/en/2026-06/tiktok-transcript-quick-maths-study-oneminute-algebra-all-study-sat-rules-your-ea5f.md) — 2.9M views · `Promise of rapid mastery` · 2026-06-22
 
