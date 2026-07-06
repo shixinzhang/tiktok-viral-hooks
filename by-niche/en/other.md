@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 106 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 108 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -26,6 +26,8 @@
 - [Arafa Night Prayer for Life Change](../../breakdowns/en/2026-05/tiktok-transcript-video-a962.md) — 15.2M views · `Promise of transformation` · 2026-05-25
 
 - [You Are Enough Every Minute of Every Day](../../breakdowns/en/2026-06/tiktok-transcript-you-are-enough-every-minute-of-everyday-remind-yourself-how-3500.md) — 14.2M views · `Direct address + time constraint` · 2026-06-01
+
+- [Life Hacks 99% of People Don't Know](../../breakdowns/en/2026-07/tiktok-transcript-life-lifetips-fyp-foryou-lifehacks-79e3.md) — 12.4M views · `Exclusivity + numbered list` · 2026-07-05
 
 - [Life Hacks 99% of People Don't Know](../../breakdowns/en/2026-07/tiktok-transcript-life-lifetips-fyp-foryou-lifehacks-1d3f.md) — 12.4M views · `Curiosity Gap + Numbered List` · 2026-07-05
 
@@ -62,6 +64,8 @@
 - [Polyurethane Foam Spray Insulation Expanding and Solidifying](../../breakdowns/en/2026-06/tiktok-transcript-l-isolation-par-mousse-de-polyur-thane-isolation-polyurethan-fc83.md) — 6.6M views · `Visual Curiosity Gap` · 2026-06-16
 
 - [Let Him Fully Experience That Decision](../../breakdowns/en/2026-05/tiktok-transcript-baby-let-him-experience-that-decision-fully-nopryorwarning-a115.md) — 6.3M views · `Conditional Challenge` · 2026-05-25
+
+- [Get Your Free Private Reading Now](../../breakdowns/en/2026-07/tiktok-transcript-click-the-link-in-my-bio-for-free-private-reading-mainfest-p-5783.md) — 5.8M views · `Direct address + certainty` · 2026-07-05
 
 - [Trending Loose Pants For Women](../../breakdowns/en/2026-06/tiktok-transcript-trending-loose-pants-for-women-0616.md) — 5.8M views · `Rhetorical Question` · 2026-06-20
 

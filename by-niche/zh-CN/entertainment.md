@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 70 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 73 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -83,6 +83,8 @@
 
 - [Secret Billionaire Father's Child - Episode 8 Finale (Tag...](../../breakdowns/zh-CN/2026-06/tiktok-transcript-sekretong-anak-bilyonaryong-ama-episode-8-ang-pagwawakas-tag-e36e.md) — 2.2M views · `Resigned Acceptance` · 2026-06-24
 
+- [Diver Describes Secret Mission Underwater](../../breakdowns/zh-CN/2026-07/tiktok-transcript-with-the-fishes-junus-e42a.md) — 2.2M views · `Identity + Call to Action` · 2026-07-03
+
 - [She Says Save Money Then Asks for Ice Cream](../../breakdowns/zh-CN/2026-05/tiktok-transcript-me-dice-que-ahorremos-y-me-sale-con-esto-2664.md) — 2.2M views · `Contrasting setup` · 2026-05-25
 
 - [Rare 1800s Historical Photos: Chestnut Crushing Shoes & More](../../breakdowns/zh-CN/2026-06/tiktok-transcript-rare-historical-photos-of-1800-historical-creepy-storytime-f-02cb.md) — 2.2M views · `Curiosity gap with specific oddity` · 2026-06-08
@@ -92,6 +94,10 @@
 - [Late for School, Forgot Epilepsy Meds, Mom Angry](../../breakdowns/zh-CN/2026-06/tiktok-transcript-while-i-was-late-for-school-i-realized-i-forgot-to-take-my-e-4270.md) — 2.1M views · `Urgent confession` · 2026-06-27
 
 - [Rio God Mode: Unstoppable Action](../../breakdowns/zh-CN/2026-06/tiktok-transcript-214k-views-289k-reactions-rio-god-mode-rio-films-97a8.md) — 2.1M views · `Defiance/Reversal` · 2026-06-16
+
+- [OOTD: Deciding Whether to Let Go](../../breakdowns/zh-CN/2026-07/tiktok-transcript-ootd-484b.md) — 2.0M views · `Rhetorical Question` · 2026-07-03
+
+- [Dark Fantasy Golden Brown](../../breakdowns/zh-CN/2026-07/tiktok-transcript-darkfantasy-goldenbrown-fyp-0f74.md) — 2.0M views · `Audio Branding` · 2026-07-03
 
 - [Sharing My Story at Blue Valley Northwest Graduation](../../breakdowns/zh-CN/2026-05/tiktok-transcript-dream-come-true-getting-to-share-my-story-in-front-of-people-a9cc.md) — 1.9M views · `Shared anticipation` · 2026-05-27
 
