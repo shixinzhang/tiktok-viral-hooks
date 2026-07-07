@@ -1,6 +1,6 @@
 # Hook Pattern: Curiosity Gap
 
-> 8 viral TikTok videos that use this hook pattern.
+> 9 viral TikTok videos that use this hook pattern.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -14,6 +14,8 @@
 - [Tasty Burger Production: Marinade to Meat Grinder](../../breakdowns/zh-CN/2026-06/tiktok-transcript-movie-usa-foryou-film-tiktok-d95e.md) — 2.2M views · `food` · 2026-06-13
 
 - [Review of Viral Matcha Lake in China](../../breakdowns/zh-CN/2026-05/tiktok-transcript-review-h-matcha-si-u-hot-m-ng-x-h-i-th-gi-i-xem-n-cu-i-th-d28f.md) — 1.8M views · `other` · 2026-05-28
+
+- [YouTuber Yuppi Faces Backlash for Watching Japan vs Tunis...](../../breakdowns/zh-CN/2026-07/tiktok-transcript-youtuber-fifa-a351.md) — 1.6M views · `entertainment` · 2026-07-05
 
 - [Indian Buffalo Grooming Before Sale for Better Price](../../breakdowns/zh-CN/2026-06/tiktok-transcript-tiktok-video-7645058607842741536-6fc0.md) — 1.0M views · `other` · 2026-06-15
 

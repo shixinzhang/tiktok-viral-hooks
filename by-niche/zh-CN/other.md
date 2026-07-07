@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 108 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 110 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -153,6 +153,8 @@
 
 - [The Happiest People Appreciate What They Have](../../breakdowns/zh-CN/2026-06/tiktok-transcript-3-6m-views-73k-reactions-the-happiest-people-are-not-the-one-5c6d.md) — 1.5M views · `Reframing` · 2026-06-25
 
+- [Best Motivational Speech: Life Lesson on Self-Worth](../../breakdowns/zh-CN/2026-07/tiktok-transcript-best-motivational-speech-life-lesson-must-watch-foryou-foryo-2145.md) — 1.5M views · `Metaphorical hook` · 2026-07-04
+
 - [Admitting My Mistake and the Pain I Caused](../../breakdowns/zh-CN/2026-05/tiktok-transcript-tiktok-video-7642225034412428552-3d4b.md) — 1.5M views · `Vulnerability & Accountability` · 2026-05-24
 
 - [I Couldn't Love Anyone After You Left](../../breakdowns/zh-CN/2026-05/tiktok-transcript-ak-akash7060-6372.md) — 1.5M views · `Emotional confession` · 2026-05-24
@@ -166,6 +168,8 @@
 - [Excessive Paw Itching Caused by Fungi and Bacteria](../../breakdowns/zh-CN/2026-06/tiktok-transcript-coceiras-em-excesso-nas-patolas-podem-ser-causadas-por-fungo-71c0.md) — 1.3M views · `Curiosity gap with absurd analogy` · 2026-06-29
 
 - [Always Remember: You Don't Lose Them, They Lose You](../../breakdowns/zh-CN/2026-06/tiktok-transcript-always-remember-when-motivacion-motivacionvideo-motivacionqu-e331.md) — 1.3M views · `Reversal of expectation` · 2026-06-11
+
+- [Natural Sleep Recipe for Deep Rest All Week](../../breakdowns/zh-CN/2026-07/tiktok-transcript-sleep-like-a-baby-again-bettersleep-naturalremedy-bedtime-sl-422f.md) — 1.2M views · `Pain point empathy` · 2026-07-06
 
 - [Why You Shouldn't Pee When Waking Up at Night](../../breakdowns/zh-CN/2026-06/tiktok-transcript-waking-up-in-the-middle-of-the-night-and-immediately-getting-e708.md) — 1.2M views · `Contrarian advice` · 2026-06-15
 
