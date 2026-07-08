@@ -1,6 +1,6 @@
 # Hook Pattern: Curiosity Gap
 
-> 9 viral TikTok videos that use this hook pattern.
+> 10 viral TikTok videos that use this hook pattern.
 
 [← Back to README](../../README.md)
 
@@ -16,6 +16,8 @@
 - [Review of Viral Matcha Lake in China](../../breakdowns/en/2026-05/tiktok-transcript-review-h-matcha-si-u-hot-m-ng-x-h-i-th-gi-i-xem-n-cu-i-th-d28f.md) — 1.8M views · `other` · 2026-05-28
 
 - [YouTuber Yuppi Faces Backlash for Watching Japan vs Tunis...](../../breakdowns/en/2026-07/tiktok-transcript-youtuber-fifa-a351.md) — 1.6M views · `entertainment` · 2026-07-05
+
+- [How Keeping a Cat Improves Home Feng Shui](../../breakdowns/en/2026-07/tiktok-transcript-how-keeping-a-cat-transforms-your-home-s-feng-shui-cat-fengs-75ab.md) — 1.5M views · `other` · 2026-07-07
 
 - [Indian Buffalo Grooming Before Sale for Better Price](../../breakdowns/en/2026-06/tiktok-transcript-tiktok-video-7645058607842741536-6fc0.md) — 1.0M views · `other` · 2026-06-15
 

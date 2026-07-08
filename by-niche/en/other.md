@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 110 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 115 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -123,6 +123,8 @@
 
 - [They Call Me a Stranger Here](../../breakdowns/en/2026-06/tiktok-transcript-capcut-3ydo-50ca.md) — 2.3M views · `Contrast & Warning` · 2026-06-27
 
+- [Why Piles of Worn Clothes Drain Your Energy](../../breakdowns/en/2026-07/tiktok-transcript-never-leave-piles-of-worn-clothes-on-chairs-or-couches-even-6538.md) — 2.2M views · `Direct Command + Consequence` · 2026-07-07
+
 - [5 Clothes Folding Methods You Need to Know](../../breakdowns/en/2026-06/tiktok-transcript-life-lifetips-fyp-foryou-lifehacks-viral-d22d.md) — 2.1M views · `Challenge/Knowledge Gap` · 2026-06-13
 
 - [Gola Ganda And Kulfi Love Story Part 1](../../breakdowns/en/2026-06/tiktok-transcript-gola-ganda-and-kulfi-love-story-part-1-creatorsearchinsights-3e11.md) — 2.1M views · `Rhetorical question + contradiction` · 2026-06-20
@@ -155,6 +157,8 @@
 
 - [Best Motivational Speech: Life Lesson on Self-Worth](../../breakdowns/en/2026-07/tiktok-transcript-best-motivational-speech-life-lesson-must-watch-foryou-foryo-2145.md) — 1.5M views · `Metaphorical hook` · 2026-07-04
 
+- [How Keeping a Cat Improves Home Feng Shui](../../breakdowns/en/2026-07/tiktok-transcript-how-keeping-a-cat-transforms-your-home-s-feng-shui-cat-fengs-75ab.md) — 1.5M views · `Curiosity Gap` · 2026-07-07
+
 - [Admitting My Mistake and the Pain I Caused](../../breakdowns/en/2026-05/tiktok-transcript-tiktok-video-7642225034412428552-3d4b.md) — 1.5M views · `Vulnerability & Accountability` · 2026-05-24
 
 - [I Couldn't Love Anyone After You Left](../../breakdowns/en/2026-05/tiktok-transcript-ak-akash7060-6372.md) — 1.5M views · `Emotional confession` · 2026-05-24
@@ -185,6 +189,8 @@
 
 - [Letter to Dad: First Love, First Disappointment](../../breakdowns/en/2026-05/tiktok-transcript-ya-tocaba-uno-as-monlaferte-fpy-desamor-fenmefatale-parati-b1d2.md) — 933.8K views · `Contrasting Emotion` · 2026-05-25
 
+- [5 Amazing Health Facts About Soaked Vegetable Waters](../../breakdowns/en/2026-07/tiktok-transcript-5-amazing-facts-about-health-a456.md) — 900.0K views · `Numbered list of benefits` · 2026-07-07
+
 - [Join 2 Free Handmade Soap Classes Starting May 26](../../breakdowns/en/2026-06/tiktok-transcript-nete-a-2-clases-gratuitas-de-jabones-artesanales-en-el-link-d2f7.md) — 887.7K views · `Rhetorical Question + Metaphor` · 2026-06-11
 
 - [Bakery Owner Replaced by Machine](../../breakdowns/en/2026-06/tiktok-transcript-if-you-enjoyed-this-story-leave-a-like-and-a-comment-emotion-bb14.md) — 886.8K views · `Unexpected dismissal` · 2026-06-27
@@ -194,6 +200,10 @@
 - [College: Is It Entirely Useless for Growth?](../../breakdowns/en/2026-06/tiktok-transcript-tiktok-video-7594956396702092557-7611.md) — 733.7K views · `Challenge + Question` · 2026-06-17
 
 - [Forgetting Happens When You Wake Up One Day](../../breakdowns/en/2026-06/tiktok-transcript-dimenticare-perte-fyp-foryoupage-andiamoneiperte-3c46.md) — 711.7K views · `Relatable mundane setup with twist` · 2026-06-04
+
+- [Mountain Goat Walks Dangerous Cliff Edges Without Falling](../../breakdowns/en/2026-07/tiktok-transcript-1-3m-views-63k-reactions-dios-cre-un-animal-capaz-de-caminar-92a5.md) — 656.9K views · `Curiosity gap + surprising fact` · 2026-07-06
+
+- [Real Fortune Telling: Write Your First Name in Comments](../../breakdowns/en/2026-07/tiktok-transcript-je-vais-te-faire-de-la-vrai-divination-crit-ton-pr-nom-en-co-8805.md) — 630.1K views · `Direct Command with Mystery` · 2026-07-06
 
 - [Ojalá Un Día Te Duél Mi Ausencia Mon Laferte](../../breakdowns/en/2026-06/tiktok-transcript-tal-vez-nunca-entendi-cu-nto-lo-am-monlaferte-decepcion-tikt-2163.md) — 629.6K views · `Ojalá + dolor inverso` · 2026-06-22
 
