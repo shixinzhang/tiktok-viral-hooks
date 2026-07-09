@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 115 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 117 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -78,6 +78,8 @@
 - [The Hardest Part of ADHD: Hyperfixation on Loved Ones](../../breakdowns/en/2026-06/tiktok-transcript-the-truth-about-adhd-no-one-talks-about-adhdawareness-psycho-400d.md) — 4.1M views · `Relatable Revelation` · 2026-06-21
 
 - [Tom Hardy Explains Why He Chooses to Be Single](../../breakdowns/en/2026-07/tiktok-transcript-tom-hardy-motivation-tomhardy-relationshipgoals-relationship-9d4f.md) — 4.0M views · `Contradiction/Reframe` · 2026-07-02
+
+- [Connected Diagonal Line Palm Wealth Meaning](../../breakdowns/en/2026-07/tiktok-transcript-palmistry-palmist-palmistry-palmreading-b574.md) — 3.9M views · `Reveal a hidden sign` · 2026-07-08
 
 - [Keep Kidneys Healthy With These Tips](../../breakdowns/en/2026-06/tiktok-transcript-kidney-bb8a.md) — 3.8M views · `Numbered list with urgent warning` · 2026-06-29
 
@@ -190,6 +192,8 @@
 - [Letter to Dad: First Love, First Disappointment](../../breakdowns/en/2026-05/tiktok-transcript-ya-tocaba-uno-as-monlaferte-fpy-desamor-fenmefatale-parati-b1d2.md) — 933.8K views · `Contrasting Emotion` · 2026-05-25
 
 - [5 Amazing Health Facts About Soaked Vegetable Waters](../../breakdowns/en/2026-07/tiktok-transcript-5-amazing-facts-about-health-a456.md) — 900.0K views · `Numbered list of benefits` · 2026-07-07
+
+- [Mystic Cross in Palmistry: Hidden Sign of Spiritual Gifte...](../../breakdowns/en/2026-07/tiktok-transcript-palmistry-zodiacsigns-astrology-marriage-fyi-be92.md) — 897.5K views · `Exclusive Revelation` · 2026-07-08
 
 - [Join 2 Free Handmade Soap Classes Starting May 26](../../breakdowns/en/2026-06/tiktok-transcript-nete-a-2-clases-gratuitas-de-jabones-artesanales-en-el-link-d2f7.md) — 887.7K views · `Rhetorical Question + Metaphor` · 2026-06-11
 

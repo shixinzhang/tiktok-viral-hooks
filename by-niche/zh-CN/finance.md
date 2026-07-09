@@ -1,6 +1,6 @@
 # finance Breakdowns
 
-> 13 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 14 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -10,6 +10,8 @@
 - [The 3 Worst Businesses to Buy According to an Expert](../../breakdowns/zh-CN/2026-07/tiktok-transcript-here-are-the-3-worst-businesses-you-could-ever-buy-because-i-b7ad.md) — 12.4M views · `Listicle with contrarian premise` · 2026-07-01
 
 - [House Hacking Explained: Pay $100 a Month to Live Here](../../breakdowns/zh-CN/2026-05/tiktok-transcript-house-hacking-explained-realestate-househacking-wealth-inves-15af.md) — 8.4M views · `Surprising reveal` · 2026-05-31
+
+- [Average New Car Payment Hits $750 Monthly](../../breakdowns/zh-CN/2026-07/tiktok-transcript-the-average-new-car-payment-nearly-750-dollars-a-month-now-o-e2b6.md) — 3.9M views · `Shocking Statistic` · 2026-07-08
 
 - [Dave Ramsey Refuses Billion Dollar Zero-Interest Loan](../../breakdowns/zh-CN/2026-07/tiktok-transcript-dave-ramsey-is-crazy-for-this-businesscoach-daveramsey-finan-ce5d.md) — 3.3M views · `Authority challenge` · 2026-07-01
 
