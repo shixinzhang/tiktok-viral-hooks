@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 117 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 121 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -65,11 +65,15 @@
 
 - [Let Him Fully Experience That Decision](../../breakdowns/zh-CN/2026-05/tiktok-transcript-baby-let-him-experience-that-decision-fully-nopryorwarning-a115.md) — 6.3M views · `Conditional Challenge` · 2026-05-25
 
+- [Dual Screen Setup with HUANUO Monitor Arm](../../breakdowns/zh-CN/2026-07/tiktok-transcript-dual-screen-wonder-stacked-perfection-with-huanuo-monitor-ar-088a.md) — 6.1M views · `Audio-only hook` · 2026-07-09
+
 - [Get Your Free Private Reading Now](../../breakdowns/zh-CN/2026-07/tiktok-transcript-click-the-link-in-my-bio-for-free-private-reading-mainfest-p-5783.md) — 5.8M views · `Direct address + certainty` · 2026-07-05
 
 - [Trending Loose Pants For Women](../../breakdowns/zh-CN/2026-06/tiktok-transcript-trending-loose-pants-for-women-0616.md) — 5.8M views · `Rhetorical Question` · 2026-06-20
 
 - [Dream Dress Hides Apron Belly for Curvy Women](../../breakdowns/zh-CN/2026-05/tiktok-transcript-dream-dress-for-us-curvy-girls-dress-apronbelly-curvyfashion-ecbc.md) — 5.6M views · `Vulnerability + Transformation` · 2026-05-22
+
+- [White Monitor Arm Holiday Sale for Clean Look](../../breakdowns/zh-CN/2026-07/tiktok-transcript-clean-look-maximum-flexibility-white-monitor-arm-holiday-sal-2f80.md) — 4.4M views · `Minimalist Hook` · 2026-07-09
 
 - [Falcon Tortures Itself 150 Days to Be Reborn](../../breakdowns/zh-CN/2026-06/tiktok-transcript-19-150-8621.md) — 4.2M views · `Curiosity gap with specific age` · 2026-06-12
 
@@ -131,6 +135,8 @@
 
 - [Gola Ganda And Kulfi Love Story Part 1](../../breakdowns/zh-CN/2026-06/tiktok-transcript-gola-ganda-and-kulfi-love-story-part-1-creatorsearchinsights-3e11.md) — 2.1M views · `Rhetorical question + contradiction` · 2026-06-20
 
+- [Teach Your Daughter Financial Independence for Self-Respect](../../breakdowns/zh-CN/2026-07/tiktok-transcript-one-day-i-will-tell-my-daughter-this-make-your-own-money-not-fc83.md) — 1.9M views · `Promise + Imperative` · 2026-07-10
+
 - [Ready Is a Decision, Not a Feeling](../../breakdowns/zh-CN/2026-06/tiktok-transcript-ready-isn-t-a-vibe-it-s-a-choice-healingjourney-chooseyourse-74b5.md) — 1.9M views · `Counterintuitive reframe` · 2026-06-01
 
 - [If Someone Asks What You Did Today, Don't Say It Was Hard](../../breakdowns/zh-CN/2026-06/tiktok-transcript-699k-views-100k-reactions-theek-hai-ashish-bagrecha-c2a0.md) — 1.8M views · `Hypothetical Question + Emotional Contrast` · 2026-06-01
@@ -142,6 +148,8 @@
 - [Aceh Floods Reach Unimaginable Heights on December 6](../../breakdowns/zh-CN/2026-05/tiktok-transcript-6-december-25-aceh-taming-can-not-imagine-this-high-of-the-f-f7b4.md) — 1.7M views · `Question-Answer Mismatch` · 2026-05-24
 
 - [Loving Harder While Protecting Self-Respect](../../breakdowns/zh-CN/2026-06/tiktok-transcript-i-can-love-you-harder-than-you-ever-been-loved-motivetion-mo-4a6b.md) — 1.7M views · `Contrast & Paradox` · 2026-06-13
+
+- [Pizza Toppings or Life Choices: Impossible Edition](../../breakdowns/zh-CN/2026-07/tiktok-transcript-tu-pr-f-res-quoi-tuprefereschallange-tupreferes-quiz-tiktokf-7f5b.md) — 1.6M views · `Impossible Choice` · 2026-07-09
 
 - [Hypothyroidism Pill Check: Levothyroxine Fatigue Fix](../../breakdowns/zh-CN/2026-05/tiktok-transcript-hipotiroidismo-salud-tiroides-medicina-bc00.md) — 1.6M views · `Challenge/Reversal` · 2026-05-28
 

@@ -1,9 +1,11 @@
 # tech Breakdowns
 
-> 4 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 5 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
+
+- [RGB Monitor Mount Stack, Spin and Shine](../../breakdowns/zh-CN/2026-07/tiktok-transcript-stack-spin-shine-rgb-monitor-mount-does-it-all-odyssey-ole-b4d9.md) — 1.7M views · `List-based promise` · 2026-07-09
 
 - [Pocket-Sized Emergency Phone Charger on Shark Tank US](../../breakdowns/zh-CN/2026-05/tiktok-transcript-sharks-loved-this-tiny-charger-shark-tank-us-5681.md) — 1.4M views · `Question-Answer Surprise` · 2026-05-23
 
