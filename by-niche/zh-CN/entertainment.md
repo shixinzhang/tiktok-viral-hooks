@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 77 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 79 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -113,6 +113,8 @@
 
 - [YouTuber Yuppi Faces Backlash for Watching Japan vs Tunis...](../../breakdowns/zh-CN/2026-07/tiktok-transcript-youtuber-fifa-a351.md) — 1.6M views · `Curiosity Gap` · 2026-07-05
 
+- [Remember Me in Six Years? Knock Knock](../../breakdowns/zh-CN/2026-07/tiktok-transcript-knock-knock-who-s-there-you-don-t-remember-me-c939.md) — 1.5M views · `Escalating Question` · 2026-07-10
+
 - [Universe Tarot Warning: Stop Ignoring This Sign](../../breakdowns/zh-CN/2026-07/tiktok-transcript-universe-tarotok-viral-tarot-foryou-fypviraltiktok-tarotr-fc1e.md) — 1.5M views · `Urgent Warning` · 2026-07-08
 
 - [Paranormal Encounter Horror Story at 3:33 AM](../../breakdowns/zh-CN/2026-05/tiktok-transcript-historia-de-terror-de-un-encuentro-paranormal-a-las-3-33-de-36d6.md) — 1.5M views · `Personal anecdote with eerie setting` · 2026-05-24
@@ -130,6 +132,8 @@
 - [This Is for All My Baby Girls](../../breakdowns/zh-CN/2026-05/tiktok-transcript-this-is-for-all-my-babygorls-2021tiktok-fyp-targetaudience-9e0a.md) — 1.3M views · `Direct address to a specific audience` · 2026-05-22
 
 - [Ghost Train of Hiroshima Passes Daily at 8:15 AM](../../breakdowns/zh-CN/2026-06/tiktok-transcript-o-trem-fantasma-de-hiroshima-historias-hiroshima-historiarea-0a42.md) — 1.3M views · `Did you know + specific location + supernatural element` · 2026-06-11
+
+- [What Happens When a Ship Sinks in the Ocean](../../breakdowns/zh-CN/2026-07/tiktok-transcript-fyp-reels-viral-shorts-4413.md) — 1.2M views · `Imminent Danger + Visual Surprise` · 2026-07-10
 
 - [West Coast Anthem Gets Man Ready to Park on Freeway](../../breakdowns/zh-CN/2026-07/tiktok-transcript-og-trippin-lol-og-unc-anthem-westcoast-cali-5641.md) — 1.1M views · `Urgent declaration + immediate exit` · 2026-07-04
 

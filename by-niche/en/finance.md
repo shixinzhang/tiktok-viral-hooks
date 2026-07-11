@@ -1,6 +1,6 @@
 # finance Breakdowns
 
-> 14 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 15 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -16,6 +16,8 @@
 - [Dave Ramsey Refuses Billion Dollar Zero-Interest Loan](../../breakdowns/en/2026-07/tiktok-transcript-dave-ramsey-is-crazy-for-this-businesscoach-daveramsey-finan-ce5d.md) — 3.3M views · `Authority challenge` · 2026-07-01
 
 - [House Affordability on a $20/Hour Salary](../../breakdowns/en/2026-05/tiktok-transcript-here-s-how-much-you-can-afford-for-a-house-if-you-make-20-ho-32a7.md) — 2.9M views · `Curiosity Gap + Specificity` · 2026-05-31
+
+- [Avoid Being House Poor: Real Estate Upkeep Costs](../../breakdowns/en/2026-07/tiktok-transcript-don-t-be-house-poor-glenndabaker-realestate-atlantarealestat-077f.md) — 2.8M views · `Myth vs. Reality` · 2026-07-10
 
 - [School Doesn't Create Winners, It Creates Obedient Employees](../../breakdowns/en/2026-06/tiktok-transcript-la-escuela-no-forma-ganadores-forma-empleados-obedientes-y-e-77d8.md) — 2.8M views · `Rhetorical question + contrarian statement` · 2026-06-07
 

@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 121 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 123 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -199,9 +199,13 @@
 
 - [Letter to Dad: First Love, First Disappointment](../../breakdowns/zh-CN/2026-05/tiktok-transcript-ya-tocaba-uno-as-monlaferte-fpy-desamor-fenmefatale-parati-b1d2.md) — 933.8K views · `Contrasting Emotion` · 2026-05-25
 
+- [Mystic Cross in Palmistry: Hidden Sign of Spiritual Gifte...](../../breakdowns/zh-CN/2026-07/tiktok-transcript-palmistry-zodiacsigns-astrology-marriage-fyi-cd0d.md) — 901.7K views · `Exclusive revelation` · 2026-07-09
+
 - [5 Amazing Health Facts About Soaked Vegetable Waters](../../breakdowns/zh-CN/2026-07/tiktok-transcript-5-amazing-facts-about-health-a456.md) — 900.0K views · `Numbered list of benefits` · 2026-07-07
 
 - [Mystic Cross in Palmistry: Hidden Sign of Spiritual Gifte...](../../breakdowns/zh-CN/2026-07/tiktok-transcript-palmistry-zodiacsigns-astrology-marriage-fyi-be92.md) — 897.5K views · `Exclusive Revelation` · 2026-07-08
+
+- [Two Equal Lines on Mount of Mercury Palm Sign](../../breakdowns/zh-CN/2026-07/tiktok-transcript-do-you-have-two-equal-lines-there-palm-tiktok-palmistry-fyp-a065.md) — 896.8K views · `Curiosity gap with personal prediction` · 2026-07-08
 
 - [Join 2 Free Handmade Soap Classes Starting May 26](../../breakdowns/zh-CN/2026-06/tiktok-transcript-nete-a-2-clases-gratuitas-de-jabones-artesanales-en-el-link-d2f7.md) — 887.7K views · `Rhetorical Question + Metaphor` · 2026-06-11
 
