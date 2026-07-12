@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 79 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 81 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -74,6 +74,8 @@
 - [The Dancing Plague of 1518 in Strasbourg](../../breakdowns/en/2026-06/tiktok-transcript-the-dancing-plague-fyp-history-dff4.md) — 3.2M views · `Imaginary scenario` · 2026-06-08
 
 - [Model Strangers Street Photography After Three Years](../../breakdowns/en/2026-05/tiktok-transcript-i-have-been-working-on-model-strangers-for-almost-three-year-df88.md) — 3.1M views · `Compliment Hook` · 2026-05-29
+
+- [Wife of 2 Years Cheating on Me: All 6 Updates](../../breakdowns/en/2026-07/tiktok-transcript-my-wife-of-two-years-is-cheating-on-me-all-6-updates-reddit-b760.md) — 3.0M views · `Bombshell Opening` · 2026-07-11
 
 - [Worm Fights Snail in Epic Garden Battle](../../breakdowns/en/2026-05/tiktok-transcript-worm-vs-snail-1781.md) — 2.8M views · `Subverted Expectation` · 2026-05-23
 
@@ -154,6 +156,8 @@
 - [Would You Rather Food Edition: Chicken or Beef?](../../breakdowns/en/2026-06/tiktok-transcript-tu-pr-f-res-dition-nourriture-tupreferes-tupreferesquoi-nour-99d8.md) — 719.3K views · `Challenge + Binary Choice` · 2026-06-16
 
 - [Axel Oficial Reveals How He Composed Your Love Forever](../../breakdowns/en/2026-06/tiktok-transcript-esto-tiene-algo-axeloficial-revela-c-mo-compuso-uno-de-sus-m-4286.md) — 625.6K views · `Surprising reveal + emotional confession` · 2026-06-16
+
+- [How to Read Palm Lines That Indicate Marrying a Billionaire](../../breakdowns/en/2026-07/tiktok-transcript-astrology-palmistry-palmreading-handreading-facereading-fort-4602.md) — 620.3K views · `Direct promise of a desirable outcome` · 2026-07-10
 
 - [Miami's Most Addictive Ice Cream and Its Deadly Secret](../../breakdowns/en/2026-06/tiktok-transcript-la-glace-la-plus-addictive-de-miami-et-le-secret-mortel-derr-ad03.md) — 570.5K views · `Forbidden Mystery` · 2026-06-11
 

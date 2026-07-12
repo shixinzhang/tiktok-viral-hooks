@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 123 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 124 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -234,6 +234,8 @@
 - [Australia: The Sixth Largest and Most Beautiful Country](../../breakdowns/en/2026-06/tiktok-transcript-australia-au-4a36.md) — 519.9K views · `Curiosity Gap` · 2026-06-20
 
 - [Chinese Rotating Monument Mechanism Illusion](../../breakdowns/en/2026-06/tiktok-transcript-video-f1b0.md) — 516.2K views · `Curiosity gap with promise of coolness` · 2026-06-17
+
+- [10 Amazing Health Facts You Need to Know](../../breakdowns/en/2026-07/tiktok-transcript-922k-views-22k-reactions-10-amazing-health-related-facts-ama-a73b.md) — 434.9K views · `Numbered list teaser` · 2026-07-09
 
 - [Letting Go of Love Without Possession](../../breakdowns/en/2026-06/tiktok-transcript-you-have-to-let-it-go-not-because-it-didn-t-matter-not-becau-6f93.md) — 370.4K views · `Unexpected twist on a common metaphor` · 2026-06-10
 

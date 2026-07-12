@@ -1,6 +1,6 @@
 # beauty Breakdowns
 
-> 15 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 16 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -30,6 +30,8 @@
 - [Half Wig Summer: 5 Minute Install](../../breakdowns/en/2026-06/tiktok-transcript-it-s-a-half-wig-summer-5-mns-she-s-on-halfwig-hairstyle-body-55d8.md) — 1.0M views · `Surprise Reveal` · 2026-06-17
 
 - [Bracelet Hack to Prevent Twisting When Packing](../../breakdowns/en/2026-05/tiktok-transcript-dan-kongsikan-ini-dengan-rakan-rakan-anda-yang-pasti-akan-m-0475.md) — 960.8K views · `Problem-Agitation` · 2026-05-22
+
+- [Get Korean Glass Skin with Coconut Oil](../../breakdowns/en/2026-07/tiktok-transcript-coconutoilbenefits-glowingskin-reelsviral-0745.md) — 801.7K views · `Problem-Solution Promise` · 2026-07-09
 
 - [Glueless 360 Wig Install With Curly Edges by Ashy Mary](../../breakdowns/en/2026-06/tiktok-transcript-the-type-of-natural-that-makes-people-ask-if-it-s-yours-ashi-521a.md) — 707.7K views · `Relatable confession` · 2026-06-10
 
