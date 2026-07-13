@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 81 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 82 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -152,6 +152,8 @@
 - [The Devil's Bridge: Strange Phenomena in France Since 1994](../../breakdowns/en/2026-06/tiktok-transcript-horreurtiktok-horreur-histoire-histoirevrai-urbanlegends-fyp-a88e.md) — 804.4K views · `Mystery/Curiosity Gap` · 2026-06-11
 
 - [The Moroccan Killer Zarzour: A Silent Stranger](../../breakdowns/en/2026-06/tiktok-transcript-le-tueur-marocain-zarzour-horreurtiktok-horreur-histoire-mys-bfe8.md) — 730.5K views · `Rhetorical question with exotic hook` · 2026-06-11
+
+- [Paddy Pimblett Reacts to Main Event Outcome Mid-Interview](../../breakdowns/en/2026-07/tiktok-transcript-1-9m-views-29k-reactions-classic-paddy-paddy-pimblett-reacts-7da8.md) — 728.7K views · `Shock and disbelief` · 2026-07-12
 
 - [Would You Rather Food Edition: Chicken or Beef?](../../breakdowns/en/2026-06/tiktok-transcript-tu-pr-f-res-dition-nourriture-tupreferes-tupreferesquoi-nour-99d8.md) — 719.3K views · `Challenge + Binary Choice` · 2026-06-16
 

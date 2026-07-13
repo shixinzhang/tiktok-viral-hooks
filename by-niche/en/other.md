@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 124 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 127 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -80,6 +80,8 @@
 - [Artemis Crew Flying Behind the Moon Monday](../../breakdowns/en/2026-05/tiktok-transcript-don-t-miss-it-8da8.md) — 4.1M views · `Urgency + Promise of Significance` · 2026-05-28
 
 - [The Hardest Part of ADHD: Hyperfixation on Loved Ones](../../breakdowns/en/2026-06/tiktok-transcript-the-truth-about-adhd-no-one-talks-about-adhdawareness-psycho-400d.md) — 4.1M views · `Relatable Revelation` · 2026-06-21
+
+- [Why Gardeners Remove Small Tomatoes](../../breakdowns/en/2026-07/tiktok-transcript-8-3m-views-120k-reactions-why-gardeners-remove-small-tomatoe-fdbc.md) — 4.0M views · `Sensory Appreciation` · 2026-07-12
 
 - [Tom Hardy Explains Why He Chooses to Be Single](../../breakdowns/en/2026-07/tiktok-transcript-tom-hardy-motivation-tomhardy-relationshipgoals-relationship-9d4f.md) — 4.0M views · `Contradiction/Reframe` · 2026-07-02
 
@@ -177,6 +179,8 @@
 
 - [Marriage Is a One-Month Blessing](../../breakdowns/en/2026-06/tiktok-transcript-fyp-capcut-612d.md) — 1.4M views · `Rhetorical question + absurd premise` · 2026-06-02
 
+- [How to Grow a New Pineapple From the Top](../../breakdowns/en/2026-07/tiktok-transcript-2-6m-views-58k-reactions-don-t-throw-away-this-part-of-a-pin-14df.md) — 1.4M views · `Unexpected personification` · 2026-07-12
+
 - [3 Reasons Not to Buy the Viral Slushy Cup](../../breakdowns/en/2026-05/tiktok-transcript-n-achetez-pas-ce-gobelet-granita-viral-slushycupfreeze-st-a102.md) — 1.3M views · `Reverse Psychology List` · 2026-05-25
 
 - [Excessive Paw Itching Caused by Fungi and Bacteria](../../breakdowns/en/2026-06/tiktok-transcript-coceiras-em-excesso-nas-patolas-podem-ser-causadas-por-fungo-71c0.md) — 1.3M views · `Curiosity gap with absurd analogy` · 2026-06-29
@@ -230,6 +234,8 @@
 - [The Worst Moment for Independent Store Sellers: Returns](../../breakdowns/en/2026-06/tiktok-transcript-the-worst-moment-for-independent-store-sellers-warehousing-d-4afa.md) — 569.4K views · `Problem-Agitate` · 2026-06-10
 
 - [Black Woman Explains Why White Privilege Exists](../../breakdowns/en/2026-06/tiktok-transcript-onthisday-36b0.md) — 546.3K views · `Controversial Identity Declaration` · 2026-06-19
+
+- [Ronaldo Jr. Is the Next Star, Says Fan](../../breakdowns/en/2026-07/tiktok-transcript-ronaldo-junior-ronaldo-ronaldojunior-f1ed.md) — 543.5K views · `Contrast & Claim` · 2026-07-12
 
 - [Australia: The Sixth Largest and Most Beautiful Country](../../breakdowns/en/2026-06/tiktok-transcript-australia-au-4a36.md) — 519.9K views · `Curiosity Gap` · 2026-06-20
 

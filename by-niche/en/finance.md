@@ -1,6 +1,6 @@
 # finance Breakdowns
 
-> 15 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 16 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -26,6 +26,8 @@
 - [Want a Million Dollars? Follow These Rules](../../breakdowns/en/2026-06/tiktok-transcript-4-2m-views-102k-reactions-millionbanknote-7bb1.md) — 2.0M views · `Aspirational Challenge` · 2026-06-27
 
 - [How to Achieve Financial Freedom Through House Hacking](../../breakdowns/en/2026-06/tiktok-transcript-earn-financial-freedom-by-house-hacking-realestate-wealth-hu-e7bf.md) — 1.7M views · `Direct Promise` · 2026-06-09
+
+- [Waiting on Market Drop to Buy? You Lost Buying Power](../../breakdowns/en/2026-07/tiktok-transcript-if-you-re-waiting-on-the-market-to-go-down-to-buy-you-may-be-a80b.md) — 1.6M views · `Direct Address + Contrarian Question` · 2026-07-12
 
 - [Wealthy People Don’t Need to Show Off](../../breakdowns/en/2026-06/tiktok-transcript-you-ever-notice-how-the-loudest-people-in-the-room-are-usual-4cd4.md) — 1.5M views · `Cautionary reversal` · 2026-06-03
 
