@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 82 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 83 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -40,6 +40,8 @@
 - [Fruit Seller's Emotional AI Story](../../breakdowns/en/2026-06/tiktok-transcript-fruits-fruit-ai-aistory-emotional-emotionalstory-56ca.md) — 7.3M views · `Curiosity gap + Incentive` · 2026-06-25
 
 - [CR7 Fans React to Name Reveal](../../breakdowns/en/2026-06/tiktok-transcript-cr7-tiktok-foryoupage-fyp-tiktok-7d77.md) — 6.8M views · `Curiosity Gap + Bold Claim` · 2026-06-27
+
+- [Loyal Apple Chooses Between Wife and Sneaky Link](../../breakdowns/en/2026-07/tiktok-transcript-part-1-loyal-apple-fruitstory-aistory-fruitdrama-aifruit-7b19.md) — 6.3M views · `Dilemma Hook` · 2026-07-13
 
 - [The Terrifying True Story Behind Wrong Turn](../../breakdowns/en/2026-05/tiktok-transcript-the-real-story-behind-wrong-turn-creepy-1900s-storytime-wron-337b.md) — 5.8M views · `Mystery/Curiosity Gap` · 2026-05-24
 

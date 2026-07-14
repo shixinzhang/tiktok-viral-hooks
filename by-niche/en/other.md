@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 127 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 131 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -58,6 +58,8 @@
 - [Heart's Electrical Energy Explained](../../breakdowns/en/2026-06/tiktok-transcript-heart-heartmath-fyp-mindblown-energy-loveislove-greenscreenv-cfb4.md) — 7.7M views · `Curiosity gap + personal astonishment` · 2026-06-29
 
 - [The Best Thing I Ever Did Was Stay Quiet](../../breakdowns/en/2026-06/tiktok-transcript-the-best-i-have-ever-done-is-to-stay-quiet-denzelwashington-89b9.md) — 7.4M views · `Contrarian declaration` · 2026-06-02
+
+- [Why Banana Trees Are Cut Down After Harvest](../../breakdowns/en/2026-07/tiktok-transcript-14m-views-231k-reactions-why-banana-trees-get-cut-down-after-e7e0.md) — 7.2M views · `Urgent command with reward` · 2026-07-13
 
 - [Switzerland: A Peaceful Paradise in Central Europe](../../breakdowns/en/2026-06/tiktok-transcript-switzerland-switzerlandnature-6e36.md) — 7.1M views · `Curiosity gap with contrast` · 2026-06-30
 
@@ -119,6 +121,8 @@
 
 - [How Criminals Clean Dirty Money](../../breakdowns/en/2026-06/tiktok-transcript-how-to-clean-dirty-money-finance-animation-uk-b0d3.md) — 2.6M views · `Rhetorical question + personal stake` · 2026-06-03
 
+- [Mashom Jokes About Cheap Potatoes and Free Chilies](../../breakdowns/en/2026-07/tiktok-transcript-mashom-aivideos-pashtostoriesai-grwomyaccount-fyp-funny-7011.md) — 2.5M views · `Question + Bonus Offer` · 2026-07-13
+
 - [Happiest Time in a Paper: Teacher Says Hide It](../../breakdowns/en/2026-06/tiktok-transcript-money-monky-viral-video-monky-55f2.md) — 2.5M views · `Rhetorical question with unexpected answer` · 2026-06-16
 
 - [Abelardo De La Espriella's Proposals to Govern Colombia](../../breakdowns/en/2026-05/tiktok-transcript-estas-son-las-propuestas-de-abelardo-de-la-espriella-para-go-6f8d.md) — 2.4M views · `List of bold proposals` · 2026-05-28
@@ -133,6 +137,8 @@
 
 - [Why Piles of Worn Clothes Drain Your Energy](../../breakdowns/en/2026-07/tiktok-transcript-never-leave-piles-of-worn-clothes-on-chairs-or-couches-even-6538.md) — 2.2M views · `Direct Command + Consequence` · 2026-07-07
 
+- [Jetour Dashing Black Series Mafia Vibe Drive](../../breakdowns/en/2026-07/tiktok-transcript-jetour-dashing-black-series-boleh-rasa-mafia-vibe-sambil-dri-6a67.md) — 2.2M views · `Misdirection + Curiosity Gap` · 2026-07-13
+
 - [5 Clothes Folding Methods You Need to Know](../../breakdowns/en/2026-06/tiktok-transcript-life-lifetips-fyp-foryou-lifehacks-viral-d22d.md) — 2.1M views · `Challenge/Knowledge Gap` · 2026-06-13
 
 - [Gola Ganda And Kulfi Love Story Part 1](../../breakdowns/en/2026-06/tiktok-transcript-gola-ganda-and-kulfi-love-story-part-1-creatorsearchinsights-3e11.md) — 2.1M views · `Rhetorical question + contradiction` · 2026-06-20
@@ -146,6 +152,8 @@
 - [Review of Viral Matcha Lake in China](../../breakdowns/en/2026-05/tiktok-transcript-review-h-matcha-si-u-hot-m-ng-x-h-i-th-gi-i-xem-n-cu-i-th-d28f.md) — 1.8M views · `Curiosity Gap` · 2026-05-28
 
 - [Poem: What Are You Afraid of Losing When Nothing Belongs...](../../breakdowns/en/2026-06/tiktok-transcript-4-7m-views-170k-reactions-what-are-you-afraid-of-losing-when-a99b.md) — 1.7M views · `Rhetorical Question` · 2026-06-27
+
+- [Plane Flashlight M77 500W Brightness Test](../../breakdowns/en/2026-07/tiktok-transcript-video-dd82.md) — 1.7M views · `Hyperbolic Claim` · 2026-07-13
 
 - [Aceh Floods Reach Unimaginable Heights on December 6](../../breakdowns/en/2026-05/tiktok-transcript-6-december-25-aceh-taming-can-not-imagine-this-high-of-the-f-f7b4.md) — 1.7M views · `Question-Answer Mismatch` · 2026-05-24
 
