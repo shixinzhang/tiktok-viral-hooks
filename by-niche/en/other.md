@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 131 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 133 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -101,6 +101,8 @@
 
 - [Why Silent People Withdraw When Hurt](../../breakdowns/en/2026-07/tiktok-transcript-people-who-go-silent-38db.md) — 3.3M views · `Psychological label reveal` · 2026-07-02
 
+- [Mashom Funny Pashto Story About Kachaloo](../../breakdowns/en/2026-07/tiktok-transcript-mashom-aivideos-pashtostoriesai-grwomyaccount-fyp-funny-8989.md) — 3.2M views · `Question + Offer` · 2026-07-14
+
 - [Fix Your Juicer Machine, Stop Wasting Money](../../breakdowns/en/2026-06/tiktok-transcript-saraikimonkey-bandar-viraltiktok-ai-42f3.md) — 3.2M views · `Repetitive command with escalating absurdity` · 2026-06-16
 
 - [Today's Advice: Fear of Rejection Is Lack of Shame](../../breakdowns/en/2026-05/tiktok-transcript-consejo-de-hoy-5a21.md) — 3.1M views · `Confrontational Reframe` · 2026-05-22
@@ -158,6 +160,8 @@
 - [Aceh Floods Reach Unimaginable Heights on December 6](../../breakdowns/en/2026-05/tiktok-transcript-6-december-25-aceh-taming-can-not-imagine-this-high-of-the-f-f7b4.md) — 1.7M views · `Question-Answer Mismatch` · 2026-05-24
 
 - [Loving Harder While Protecting Self-Respect](../../breakdowns/en/2026-06/tiktok-transcript-i-can-love-you-harder-than-you-ever-been-loved-motivetion-mo-4a6b.md) — 1.7M views · `Contrast & Paradox` · 2026-06-13
+
+- [Christian Evangelist Claims Islam Is the Antichrist](../../breakdowns/en/2026-07/tiktok-transcript-christian-evangelist-believes-islam-is-the-antichrist-christ-c875.md) — 1.6M views · `Shocking Claim` · 2026-07-13
 
 - [Pizza Toppings or Life Choices: Impossible Edition](../../breakdowns/en/2026-07/tiktok-transcript-tu-pr-f-res-quoi-tuprefereschallange-tupreferes-quiz-tiktokf-7f5b.md) — 1.6M views · `Impossible Choice` · 2026-07-09
 

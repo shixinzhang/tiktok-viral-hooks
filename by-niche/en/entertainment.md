@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 83 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 86 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -18,6 +18,8 @@
 - [Former Gang Leaders: Why I Left the Life](../../breakdowns/en/2026-06/tiktok-transcript-part-1-fyp-redditstories-viral-foryoupage-2f6f.md) — 12.2M views · `Personal anecdote with a name` · 2026-06-23
 
 - [Shoe Shiner Returns Wallet, Gets Life Changed](../../breakdowns/en/2026-06/tiktok-transcript-brainrot-ai-fruitdrama-fruits-fruitstory-4d72.md) — 11.6M views · `Emotional urgency` · 2026-06-24
+
+- [Mother Chopped Baby’s Arms Off, Claiming God Told Her](../../breakdowns/en/2026-07/tiktok-transcript-this-one-is-really-heartbreaking-sad-truecrime-loss-c1a9.md) — 11.4M views · `Shocking Statement` · 2026-07-14
 
 - [Phonk Bass Boosted Headphone Test](../../breakdowns/en/2026-06/tiktok-transcript-this-song-hedphones-bass-phonk-phonk-music-bassboosted-m-2fc1.md) — 10.6M views · `Repetition for emphasis` · 2026-06-12
 
@@ -67,6 +69,8 @@
 
 - [Lightsunzayn’s Advice on Moving On After a Breakup](../../breakdowns/en/2026-07/tiktok-transcript-lightsunzayn-s-advice-on-how-to-move-on-properly-lights-7a98.md) — 3.5M views · `Direct question hook` · 2026-07-08
 
+- [Android Babies Cannot Be Separated at 18](../../breakdowns/en/2026-07/tiktok-transcript-ai-aifruits-brainrot-aistory-fruitdrama-872f.md) — 3.4M views · `Unexpected reveal` · 2026-07-14
+
 - [Argentina 3-0 Algeria Match Highlights](../../breakdowns/en/2026-06/tiktok-transcript-r-sum-argentine-3-0-alg-rie-abonnez-vous-pour-voir-tous-les-a8ed.md) — 3.4M views · `Action-packed play-by-play` · 2026-06-19
 
 - [Queen of Pop Out Now Stream Everywhere](../../breakdowns/en/2026-07/tiktok-transcript-queen-of-pop-out-now-jetzt-auf-allen-plattformen-streamen-f03a.md) — 3.3M views · `Identity Shift / Status Claim` · 2026-07-03
@@ -80,6 +84,8 @@
 - [Wife of 2 Years Cheating on Me: All 6 Updates](../../breakdowns/en/2026-07/tiktok-transcript-my-wife-of-two-years-is-cheating-on-me-all-6-updates-reddit-b760.md) — 3.0M views · `Bombshell Opening` · 2026-07-11
 
 - [Worm Fights Snail in Epic Garden Battle](../../breakdowns/en/2026-05/tiktok-transcript-worm-vs-snail-1781.md) — 2.8M views · `Subverted Expectation` · 2026-05-23
+
+- [Ana de Armas Through the Years](../../breakdowns/en/2026-07/tiktok-transcript-ana-de-armas-through-the-years-anadearmas-fyp-foryou-through-c66a.md) — 2.7M views · `Identity Reveal + Underdog Origin` · 2026-07-14
 
 - [Shoutout to Aries and Taurus for 2023](../../breakdowns/en/2026-06/tiktok-transcript-shoutout-to-aries-taurus-2f18.md) — 2.6M views · `Astrological Authority + Bold Claim` · 2026-06-28
 
