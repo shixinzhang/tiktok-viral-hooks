@@ -1,11 +1,13 @@
 # other Breakdowns
 
-> 133 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 138 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
 
 - [10-Year-Old Daughter Pregnancy Dilemma](../../breakdowns/en/2026-06/tiktok-transcript-yikessss-ce18.md) — 30.1M views · `Hypothetical Scenario` · 2026-06-14
+
+- [Wait Until 6 PM Lc Waikiki Collaboration](../../breakdowns/en/2026-07/tiktok-transcript-saat-18-00-bekleyin-lcwaikiki-i-birli-i-ffaf.md) — 29.9M views · `Mystery/Curiosity Gap` · 2026-07-16
 
 - [A Love That Sees and Chooses Me](../../breakdowns/en/2026-05/tiktok-transcript-a-public-witness-of-what-heaven-already-knew-7ab7.md) — 26.4M views · `Relatable vulnerability + unexpected twist` · 2026-05-27
 
@@ -77,6 +79,8 @@
 
 - [White Monitor Arm Holiday Sale for Clean Look](../../breakdowns/en/2026-07/tiktok-transcript-clean-look-maximum-flexibility-white-monitor-arm-holiday-sal-2f80.md) — 4.4M views · `Minimalist Hook` · 2026-07-09
 
+- [Typical Game of Fool](../../breakdowns/en/2026-07/tiktok-transcript-pov-story-62d9.md) — 4.2M views · `confusing escalation` · 2026-07-15
+
 - [Falcon Tortures Itself 150 Days to Be Reborn](../../breakdowns/en/2026-06/tiktok-transcript-19-150-8621.md) — 4.2M views · `Curiosity gap with specific age` · 2026-06-12
 
 - [Artemis Crew Flying Behind the Moon Monday](../../breakdowns/en/2026-05/tiktok-transcript-don-t-miss-it-8da8.md) — 4.1M views · `Urgency + Promise of Significance` · 2026-05-28
@@ -107,9 +111,9 @@
 
 - [Today's Advice: Fear of Rejection Is Lack of Shame](../../breakdowns/en/2026-05/tiktok-transcript-consejo-de-hoy-5a21.md) — 3.1M views · `Confrontational Reframe` · 2026-05-22
 
-- [Happy People Encourage, Successful People Support](../../breakdowns/en/2026-05/tiktok-transcript-freedon-growth-earnmoneyonline-entrepreneur-studentloans-3cac.md) — 3.0M views · `contrast list` · 2026-05-31
-
 - [Ebola Outbreak Declared Global Health Emergency, US Bans...](../../breakdowns/en/2026-05/tiktok-transcript-one-thing-after-another-504d.md) — 3.0M views · `Urgent News Alert` · 2026-05-25
+
+- [Happy People Encourage, Successful People Support](../../breakdowns/en/2026-05/tiktok-transcript-freedon-growth-earnmoneyonline-entrepreneur-studentloans-3cac.md) — 3.0M views · `contrast list` · 2026-05-31
 
 - [Practical Life Hacks You've Never Seen Before](../../breakdowns/en/2026-06/tiktok-transcript-lifehacks-lifetips-learnontiktok-fyp-foryou-0a55.md) — 3.0M views · `Curiosity Gap with Specific Promise` · 2026-06-12
 
@@ -145,6 +149,10 @@
 
 - [Gola Ganda And Kulfi Love Story Part 1](../../breakdowns/en/2026-06/tiktok-transcript-gola-ganda-and-kulfi-love-story-part-1-creatorsearchinsights-3e11.md) — 2.1M views · `Rhetorical question + contradiction` · 2026-06-20
 
+- [World Stands With You in Joy, Not in Grief](../../breakdowns/en/2026-07/tiktok-transcript-4-9m-views-156k-reactions-khushi-or-gham-mein-duniya-ka-sath-f3c9.md) — 1.9M views · `Contrasting Parallelism` · 2026-07-15
+
+- [World Stands With You In Joy But Not In Grief](../../breakdowns/en/2026-07/tiktok-transcript-4-9m-views-156k-reactions-khushi-or-gham-mein-duniya-ka-sath-dc6e.md) — 1.9M views · `contrast` · 2026-07-15
+
 - [Teach Your Daughter Financial Independence for Self-Respect](../../breakdowns/en/2026-07/tiktok-transcript-one-day-i-will-tell-my-daughter-this-make-your-own-money-not-fc83.md) — 1.9M views · `Promise + Imperative` · 2026-07-10
 
 - [Ready Is a Decision, Not a Feeling](../../breakdowns/en/2026-06/tiktok-transcript-ready-isn-t-a-vibe-it-s-a-choice-healingjourney-chooseyourse-74b5.md) — 1.9M views · `Counterintuitive reframe` · 2026-06-01
@@ -167,11 +175,11 @@
 
 - [Hypothyroidism Pill Check: Levothyroxine Fatigue Fix](../../breakdowns/en/2026-05/tiktok-transcript-hipotiroidismo-salud-tiroides-medicina-bc00.md) — 1.6M views · `Challenge/Reversal` · 2026-05-28
 
-- [Join My Free Soap-Making Workshop](../../breakdowns/en/2026-06/tiktok-transcript-nete-a-mi-taller-sin-costo-d-nde-te-ense-ar-a-elaborar-jabon-074f.md) — 1.6M views · `Regret Aversion` · 2026-06-13
+- [Dara - Bangaranga, Your Eurovision 2026 Winning Song](../../breakdowns/en/2026-06/tiktok-transcript-dara-bangaranga-your-eurovision2026-winning-song-eurovisiond-3133.md) — 1.6M views · `Curiosity Gap + Emotional Stakes` · 2026-06-21
 
 - [Tired of Pride Month Rainbows on Grinder](../../breakdowns/en/2026-06/tiktok-transcript-this-month-brings-me-great-distress-as-you-could-clearly-tel-cb8f.md) — 1.6M views · `Contrarian Complaint` · 2026-06-04
 
-- [Dara - Bangaranga, Your Eurovision 2026 Winning Song](../../breakdowns/en/2026-06/tiktok-transcript-dara-bangaranga-your-eurovision2026-winning-song-eurovisiond-3133.md) — 1.6M views · `Curiosity Gap + Emotional Stakes` · 2026-06-21
+- [Join My Free Soap-Making Workshop](../../breakdowns/en/2026-06/tiktok-transcript-nete-a-mi-taller-sin-costo-d-nde-te-ense-ar-a-elaborar-jabon-074f.md) — 1.6M views · `Regret Aversion` · 2026-06-13
 
 - [Boy Shines Shoes Outside Faisal Mosque Islamabad Earns 40...](../../breakdowns/en/2026-06/tiktok-transcript-creatorsearchinsights-trustgod-faithoverfear-nasirkhan-foryo-271e.md) — 1.6M views · `Character introduction with vivid detail` · 2026-06-04
 
@@ -192,6 +200,8 @@
 - [Marriage Is a One-Month Blessing](../../breakdowns/en/2026-06/tiktok-transcript-fyp-capcut-612d.md) — 1.4M views · `Rhetorical question + absurd premise` · 2026-06-02
 
 - [How to Grow a New Pineapple From the Top](../../breakdowns/en/2026-07/tiktok-transcript-2-6m-views-58k-reactions-don-t-throw-away-this-part-of-a-pin-14df.md) — 1.4M views · `Unexpected personification` · 2026-07-12
+
+- [Nikkah Was Very Simple In Our Prophet’s Time](../../breakdowns/en/2026-07/tiktok-transcript-2-8m-views-218k-reactions-warna-nikkah-bohot-aasan-tha-hamar-de02.md) — 1.3M views · `Bold accusation + contrast` · 2026-07-13
 
 - [3 Reasons Not to Buy the Viral Slushy Cup](../../breakdowns/en/2026-05/tiktok-transcript-n-achetez-pas-ce-gobelet-granita-viral-slushycupfreeze-st-a102.md) — 1.3M views · `Reverse Psychology List` · 2026-05-25
 
