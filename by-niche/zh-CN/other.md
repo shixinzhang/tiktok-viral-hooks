@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 138 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 140 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -155,6 +155,8 @@
 
 - [Teach Your Daughter Financial Independence for Self-Respect](../../breakdowns/zh-CN/2026-07/tiktok-transcript-one-day-i-will-tell-my-daughter-this-make-your-own-money-not-fc83.md) — 1.9M views · `Promise + Imperative` · 2026-07-10
 
+- [Your Mom Loves You More Than Herself](../../breakdowns/zh-CN/2026-07/tiktok-transcript-best-motivational-speech-life-lesson-must-watch-foryou-foryo-b176.md) — 1.9M views · `Contrast/Comparison` · 2026-07-16
+
 - [Ready Is a Decision, Not a Feeling](../../breakdowns/zh-CN/2026-06/tiktok-transcript-ready-isn-t-a-vibe-it-s-a-choice-healingjourney-chooseyourse-74b5.md) — 1.9M views · `Counterintuitive reframe` · 2026-06-01
 
 - [If Someone Asks What You Did Today, Don't Say It Was Hard](../../breakdowns/zh-CN/2026-06/tiktok-transcript-699k-views-100k-reactions-theek-hai-ashish-bagrecha-c2a0.md) — 1.8M views · `Hypothetical Question + Emotional Contrast` · 2026-06-01
@@ -196,6 +198,8 @@
 - [I Couldn't Love Anyone After You Left](../../breakdowns/zh-CN/2026-05/tiktok-transcript-ak-akash7060-6372.md) — 1.5M views · `Emotional confession` · 2026-05-24
 
 - [Lain Edit: You Are Needed by No One in the Real World](../../breakdowns/zh-CN/2026-06/tiktok-transcript-lain-edit-6ec4.md) — 1.5M views · `brutal truth reveal` · 2026-06-06
+
+- [Sweet Potatoes Argue Over Sunlight Exposure](../../breakdowns/zh-CN/2026-07/tiktok-transcript-2-9m-views-24k-reactions-never-let-sweet-potatoes-stick-out-260c.md) — 1.5M views · `Unexpected Personification` · 2026-07-16
 
 - [Marriage Is a One-Month Blessing](../../breakdowns/zh-CN/2026-06/tiktok-transcript-fyp-capcut-612d.md) — 1.4M views · `Rhetorical question + absurd premise` · 2026-06-02
 

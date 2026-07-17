@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 86 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 87 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -154,6 +154,8 @@
 - [Human Body Quiz: What Causes Headaches?](../../breakdowns/zh-CN/2026-05/tiktok-transcript-quiz-sur-le-corps-humain-pourtoi-cultureg-quizz-france-corps-64ff.md) — 962.7K views · `Challenge with stakes` · 2026-05-25
 
 - [This Player Almost Scored an Own Goal on a Back Pass](../../breakdowns/zh-CN/2026-06/tiktok-transcript-este-jugador-calcul-muy-mal-1-simple-pase-hacia-atr-s-futbol-3dae.md) — 943.7K views · `Miscalculation / Near Own Goal` · 2026-06-13
+
+- [Man Destroys Beef Tree to Ruin Rival](../../breakdowns/zh-CN/2026-07/tiktok-transcript-he-destroyed-the-beef-tree-to-ruin-his-rival-madewithcantina-329a.md) — 926.8K views · `Question + Incredible Claim` · 2026-07-14
 
 - [Part 2: Confronting the Past in Manhattan](../../breakdowns/zh-CN/2026-06/tiktok-transcript-part-2-fyp-redditstories-viral-foryoupage-d9db.md) — 889.9K views · `Emotional confession` · 2026-06-23
 
