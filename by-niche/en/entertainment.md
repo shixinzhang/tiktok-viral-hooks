@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 87 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 88 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -150,6 +150,8 @@
 - [Virtual Serenade Surprise: What Happened Next](../../breakdowns/en/2026-05/tiktok-transcript-serenata-virtual-mira-lo-que-pas-amor-duosfreefire-garenafre-ff5e.md) — 1.1M views · `Mystery Setup` · 2026-05-26
 
 - [Hiding Baby Secret From Wife](../../breakdowns/en/2026-06/tiktok-transcript-how-long-can-he-keep-little-cuh-a-secret-fruitstory-aistory-ee2e.md) — 1.1M views · `Misdirection / Unexpected Reveal` · 2026-06-26
+
+- [Would You Rather: Car Edition](../../breakdowns/en/2026-07/tiktok-transcript-tu-pr-f-res-dition-voiture-tupreferes-tupr-f-res-voiture-pas-fb77.md) — 968.6K views · `Challenge/Test` · 2026-07-17
 
 - [Human Body Quiz: What Causes Headaches?](../../breakdowns/en/2026-05/tiktok-transcript-quiz-sur-le-corps-humain-pourtoi-cultureg-quizz-france-corps-64ff.md) — 962.7K views · `Challenge with stakes` · 2026-05-25
 

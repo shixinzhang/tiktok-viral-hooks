@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 140 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 144 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -64,6 +64,8 @@
 - [Why Banana Trees Are Cut Down After Harvest](../../breakdowns/zh-CN/2026-07/tiktok-transcript-14m-views-231k-reactions-why-banana-trees-get-cut-down-after-e7e0.md) — 7.2M views · `Urgent command with reward` · 2026-07-13
 
 - [Switzerland: A Peaceful Paradise in Central Europe](../../breakdowns/zh-CN/2026-06/tiktok-transcript-switzerland-switzerlandnature-6e36.md) — 7.1M views · `Curiosity gap with contrast` · 2026-06-30
+
+- [Elias and Serina: The Secret Friend Part 2](../../breakdowns/zh-CN/2026-07/tiktok-transcript-12m-views-548k-reactions-part-2-si-elias-at-ang-kanyang-lihi-76c9.md) — 6.7M views · `Immediate problem + solution` · 2026-07-17
 
 - [Polyurethane Foam Spray Insulation Expanding and Solidifying](../../breakdowns/zh-CN/2026-06/tiktok-transcript-l-isolation-par-mousse-de-polyur-thane-isolation-polyurethan-fc83.md) — 6.6M views · `Visual Curiosity Gap` · 2026-06-16
 
@@ -131,6 +133,8 @@
 
 - [Happiest Time in a Paper: Teacher Says Hide It](../../breakdowns/zh-CN/2026-06/tiktok-transcript-money-monky-viral-video-monky-55f2.md) — 2.5M views · `Rhetorical question with unexpected answer` · 2026-06-16
 
+- [The Hardest Part of Grief Is Letting Go of Who You Were](../../breakdowns/zh-CN/2026-07/tiktok-transcript-lo-m-s-dif-cil-del-duelo-no-es-soltar-al-otro-es-soltar-a-la-bc1e.md) — 2.4M views · `Unexpected twist on a common idea` · 2026-07-17
+
 - [Abelardo De La Espriella's Proposals to Govern Colombia](../../breakdowns/zh-CN/2026-05/tiktok-transcript-estas-son-las-propuestas-de-abelardo-de-la-espriella-para-go-6f8d.md) — 2.4M views · `List of bold proposals` · 2026-05-28
 
 - [Tailored Set With High-Waist Pants And Long Vest](../../breakdowns/zh-CN/2026-05/tiktok-transcript-look-de-milh-es-conjuntofeminino-alfaiataria-elegante-177d.md) — 2.4M views · `Curiosity Gap` · 2026-05-22
@@ -144,6 +148,8 @@
 - [Why Piles of Worn Clothes Drain Your Energy](../../breakdowns/zh-CN/2026-07/tiktok-transcript-never-leave-piles-of-worn-clothes-on-chairs-or-couches-even-6538.md) — 2.2M views · `Direct Command + Consequence` · 2026-07-07
 
 - [Jetour Dashing Black Series Mafia Vibe Drive](../../breakdowns/zh-CN/2026-07/tiktok-transcript-jetour-dashing-black-series-boleh-rasa-mafia-vibe-sambil-dri-6a67.md) — 2.2M views · `Misdirection + Curiosity Gap` · 2026-07-13
+
+- [Funny Couple 4th of July Graphic Tees](../../breakdowns/zh-CN/2026-07/tiktok-transcript-funnyshirt-coupleshirt-4thofjuly-graphictees-funnycouple-f3d7.md) — 2.1M views · `Single-word exclamation` · 2026-07-17
 
 - [5 Clothes Folding Methods You Need to Know](../../breakdowns/zh-CN/2026-06/tiktok-transcript-life-lifetips-fyp-foryou-lifehacks-viral-d22d.md) — 2.1M views · `Challenge/Knowledge Gap` · 2026-06-13
 
@@ -216,6 +222,8 @@
 - [Natural Sleep Recipe for Deep Rest All Week](../../breakdowns/zh-CN/2026-07/tiktok-transcript-sleep-like-a-baby-again-bettersleep-naturalremedy-bedtime-sl-422f.md) — 1.2M views · `Pain point empathy` · 2026-07-06
 
 - [Why You Shouldn't Pee When Waking Up at Night](../../breakdowns/zh-CN/2026-06/tiktok-transcript-waking-up-in-the-middle-of-the-night-and-immediately-getting-e708.md) — 1.2M views · `Contrarian advice` · 2026-06-15
+
+- [Poem Recitation: A Whip for Silent Messages](../../breakdowns/zh-CN/2026-07/tiktok-transcript-please-tiktok-team-don-t-under-review-my-video-viral-a1d1.md) — 1.1M views · `Unexpected declaration` · 2026-07-17
 
 - [90% of Americans Forget to Clean This Car Part](../../breakdowns/zh-CN/2026-06/tiktok-transcript-90-of-people-in-the-united-states-forget-to-clean-this-part-e5ed.md) — 1.1M views · `Cost Shock + Urgency` · 2026-06-20
 
