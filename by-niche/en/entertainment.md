@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 88 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 89 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -160,6 +160,8 @@
 - [Man Destroys Beef Tree to Ruin Rival](../../breakdowns/en/2026-07/tiktok-transcript-he-destroyed-the-beef-tree-to-ruin-his-rival-madewithcantina-329a.md) — 926.8K views · `Question + Incredible Claim` · 2026-07-14
 
 - [Part 2: Confronting the Past in Manhattan](../../breakdowns/en/2026-06/tiktok-transcript-part-2-fyp-redditstories-viral-foryoupage-d9db.md) — 889.9K views · `Emotional confession` · 2026-06-23
+
+- [Long Live the Emotional Ones - Aléxia Porto](../../breakdowns/en/2026-07/tiktok-transcript-vida-longa-aos-emocionados-al-xia-porto-poesia-poesias-alexi-60fd.md) — 870.5K views · `Bold declaration` · 2026-07-17
 
 - [The Devil's Bridge: Strange Phenomena in France Since 1994](../../breakdowns/en/2026-06/tiktok-transcript-horreurtiktok-horreur-histoire-histoirevrai-urbanlegends-fyp-a88e.md) — 804.4K views · `Mystery/Curiosity Gap` · 2026-06-11
 

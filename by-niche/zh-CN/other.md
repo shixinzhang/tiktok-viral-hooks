@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 144 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 148 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -143,6 +143,8 @@
 
 - [Men Feel Pain But Don't Express It](../../breakdowns/zh-CN/2026-06/tiktok-transcript-6-2m-views-297k-reactions-aadmi-quotes-realtionship-podcast-7b6b.md) — 2.3M views · `Contradiction/Revelation` · 2026-06-01
 
+- [Driving an Electric Car on a Chinese Highway](../../breakdowns/zh-CN/2026-07/tiktok-transcript-if-you-come-to-china-you-might-as-well-rent-an-electric-car-336a.md) — 2.3M views · `Question-Answer` · 2026-07-18
+
 - [They Call Me a Stranger Here](../../breakdowns/zh-CN/2026-06/tiktok-transcript-capcut-3ydo-50ca.md) — 2.3M views · `Contrast & Warning` · 2026-06-27
 
 - [Why Piles of Worn Clothes Drain Your Energy](../../breakdowns/zh-CN/2026-07/tiktok-transcript-never-leave-piles-of-worn-clothes-on-chairs-or-couches-even-6538.md) — 2.2M views · `Direct Command + Consequence` · 2026-07-07
@@ -172,6 +174,8 @@
 - [Poem: What Are You Afraid of Losing When Nothing Belongs...](../../breakdowns/zh-CN/2026-06/tiktok-transcript-4-7m-views-170k-reactions-what-are-you-afraid-of-losing-when-a99b.md) — 1.7M views · `Rhetorical Question` · 2026-06-27
 
 - [Plane Flashlight M77 500W Brightness Test](../../breakdowns/zh-CN/2026-07/tiktok-transcript-video-dd82.md) — 1.7M views · `Hyperbolic Claim` · 2026-07-13
+
+- [Warning Against Ignoring God's Call](../../breakdowns/zh-CN/2026-07/tiktok-transcript-tiktok-video-7300772978990599454-c23c.md) — 1.7M views · `Fear of consequence` · 2026-07-18
 
 - [Aceh Floods Reach Unimaginable Heights on December 6](../../breakdowns/zh-CN/2026-05/tiktok-transcript-6-december-25-aceh-taming-can-not-imagine-this-high-of-the-f-f7b4.md) — 1.7M views · `Question-Answer Mismatch` · 2026-05-24
 
@@ -225,6 +229,8 @@
 
 - [Poem Recitation: A Whip for Silent Messages](../../breakdowns/zh-CN/2026-07/tiktok-transcript-please-tiktok-team-don-t-under-review-my-video-viral-a1d1.md) — 1.1M views · `Unexpected declaration` · 2026-07-17
 
+- [The Lord's Prayer Recitation](../../breakdowns/zh-CN/2026-07/tiktok-transcript-padre-nuestro-fe-jesus-dios-c50a.md) — 1.1M views · `Familiar Opening` · 2026-07-18
+
 - [90% of Americans Forget to Clean This Car Part](../../breakdowns/zh-CN/2026-06/tiktok-transcript-90-of-people-in-the-united-states-forget-to-clean-this-part-e5ed.md) — 1.1M views · `Cost Shock + Urgency` · 2026-06-20
 
 - [A Father's Love Knows No Limits, Waking Tired for His Kids](../../breakdowns/zh-CN/2026-06/tiktok-transcript-l-amour-pour-ses-enfants-ne-conna-t-aucune-limite-je-me-l-ve-1fb3.md) — 1.1M views · `Sacrificial Love` · 2026-06-26
@@ -248,6 +254,8 @@
 - [Join 2 Free Handmade Soap Classes Starting May 26](../../breakdowns/zh-CN/2026-06/tiktok-transcript-nete-a-2-clases-gratuitas-de-jabones-artesanales-en-el-link-d2f7.md) — 887.7K views · `Rhetorical Question + Metaphor` · 2026-06-11
 
 - [Bakery Owner Replaced by Machine](../../breakdowns/zh-CN/2026-06/tiktok-transcript-if-you-enjoyed-this-story-leave-a-like-and-a-comment-emotion-bb14.md) — 886.8K views · `Unexpected dismissal` · 2026-06-27
+
+- [Baby Asks Funny Questions About Roti Price](../../breakdowns/zh-CN/2026-07/tiktok-transcript-baby-funny-video-12-babyfunnyvideo-babyvideo-funnyvideo-vira-b18a.md) — 870.1K views · `Price reveal with freebie` · 2026-07-17
 
 - [Breakup Advice for Teenage Girls](../../breakdowns/zh-CN/2026-06/tiktok-transcript-fup-f002.md) — 811.2K views · `Direct Address + Authority` · 2026-06-22
 
