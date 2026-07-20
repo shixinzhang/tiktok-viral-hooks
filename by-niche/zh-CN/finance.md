@@ -1,6 +1,6 @@
 # finance Breakdowns
 
-> 17 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 18 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -24,6 +24,8 @@
 - [School Doesn't Create Winners, It Creates Obedient Employees](../../breakdowns/zh-CN/2026-06/tiktok-transcript-la-escuela-no-forma-ganadores-forma-empleados-obedientes-y-e-77d8.md) — 2.8M views · `Rhetorical question + contrarian statement` · 2026-06-07
 
 - [Feng Shui Tip: Write 8423 on Paper to Improve Finances](../../breakdowns/zh-CN/2026-06/tiktok-transcript-always-feel-like-money-s-tight-let-me-share-a-feng-shui-tip-eb25.md) — 2.7M views · `Problem-Agitate-Solution` · 2026-06-30
+
+- [Make Money in 24 Hours Using ChatGPT](../../breakdowns/zh-CN/2026-07/tiktok-transcript-makemoneyonline-digitalproducts-chatgpt-digitalmarketingforb-b958.md) — 2.5M views · `Immediate Value Promise` · 2026-07-19
 
 - [Want a Million Dollars? Follow These Rules](../../breakdowns/zh-CN/2026-06/tiktok-transcript-4-2m-views-102k-reactions-millionbanknote-7bb1.md) — 2.0M views · `Aspirational Challenge` · 2026-06-27
 

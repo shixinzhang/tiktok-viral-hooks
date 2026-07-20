@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 148 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 152 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -97,6 +97,8 @@
 
 - [Keep Kidneys Healthy With These Tips](../../breakdowns/zh-CN/2026-06/tiktok-transcript-kidney-bb8a.md) — 3.8M views · `Numbered list with urgent warning` · 2026-06-29
 
+- [How Street Lights Affect Plant Growth](../../breakdowns/zh-CN/2026-07/tiktok-transcript-9-3m-views-99k-reactions-how-street-lights-can-affect-plant-db19.md) — 3.7M views · `Contrasting perspective` · 2026-07-19
+
 - [Angelina Jolie: Stay Single and Invest in Yourself](../../breakdowns/zh-CN/2026-07/tiktok-transcript-angelina-jolie-motivation-fyp-viral-angelinajolie-lifelesson-1adf.md) — 3.5M views · `Empowerment with divine promise` · 2026-07-02
 
 - [Letter to Dad: First Love, First Heartbreak](../../breakdowns/zh-CN/2026-05/tiktok-transcript-ya-tocaba-uno-as-monlaferte-fpy-desamor-fenmefatale-parati-0f8e.md) — 3.4M views · `Contradiction Hook` · 2026-05-28
@@ -120,6 +122,8 @@
 - [Practical Life Hacks You've Never Seen Before](../../breakdowns/zh-CN/2026-06/tiktok-transcript-lifehacks-lifetips-learnontiktok-fyp-foryou-0a55.md) — 3.0M views · `Curiosity Gap with Specific Promise` · 2026-06-12
 
 - [Karma Is Real: What Goes Around Comes Back Tenfold](../../breakdowns/zh-CN/2026-07/tiktok-transcript-karma-is-real-motivation-podcast-quotes-podcastclips-womene-dd79.md) — 2.9M views · `Bold Statement` · 2026-07-04
+
+- [Get Your Dream Body Once and For All](../../breakdowns/zh-CN/2026-07/tiktok-transcript-ten-el-f-sico-de-tus-sue-os-de-una-vez-por-todas-k-5d53.md) — 2.9M views · `Impossible Claim` · 2026-07-19
 
 - [All Algebra Rules in One Minute](../../breakdowns/zh-CN/2026-06/tiktok-transcript-quick-maths-study-oneminute-algebra-all-study-sat-rules-your-ea5f.md) — 2.9M views · `Promise of rapid mastery` · 2026-06-22
 
@@ -223,11 +227,15 @@
 
 - [Always Remember: You Don't Lose Them, They Lose You](../../breakdowns/zh-CN/2026-06/tiktok-transcript-always-remember-when-motivacion-motivacionvideo-motivacionqu-e331.md) — 1.3M views · `Reversal of expectation` · 2026-06-11
 
+- [Heatwave Animal Suffering in French Farms](../../breakdowns/zh-CN/2026-07/tiktok-transcript-muss-es-erst-zur-katastrophe-kommen-tierhaltung-hitzewelle-t-5813.md) — 1.2M views · `Emotional confession` · 2026-07-19
+
 - [Natural Sleep Recipe for Deep Rest All Week](../../breakdowns/zh-CN/2026-07/tiktok-transcript-sleep-like-a-baby-again-bettersleep-naturalremedy-bedtime-sl-422f.md) — 1.2M views · `Pain point empathy` · 2026-07-06
 
 - [Why You Shouldn't Pee When Waking Up at Night](../../breakdowns/zh-CN/2026-06/tiktok-transcript-waking-up-in-the-middle-of-the-night-and-immediately-getting-e708.md) — 1.2M views · `Contrarian advice` · 2026-06-15
 
 - [Poem Recitation: A Whip for Silent Messages](../../breakdowns/zh-CN/2026-07/tiktok-transcript-please-tiktok-team-don-t-under-review-my-video-viral-a1d1.md) — 1.1M views · `Unexpected declaration` · 2026-07-17
+
+- [3 Things You Didn't Know About Airport Security Jobs](../../breakdowns/zh-CN/2026-07/tiktok-transcript-3-saker-du-inte-visste-om-jobbet-som-flygplatskontrollant-f-729a.md) — 1.1M views · `Lista med hemligheter` · 2026-07-19
 
 - [The Lord's Prayer Recitation](../../breakdowns/zh-CN/2026-07/tiktok-transcript-padre-nuestro-fe-jesus-dios-c50a.md) — 1.1M views · `Familiar Opening` · 2026-07-18
 
