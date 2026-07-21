@@ -1,6 +1,6 @@
 # finance Breakdowns
 
-> 18 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 20 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -9,7 +9,11 @@
 
 - [The 3 Worst Businesses to Buy According to an Expert](../../breakdowns/en/2026-07/tiktok-transcript-here-are-the-3-worst-businesses-you-could-ever-buy-because-i-b7ad.md) — 12.4M views · `Listicle with contrarian premise` · 2026-07-01
 
+- [This Simple Trick Saves Thousands in Mortgage Interest](../../breakdowns/en/2026-07/tiktok-transcript-this-simple-trick-can-save-you-tens-of-thousands-of-dollars-a43a.md) — 12.2M views · `Congratulatory surprise` · 2026-07-20
+
 - [House Hacking Explained: Pay $100 a Month to Live Here](../../breakdowns/en/2026-05/tiktok-transcript-house-hacking-explained-realestate-househacking-wealth-inves-15af.md) — 8.4M views · `Surprising reveal` · 2026-05-31
+
+- [Buying Your Kid a House Funds Their College](../../breakdowns/en/2026-07/tiktok-transcript-how-buying-your-kid-a-house-will-pay-for-their-college-glenn-63b3.md) — 5.7M views · `Future Shock + Emotional Stake` · 2026-07-20
 
 - [Don't Let This Mistake Cost You Your Credit Score](../../breakdowns/en/2026-07/tiktok-transcript-dont-let-this-mistake-cost-you-personalfinance-interest-cred-104b.md) — 5.2M views · `Hypothetical scenario with immediate stakes` · 2026-07-16
 

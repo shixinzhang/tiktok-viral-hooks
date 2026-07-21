@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 152 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 154 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -242,6 +242,10 @@
 - [90% of Americans Forget to Clean This Car Part](../../breakdowns/zh-CN/2026-06/tiktok-transcript-90-of-people-in-the-united-states-forget-to-clean-this-part-e5ed.md) — 1.1M views · `Cost Shock + Urgency` · 2026-06-20
 
 - [A Father's Love Knows No Limits, Waking Tired for His Kids](../../breakdowns/zh-CN/2026-06/tiktok-transcript-l-amour-pour-ses-enfants-ne-conna-t-aucune-limite-je-me-l-ve-1fb3.md) — 1.1M views · `Sacrificial Love` · 2026-06-26
+
+- [Secret to Unbroken Marital Fortune: Tulsi Plant Ritual](../../breakdowns/zh-CN/2026-07/tiktok-transcript-2-5m-views-71k-reactions-cooking-tulsipuja-tradition-healtht-3035.md) — 1.1M views · `Numbered list + supernatural claim` · 2026-07-20
+
+- [Stop Expecting People to Be What You Need](../../breakdowns/zh-CN/2026-07/tiktok-transcript-mindset-success-selfimprovement-relationships-boundaries-eee4.md) — 1.0M views · `Problem-Solution Promise` · 2026-07-19
 
 - [Macaroni and Cheese vs Chicken Nuggets: Which Do You Prefer?](../../breakdowns/zh-CN/2026-05/tiktok-transcript-tu-pr-f-res-macaroni-au-fromage-nuggets-de-poulet-snickers-8840.md) — 1.0M views · `Challenge/Test` · 2026-05-23
 
