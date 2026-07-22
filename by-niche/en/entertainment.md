@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 90 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 91 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -134,6 +134,8 @@
 - [Jarvis Plots a Course for Rosehill Tennessee](../../breakdowns/en/2026-06/tiktok-transcript-jarvis-plot-a-course-for-rosehill-tennessee-jarvis-ironman-p-dbf9.md) — 1.5M views · `Call and response` · 2026-06-10
 
 - [John Cena Becomes a Wild WWE Referee](../../breakdowns/en/2026-06/tiktok-transcript-john-cena-is-the-worst-referee-wwe-wrestling-fighting-champi-7449.md) — 1.5M views · `Unexpected Twist` · 2026-06-29
+
+- [Smart Home Gadgets That Make Life Easier](../../breakdowns/en/2026-07/tiktok-transcript-smart-home-gadgets-make-your-life-easier-home-appliances-sma-18a1.md) — 1.4M views · `One-word teaser` · 2026-07-21
 
 - [Subway Hero Stops Harasser Before Job Interview](../../breakdowns/en/2026-05/tiktok-transcript-movie-foryou-usa-tik-tok-a7d3.md) — 1.4M views · `Immediate tension` · 2026-05-22
 

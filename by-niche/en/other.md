@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 154 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 158 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -56,6 +56,8 @@
 - [Prophet Ibrahim Visits Ismail's Wife Story](../../breakdowns/en/2026-06/tiktok-transcript-20m-views-2m-reactions-hazrat-ibrahim-a-s-aur-hazrat-ismail-464c.md) — 8.3M views · `Narrative hook with immediate conflict` · 2026-06-25
 
 - [The World's Strongest Beetle Shell Structure](../../breakdowns/en/2026-06/tiktok-transcript-el-escarabajo-m-s-fuerte-del-mundo-estadosunidos-datoscurios-e2a1.md) — 7.8M views · `Contrast & Surprise` · 2026-06-04
+
+- [Forest Work ASMR Satisfying Forestry Sounds](../../breakdowns/en/2026-07/tiktok-transcript-fyp-viral-foryou-trending-forestwork-forestry-asmr-satisfyin-348d.md) — 7.7M views · `Single-word agreement` · 2026-07-21
 
 - [Heart's Electrical Energy Explained](../../breakdowns/en/2026-06/tiktok-transcript-heart-heartmath-fyp-mindblown-energy-loveislove-greenscreenv-cfb4.md) — 7.7M views · `Curiosity gap + personal astonishment` · 2026-06-29
 
@@ -131,6 +133,8 @@
 
 - [Modern Consciousness Catastrophe Explained](../../breakdowns/en/2026-05/tiktok-transcript-note-this-video-will-lag-if-you-catch-it-early-you-can-downl-5a47.md) — 2.7M views · `Urgent philosophical revelation` · 2026-05-31
 
+- [Why You Can't Stop Thinking About Your Ex](../../breakdowns/en/2026-07/tiktok-transcript-no-puedes-parar-de-pensar-en-tu-ex-psicologia-neurociencia-c-12e3.md) — 2.6M views · `Analogy Hook` · 2026-07-21
+
 - [How Criminals Clean Dirty Money](../../breakdowns/en/2026-06/tiktok-transcript-how-to-clean-dirty-money-finance-animation-uk-b0d3.md) — 2.6M views · `Rhetorical question + personal stake` · 2026-06-03
 
 - [Mashom Jokes About Cheap Potatoes and Free Chilies](../../breakdowns/en/2026-07/tiktok-transcript-mashom-aivideos-pashtostoriesai-grwomyaccount-fyp-funny-7011.md) — 2.5M views · `Question + Bonus Offer` · 2026-07-13
@@ -154,6 +158,8 @@
 - [Why Piles of Worn Clothes Drain Your Energy](../../breakdowns/en/2026-07/tiktok-transcript-never-leave-piles-of-worn-clothes-on-chairs-or-couches-even-6538.md) — 2.2M views · `Direct Command + Consequence` · 2026-07-07
 
 - [Jetour Dashing Black Series Mafia Vibe Drive](../../breakdowns/en/2026-07/tiktok-transcript-jetour-dashing-black-series-boleh-rasa-mafia-vibe-sambil-dri-6a67.md) — 2.2M views · `Misdirection + Curiosity Gap` · 2026-07-13
+
+- [Baby Elephant Plays with a Plastic Bottle](../../breakdowns/en/2026-07/tiktok-transcript-daa-bejli-bill-trending-baby-ai-unfrezzmyaccount-804-32a1.md) — 2.1M views · `Unfamiliar language opener` · 2026-07-21
 
 - [Funny Couple 4th of July Graphic Tees](../../breakdowns/en/2026-07/tiktok-transcript-funnyshirt-coupleshirt-4thofjuly-graphictees-funnycouple-f3d7.md) — 2.1M views · `Single-word exclamation` · 2026-07-17
 
@@ -250,6 +256,8 @@
 - [Macaroni and Cheese vs Chicken Nuggets: Which Do You Prefer?](../../breakdowns/en/2026-05/tiktok-transcript-tu-pr-f-res-macaroni-au-fromage-nuggets-de-poulet-snickers-8840.md) — 1.0M views · `Challenge/Test` · 2026-05-23
 
 - [Indian Buffalo Grooming Before Sale for Better Price](../../breakdowns/en/2026-06/tiktok-transcript-tiktok-video-7645058607842741536-6fc0.md) — 1.0M views · `Curiosity gap` · 2026-06-15
+
+- [Stop Being Mad at People for Not Meeting Your Needs](../../breakdowns/en/2026-07/tiktok-transcript-mindset-success-selfimprovement-relationships-boundaries-a180.md) — 994.9K views · `Problem-solution promise` · 2026-07-19
 
 - [Would You Rather Nuggets or Cookies? Dilemma Quiz](../../breakdowns/en/2026-06/tiktok-transcript-tu-pr-f-res-ou-tupreferes-wouldyourather-dilemme-question-efc6.md) — 971.1K views · `Challenge + Binary Choice` · 2026-06-06
 
