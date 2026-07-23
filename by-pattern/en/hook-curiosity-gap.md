@@ -1,11 +1,13 @@
 # Hook Pattern: Curiosity Gap
 
-> 10 viral TikTok videos that use this hook pattern.
+> 11 viral TikTok videos that use this hook pattern.
 
 [← Back to README](../../README.md)
 
 
 - [The Number One Question I Get Has the Same Answer: AG1](../../breakdowns/en/2026-05/tiktok-transcript-the-number-one-question-i-get-always-has-the-same-answer-i-d-d0f4.md) — 24.3M views · `other` · 2026-05-29
+
+- [Rich Dad Market Lesson with iPhone Analogy](../../breakdowns/en/2026-07/tiktok-transcript-rich-dad-lesson-on-the-market-using-an-iphone-analogy-person-7e7f.md) — 18.0M views · `finance` · 2026-07-22
 
 - [Two Toxic Conflict Patterns That Ruin Loving Couples](../../breakdowns/en/2026-06/tiktok-transcript-even-the-most-loving-couples-can-t-last-if-they-fall-into-th-d3ec.md) — 5.0M views · `entertainment` · 2026-06-18
 

@@ -1,6 +1,6 @@
 # beauty Breakdowns
 
-> 16 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 17 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -26,6 +26,8 @@
 - [Truth About Grace And Glow Deodorant Roll-On](../../breakdowns/en/2026-06/tiktok-transcript-s-th-t-v-l-n-kh-m-i-grace-and-glow-lannach-lankhumui-huongnu-6f75.md) — 1.5M views · `Social proof + curiosity gap` · 2026-06-14
 
 - [Fluffy Half Wig Freeline Hairstyle for Spring Break](../../breakdowns/en/2026-06/tiktok-transcript-and-if-the-hair-isn-t-this-fluffy-i-don-t-want-it-another-bo-2a37.md) — 1.5M views · `Shared identity + relatable problem` · 2026-06-18
+
+- [See How Low This Price Can Go With Coupons](../../breakdowns/en/2026-07/tiktok-transcript-see-how-low-you-can-get-the-price-on-this-i-am-getting-it-fo-ec1e.md) — 1.4M views · `Price Shock + Curiosity Gap` · 2026-07-23
 
 - [Half Wig Summer: 5 Minute Install](../../breakdowns/en/2026-06/tiktok-transcript-it-s-a-half-wig-summer-5-mns-she-s-on-halfwig-hairstyle-body-55d8.md) — 1.0M views · `Surprise Reveal` · 2026-06-17
 

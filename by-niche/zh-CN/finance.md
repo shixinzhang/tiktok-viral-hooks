@@ -1,11 +1,13 @@
 # finance Breakdowns
 
-> 20 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 21 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
 
 - [No Money, Big Problem: Work Hard and Be Smart](../../breakdowns/zh-CN/2026-06/tiktok-transcript-no-boy-friend-no-problem-no-girl-friend-no-problem-no-money-b0e9.md) — 76.3M views · `contrast escalation` · 2026-06-02
+
+- [Rich Dad Market Lesson with iPhone Analogy](../../breakdowns/zh-CN/2026-07/tiktok-transcript-rich-dad-lesson-on-the-market-using-an-iphone-analogy-person-7e7f.md) — 18.0M views · `Curiosity Gap` · 2026-07-22
 
 - [The 3 Worst Businesses to Buy According to an Expert](../../breakdowns/zh-CN/2026-07/tiktok-transcript-here-are-the-3-worst-businesses-you-could-ever-buy-because-i-b7ad.md) — 12.4M views · `Listicle with contrarian premise` · 2026-07-01
 

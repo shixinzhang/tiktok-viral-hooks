@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 158 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 161 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -24,6 +24,8 @@
 - [33M Views 1.9M Reactions Winwilliam Vergin90 Greeting and...](../../breakdowns/en/2026-06/tiktok-transcript-33m-views-1-9m-reactions-winwilliam-vergin90-vergin90-af36.md) — 17.1M views · `Direct address with immediate action` · 2026-06-16
 
 - [The Chosen Son Part 1: Mother Sent to Gatekeeper House](../../breakdowns/en/2026-06/tiktok-transcript-the-chosen-son-part-1-storytelling-motherandson-storytime-st-376f.md) — 16.5M views · `Shocking Revelation` · 2026-06-08
+
+- [Money Hacks Pt. 2: Buy Cheap Alcohol at Costco Without Me...](../../breakdowns/en/2026-07/tiktok-transcript-money-hacks-pt-2-inspired-by-onlyjayus-personalfinance-learn-4143.md) — 15.5M views · `Problem-Solution` · 2026-07-22
 
 - [Arafa Night Prayer for Life Change](../../breakdowns/en/2026-05/tiktok-transcript-video-a962.md) — 15.2M views · `Promise of transformation` · 2026-05-25
 
@@ -291,6 +293,8 @@
 
 - [Denim Pants Recommendation for Style and Fit](../../breakdowns/en/2026-06/tiktok-transcript-foryou-fyp-pants-pantsrecommendation-denimpants-1fa7.md) — 608.6K views · `conditional attention grabber` · 2026-06-20
 
+- [Skip the Middleman: Build Your Dream House in China](../../breakdowns/en/2026-07/tiktok-transcript-come-to-china-to-build-your-dream-house-renovation-decoratio-2787.md) — 587.5K views · `Curiosity Gap + Benefit Stacking` · 2026-07-20
+
 - [Father Abandons Will and Trust, Chooses Money Over Daughters](../../breakdowns/en/2026-06/tiktok-transcript-video-1e53.md) — 576.6K views · `Moral Responsibility` · 2026-06-18
 
 - [The Worst Moment for Independent Store Sellers: Returns](../../breakdowns/en/2026-06/tiktok-transcript-the-worst-moment-for-independent-store-sellers-warehousing-d-4afa.md) — 569.4K views · `Problem-Agitate` · 2026-06-10
@@ -298,6 +302,8 @@
 - [Black Woman Explains Why White Privilege Exists](../../breakdowns/en/2026-06/tiktok-transcript-onthisday-36b0.md) — 546.3K views · `Controversial Identity Declaration` · 2026-06-19
 
 - [Ronaldo Jr. Is the Next Star, Says Fan](../../breakdowns/en/2026-07/tiktok-transcript-ronaldo-junior-ronaldo-ronaldojunior-f1ed.md) — 543.5K views · `Contrast & Claim` · 2026-07-12
+
+- [Apple Man Suspense Story Part 1](../../breakdowns/en/2026-07/tiktok-transcript-apple-man-suspense-story-part-1-aistory-storydrama-fruitstor-9aed.md) — 537.1K views · `Contrasting fates` · 2026-07-22
 
 - [Australia: The Sixth Largest and Most Beautiful Country](../../breakdowns/en/2026-06/tiktok-transcript-australia-au-4a36.md) — 519.9K views · `Curiosity Gap` · 2026-06-20
 
