@@ -1,6 +1,6 @@
 # Hook Pattern: Curiosity Gap
 
-> 11 viral TikTok videos that use this hook pattern.
+> 12 viral TikTok videos that use this hook pattern.
 
 [← Back to README](../../README.md)
 
@@ -14,6 +14,8 @@
 - [Tailored Set With High-Waist Pants And Long Vest](../../breakdowns/en/2026-05/tiktok-transcript-look-de-milh-es-conjuntofeminino-alfaiataria-elegante-177d.md) — 2.4M views · `other` · 2026-05-22
 
 - [Tasty Burger Production: Marinade to Meat Grinder](../../breakdowns/en/2026-06/tiktok-transcript-movie-usa-foryou-film-tiktok-d95e.md) — 2.2M views · `food` · 2026-06-13
+
+- [When the Holy Spirit Enters Your Life](../../breakdowns/en/2026-07/tiktok-transcript-quando-o-esp-rito-santo-de-deus-entra-na-sua-vida-oracao-ver-da62.md) — 2.0M views · `other` · 2026-07-23
 
 - [Review of Viral Matcha Lake in China](../../breakdowns/en/2026-05/tiktok-transcript-review-h-matcha-si-u-hot-m-ng-x-h-i-th-gi-i-xem-n-cu-i-th-d28f.md) — 1.8M views · `other` · 2026-05-28
 

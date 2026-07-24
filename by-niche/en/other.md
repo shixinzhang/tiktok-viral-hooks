@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 161 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 166 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -169,6 +169,8 @@
 
 - [Gola Ganda And Kulfi Love Story Part 1](../../breakdowns/en/2026-06/tiktok-transcript-gola-ganda-and-kulfi-love-story-part-1-creatorsearchinsights-3e11.md) — 2.1M views · `Rhetorical question + contradiction` · 2026-06-20
 
+- [When the Holy Spirit Enters Your Life](../../breakdowns/en/2026-07/tiktok-transcript-quando-o-esp-rito-santo-de-deus-entra-na-sua-vida-oracao-ver-da62.md) — 2.0M views · `Curiosity gap` · 2026-07-23
+
 - [World Stands With You in Joy, Not in Grief](../../breakdowns/en/2026-07/tiktok-transcript-4-9m-views-156k-reactions-khushi-or-gham-mein-duniya-ka-sath-f3c9.md) — 1.9M views · `Contrasting Parallelism` · 2026-07-15
 
 - [World Stands With You In Joy But Not In Grief](../../breakdowns/en/2026-07/tiktok-transcript-4-9m-views-156k-reactions-khushi-or-gham-mein-duniya-ka-sath-dc6e.md) — 1.9M views · `contrast` · 2026-07-15
@@ -241,6 +243,8 @@
 
 - [Why You Shouldn't Pee When Waking Up at Night](../../breakdowns/en/2026-06/tiktok-transcript-waking-up-in-the-middle-of-the-night-and-immediately-getting-e708.md) — 1.2M views · `Contrarian advice` · 2026-06-15
 
+- [Young Woman's Career Ambitions Shift After One Month Working](../../breakdowns/en/2026-07/tiktok-transcript-2-1m-views-10k-reactions-nh-n-o-y-thuycoluong-thuycoluong-d720.md) — 1.1M views · `Expectation vs Reality` · 2026-07-23
+
 - [Poem Recitation: A Whip for Silent Messages](../../breakdowns/en/2026-07/tiktok-transcript-please-tiktok-team-don-t-under-review-my-video-viral-a1d1.md) — 1.1M views · `Unexpected declaration` · 2026-07-17
 
 - [3 Things You Didn't Know About Airport Security Jobs](../../breakdowns/en/2026-07/tiktok-transcript-3-saker-du-inte-visste-om-jobbet-som-flygplatskontrollant-f-729a.md) — 1.1M views · `Lista med hemligheter` · 2026-07-19
@@ -309,6 +313,8 @@
 
 - [Chinese Rotating Monument Mechanism Illusion](../../breakdowns/en/2026-06/tiktok-transcript-video-f1b0.md) — 516.2K views · `Curiosity gap with promise of coolness` · 2026-06-17
 
+- [Acting as If God Is Inside You Changes Everything](../../breakdowns/en/2026-07/tiktok-transcript-espiritualidade-espiritualidade-napoleonhill-consci-ncia-369-199a.md) — 515.7K views · `Conditional transformation` · 2026-07-22
+
 - [10 Amazing Health Facts You Need to Know](../../breakdowns/en/2026-07/tiktok-transcript-922k-views-22k-reactions-10-amazing-health-related-facts-ama-a73b.md) — 434.9K views · `Numbered list teaser` · 2026-07-09
 
 - [Letting Go of Love Without Possession](../../breakdowns/en/2026-06/tiktok-transcript-you-have-to-let-it-go-not-because-it-didn-t-matter-not-becau-6f93.md) — 370.4K views · `Unexpected twist on a common metaphor` · 2026-06-10
@@ -317,6 +323,8 @@
 
 - [4 Secrets of a Happy Married Life – A Mother’s Advice](../../breakdowns/en/2026-06/tiktok-transcript-802k-views-22k-reactions-4-secrets-of-a-happy-married-life-a-e640.md) — 365.9K views · `List-based curiosity gap` · 2026-06-05
 
+- [Saint Michael Archangel Protection Reminder](../../breakdowns/en/2026-07/tiktok-transcript-wearing-saint-michael-reminds-me-that-protection-is-always-w-aff1.md) — 364.5K views · `Mysterious introduction + personal benefit` · 2026-07-22
+
 - [Customized Necklace Gift With Two-Sided Coin Design](../../breakdowns/en/2026-06/tiktok-transcript-video-6676.md) — 337.3K views · `Superlative + Specific` · 2026-06-07
 
 - [Young Girl Walks Into Lake in Dress Without Fear](../../breakdowns/en/2026-06/tiktok-transcript-flim-movie-tvshow-fyp-2dc2.md) — 330.2K views · `Mysterious Action` · 2026-06-05
@@ -324,5 +332,7 @@
 - [Gratitude Is a Superpower for Your Normal Day](../../breakdowns/en/2026-06/tiktok-transcript-love-the-life-god-gave-you-299b.md) — 322.8K views · `Perspective Shift` · 2026-06-03
 
 - [What Happens If You Drink Ginsomin for 7 Days](../../breakdowns/en/2026-06/tiktok-transcript-ini-yang-terjadi-jika-kamu-minum-ginsomin-selama-7-hari-diab-750e.md) — 320.0K views · `Curiosity Gap` · 2026-06-22
+
+- [Full-Home Customization With Unique Cabinet Designs](../../breakdowns/en/2026-07/tiktok-transcript-full-home-customization-unique-homes-homecustomization-inter-bd37.md) — 288.8K views · `Contrasting command` · 2026-07-22
 
 - [How to Make Roblox Thumbnails for Your Game Easily](../../breakdowns/en/2026-06/tiktok-transcript-how-to-make-roblox-thumbnails-for-your-game-easily-robloxdev-1a53.md) — 124.1K views · `Speed/Result Promise` · 2026-06-07
