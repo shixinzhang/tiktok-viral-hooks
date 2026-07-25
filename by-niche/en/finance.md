@@ -1,6 +1,6 @@
 # finance Breakdowns
 
-> 21 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 22 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -25,9 +25,9 @@
 
 - [House Affordability on a $20/Hour Salary](../../breakdowns/en/2026-05/tiktok-transcript-here-s-how-much-you-can-afford-for-a-house-if-you-make-20-ho-32a7.md) — 2.9M views · `Curiosity Gap + Specificity` · 2026-05-31
 
-- [Avoid Being House Poor: Real Estate Upkeep Costs](../../breakdowns/en/2026-07/tiktok-transcript-don-t-be-house-poor-glenndabaker-realestate-atlantarealestat-077f.md) — 2.8M views · `Myth vs. Reality` · 2026-07-10
-
 - [School Doesn't Create Winners, It Creates Obedient Employees](../../breakdowns/en/2026-06/tiktok-transcript-la-escuela-no-forma-ganadores-forma-empleados-obedientes-y-e-77d8.md) — 2.8M views · `Rhetorical question + contrarian statement` · 2026-06-07
+
+- [Avoid Being House Poor: Real Estate Upkeep Costs](../../breakdowns/en/2026-07/tiktok-transcript-don-t-be-house-poor-glenndabaker-realestate-atlantarealestat-077f.md) — 2.8M views · `Myth vs. Reality` · 2026-07-10
 
 - [Feng Shui Tip: Write 8423 on Paper to Improve Finances](../../breakdowns/en/2026-06/tiktok-transcript-always-feel-like-money-s-tight-let-me-share-a-feng-shui-tip-eb25.md) — 2.7M views · `Problem-Agitate-Solution` · 2026-06-30
 
@@ -44,5 +44,7 @@
 - [Top 3 AI Stocks to Buy for the Next Decade](../../breakdowns/en/2026-06/tiktok-transcript-here-are-the-top-3-a-i-stocks-to-buy-for-the-next-decade-acc-cbda.md) — 1.5M views · `List-based promise with authority` · 2026-06-12
 
 - [3 Best Stocks to Buy for Wealth Building](../../breakdowns/en/2026-06/tiktok-transcript-the-best-stocks-to-buy-to-get-rich-9632.md) — 1.4M views · `Unexpected twist` · 2026-06-12
+
+- [Video ni agak panjang tapi please tengok sampai habis sebelum korang ...](../../breakdowns/en/2026-07/tiktok-transcript-video-ni-agak-panjang-tapi-please-tengok-sampai-habis-sebelu-6446.md) — 1.3M views · `Value Promise` · 2026-07-24
 
 - [4 Years of Financial Education in 60 Seconds](../../breakdowns/en/2026-06/tiktok-transcript-4-a-os-de-educaci-n-financiera-en-60-segundos-finanzas-diner-053f.md) — 745.4K views · `Counterintuitive statement` · 2026-06-06

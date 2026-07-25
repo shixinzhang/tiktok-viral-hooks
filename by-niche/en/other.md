@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 166 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 169 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -31,17 +31,17 @@
 
 - [You Are Enough Every Minute of Every Day](../../breakdowns/en/2026-06/tiktok-transcript-you-are-enough-every-minute-of-everyday-remind-yourself-how-3500.md) — 14.2M views · `Direct address + time constraint` · 2026-06-01
 
-- [Life Hacks 99% of People Don't Know](../../breakdowns/en/2026-07/tiktok-transcript-life-lifetips-fyp-foryou-lifehacks-79e3.md) — 12.4M views · `Exclusivity + numbered list` · 2026-07-05
-
 - [Life Hacks 99% of People Don't Know](../../breakdowns/en/2026-07/tiktok-transcript-life-lifetips-fyp-foryou-lifehacks-1d3f.md) — 12.4M views · `Curiosity Gap + Numbered List` · 2026-07-05
+
+- [Life Hacks 99% of People Don't Know](../../breakdowns/en/2026-07/tiktok-transcript-life-lifetips-fyp-foryou-lifehacks-79e3.md) — 12.4M views · `Exclusivity + numbered list` · 2026-07-05
 
 - [Giant S'more Roast and Skittles Separation Reaction](../../breakdowns/en/2026-07/tiktok-transcript-jtvjember-evakuasi-sidoarjo-fyp-foryou-b9ba.md) — 12.0M views · `Surprise and escalating curiosity` · 2026-07-03
 
 - [Loving the Sentence About Doing Enough](../../breakdowns/en/2026-06/tiktok-transcript-just-because-you-could-be-doing-more-doesn-t-mean-you-re-not-88b7.md) — 11.9M views · `Reframe` · 2026-06-02
 
-- [Leo Skepi on Betrayal and Ending a Friendship](../../breakdowns/en/2026-07/tiktok-transcript-leo-skepi-fyp-betrayal-hurt-forgiveness-leoskepi-loyalty-fri-e611.md) — 9.9M views · `Moral Contrast` · 2026-07-01
-
 - [People Change](../../breakdowns/en/2026-06/tiktok-transcript-la-gente-cambia-fyp-motivation-sad-farieddieck-fea7.md) — 9.9M views · `Direct accountability` · 2026-06-06
+
+- [Leo Skepi on Betrayal and Ending a Friendship](../../breakdowns/en/2026-07/tiktok-transcript-leo-skepi-fyp-betrayal-hurt-forgiveness-leoskepi-loyalty-fri-e611.md) — 9.9M views · `Moral Contrast` · 2026-07-01
 
 - [Choosing Between the Life You Know and the Life You Want...](../../breakdowns/en/2026-05/tiktok-transcript-mindset-relationships-growth-motivation-attitude-a93c.md) — 9.4M views · `Anticipatory dilemma` · 2026-05-31
 
@@ -59,9 +59,9 @@
 
 - [The World's Strongest Beetle Shell Structure](../../breakdowns/en/2026-06/tiktok-transcript-el-escarabajo-m-s-fuerte-del-mundo-estadosunidos-datoscurios-e2a1.md) — 7.8M views · `Contrast & Surprise` · 2026-06-04
 
-- [Forest Work ASMR Satisfying Forestry Sounds](../../breakdowns/en/2026-07/tiktok-transcript-fyp-viral-foryou-trending-forestwork-forestry-asmr-satisfyin-348d.md) — 7.7M views · `Single-word agreement` · 2026-07-21
-
 - [Heart's Electrical Energy Explained](../../breakdowns/en/2026-06/tiktok-transcript-heart-heartmath-fyp-mindblown-energy-loveislove-greenscreenv-cfb4.md) — 7.7M views · `Curiosity gap + personal astonishment` · 2026-06-29
+
+- [Forest Work ASMR Satisfying Forestry Sounds](../../breakdowns/en/2026-07/tiktok-transcript-fyp-viral-foryou-trending-forestwork-forestry-asmr-satisfyin-348d.md) — 7.7M views · `Single-word agreement` · 2026-07-21
 
 - [The Best Thing I Ever Did Was Stay Quiet](../../breakdowns/en/2026-06/tiktok-transcript-the-best-i-have-ever-done-is-to-stay-quiet-denzelwashington-89b9.md) — 7.4M views · `Contrarian declaration` · 2026-06-02
 
@@ -77,21 +77,21 @@
 
 - [Dual Screen Setup with HUANUO Monitor Arm](../../breakdowns/en/2026-07/tiktok-transcript-dual-screen-wonder-stacked-perfection-with-huanuo-monitor-ar-088a.md) — 6.1M views · `Audio-only hook` · 2026-07-09
 
-- [Get Your Free Private Reading Now](../../breakdowns/en/2026-07/tiktok-transcript-click-the-link-in-my-bio-for-free-private-reading-mainfest-p-5783.md) — 5.8M views · `Direct address + certainty` · 2026-07-05
-
 - [Trending Loose Pants For Women](../../breakdowns/en/2026-06/tiktok-transcript-trending-loose-pants-for-women-0616.md) — 5.8M views · `Rhetorical Question` · 2026-06-20
+
+- [Get Your Free Private Reading Now](../../breakdowns/en/2026-07/tiktok-transcript-click-the-link-in-my-bio-for-free-private-reading-mainfest-p-5783.md) — 5.8M views · `Direct address + certainty` · 2026-07-05
 
 - [Dream Dress Hides Apron Belly for Curvy Women](../../breakdowns/en/2026-05/tiktok-transcript-dream-dress-for-us-curvy-girls-dress-apronbelly-curvyfashion-ecbc.md) — 5.6M views · `Vulnerability + Transformation` · 2026-05-22
 
 - [White Monitor Arm Holiday Sale for Clean Look](../../breakdowns/en/2026-07/tiktok-transcript-clean-look-maximum-flexibility-white-monitor-arm-holiday-sal-2f80.md) — 4.4M views · `Minimalist Hook` · 2026-07-09
 
-- [Typical Game of Fool](../../breakdowns/en/2026-07/tiktok-transcript-pov-story-62d9.md) — 4.2M views · `confusing escalation` · 2026-07-15
-
 - [Falcon Tortures Itself 150 Days to Be Reborn](../../breakdowns/en/2026-06/tiktok-transcript-19-150-8621.md) — 4.2M views · `Curiosity gap with specific age` · 2026-06-12
 
-- [Artemis Crew Flying Behind the Moon Monday](../../breakdowns/en/2026-05/tiktok-transcript-don-t-miss-it-8da8.md) — 4.1M views · `Urgency + Promise of Significance` · 2026-05-28
+- [Typical Game of Fool](../../breakdowns/en/2026-07/tiktok-transcript-pov-story-62d9.md) — 4.2M views · `confusing escalation` · 2026-07-15
 
 - [The Hardest Part of ADHD: Hyperfixation on Loved Ones](../../breakdowns/en/2026-06/tiktok-transcript-the-truth-about-adhd-no-one-talks-about-adhdawareness-psycho-400d.md) — 4.1M views · `Relatable Revelation` · 2026-06-21
+
+- [Artemis Crew Flying Behind the Moon Monday](../../breakdowns/en/2026-05/tiktok-transcript-don-t-miss-it-8da8.md) — 4.1M views · `Urgency + Promise of Significance` · 2026-05-28
 
 - [Why Gardeners Remove Small Tomatoes](../../breakdowns/en/2026-07/tiktok-transcript-8-3m-views-120k-reactions-why-gardeners-remove-small-tomatoe-fdbc.md) — 4.0M views · `Sensory Appreciation` · 2026-07-12
 
@@ -105,81 +105,81 @@
 
 - [Angelina Jolie: Stay Single and Invest in Yourself](../../breakdowns/en/2026-07/tiktok-transcript-angelina-jolie-motivation-fyp-viral-angelinajolie-lifelesson-1adf.md) — 3.5M views · `Empowerment with divine promise` · 2026-07-02
 
-- [Letter to Dad: First Love, First Heartbreak](../../breakdowns/en/2026-05/tiktok-transcript-ya-tocaba-uno-as-monlaferte-fpy-desamor-fenmefatale-parati-0f8e.md) — 3.4M views · `Contradiction Hook` · 2026-05-28
-
 - [Best Car Phone Mount Hack Drivers Keep Secret](../../breakdowns/en/2026-06/tiktok-transcript-carphonemount-don-t-let-people-who-drive-know-about-this-car-e498.md) — 3.4M views · `Musical Hook` · 2026-06-23
+
+- [Letter to Dad: First Love, First Heartbreak](../../breakdowns/en/2026-05/tiktok-transcript-ya-tocaba-uno-as-monlaferte-fpy-desamor-fenmefatale-parati-0f8e.md) — 3.4M views · `Contradiction Hook` · 2026-05-28
 
 - [Nail in Onion Behind Door Blocks Neighbors Evil Eye](../../breakdowns/en/2026-07/tiktok-transcript-7-1m-views-115k-reactions-protection-bodyfacts-lifestyle-vir-d28c.md) — 3.4M views · `numbered list with surprising remedy` · 2026-07-02
 
 - [Why Silent People Withdraw When Hurt](../../breakdowns/en/2026-07/tiktok-transcript-people-who-go-silent-38db.md) — 3.3M views · `Psychological label reveal` · 2026-07-02
 
-- [Mashom Funny Pashto Story About Kachaloo](../../breakdowns/en/2026-07/tiktok-transcript-mashom-aivideos-pashtostoriesai-grwomyaccount-fyp-funny-8989.md) — 3.2M views · `Question + Offer` · 2026-07-14
-
 - [Fix Your Juicer Machine, Stop Wasting Money](../../breakdowns/en/2026-06/tiktok-transcript-saraikimonkey-bandar-viraltiktok-ai-42f3.md) — 3.2M views · `Repetitive command with escalating absurdity` · 2026-06-16
 
+- [Mashom Funny Pashto Story About Kachaloo](../../breakdowns/en/2026-07/tiktok-transcript-mashom-aivideos-pashtostoriesai-grwomyaccount-fyp-funny-8989.md) — 3.2M views · `Question + Offer` · 2026-07-14
+
 - [Today's Advice: Fear of Rejection Is Lack of Shame](../../breakdowns/en/2026-05/tiktok-transcript-consejo-de-hoy-5a21.md) — 3.1M views · `Confrontational Reframe` · 2026-05-22
+
+- [Practical Life Hacks You've Never Seen Before](../../breakdowns/en/2026-06/tiktok-transcript-lifehacks-lifetips-learnontiktok-fyp-foryou-0a55.md) — 3.0M views · `Curiosity Gap with Specific Promise` · 2026-06-12
 
 - [Ebola Outbreak Declared Global Health Emergency, US Bans...](../../breakdowns/en/2026-05/tiktok-transcript-one-thing-after-another-504d.md) — 3.0M views · `Urgent News Alert` · 2026-05-25
 
 - [Happy People Encourage, Successful People Support](../../breakdowns/en/2026-05/tiktok-transcript-freedon-growth-earnmoneyonline-entrepreneur-studentloans-3cac.md) — 3.0M views · `contrast list` · 2026-05-31
 
-- [Practical Life Hacks You've Never Seen Before](../../breakdowns/en/2026-06/tiktok-transcript-lifehacks-lifetips-learnontiktok-fyp-foryou-0a55.md) — 3.0M views · `Curiosity Gap with Specific Promise` · 2026-06-12
-
-- [Karma Is Real: What Goes Around Comes Back Tenfold](../../breakdowns/en/2026-07/tiktok-transcript-karma-is-real-motivation-podcast-quotes-podcastclips-womene-dd79.md) — 2.9M views · `Bold Statement` · 2026-07-04
-
-- [Get Your Dream Body Once and For All](../../breakdowns/en/2026-07/tiktok-transcript-ten-el-f-sico-de-tus-sue-os-de-una-vez-por-todas-k-5d53.md) — 2.9M views · `Impossible Claim` · 2026-07-19
-
 - [All Algebra Rules in One Minute](../../breakdowns/en/2026-06/tiktok-transcript-quick-maths-study-oneminute-algebra-all-study-sat-rules-your-ea5f.md) — 2.9M views · `Promise of rapid mastery` · 2026-06-22
 
 - [Day Your Mother Dies, O Son of Adam – Sheikh Kishk](../../breakdowns/en/2026-06/tiktok-transcript-video-9e03.md) — 2.9M views · `Repetition with escalation` · 2026-06-14
 
-- [Modern Consciousness Catastrophe Explained](../../breakdowns/en/2026-05/tiktok-transcript-note-this-video-will-lag-if-you-catch-it-early-you-can-downl-5a47.md) — 2.7M views · `Urgent philosophical revelation` · 2026-05-31
+- [Get Your Dream Body Once and For All](../../breakdowns/en/2026-07/tiktok-transcript-ten-el-f-sico-de-tus-sue-os-de-una-vez-por-todas-k-5d53.md) — 2.9M views · `Impossible Claim` · 2026-07-19
 
-- [Why You Can't Stop Thinking About Your Ex](../../breakdowns/en/2026-07/tiktok-transcript-no-puedes-parar-de-pensar-en-tu-ex-psicologia-neurociencia-c-12e3.md) — 2.6M views · `Analogy Hook` · 2026-07-21
+- [Karma Is Real: What Goes Around Comes Back Tenfold](../../breakdowns/en/2026-07/tiktok-transcript-karma-is-real-motivation-podcast-quotes-podcastclips-womene-dd79.md) — 2.9M views · `Bold Statement` · 2026-07-04
+
+- [Modern Consciousness Catastrophe Explained](../../breakdowns/en/2026-05/tiktok-transcript-note-this-video-will-lag-if-you-catch-it-early-you-can-downl-5a47.md) — 2.7M views · `Urgent philosophical revelation` · 2026-05-31
 
 - [How Criminals Clean Dirty Money](../../breakdowns/en/2026-06/tiktok-transcript-how-to-clean-dirty-money-finance-animation-uk-b0d3.md) — 2.6M views · `Rhetorical question + personal stake` · 2026-06-03
 
-- [Mashom Jokes About Cheap Potatoes and Free Chilies](../../breakdowns/en/2026-07/tiktok-transcript-mashom-aivideos-pashtostoriesai-grwomyaccount-fyp-funny-7011.md) — 2.5M views · `Question + Bonus Offer` · 2026-07-13
+- [Why You Can't Stop Thinking About Your Ex](../../breakdowns/en/2026-07/tiktok-transcript-no-puedes-parar-de-pensar-en-tu-ex-psicologia-neurociencia-c-12e3.md) — 2.6M views · `Analogy Hook` · 2026-07-21
 
 - [Happiest Time in a Paper: Teacher Says Hide It](../../breakdowns/en/2026-06/tiktok-transcript-money-monky-viral-video-monky-55f2.md) — 2.5M views · `Rhetorical question with unexpected answer` · 2026-06-16
 
-- [The Hardest Part of Grief Is Letting Go of Who You Were](../../breakdowns/en/2026-07/tiktok-transcript-lo-m-s-dif-cil-del-duelo-no-es-soltar-al-otro-es-soltar-a-la-bc1e.md) — 2.4M views · `Unexpected twist on a common idea` · 2026-07-17
-
-- [Abelardo De La Espriella's Proposals to Govern Colombia](../../breakdowns/en/2026-05/tiktok-transcript-estas-son-las-propuestas-de-abelardo-de-la-espriella-para-go-6f8d.md) — 2.4M views · `List of bold proposals` · 2026-05-28
-
-- [Tailored Set With High-Waist Pants And Long Vest](../../breakdowns/en/2026-05/tiktok-transcript-look-de-milh-es-conjuntofeminino-alfaiataria-elegante-177d.md) — 2.4M views · `Curiosity Gap` · 2026-05-22
+- [Mashom Jokes About Cheap Potatoes and Free Chilies](../../breakdowns/en/2026-07/tiktok-transcript-mashom-aivideos-pashtostoriesai-grwomyaccount-fyp-funny-7011.md) — 2.5M views · `Question + Bonus Offer` · 2026-07-13
 
 - [Millionaire Buys 100 Hats and 200 Dresses for Embarrassed...](../../breakdowns/en/2026-06/tiktok-transcript-latintiktok-viralusaticktok-movieexplained-f6ec.md) — 2.4M views · `Contrast & Embarrassment` · 2026-06-23
 
+- [The Hardest Part of Grief Is Letting Go of Who You Were](../../breakdowns/en/2026-07/tiktok-transcript-lo-m-s-dif-cil-del-duelo-no-es-soltar-al-otro-es-soltar-a-la-bc1e.md) — 2.4M views · `Unexpected twist on a common idea` · 2026-07-17
+
+- [Tailored Set With High-Waist Pants And Long Vest](../../breakdowns/en/2026-05/tiktok-transcript-look-de-milh-es-conjuntofeminino-alfaiataria-elegante-177d.md) — 2.4M views · `Curiosity Gap` · 2026-05-22
+
+- [Abelardo De La Espriella's Proposals to Govern Colombia](../../breakdowns/en/2026-05/tiktok-transcript-estas-son-las-propuestas-de-abelardo-de-la-espriella-para-go-6f8d.md) — 2.4M views · `List of bold proposals` · 2026-05-28
+
 - [Men Feel Pain But Don't Express It](../../breakdowns/en/2026-06/tiktok-transcript-6-2m-views-297k-reactions-aadmi-quotes-realtionship-podcast-7b6b.md) — 2.3M views · `Contradiction/Revelation` · 2026-06-01
 
-- [Driving an Electric Car on a Chinese Highway](../../breakdowns/en/2026-07/tiktok-transcript-if-you-come-to-china-you-might-as-well-rent-an-electric-car-336a.md) — 2.3M views · `Question-Answer` · 2026-07-18
-
 - [They Call Me a Stranger Here](../../breakdowns/en/2026-06/tiktok-transcript-capcut-3ydo-50ca.md) — 2.3M views · `Contrast & Warning` · 2026-06-27
+
+- [Driving an Electric Car on a Chinese Highway](../../breakdowns/en/2026-07/tiktok-transcript-if-you-come-to-china-you-might-as-well-rent-an-electric-car-336a.md) — 2.3M views · `Question-Answer` · 2026-07-18
 
 - [Why Piles of Worn Clothes Drain Your Energy](../../breakdowns/en/2026-07/tiktok-transcript-never-leave-piles-of-worn-clothes-on-chairs-or-couches-even-6538.md) — 2.2M views · `Direct Command + Consequence` · 2026-07-07
 
 - [Jetour Dashing Black Series Mafia Vibe Drive](../../breakdowns/en/2026-07/tiktok-transcript-jetour-dashing-black-series-boleh-rasa-mafia-vibe-sambil-dri-6a67.md) — 2.2M views · `Misdirection + Curiosity Gap` · 2026-07-13
 
-- [Baby Elephant Plays with a Plastic Bottle](../../breakdowns/en/2026-07/tiktok-transcript-daa-bejli-bill-trending-baby-ai-unfrezzmyaccount-804-32a1.md) — 2.1M views · `Unfamiliar language opener` · 2026-07-21
-
-- [Funny Couple 4th of July Graphic Tees](../../breakdowns/en/2026-07/tiktok-transcript-funnyshirt-coupleshirt-4thofjuly-graphictees-funnycouple-f3d7.md) — 2.1M views · `Single-word exclamation` · 2026-07-17
-
 - [5 Clothes Folding Methods You Need to Know](../../breakdowns/en/2026-06/tiktok-transcript-life-lifetips-fyp-foryou-lifehacks-viral-d22d.md) — 2.1M views · `Challenge/Knowledge Gap` · 2026-06-13
 
 - [Gola Ganda And Kulfi Love Story Part 1](../../breakdowns/en/2026-06/tiktok-transcript-gola-ganda-and-kulfi-love-story-part-1-creatorsearchinsights-3e11.md) — 2.1M views · `Rhetorical question + contradiction` · 2026-06-20
 
-- [When the Holy Spirit Enters Your Life](../../breakdowns/en/2026-07/tiktok-transcript-quando-o-esp-rito-santo-de-deus-entra-na-sua-vida-oracao-ver-da62.md) — 2.0M views · `Curiosity gap` · 2026-07-23
+- [Baby Elephant Plays with a Plastic Bottle](../../breakdowns/en/2026-07/tiktok-transcript-daa-bejli-bill-trending-baby-ai-unfrezzmyaccount-804-32a1.md) — 2.1M views · `Unfamiliar language opener` · 2026-07-21
 
-- [World Stands With You in Joy, Not in Grief](../../breakdowns/en/2026-07/tiktok-transcript-4-9m-views-156k-reactions-khushi-or-gham-mein-duniya-ka-sath-f3c9.md) — 1.9M views · `Contrasting Parallelism` · 2026-07-15
+- [Funny Couple 4th of July Graphic Tees](../../breakdowns/en/2026-07/tiktok-transcript-funnyshirt-coupleshirt-4thofjuly-graphictees-funnycouple-f3d7.md) — 2.1M views · `Single-word exclamation` · 2026-07-17
+
+- [When the Holy Spirit Enters Your Life](../../breakdowns/en/2026-07/tiktok-transcript-quando-o-esp-rito-santo-de-deus-entra-na-sua-vida-oracao-ver-da62.md) — 2.0M views · `Curiosity gap` · 2026-07-23
 
 - [World Stands With You In Joy But Not In Grief](../../breakdowns/en/2026-07/tiktok-transcript-4-9m-views-156k-reactions-khushi-or-gham-mein-duniya-ka-sath-dc6e.md) — 1.9M views · `contrast` · 2026-07-15
 
-- [Teach Your Daughter Financial Independence for Self-Respect](../../breakdowns/en/2026-07/tiktok-transcript-one-day-i-will-tell-my-daughter-this-make-your-own-money-not-fc83.md) — 1.9M views · `Promise + Imperative` · 2026-07-10
+- [World Stands With You in Joy, Not in Grief](../../breakdowns/en/2026-07/tiktok-transcript-4-9m-views-156k-reactions-khushi-or-gham-mein-duniya-ka-sath-f3c9.md) — 1.9M views · `Contrasting Parallelism` · 2026-07-15
+
+- [Ready Is a Decision, Not a Feeling](../../breakdowns/en/2026-06/tiktok-transcript-ready-isn-t-a-vibe-it-s-a-choice-healingjourney-chooseyourse-74b5.md) — 1.9M views · `Counterintuitive reframe` · 2026-06-01
 
 - [Your Mom Loves You More Than Herself](../../breakdowns/en/2026-07/tiktok-transcript-best-motivational-speech-life-lesson-must-watch-foryou-foryo-b176.md) — 1.9M views · `Contrast/Comparison` · 2026-07-16
 
-- [Ready Is a Decision, Not a Feeling](../../breakdowns/en/2026-06/tiktok-transcript-ready-isn-t-a-vibe-it-s-a-choice-healingjourney-chooseyourse-74b5.md) — 1.9M views · `Counterintuitive reframe` · 2026-06-01
+- [Teach Your Daughter Financial Independence for Self-Respect](../../breakdowns/en/2026-07/tiktok-transcript-one-day-i-will-tell-my-daughter-this-make-your-own-money-not-fc83.md) — 1.9M views · `Promise + Imperative` · 2026-07-10
 
 - [If Someone Asks What You Did Today, Don't Say It Was Hard](../../breakdowns/en/2026-06/tiktok-transcript-699k-views-100k-reactions-theek-hai-ashish-bagrecha-c2a0.md) — 1.8M views · `Hypothetical Question + Emotional Contrast` · 2026-06-01
 
@@ -187,13 +187,21 @@
 
 - [Poem: What Are You Afraid of Losing When Nothing Belongs...](../../breakdowns/en/2026-06/tiktok-transcript-4-7m-views-170k-reactions-what-are-you-afraid-of-losing-when-a99b.md) — 1.7M views · `Rhetorical Question` · 2026-06-27
 
+- [Loving Harder While Protecting Self-Respect](../../breakdowns/en/2026-06/tiktok-transcript-i-can-love-you-harder-than-you-ever-been-loved-motivetion-mo-4a6b.md) — 1.7M views · `Contrast & Paradox` · 2026-06-13
+
 - [Plane Flashlight M77 500W Brightness Test](../../breakdowns/en/2026-07/tiktok-transcript-video-dd82.md) — 1.7M views · `Hyperbolic Claim` · 2026-07-13
 
 - [Warning Against Ignoring God's Call](../../breakdowns/en/2026-07/tiktok-transcript-tiktok-video-7300772978990599454-c23c.md) — 1.7M views · `Fear of consequence` · 2026-07-18
 
 - [Aceh Floods Reach Unimaginable Heights on December 6](../../breakdowns/en/2026-05/tiktok-transcript-6-december-25-aceh-taming-can-not-imagine-this-high-of-the-f-f7b4.md) — 1.7M views · `Question-Answer Mismatch` · 2026-05-24
 
-- [Loving Harder While Protecting Self-Respect](../../breakdowns/en/2026-06/tiktok-transcript-i-can-love-you-harder-than-you-ever-been-loved-motivetion-mo-4a6b.md) — 1.7M views · `Contrast & Paradox` · 2026-06-13
+- [Join My Free Soap-Making Workshop](../../breakdowns/en/2026-06/tiktok-transcript-nete-a-mi-taller-sin-costo-d-nde-te-ense-ar-a-elaborar-jabon-074f.md) — 1.6M views · `Regret Aversion` · 2026-06-13
+
+- [Boy Shines Shoes Outside Faisal Mosque Islamabad Earns 40...](../../breakdowns/en/2026-06/tiktok-transcript-creatorsearchinsights-trustgod-faithoverfear-nasirkhan-foryo-271e.md) — 1.6M views · `Character introduction with vivid detail` · 2026-06-04
+
+- [Dara - Bangaranga, Your Eurovision 2026 Winning Song](../../breakdowns/en/2026-06/tiktok-transcript-dara-bangaranga-your-eurovision2026-winning-song-eurovisiond-3133.md) — 1.6M views · `Curiosity Gap + Emotional Stakes` · 2026-06-21
+
+- [Tired of Pride Month Rainbows on Grinder](../../breakdowns/en/2026-06/tiktok-transcript-this-month-brings-me-great-distress-as-you-could-clearly-tel-cb8f.md) — 1.6M views · `Contrarian Complaint` · 2026-06-04
 
 - [Christian Evangelist Claims Islam Is the Antichrist](../../breakdowns/en/2026-07/tiktok-transcript-christian-evangelist-believes-islam-is-the-antichrist-christ-c875.md) — 1.6M views · `Shocking Claim` · 2026-07-13
 
@@ -201,67 +209,61 @@
 
 - [Hypothyroidism Pill Check: Levothyroxine Fatigue Fix](../../breakdowns/en/2026-05/tiktok-transcript-hipotiroidismo-salud-tiroides-medicina-bc00.md) — 1.6M views · `Challenge/Reversal` · 2026-05-28
 
-- [Dara - Bangaranga, Your Eurovision 2026 Winning Song](../../breakdowns/en/2026-06/tiktok-transcript-dara-bangaranga-your-eurovision2026-winning-song-eurovisiond-3133.md) — 1.6M views · `Curiosity Gap + Emotional Stakes` · 2026-06-21
-
-- [Tired of Pride Month Rainbows on Grinder](../../breakdowns/en/2026-06/tiktok-transcript-this-month-brings-me-great-distress-as-you-could-clearly-tel-cb8f.md) — 1.6M views · `Contrarian Complaint` · 2026-06-04
-
-- [Join My Free Soap-Making Workshop](../../breakdowns/en/2026-06/tiktok-transcript-nete-a-mi-taller-sin-costo-d-nde-te-ense-ar-a-elaborar-jabon-074f.md) — 1.6M views · `Regret Aversion` · 2026-06-13
-
-- [Boy Shines Shoes Outside Faisal Mosque Islamabad Earns 40...](../../breakdowns/en/2026-06/tiktok-transcript-creatorsearchinsights-trustgod-faithoverfear-nasirkhan-foryo-271e.md) — 1.6M views · `Character introduction with vivid detail` · 2026-06-04
-
 - [Best Home Remedies For Stomach Diseases And Digestion](../../breakdowns/en/2026-06/tiktok-transcript-3-1m-views-62k-reactions-personalgrowth-digestion-curd-amazi-df93.md) — 1.5M views · `numbered list with specific duration` · 2026-06-28
 
 - [The Happiest People Appreciate What They Have](../../breakdowns/en/2026-06/tiktok-transcript-3-6m-views-73k-reactions-the-happiest-people-are-not-the-one-5c6d.md) — 1.5M views · `Reframing` · 2026-06-25
+
+- [Lain Edit: You Are Needed by No One in the Real World](../../breakdowns/en/2026-06/tiktok-transcript-lain-edit-6ec4.md) — 1.5M views · `brutal truth reveal` · 2026-06-06
 
 - [Best Motivational Speech: Life Lesson on Self-Worth](../../breakdowns/en/2026-07/tiktok-transcript-best-motivational-speech-life-lesson-must-watch-foryou-foryo-2145.md) — 1.5M views · `Metaphorical hook` · 2026-07-04
 
 - [How Keeping a Cat Improves Home Feng Shui](../../breakdowns/en/2026-07/tiktok-transcript-how-keeping-a-cat-transforms-your-home-s-feng-shui-cat-fengs-75ab.md) — 1.5M views · `Curiosity Gap` · 2026-07-07
 
-- [Admitting My Mistake and the Pain I Caused](../../breakdowns/en/2026-05/tiktok-transcript-tiktok-video-7642225034412428552-3d4b.md) — 1.5M views · `Vulnerability & Accountability` · 2026-05-24
-
 - [I Couldn't Love Anyone After You Left](../../breakdowns/en/2026-05/tiktok-transcript-ak-akash7060-6372.md) — 1.5M views · `Emotional confession` · 2026-05-24
 
-- [Lain Edit: You Are Needed by No One in the Real World](../../breakdowns/en/2026-06/tiktok-transcript-lain-edit-6ec4.md) — 1.5M views · `brutal truth reveal` · 2026-06-06
+- [Admitting My Mistake and the Pain I Caused](../../breakdowns/en/2026-05/tiktok-transcript-tiktok-video-7642225034412428552-3d4b.md) — 1.5M views · `Vulnerability & Accountability` · 2026-05-24
 
 - [Sweet Potatoes Argue Over Sunlight Exposure](../../breakdowns/en/2026-07/tiktok-transcript-2-9m-views-24k-reactions-never-let-sweet-potatoes-stick-out-260c.md) — 1.5M views · `Unexpected Personification` · 2026-07-16
 
 - [Marriage Is a One-Month Blessing](../../breakdowns/en/2026-06/tiktok-transcript-fyp-capcut-612d.md) — 1.4M views · `Rhetorical question + absurd premise` · 2026-06-02
 
+- [2.7M views · 51K reactions | What’s the Difference Between White and Red Onions? | Dr.Bota](../../breakdowns/en/2026-07/tiktok-transcript-2-7m-views-51k-reactions-what-s-the-difference-between-white-90e3.md) — 1.4M views · `Personification & Challenge` · 2026-07-24
+
 - [How to Grow a New Pineapple From the Top](../../breakdowns/en/2026-07/tiktok-transcript-2-6m-views-58k-reactions-don-t-throw-away-this-part-of-a-pin-14df.md) — 1.4M views · `Unexpected personification` · 2026-07-12
 
 - [Nikkah Was Very Simple In Our Prophet’s Time](../../breakdowns/en/2026-07/tiktok-transcript-2-8m-views-218k-reactions-warna-nikkah-bohot-aasan-tha-hamar-de02.md) — 1.3M views · `Bold accusation + contrast` · 2026-07-13
 
-- [3 Reasons Not to Buy the Viral Slushy Cup](../../breakdowns/en/2026-05/tiktok-transcript-n-achetez-pas-ce-gobelet-granita-viral-slushycupfreeze-st-a102.md) — 1.3M views · `Reverse Psychology List` · 2026-05-25
+- [Always Remember: You Don't Lose Them, They Lose You](../../breakdowns/en/2026-06/tiktok-transcript-always-remember-when-motivacion-motivacionvideo-motivacionqu-e331.md) — 1.3M views · `Reversal of expectation` · 2026-06-11
 
 - [Excessive Paw Itching Caused by Fungi and Bacteria](../../breakdowns/en/2026-06/tiktok-transcript-coceiras-em-excesso-nas-patolas-podem-ser-causadas-por-fungo-71c0.md) — 1.3M views · `Curiosity gap with absurd analogy` · 2026-06-29
 
-- [Always Remember: You Don't Lose Them, They Lose You](../../breakdowns/en/2026-06/tiktok-transcript-always-remember-when-motivacion-motivacionvideo-motivacionqu-e331.md) — 1.3M views · `Reversal of expectation` · 2026-06-11
+- [3 Reasons Not to Buy the Viral Slushy Cup](../../breakdowns/en/2026-05/tiktok-transcript-n-achetez-pas-ce-gobelet-granita-viral-slushycupfreeze-st-a102.md) — 1.3M views · `Reverse Psychology List` · 2026-05-25
+
+- [Why You Shouldn't Pee When Waking Up at Night](../../breakdowns/en/2026-06/tiktok-transcript-waking-up-in-the-middle-of-the-night-and-immediately-getting-e708.md) — 1.2M views · `Contrarian advice` · 2026-06-15
 
 - [Heatwave Animal Suffering in French Farms](../../breakdowns/en/2026-07/tiktok-transcript-muss-es-erst-zur-katastrophe-kommen-tierhaltung-hitzewelle-t-5813.md) — 1.2M views · `Emotional confession` · 2026-07-19
 
 - [Natural Sleep Recipe for Deep Rest All Week](../../breakdowns/en/2026-07/tiktok-transcript-sleep-like-a-baby-again-bettersleep-naturalremedy-bedtime-sl-422f.md) — 1.2M views · `Pain point empathy` · 2026-07-06
 
-- [Why You Shouldn't Pee When Waking Up at Night](../../breakdowns/en/2026-06/tiktok-transcript-waking-up-in-the-middle-of-the-night-and-immediately-getting-e708.md) — 1.2M views · `Contrarian advice` · 2026-06-15
-
 - [Young Woman's Career Ambitions Shift After One Month Working](../../breakdowns/en/2026-07/tiktok-transcript-2-1m-views-10k-reactions-nh-n-o-y-thuycoluong-thuycoluong-d720.md) — 1.1M views · `Expectation vs Reality` · 2026-07-23
-
-- [Poem Recitation: A Whip for Silent Messages](../../breakdowns/en/2026-07/tiktok-transcript-please-tiktok-team-don-t-under-review-my-video-viral-a1d1.md) — 1.1M views · `Unexpected declaration` · 2026-07-17
-
-- [3 Things You Didn't Know About Airport Security Jobs](../../breakdowns/en/2026-07/tiktok-transcript-3-saker-du-inte-visste-om-jobbet-som-flygplatskontrollant-f-729a.md) — 1.1M views · `Lista med hemligheter` · 2026-07-19
-
-- [The Lord's Prayer Recitation](../../breakdowns/en/2026-07/tiktok-transcript-padre-nuestro-fe-jesus-dios-c50a.md) — 1.1M views · `Familiar Opening` · 2026-07-18
-
-- [90% of Americans Forget to Clean This Car Part](../../breakdowns/en/2026-06/tiktok-transcript-90-of-people-in-the-united-states-forget-to-clean-this-part-e5ed.md) — 1.1M views · `Cost Shock + Urgency` · 2026-06-20
 
 - [A Father's Love Knows No Limits, Waking Tired for His Kids](../../breakdowns/en/2026-06/tiktok-transcript-l-amour-pour-ses-enfants-ne-conna-t-aucune-limite-je-me-l-ve-1fb3.md) — 1.1M views · `Sacrificial Love` · 2026-06-26
 
+- [90% of Americans Forget to Clean This Car Part](../../breakdowns/en/2026-06/tiktok-transcript-90-of-people-in-the-united-states-forget-to-clean-this-part-e5ed.md) — 1.1M views · `Cost Shock + Urgency` · 2026-06-20
+
+- [Poem Recitation: A Whip for Silent Messages](../../breakdowns/en/2026-07/tiktok-transcript-please-tiktok-team-don-t-under-review-my-video-viral-a1d1.md) — 1.1M views · `Unexpected declaration` · 2026-07-17
+
+- [The Lord's Prayer Recitation](../../breakdowns/en/2026-07/tiktok-transcript-padre-nuestro-fe-jesus-dios-c50a.md) — 1.1M views · `Familiar Opening` · 2026-07-18
+
+- [3 Things You Didn't Know About Airport Security Jobs](../../breakdowns/en/2026-07/tiktok-transcript-3-saker-du-inte-visste-om-jobbet-som-flygplatskontrollant-f-729a.md) — 1.1M views · `Lista med hemligheter` · 2026-07-19
+
 - [Secret to Unbroken Marital Fortune: Tulsi Plant Ritual](../../breakdowns/en/2026-07/tiktok-transcript-2-5m-views-71k-reactions-cooking-tulsipuja-tradition-healtht-3035.md) — 1.1M views · `Numbered list + supernatural claim` · 2026-07-20
+
+- [Indian Buffalo Grooming Before Sale for Better Price](../../breakdowns/en/2026-06/tiktok-transcript-tiktok-video-7645058607842741536-6fc0.md) — 1.0M views · `Curiosity gap` · 2026-06-15
 
 - [Stop Expecting People to Be What You Need](../../breakdowns/en/2026-07/tiktok-transcript-mindset-success-selfimprovement-relationships-boundaries-eee4.md) — 1.0M views · `Problem-Solution Promise` · 2026-07-19
 
 - [Macaroni and Cheese vs Chicken Nuggets: Which Do You Prefer?](../../breakdowns/en/2026-05/tiktok-transcript-tu-pr-f-res-macaroni-au-fromage-nuggets-de-poulet-snickers-8840.md) — 1.0M views · `Challenge/Test` · 2026-05-23
-
-- [Indian Buffalo Grooming Before Sale for Better Price](../../breakdowns/en/2026-06/tiktok-transcript-tiktok-video-7645058607842741536-6fc0.md) — 1.0M views · `Curiosity gap` · 2026-06-15
 
 - [Stop Being Mad at People for Not Meeting Your Needs](../../breakdowns/en/2026-07/tiktok-transcript-mindset-success-selfimprovement-relationships-boundaries-a180.md) — 994.9K views · `Problem-solution promise` · 2026-07-19
 
@@ -325,6 +327,8 @@
 
 - [Saint Michael Archangel Protection Reminder](../../breakdowns/en/2026-07/tiktok-transcript-wearing-saint-michael-reminds-me-that-protection-is-always-w-aff1.md) — 364.5K views · `Mysterious introduction + personal benefit` · 2026-07-22
 
+- [Bagaimana wording dalam Quran menggambarkan ketika mengejar dunia dan...](../../breakdowns/en/2026-07/tiktok-transcript-bagaimana-wording-dalam-quran-menggambarkan-ketika-mengejar-3229.md) — 347.4K views · `Mystery Reveal` · 2026-07-24
+
 - [Customized Necklace Gift With Two-Sided Coin Design](../../breakdowns/en/2026-06/tiktok-transcript-video-6676.md) — 337.3K views · `Superlative + Specific` · 2026-06-07
 
 - [Young Girl Walks Into Lake in Dress Without Fear](../../breakdowns/en/2026-06/tiktok-transcript-flim-movie-tvshow-fyp-2dc2.md) — 330.2K views · `Mysterious Action` · 2026-06-05
@@ -334,5 +338,7 @@
 - [What Happens If You Drink Ginsomin for 7 Days](../../breakdowns/en/2026-06/tiktok-transcript-ini-yang-terjadi-jika-kamu-minum-ginsomin-selama-7-hari-diab-750e.md) — 320.0K views · `Curiosity Gap` · 2026-06-22
 
 - [Full-Home Customization With Unique Cabinet Designs](../../breakdowns/en/2026-07/tiktok-transcript-full-home-customization-unique-homes-homecustomization-inter-bd37.md) — 288.8K views · `Contrasting command` · 2026-07-22
+
+- [#palmistry #zodiacsigns #astrology #marriage #fyi](../../breakdowns/en/2026-07/tiktok-transcript-palmistry-zodiacsigns-astrology-marriage-fyi-6ad4.md) — 277.8K views · `Mysterious conditional promise` · 2026-07-24
 
 - [How to Make Roblox Thumbnails for Your Game Easily](../../breakdowns/en/2026-06/tiktok-transcript-how-to-make-roblox-thumbnails-for-your-game-easily-robloxdev-1a53.md) — 124.1K views · `Speed/Result Promise` · 2026-06-07

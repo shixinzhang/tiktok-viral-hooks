@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 91 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 92 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -55,11 +55,11 @@
 
 - [Part 1: My Dad Told Me to Walk Home](../../breakdowns/en/2026-06/tiktok-transcript-part-1-storytime-redditstories-fyp-foryou-askreddit-foryoupa-f573.md) — 4.9M views · `Twist/Reversal` · 2026-06-28
 
+- [Catfished Team Helps Betsy Expose Elon Musk Affair](../../breakdowns/en/2026-06/tiktok-transcript-shout-out-to-the-catfished-team-for-helping-betsy-and-for-pu-ef4a.md) — 3.9M views · `Shocking Claim` · 2026-06-09
+
 - [Best Relationship Advice From a Father](../../breakdowns/en/2026-06/tiktok-transcript-what-s-the-best-relationship-advice-you-ve-ever-gotten-reddi-c803.md) — 3.9M views · `Question Hook` · 2026-06-23
 
 - [Best Movie Recaps: Editing & Narrating Top Film Stories](../../breakdowns/en/2026-06/tiktok-transcript-welcome-to-my-channel-here-i-edit-and-narrating-the-best-mov-e49d.md) — 3.9M views · `Curiosity gap with shocking premise` · 2026-06-14
-
-- [Catfished Team Helps Betsy Expose Elon Musk Affair](../../breakdowns/en/2026-06/tiktok-transcript-shout-out-to-the-catfished-team-for-helping-betsy-and-for-pu-ef4a.md) — 3.9M views · `Shocking Claim` · 2026-06-09
 
 - [True Crime: The Haunting Case in Villisca, Iowa](../../breakdowns/en/2026-05/tiktok-transcript-video-bde4.md) — 3.8M views · `Mystery Hook` · 2026-05-29
 
@@ -69,15 +69,15 @@
 
 - [Lightsunzayn’s Advice on Moving On After a Breakup](../../breakdowns/en/2026-07/tiktok-transcript-lightsunzayn-s-advice-on-how-to-move-on-properly-lights-7a98.md) — 3.5M views · `Direct question hook` · 2026-07-08
 
-- [Android Babies Cannot Be Separated at 18](../../breakdowns/en/2026-07/tiktok-transcript-ai-aifruits-brainrot-aistory-fruitdrama-872f.md) — 3.4M views · `Unexpected reveal` · 2026-07-14
-
 - [Argentina 3-0 Algeria Match Highlights](../../breakdowns/en/2026-06/tiktok-transcript-r-sum-argentine-3-0-alg-rie-abonnez-vous-pour-voir-tous-les-a8ed.md) — 3.4M views · `Action-packed play-by-play` · 2026-06-19
+
+- [Android Babies Cannot Be Separated at 18](../../breakdowns/en/2026-07/tiktok-transcript-ai-aifruits-brainrot-aistory-fruitdrama-872f.md) — 3.4M views · `Unexpected reveal` · 2026-07-14
 
 - [Queen of Pop Out Now Stream Everywhere](../../breakdowns/en/2026-07/tiktok-transcript-queen-of-pop-out-now-jetzt-auf-allen-plattformen-streamen-f03a.md) — 3.3M views · `Identity Shift / Status Claim` · 2026-07-03
 
-- [Bury Me With a Picture of My Sister in My Front Pocket](../../breakdowns/en/2026-05/tiktok-transcript-bury-me-with-a-picture-of-my-sister-in-my-front-pocket-inspo-4ad4.md) — 3.2M views · `Unexpected Reversal` · 2026-05-29
-
 - [The Dancing Plague of 1518 in Strasbourg](../../breakdowns/en/2026-06/tiktok-transcript-the-dancing-plague-fyp-history-dff4.md) — 3.2M views · `Imaginary scenario` · 2026-06-08
+
+- [Bury Me With a Picture of My Sister in My Front Pocket](../../breakdowns/en/2026-05/tiktok-transcript-bury-me-with-a-picture-of-my-sister-in-my-front-pocket-inspo-4ad4.md) — 3.2M views · `Unexpected Reversal` · 2026-05-29
 
 - [Model Strangers Street Photography After Three Years](../../breakdowns/en/2026-05/tiktok-transcript-i-have-been-working-on-model-strangers-for-almost-three-year-df88.md) — 3.1M views · `Compliment Hook` · 2026-05-29
 
@@ -95,33 +95,39 @@
 
 - [Secret Billionaire Father's Child - Episode 8 Finale (Tag...](../../breakdowns/en/2026-06/tiktok-transcript-sekretong-anak-bilyonaryong-ama-episode-8-ang-pagwawakas-tag-e36e.md) — 2.2M views · `Resigned Acceptance` · 2026-06-24
 
+- [Rare 1800s Historical Photos: Chestnut Crushing Shoes & More](../../breakdowns/en/2026-06/tiktok-transcript-rare-historical-photos-of-1800-historical-creepy-storytime-f-02cb.md) — 2.2M views · `Curiosity gap with specific oddity` · 2026-06-08
+
 - [Diver Describes Secret Mission Underwater](../../breakdowns/en/2026-07/tiktok-transcript-with-the-fishes-junus-e42a.md) — 2.2M views · `Identity + Call to Action` · 2026-07-03
 
 - [She Says Save Money Then Asks for Ice Cream](../../breakdowns/en/2026-05/tiktok-transcript-me-dice-que-ahorremos-y-me-sale-con-esto-2664.md) — 2.2M views · `Contrasting setup` · 2026-05-25
 
-- [Rare 1800s Historical Photos: Chestnut Crushing Shoes & More](../../breakdowns/en/2026-06/tiktok-transcript-rare-historical-photos-of-1800-historical-creepy-storytime-f-02cb.md) — 2.2M views · `Curiosity gap with specific oddity` · 2026-06-08
+- [Late for School, Forgot Epilepsy Meds, Mom Angry](../../breakdowns/en/2026-06/tiktok-transcript-while-i-was-late-for-school-i-realized-i-forgot-to-take-my-e-4270.md) — 2.1M views · `Urgent confession` · 2026-06-27
 
 - [70-Year-Old Indian Grandma's Dating Game Is Strong](../../breakdowns/en/2026-05/tiktok-transcript-she-may-be-70-but-her-dating-game-is-timeless-indian-grandma-6bdc.md) — 2.1M views · `Exaggerated compliment` · 2026-05-27
 
-- [Late for School, Forgot Epilepsy Meds, Mom Angry](../../breakdowns/en/2026-06/tiktok-transcript-while-i-was-late-for-school-i-realized-i-forgot-to-take-my-e-4270.md) — 2.1M views · `Urgent confession` · 2026-06-27
-
 - [Rio God Mode: Unstoppable Action](../../breakdowns/en/2026-06/tiktok-transcript-214k-views-289k-reactions-rio-god-mode-rio-films-97a8.md) — 2.1M views · `Defiance/Reversal` · 2026-06-16
 
-- [OOTD: Deciding Whether to Let Go](../../breakdowns/en/2026-07/tiktok-transcript-ootd-484b.md) — 2.0M views · `Rhetorical Question` · 2026-07-03
-
 - [Dark Fantasy Golden Brown](../../breakdowns/en/2026-07/tiktok-transcript-darkfantasy-goldenbrown-fyp-0f74.md) — 2.0M views · `Audio Branding` · 2026-07-03
+
+- [OOTD: Deciding Whether to Let Go](../../breakdowns/en/2026-07/tiktok-transcript-ootd-484b.md) — 2.0M views · `Rhetorical Question` · 2026-07-03
 
 - [Sharing My Story at Blue Valley Northwest Graduation](../../breakdowns/en/2026-05/tiktok-transcript-dream-come-true-getting-to-share-my-story-in-front-of-people-a9cc.md) — 1.9M views · `Shared anticipation` · 2026-05-27
 
 - [Joachim Predicts 2026 World Cup Winner After 3 Correct Picks](../../breakdowns/en/2026-06/tiktok-transcript-depuis-3-ans-joachim-pr-dit-les-vainqueurs-de-chaque-coupe-d-5b24.md) — 1.8M views · `Pattern: Prediction Reveal` · 2026-06-14
 
+- [Editing a Dramatic Dragon Scene Twist](../../breakdowns/en/2026-06/tiktok-transcript-replying-to-sweetiequeen337-welcome-to-my-channel-here-i-edi-7194.md) — 1.7M views · `Immediate conflict` · 2026-06-17
+
 - [Life Lesson: Flirting With a Married Woman](../../breakdowns/en/2026-05/tiktok-transcript-trietlynhansinh-af29.md) — 1.7M views · `Contrasting scenario + direct command` · 2026-05-26
 
-- [Editing a Dramatic Dragon Scene Twist](../../breakdowns/en/2026-06/tiktok-transcript-replying-to-sweetiequeen337-welcome-to-my-channel-here-i-edi-7194.md) — 1.7M views · `Immediate conflict` · 2026-06-17
+- [YouTuber Yuppi Faces Backlash for Watching Japan vs Tunis...](../../breakdowns/en/2026-07/tiktok-transcript-youtuber-fifa-a351.md) — 1.6M views · `Curiosity Gap` · 2026-07-05
 
 - [Dominik Mysterio Betrays His Father Rey to Join Judgment Day](../../breakdowns/en/2026-07/tiktok-transcript-dominik-mysterio-was-the-son-of-a-wrestling-legend-who-enter-34e1.md) — 1.6M views · `Rhetorical Question + Surprising Action` · 2026-07-01
 
-- [YouTuber Yuppi Faces Backlash for Watching Japan vs Tunis...](../../breakdowns/en/2026-07/tiktok-transcript-youtuber-fifa-a351.md) — 1.6M views · `Curiosity Gap` · 2026-07-05
+- [Jarvis Plots a Course for Rosehill Tennessee](../../breakdowns/en/2026-06/tiktok-transcript-jarvis-plot-a-course-for-rosehill-tennessee-jarvis-ironman-p-dbf9.md) — 1.5M views · `Call and response` · 2026-06-10
+
+- [Boy's Father Buys Prostitute as His 11th Mom This Year](../../breakdowns/en/2026-06/tiktok-transcript-tiktok-movie-foryou-fullrecap-fyp-70e8.md) — 1.5M views · `Shocking Reveal` · 2026-06-03
+
+- [John Cena Becomes a Wild WWE Referee](../../breakdowns/en/2026-06/tiktok-transcript-john-cena-is-the-worst-referee-wwe-wrestling-fighting-champi-7449.md) — 1.5M views · `Unexpected Twist` · 2026-06-29
 
 - [Universe Tarot Warning: Stop Ignoring This Sign](../../breakdowns/en/2026-07/tiktok-transcript-universe-tarotok-viral-tarot-foryou-fypviraltiktok-tarotr-fc1e.md) — 1.5M views · `Urgent Warning` · 2026-07-08
 
@@ -129,31 +135,25 @@
 
 - [Paranormal Encounter Horror Story at 3:33 AM](../../breakdowns/en/2026-05/tiktok-transcript-historia-de-terror-de-un-encuentro-paranormal-a-las-3-33-de-36d6.md) — 1.5M views · `Personal anecdote with eerie setting` · 2026-05-24
 
-- [Boy's Father Buys Prostitute as His 11th Mom This Year](../../breakdowns/en/2026-06/tiktok-transcript-tiktok-movie-foryou-fullrecap-fyp-70e8.md) — 1.5M views · `Shocking Reveal` · 2026-06-03
-
-- [Jarvis Plots a Course for Rosehill Tennessee](../../breakdowns/en/2026-06/tiktok-transcript-jarvis-plot-a-course-for-rosehill-tennessee-jarvis-ironman-p-dbf9.md) — 1.5M views · `Call and response` · 2026-06-10
-
-- [John Cena Becomes a Wild WWE Referee](../../breakdowns/en/2026-06/tiktok-transcript-john-cena-is-the-worst-referee-wwe-wrestling-fighting-champi-7449.md) — 1.5M views · `Unexpected Twist` · 2026-06-29
+- [Sisters Get Shrink and Enlarge Systems Before Apocalypse](../../breakdowns/en/2026-06/tiktok-transcript-loredeepdive-tiktoktvfilmcontest-shortdramareview-tiktok-fyp-6822.md) — 1.4M views · `Choice with consequence` · 2026-06-20
 
 - [Smart Home Gadgets That Make Life Easier](../../breakdowns/en/2026-07/tiktok-transcript-smart-home-gadgets-make-your-life-easier-home-appliances-sma-18a1.md) — 1.4M views · `One-word teaser` · 2026-07-21
 
 - [Subway Hero Stops Harasser Before Job Interview](../../breakdowns/en/2026-05/tiktok-transcript-movie-foryou-usa-tik-tok-a7d3.md) — 1.4M views · `Immediate tension` · 2026-05-22
 
-- [Sisters Get Shrink and Enlarge Systems Before Apocalypse](../../breakdowns/en/2026-06/tiktok-transcript-loredeepdive-tiktoktvfilmcontest-shortdramareview-tiktok-fyp-6822.md) — 1.4M views · `Choice with consequence` · 2026-06-20
+- [Ghost Train of Hiroshima Passes Daily at 8:15 AM](../../breakdowns/en/2026-06/tiktok-transcript-o-trem-fantasma-de-hiroshima-historias-hiroshima-historiarea-0a42.md) — 1.3M views · `Did you know + specific location + supernatural element` · 2026-06-11
 
 - [This Is for All My Baby Girls](../../breakdowns/en/2026-05/tiktok-transcript-this-is-for-all-my-babygorls-2021tiktok-fyp-targetaudience-9e0a.md) — 1.3M views · `Direct address to a specific audience` · 2026-05-22
 
-- [Ghost Train of Hiroshima Passes Daily at 8:15 AM](../../breakdowns/en/2026-06/tiktok-transcript-o-trem-fantasma-de-hiroshima-historias-hiroshima-historiarea-0a42.md) — 1.3M views · `Did you know + specific location + supernatural element` · 2026-06-11
-
 - [What Happens When a Ship Sinks in the Ocean](../../breakdowns/en/2026-07/tiktok-transcript-fyp-reels-viral-shorts-4413.md) — 1.2M views · `Imminent Danger + Visual Surprise` · 2026-07-10
+
+- [Hiding Baby Secret From Wife](../../breakdowns/en/2026-06/tiktok-transcript-how-long-can-he-keep-little-cuh-a-secret-fruitstory-aistory-ee2e.md) — 1.1M views · `Misdirection / Unexpected Reveal` · 2026-06-26
 
 - [Millionaire Tests Poor Boy and Finds the Truth](../../breakdowns/en/2026-07/tiktok-transcript-millionaire-tested-poor-boy-and-find-the-truth-full-story-ai-8db9.md) — 1.1M views · `Assumption vs. Reality` · 2026-07-20
 
 - [West Coast Anthem Gets Man Ready to Park on Freeway](../../breakdowns/en/2026-07/tiktok-transcript-og-trippin-lol-og-unc-anthem-westcoast-cali-5641.md) — 1.1M views · `Urgent declaration + immediate exit` · 2026-07-04
 
 - [Virtual Serenade Surprise: What Happened Next](../../breakdowns/en/2026-05/tiktok-transcript-serenata-virtual-mira-lo-que-pas-amor-duosfreefire-garenafre-ff5e.md) — 1.1M views · `Mystery Setup` · 2026-05-26
-
-- [Hiding Baby Secret From Wife](../../breakdowns/en/2026-06/tiktok-transcript-how-long-can-he-keep-little-cuh-a-secret-fruitstory-aistory-ee2e.md) — 1.1M views · `Misdirection / Unexpected Reveal` · 2026-06-26
 
 - [Would You Rather: Car Edition](../../breakdowns/en/2026-07/tiktok-transcript-tu-pr-f-res-dition-voiture-tupreferes-tupr-f-res-voiture-pas-fb77.md) — 968.6K views · `Challenge/Test` · 2026-07-17
 
@@ -184,5 +184,7 @@
 - [Vinícius Júnior’s Apple Ad Song Revealed](../../breakdowns/en/2026-06/tiktok-transcript-what-song-is-vin-cius-j-nior-listening-to-apple-airpodsviniu-591c.md) — 363.7K views · `Curiosity Gap + Celebrity Tease` · 2026-06-21
 
 - [Escanor's Fuckdometer Scale: From Virgin Mary to Bonnie Blue](../../breakdowns/en/2026-06/tiktok-transcript-escanor-escanor-sevendeadlysins-7deadlysins-anime-whodecided-579e.md) — 271.6K views · `absurd scale` · 2026-06-06
+
+- [Fine Girl, No Filter  Sharp Mouth, Soft Heart  #tiktok #africtalesdai...](../../breakdowns/en/2026-07/tiktok-transcript-fine-girl-no-filter-sharp-mouth-soft-heart-tiktok-africtales-1bd4.md) — 266.3K views · `Mystery Reveal` · 2026-07-23
 
 - [Kratos 6 Rerun: Poseidon Drowned](../../breakdowns/en/2026-06/tiktok-transcript-kratos-6-rerun-kratos-godofwar-gow-godofwarragnarok-godofwar-940b.md) — 109.3K views · `Urgent Call to Action` · 2026-06-06
