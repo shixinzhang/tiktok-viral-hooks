@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 169 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 171 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -340,5 +340,9 @@
 - [Full-Home Customization With Unique Cabinet Designs](../../breakdowns/zh-CN/2026-07/tiktok-transcript-full-home-customization-unique-homes-homecustomization-inter-bd37.md) — 288.8K views · `Contrasting command` · 2026-07-22
 
 - [#palmistry #zodiacsigns #astrology #marriage #fyi](../../breakdowns/zh-CN/2026-07/tiktok-transcript-palmistry-zodiacsigns-astrology-marriage-fyi-6ad4.md) — 277.8K views · `Mysterious conditional promise` · 2026-07-24
+
+- [456K views · 4.4K reactions | শাক দিয়ে মাছ ডেকে.... #motivation # | orins cooking](../../breakdowns/zh-CN/2026-07/tiktok-transcript-456k-views-4-4k-reactions-motivation-orins-cooking-5b13.md) — 241.2K views · `Exaggerated complaint` · 2026-07-24
+
+- [If you have a mole on your hand, this could say a lot about your fate...](../../breakdowns/zh-CN/2026-07/tiktok-transcript-if-you-have-a-mole-on-your-hand-this-could-say-a-lot-about-y-ed5d.md) — 192.1K views · `Mystery & Curiosity` · 2026-07-23
 
 - [How to Make Roblox Thumbnails for Your Game Easily](../../breakdowns/zh-CN/2026-06/tiktok-transcript-how-to-make-roblox-thumbnails-for-your-game-easily-robloxdev-1a53.md) — 124.1K views · `Speed/Result Promise` · 2026-06-07

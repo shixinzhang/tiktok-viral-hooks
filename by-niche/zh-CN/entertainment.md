@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 92 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 93 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -186,5 +186,7 @@
 - [Escanor's Fuckdometer Scale: From Virgin Mary to Bonnie Blue](../../breakdowns/zh-CN/2026-06/tiktok-transcript-escanor-escanor-sevendeadlysins-7deadlysins-anime-whodecided-579e.md) — 271.6K views · `absurd scale` · 2026-06-06
 
 - [Fine Girl, No Filter  Sharp Mouth, Soft Heart  #tiktok #africtalesdai...](../../breakdowns/zh-CN/2026-07/tiktok-transcript-fine-girl-no-filter-sharp-mouth-soft-heart-tiktok-africtales-1bd4.md) — 266.3K views · `Mystery Reveal` · 2026-07-23
+
+- [Last Part- Fine Girl, No Filter  Sharp Mouth, Soft Heart  #part2 #vir...](../../breakdowns/zh-CN/2026-07/tiktok-transcript-last-part-fine-girl-no-filter-sharp-mouth-soft-heart-part2-v-173e.md) — 160.5K views · `Exaggerated Comparison` · 2026-07-23
 
 - [Kratos 6 Rerun: Poseidon Drowned](../../breakdowns/zh-CN/2026-06/tiktok-transcript-kratos-6-rerun-kratos-godofwar-gow-godofwarragnarok-godofwar-940b.md) — 109.3K views · `Urgent Call to Action` · 2026-06-06
