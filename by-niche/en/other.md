@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 171 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 172 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -304,6 +304,8 @@
 - [Father Abandons Will and Trust, Chooses Money Over Daughters](../../breakdowns/en/2026-06/tiktok-transcript-video-1e53.md) — 576.6K views · `Moral Responsibility` · 2026-06-18
 
 - [The Worst Moment for Independent Store Sellers: Returns](../../breakdowns/en/2026-06/tiktok-transcript-the-worst-moment-for-independent-store-sellers-warehousing-d-4afa.md) — 569.4K views · `Problem-Agitate` · 2026-06-10
+
+- [First Day as Boss: Cleaning Toilets and Packing Cars](../../breakdowns/en/2026-07/tiktok-transcript-replying-to-ng-c-vui-v-l-m-s-p-l-n-u-n-n-c-nhi-u-b-ng-th-cf18.md) — 568.9K views · `Rhetorical question with unexpected twist` · 2026-07-27
 
 - [Black Woman Explains Why White Privilege Exists](../../breakdowns/en/2026-06/tiktok-transcript-onthisday-36b0.md) — 546.3K views · `Controversial Identity Declaration` · 2026-06-19
 
