@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 93 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 96 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -77,6 +77,8 @@
 
 - [The Dancing Plague of 1518 in Strasbourg](../../breakdowns/zh-CN/2026-06/tiktok-transcript-the-dancing-plague-fyp-history-dff4.md) — 3.2M views · `Imaginary scenario` · 2026-06-08
 
+- [Married Woman's Shower Interrupted by Worker](../../breakdowns/zh-CN/2026-07/tiktok-transcript-for-fyp-film-movie-moviereview-249b.md) — 3.2M views · `Mystery/Forbidden Romance Setup` · 2026-07-27
+
 - [Bury Me With a Picture of My Sister in My Front Pocket](../../breakdowns/zh-CN/2026-05/tiktok-transcript-bury-me-with-a-picture-of-my-sister-in-my-front-pocket-inspo-4ad4.md) — 3.2M views · `Unexpected Reversal` · 2026-05-29
 
 - [Model Strangers Street Photography After Three Years](../../breakdowns/zh-CN/2026-05/tiktok-transcript-i-have-been-working-on-model-strangers-for-almost-three-year-df88.md) — 3.1M views · `Compliment Hook` · 2026-05-29
@@ -110,6 +112,8 @@
 - [Dark Fantasy Golden Brown](../../breakdowns/zh-CN/2026-07/tiktok-transcript-darkfantasy-goldenbrown-fyp-0f74.md) — 2.0M views · `Audio Branding` · 2026-07-03
 
 - [OOTD: Deciding Whether to Let Go](../../breakdowns/zh-CN/2026-07/tiktok-transcript-ootd-484b.md) — 2.0M views · `Rhetorical Question` · 2026-07-03
+
+- [Surprising Family With My Newborn Baby](../../breakdowns/zh-CN/2026-07/tiktok-transcript-took-my-newborn-surprise-the-family-foryou-tiktok-fyp-babylo-a59b.md) — 1.9M views · `Exclamatory Surprise` · 2026-07-27
 
 - [Sharing My Story at Blue Valley Northwest Graduation](../../breakdowns/zh-CN/2026-05/tiktok-transcript-dream-come-true-getting-to-share-my-story-in-front-of-people-a9cc.md) — 1.9M views · `Shared anticipation` · 2026-05-27
 
@@ -166,6 +170,8 @@
 - [Part 2: Confronting the Past in Manhattan](../../breakdowns/zh-CN/2026-06/tiktok-transcript-part-2-fyp-redditstories-viral-foryoupage-d9db.md) — 889.9K views · `Emotional confession` · 2026-06-23
 
 - [Long Live the Emotional Ones - Aléxia Porto](../../breakdowns/zh-CN/2026-07/tiktok-transcript-vida-longa-aos-emocionados-al-xia-porto-poesia-poesias-alexi-60fd.md) — 870.5K views · `Bold declaration` · 2026-07-17
+
+- [Princess Anna Flees Political Marriage to England](../../breakdowns/zh-CN/2026-07/tiktok-transcript-france-movie-francaise-tiktokfilm-fyp-e930.md) — 835.4K views · `Immediate Tension` · 2026-07-27
 
 - [The Devil's Bridge: Strange Phenomena in France Since 1994](../../breakdowns/zh-CN/2026-06/tiktok-transcript-horreurtiktok-horreur-histoire-histoirevrai-urbanlegends-fyp-a88e.md) — 804.4K views · `Mystery/Curiosity Gap` · 2026-06-11
 

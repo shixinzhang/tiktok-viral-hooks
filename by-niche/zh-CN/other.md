@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 172 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 174 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -75,11 +75,15 @@
 
 - [Let Him Fully Experience That Decision](../../breakdowns/zh-CN/2026-05/tiktok-transcript-baby-let-him-experience-that-decision-fully-nopryorwarning-a115.md) — 6.3M views · `Conditional Challenge` · 2026-05-25
 
+- [Cat Makes Nutella Toast](../../breakdowns/zh-CN/2026-07/tiktok-transcript-nutella-toast-catsoftiktok-cattok-cat-funnycat-fyp-e96d.md) — 6.2M views · `Direct request` · 2026-07-27
+
 - [Dual Screen Setup with HUANUO Monitor Arm](../../breakdowns/zh-CN/2026-07/tiktok-transcript-dual-screen-wonder-stacked-perfection-with-huanuo-monitor-ar-088a.md) — 6.1M views · `Audio-only hook` · 2026-07-09
 
 - [Trending Loose Pants For Women](../../breakdowns/zh-CN/2026-06/tiktok-transcript-trending-loose-pants-for-women-0616.md) — 5.8M views · `Rhetorical Question` · 2026-06-20
 
 - [Get Your Free Private Reading Now](../../breakdowns/zh-CN/2026-07/tiktok-transcript-click-the-link-in-my-bio-for-free-private-reading-mainfest-p-5783.md) — 5.8M views · `Direct address + certainty` · 2026-07-05
+
+- [Hungry Stray Dog Stares at Restaurant Ad](../../breakdowns/zh-CN/2026-07/tiktok-transcript-this-hungry-stray-dog-stopped-in-front-of-a-restaurant-adver-57cc.md) — 5.6M views · `Single-word exclamation` · 2026-07-27
 
 - [Dream Dress Hides Apron Belly for Curvy Women](../../breakdowns/zh-CN/2026-05/tiktok-transcript-dream-dress-for-us-curvy-girls-dress-apronbelly-curvyfashion-ecbc.md) — 5.6M views · `Vulnerability + Transformation` · 2026-05-22
 
