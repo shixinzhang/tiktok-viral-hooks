@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 174 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 175 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -30,6 +30,8 @@
 - [Arafa Night Prayer for Life Change](../../breakdowns/zh-CN/2026-05/tiktok-transcript-video-a962.md) — 15.2M views · `Promise of transformation` · 2026-05-25
 
 - [You Are Enough Every Minute of Every Day](../../breakdowns/zh-CN/2026-06/tiktok-transcript-you-are-enough-every-minute-of-everyday-remind-yourself-how-3500.md) — 14.2M views · `Direct address + time constraint` · 2026-06-01
+
+- [Karachi Faroyu Lik: A Playful Street Scene](../../breakdowns/zh-CN/2026-07/tiktok-transcript-karachi-faroyu-lik-49a4.md) — 13.3M views · `Rhetorical question with absurd premise` · 2026-07-28
 
 - [Life Hacks 99% of People Don't Know](../../breakdowns/zh-CN/2026-07/tiktok-transcript-life-lifetips-fyp-foryou-lifehacks-1d3f.md) — 12.4M views · `Curiosity Gap + Numbered List` · 2026-07-05
 

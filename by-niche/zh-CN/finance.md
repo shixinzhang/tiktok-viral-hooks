@@ -1,6 +1,6 @@
 # finance Breakdowns
 
-> 22 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 24 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -8,6 +8,8 @@
 - [No Money, Big Problem: Work Hard and Be Smart](../../breakdowns/zh-CN/2026-06/tiktok-transcript-no-boy-friend-no-problem-no-girl-friend-no-problem-no-money-b0e9.md) — 76.3M views · `contrast escalation` · 2026-06-02
 
 - [Rich Dad Market Lesson with iPhone Analogy](../../breakdowns/zh-CN/2026-07/tiktok-transcript-rich-dad-lesson-on-the-market-using-an-iphone-analogy-person-7e7f.md) — 18.0M views · `Curiosity Gap` · 2026-07-22
+
+- [How to Beat Evil Credit Cards](../../breakdowns/zh-CN/2026-07/tiktok-transcript-how-to-beat-evil-credit-cards-learnontiktok-personalfinance-4b51.md) — 17.7M views · `Unexpected Generosity` · 2026-07-28
 
 - [The 3 Worst Businesses to Buy According to an Expert](../../breakdowns/zh-CN/2026-07/tiktok-transcript-here-are-the-3-worst-businesses-you-could-ever-buy-because-i-b7ad.md) — 12.4M views · `Listicle with contrarian premise` · 2026-07-01
 
@@ -48,3 +50,5 @@
 - [Video ni agak panjang tapi please tengok sampai habis sebelum korang ...](../../breakdowns/zh-CN/2026-07/tiktok-transcript-video-ni-agak-panjang-tapi-please-tengok-sampai-habis-sebelu-6446.md) — 1.3M views · `Value Promise` · 2026-07-24
 
 - [4 Years of Financial Education in 60 Seconds](../../breakdowns/zh-CN/2026-06/tiktok-transcript-4-a-os-de-educaci-n-financiera-en-60-segundos-finanzas-diner-053f.md) — 745.4K views · `Counterintuitive statement` · 2026-06-06
+
+- [AI's Broken Business Model Loses Billions](../../breakdowns/zh-CN/2026-07/tiktok-transcript-ai-s-broken-business-model-why-it-s-losing-billions-viral-ne-5bf9.md) — 559.6K views · `Problem-Statement Hook` · 2026-07-27

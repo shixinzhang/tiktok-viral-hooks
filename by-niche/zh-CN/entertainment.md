@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 96 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 97 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -180,6 +180,8 @@
 - [Paddy Pimblett Reacts to Main Event Outcome Mid-Interview](../../breakdowns/zh-CN/2026-07/tiktok-transcript-1-9m-views-29k-reactions-classic-paddy-paddy-pimblett-reacts-7da8.md) — 728.7K views · `Shock and disbelief` · 2026-07-12
 
 - [Would You Rather Food Edition: Chicken or Beef?](../../breakdowns/zh-CN/2026-06/tiktok-transcript-tu-pr-f-res-dition-nourriture-tupreferes-tupreferesquoi-nour-99d8.md) — 719.3K views · `Challenge + Binary Choice` · 2026-06-16
+
+- [New Student Sits in Bully's Seat on First Day](../../breakdowns/zh-CN/2026-07/tiktok-transcript-1-4m-views-51k-reactions-o-valent-o-mexeu-com-o-cara-errado-813e.md) — 684.0K views · `Immediate Conflict` · 2026-07-28
 
 - [Axel Oficial Reveals How He Composed Your Love Forever](../../breakdowns/zh-CN/2026-06/tiktok-transcript-esto-tiene-algo-axeloficial-revela-c-mo-compuso-uno-de-sus-m-4286.md) — 625.6K views · `Surprising reveal + emotional confession` · 2026-06-16
 
