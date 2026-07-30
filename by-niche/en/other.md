@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 175 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 177 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -10,6 +10,8 @@
 - [Wait Until 6 PM Lc Waikiki Collaboration](../../breakdowns/en/2026-07/tiktok-transcript-saat-18-00-bekleyin-lcwaikiki-i-birli-i-ffaf.md) — 29.9M views · `Mystery/Curiosity Gap` · 2026-07-16
 
 - [A Love That Sees and Chooses Me](../../breakdowns/en/2026-05/tiktok-transcript-a-public-witness-of-what-heaven-already-knew-7ab7.md) — 26.4M views · `Relatable vulnerability + unexpected twist` · 2026-05-27
+
+- [Funny Monkey Protects Balloons from Theft](../../breakdowns/en/2026-07/tiktok-transcript-funny-monkey-protect-balloons-adoreblemonkey-monkey-funnyani-a4ed.md) — 25.9M views · `Repetitive shock` · 2026-07-29
 
 - [Steve Harvey Asks How You'd Feel If You Never Saw Him Again](../../breakdowns/en/2026-07/tiktok-transcript-if-you-never-saw-me-again-steveharvey-mindset-mentality-succ-5e54.md) — 25.0M views · `Hypothetical Question` · 2026-07-02
 
@@ -274,6 +276,8 @@
 - [Stop Being Mad at People for Not Meeting Your Needs](../../breakdowns/en/2026-07/tiktok-transcript-mindset-success-selfimprovement-relationships-boundaries-a180.md) — 994.9K views · `Problem-solution promise` · 2026-07-19
 
 - [Would You Rather Nuggets or Cookies? Dilemma Quiz](../../breakdowns/en/2026-06/tiktok-transcript-tu-pr-f-res-ou-tupreferes-wouldyourather-dilemme-question-efc6.md) — 971.1K views · `Challenge + Binary Choice` · 2026-06-06
+
+- [TikTok Channel Idea From @nguyenquang4998](../../breakdowns/en/2026-07/tiktok-transcript-t-ng-t-k-nh-anh-nguyenquang4998-nguoimoixaykenh-tutruyenthon-4887.md) — 960.5K views · `Contrarian opener` · 2026-07-30
 
 - [Letter to Dad: First Love, First Disappointment](../../breakdowns/en/2026-05/tiktok-transcript-ya-tocaba-uno-as-monlaferte-fpy-desamor-fenmefatale-parati-b1d2.md) — 933.8K views · `Contrasting Emotion` · 2026-05-25
 

@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 97 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 98 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -188,6 +188,8 @@
 - [How to Read Palm Lines That Indicate Marrying a Billionaire](../../breakdowns/en/2026-07/tiktok-transcript-astrology-palmistry-palmreading-handreading-facereading-fort-4602.md) — 620.3K views · `Direct promise of a desirable outcome` · 2026-07-10
 
 - [Miami's Most Addictive Ice Cream and Its Deadly Secret](../../breakdowns/en/2026-06/tiktok-transcript-la-glace-la-plus-addictive-de-miami-et-le-secret-mortel-derr-ad03.md) — 570.5K views · `Forbidden Mystery` · 2026-06-11
+
+- [Husband Works Late, Wife Shares Improvised Lunch](../../breakdowns/en/2026-07/tiktok-transcript-son-mari-travaille-tard-elle-partage-un-d-jeuner-improvis-av-5a22.md) — 507.4K views · `Setup with a phone call` · 2026-07-28
 
 - [Vinícius Júnior’s Apple Ad Song Revealed](../../breakdowns/en/2026-06/tiktok-transcript-what-song-is-vin-cius-j-nior-listening-to-apple-airpodsviniu-591c.md) — 363.7K views · `Curiosity Gap + Celebrity Tease` · 2026-06-21
 
