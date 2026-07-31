@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 177 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 178 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -38,6 +38,8 @@
 - [Life Hacks 99% of People Don't Know](../../breakdowns/zh-CN/2026-07/tiktok-transcript-life-lifetips-fyp-foryou-lifehacks-1d3f.md) — 12.4M views · `Curiosity Gap + Numbered List` · 2026-07-05
 
 - [Life Hacks 99% of People Don't Know](../../breakdowns/zh-CN/2026-07/tiktok-transcript-life-lifetips-fyp-foryou-lifehacks-79e3.md) — 12.4M views · `Exclusivity + numbered list` · 2026-07-05
+
+- [N3on Accidentally Films a Masked Stranger](../../breakdowns/zh-CN/2026-07/tiktok-transcript-n3on-did-not-realise-who-he-just-put-on-camera-n3on-clips-fy-3311.md) — 12.2M views · `Unexpected response` · 2026-07-30
 
 - [Giant S'more Roast and Skittles Separation Reaction](../../breakdowns/zh-CN/2026-07/tiktok-transcript-jtvjember-evakuasi-sidoarjo-fyp-foryou-b9ba.md) — 12.0M views · `Surprise and escalating curiosity` · 2026-07-03
 

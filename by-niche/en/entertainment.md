@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 98 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 99 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -180,6 +180,8 @@
 - [Paddy Pimblett Reacts to Main Event Outcome Mid-Interview](../../breakdowns/en/2026-07/tiktok-transcript-1-9m-views-29k-reactions-classic-paddy-paddy-pimblett-reacts-7da8.md) — 728.7K views · `Shock and disbelief` · 2026-07-12
 
 - [Would You Rather Food Edition: Chicken or Beef?](../../breakdowns/en/2026-06/tiktok-transcript-tu-pr-f-res-dition-nourriture-tupreferes-tupreferesquoi-nour-99d8.md) — 719.3K views · `Challenge + Binary Choice` · 2026-06-16
+
+- [Why Grapevine Bark Is Stripped in Winter](../../breakdowns/en/2026-07/tiktok-transcript-why-is-the-bark-of-grapevines-stripped-in-winter-60fe.md) — 694.6K views · `False accusation / misunderstanding` · 2026-07-30
 
 - [New Student Sits in Bully's Seat on First Day](../../breakdowns/en/2026-07/tiktok-transcript-1-4m-views-51k-reactions-o-valent-o-mexeu-com-o-cara-errado-813e.md) — 684.0K views · `Immediate Conflict` · 2026-07-28
 
