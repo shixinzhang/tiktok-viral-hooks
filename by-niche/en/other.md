@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 178 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 180 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -301,6 +301,8 @@
 
 - [College: Is It Entirely Useless for Growth?](../../breakdowns/en/2026-06/tiktok-transcript-tiktok-video-7594956396702092557-7611.md) — 733.7K views · `Challenge + Question` · 2026-06-17
 
+- [Day 1 Content Creation Series Start Without Showing Face](../../breakdowns/en/2026-07/tiktok-transcript-creatorsearchinsights-day-1-content-creation-series-agar-aap-2cf1.md) — 717.9K views · `Problem-Agitation-Solution (PAS)` · 2026-07-31
+
 - [Forgetting Happens When You Wake Up One Day](../../breakdowns/en/2026-06/tiktok-transcript-dimenticare-perte-fyp-foryoupage-andiamoneiperte-3c46.md) — 711.7K views · `Relatable mundane setup with twist` · 2026-06-04
 
 - [Mountain Goat Walks Dangerous Cliff Edges Without Falling](../../breakdowns/en/2026-07/tiktok-transcript-1-3m-views-63k-reactions-dios-cre-un-animal-capaz-de-caminar-92a5.md) — 656.9K views · `Curiosity gap + surprising fact` · 2026-07-06
@@ -356,6 +358,8 @@
 - [#palmistry #zodiacsigns #astrology #marriage #fyi](../../breakdowns/en/2026-07/tiktok-transcript-palmistry-zodiacsigns-astrology-marriage-fyi-6ad4.md) — 277.8K views · `Mysterious conditional promise` · 2026-07-24
 
 - [456K views · 4.4K reactions | শাক দিয়ে মাছ ডেকে.... #motivation # | orins cooking](../../breakdowns/en/2026-07/tiktok-transcript-456k-views-4-4k-reactions-motivation-orins-cooking-5b13.md) — 241.2K views · `Exaggerated complaint` · 2026-07-24
+
+- [Bloated After Eating Little? Try Spirulina Superfoods](../../breakdowns/en/2026-07/tiktok-transcript-laging-bloated-kahit-konti-lang-kinain-tyan-mo-rin-ba-ganito-0deb.md) — 235.9K views · `Problem Agitation` · 2026-07-29
 
 - [If you have a mole on your hand, this could say a lot about your fate...](../../breakdowns/en/2026-07/tiktok-transcript-if-you-have-a-mole-on-your-hand-this-could-say-a-lot-about-y-ed5d.md) — 192.1K views · `Mystery & Curiosity` · 2026-07-23
 
