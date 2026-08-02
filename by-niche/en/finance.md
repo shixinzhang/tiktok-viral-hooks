@@ -1,6 +1,6 @@
 # finance Breakdowns
 
-> 24 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 26 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -52,3 +52,7 @@
 - [4 Years of Financial Education in 60 Seconds](../../breakdowns/en/2026-06/tiktok-transcript-4-a-os-de-educaci-n-financiera-en-60-segundos-finanzas-diner-053f.md) — 745.4K views · `Counterintuitive statement` · 2026-06-06
 
 - [AI's Broken Business Model Loses Billions](../../breakdowns/en/2026-07/tiktok-transcript-ai-s-broken-business-model-why-it-s-losing-billions-viral-ne-5bf9.md) — 559.6K views · `Problem-Statement Hook` · 2026-07-27
+
+- [Renting Isn't a Failure: Why Buying a House Isn't for Eve...](../../breakdowns/en/2026-08/tiktok-transcript-a-mortgage-is-not-a-milestone-for-most-people-it-s-a-financi-0ecf.md) — 429.0K views · `Contrarian command` · 2026-08-01
+
+- [Why a $40K Car Is Unaffordable on $50K Income](../../breakdowns/en/2026-08/tiktok-transcript-most-people-don-t-ask-can-i-afford-this-car-they-ask-can-i-a-4fd6.md) — 402.5K views · `Contrarian statement` · 2026-08-01

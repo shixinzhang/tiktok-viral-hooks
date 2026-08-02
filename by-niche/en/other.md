@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 180 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 183 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -255,6 +255,10 @@
 
 - [Natural Sleep Recipe for Deep Rest All Week](../../breakdowns/en/2026-07/tiktok-transcript-sleep-like-a-baby-again-bettersleep-naturalremedy-bedtime-sl-422f.md) — 1.2M views · `Pain point empathy` · 2026-07-06
 
+- [Old Cow Inheritance: A Father's Final Words](../../breakdowns/en/2026-08/tiktok-transcript-aistory-fruits-fruitstory-france-storytime-da2f.md) — 1.2M views · `The Inheritance Twist` · 2026-08-01
+
+- [John's Ranch Inheritance: 800 Cattle and One Old Cow](../../breakdowns/en/2026-08/tiktok-transcript-aistory-fruits-fruitstory-france-storytime-8d93.md) — 1.2M views · `Mysterious Inheritance` · 2026-08-01
+
 - [Young Woman's Career Ambitions Shift After One Month Working](../../breakdowns/en/2026-07/tiktok-transcript-2-1m-views-10k-reactions-nh-n-o-y-thuycoluong-thuycoluong-d720.md) — 1.1M views · `Expectation vs Reality` · 2026-07-23
 
 - [A Father's Love Knows No Limits, Waking Tired for His Kids](../../breakdowns/en/2026-06/tiktok-transcript-l-amour-pour-ses-enfants-ne-conna-t-aucune-limite-je-me-l-ve-1fb3.md) — 1.1M views · `Sacrificial Love` · 2026-06-26
@@ -310,6 +314,8 @@
 - [Real Fortune Telling: Write Your First Name in Comments](../../breakdowns/en/2026-07/tiktok-transcript-je-vais-te-faire-de-la-vrai-divination-crit-ton-pr-nom-en-co-8805.md) — 630.1K views · `Direct Command with Mystery` · 2026-07-06
 
 - [Ojalá Un Día Te Duél Mi Ausencia Mon Laferte](../../breakdowns/en/2026-06/tiktok-transcript-tal-vez-nunca-entendi-cu-nto-lo-am-monlaferte-decepcion-tikt-2163.md) — 629.6K views · `Ojalá + dolor inverso` · 2026-06-22
+
+- [Isha Koppikar Addresses NEET Issue and Fan Concerns](../../breakdowns/en/2026-08/tiktok-transcript-12k-views-28k-reactions-to-everyone-feeling-anxious-angry-or-55d0.md) — 619.7K views · `Direct address + contrarian stance` · 2026-08-01
 
 - [Denim Pants Recommendation for Style and Fit](../../breakdowns/en/2026-06/tiktok-transcript-foryou-fyp-pants-pantsrecommendation-denimpants-1fa7.md) — 608.6K views · `conditional attention grabber` · 2026-06-20
 
