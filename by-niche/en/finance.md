@@ -1,6 +1,6 @@
 # finance Breakdowns
 
-> 26 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 27 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -46,6 +46,8 @@
 - [Top 3 AI Stocks to Buy for the Next Decade](../../breakdowns/en/2026-06/tiktok-transcript-here-are-the-top-3-a-i-stocks-to-buy-for-the-next-decade-acc-cbda.md) — 1.5M views · `List-based promise with authority` · 2026-06-12
 
 - [3 Best Stocks to Buy for Wealth Building](../../breakdowns/en/2026-06/tiktok-transcript-the-best-stocks-to-buy-to-get-rich-9632.md) — 1.4M views · `Unexpected twist` · 2026-06-12
+
+- [Turn Your 30-Year Mortgage Into a 1-Year Payoff](../../breakdowns/en/2026-08/tiktok-transcript-most-banks-won-t-tell-you-this-but-you-can-turn-your-30-year-5446.md) — 1.4M views · `Forbidden Knowledge / Insider Secret` · 2026-08-02
 
 - [Video ni agak panjang tapi please tengok sampai habis sebelum korang ...](../../breakdowns/en/2026-07/tiktok-transcript-video-ni-agak-panjang-tapi-please-tengok-sampai-habis-sebelu-6446.md) — 1.3M views · `Value Promise` · 2026-07-24
 

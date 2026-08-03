@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 102 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 105 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -167,6 +167,8 @@
 
 - [Man Destroys Beef Tree to Ruin Rival](../../breakdowns/zh-CN/2026-07/tiktok-transcript-he-destroyed-the-beef-tree-to-ruin-his-rival-madewithcantina-329a.md) — 926.8K views · `Question + Incredible Claim` · 2026-07-14
 
+- [Why You Can't Leave a Toxic Partner: Break the Trauma Bond](../../breakdowns/zh-CN/2026-08/tiktok-transcript-here-s-why-you-re-struggling-to-leave-a-toxic-partner-you-ha-459b.md) — 913.9K views · `Direct address with a promise of a solution` · 2026-08-02
+
 - [Part 2: Confronting the Past in Manhattan](../../breakdowns/zh-CN/2026-06/tiktok-transcript-part-2-fyp-redditstories-viral-foryoupage-d9db.md) — 889.9K views · `Emotional confession` · 2026-06-23
 
 - [Long Live the Emotional Ones - Aléxia Porto](../../breakdowns/zh-CN/2026-07/tiktok-transcript-vida-longa-aos-emocionados-al-xia-porto-poesia-poesias-alexi-60fd.md) — 870.5K views · `Bold declaration` · 2026-07-17
@@ -200,6 +202,10 @@
 - [Fine Girl, No Filter  Sharp Mouth, Soft Heart  #tiktok #africtalesdai...](../../breakdowns/zh-CN/2026-07/tiktok-transcript-fine-girl-no-filter-sharp-mouth-soft-heart-tiktok-africtales-1bd4.md) — 266.3K views · `Mystery Reveal` · 2026-07-23
 
 - [Create an Alter Ego to Reach Your Craziest Dreams](../../breakdowns/zh-CN/2026-07/tiktok-transcript-crie-um-alter-ego-se-voc-quer-aprender-a-fazer-dinheiro-no-d-eac1.md) — 223.1K views · `Direct Promise` · 2026-07-29
+
+- [Neighbor’s Guitar and Cake Spark a Sudden Heartbeat](../../breakdowns/zh-CN/2026-08/tiktok-transcript-part7-the-neighbor-s-guitar-and-cake-a-sudden-heartbeat-next-ed75.md) — 189.2K views · `Mysterious Intrusion` · 2026-08-01
+
+- [Married to a Comatose Tycoon: My Daily Routine of Annoyin...](../../breakdowns/zh-CN/2026-08/tiktok-transcript-part23-married-to-a-comatose-tycoon-my-daily-routine-annoy-h-b421.md) — 164.8K views · `Conflict setup with high stakes` · 2026-08-01
 
 - [Last Part- Fine Girl, No Filter  Sharp Mouth, Soft Heart  #part2 #vir...](../../breakdowns/zh-CN/2026-07/tiktok-transcript-last-part-fine-girl-no-filter-sharp-mouth-soft-heart-part2-v-173e.md) — 160.5K views · `Exaggerated Comparison` · 2026-07-23
 
