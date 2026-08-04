@@ -1,9 +1,13 @@
 # other Breakdowns
 
-> 184 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 188 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
+
+- [Poor Chihuahua’s Marriage Life in a Nutshell](../../breakdowns/en/2026-08/tiktok-transcript-poor-chihuahua-s-marriage-life-summarized-in-this-video-just-6d77.md) — 43.6M views · `Unexpected interruption` · 2026-08-03
+
+- [Chihuahua Wife Rips Tight Clothes in Chaos](../../breakdowns/en/2026-08/tiktok-transcript-chihuahua-wife-vs-tight-clothes-she-ripped-everything-and-de-6c27.md) — 39.2M views · `Emotional exclamation` · 2026-08-03
 
 - [10-Year-Old Daughter Pregnancy Dilemma](../../breakdowns/en/2026-06/tiktok-transcript-yikessss-ce18.md) — 30.1M views · `Hypothetical Scenario` · 2026-06-14
 
@@ -44,6 +48,8 @@
 - [Giant S'more Roast and Skittles Separation Reaction](../../breakdowns/en/2026-07/tiktok-transcript-jtvjember-evakuasi-sidoarjo-fyp-foryou-b9ba.md) — 12.0M views · `Surprise and escalating curiosity` · 2026-07-03
 
 - [Loving the Sentence About Doing Enough](../../breakdowns/en/2026-06/tiktok-transcript-just-because-you-could-be-doing-more-doesn-t-mean-you-re-not-88b7.md) — 11.9M views · `Reframe` · 2026-06-02
+
+- [Reposted My Video Friends Views Problem](../../breakdowns/en/2026-08/tiktok-transcript-newaccount-unfreez-tiktok-4ef3.md) — 10.6M views · `False expectation` · 2026-08-03
 
 - [People Change](../../breakdowns/en/2026-06/tiktok-transcript-la-gente-cambia-fyp-motivation-sad-farieddieck-fea7.md) — 9.9M views · `Direct accountability` · 2026-06-06
 
@@ -144,6 +150,8 @@
 - [Karma Is Real: What Goes Around Comes Back Tenfold](../../breakdowns/en/2026-07/tiktok-transcript-karma-is-real-motivation-podcast-quotes-podcastclips-womene-dd79.md) — 2.9M views · `Bold Statement` · 2026-07-04
 
 - [Modern Consciousness Catastrophe Explained](../../breakdowns/en/2026-05/tiktok-transcript-note-this-video-will-lag-if-you-catch-it-early-you-can-downl-5a47.md) — 2.7M views · `Urgent philosophical revelation` · 2026-05-31
+
+- [Why You Should Never Put Fertilizer Too Close To Plants](../../breakdowns/en/2026-08/tiktok-transcript-5-3m-views-63k-reactions-why-you-should-never-put-fertilizer-137d.md) — 2.6M views · `Unexpected personification + immediate conflict` · 2026-08-03
 
 - [How Criminals Clean Dirty Money](../../breakdowns/en/2026-06/tiktok-transcript-how-to-clean-dirty-money-finance-animation-uk-b0d3.md) — 2.6M views · `Rhetorical question + personal stake` · 2026-06-03
 

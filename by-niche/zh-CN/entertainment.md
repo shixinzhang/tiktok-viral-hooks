@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 105 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 106 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -88,6 +88,8 @@
 - [Worm Fights Snail in Epic Garden Battle](../../breakdowns/zh-CN/2026-05/tiktok-transcript-worm-vs-snail-1781.md) — 2.8M views · `Subverted Expectation` · 2026-05-23
 
 - [Ana de Armas Through the Years](../../breakdowns/zh-CN/2026-07/tiktok-transcript-ana-de-armas-through-the-years-anadearmas-fyp-foryou-through-c66a.md) — 2.7M views · `Identity Reveal + Underdog Origin` · 2026-07-14
+
+- [True Friendship Story Part 2: He Took His Job](../../breakdowns/zh-CN/2026-08/tiktok-transcript-part-2-of-the-true-friendship-story-tungtungtungsahur-tungtu-bdb0.md) — 2.7M views · `Unexpected twist` · 2026-08-03
 
 - [Shoutout to Aries and Taurus for 2023](../../breakdowns/zh-CN/2026-06/tiktok-transcript-shoutout-to-aries-taurus-2f18.md) — 2.6M views · `Astrological Authority + Bold Claim` · 2026-06-28
 
