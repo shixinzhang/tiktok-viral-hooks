@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 188 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 191 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -29,6 +29,8 @@
 
 - [33M Views 1.9M Reactions Winwilliam Vergin90 Greeting and...](../../breakdowns/en/2026-06/tiktok-transcript-33m-views-1-9m-reactions-winwilliam-vergin90-vergin90-af36.md) — 17.1M views · `Direct address with immediate action` · 2026-06-16
 
+- [Ameen: Prayer for Ease and Relief](../../breakdowns/en/2026-08/tiktok-transcript-ameen-islamicvideo-foryoupage-viralvideos-growmyaccou-1c38.md) — 17.1M views · `Repetitive prayer with escalating emotional stakes` · 2026-08-04
+
 - [The Chosen Son Part 1: Mother Sent to Gatekeeper House](../../breakdowns/en/2026-06/tiktok-transcript-the-chosen-son-part-1-storytelling-motherandson-storytime-st-376f.md) — 16.5M views · `Shocking Revelation` · 2026-06-08
 
 - [Money Hacks Pt. 2: Buy Cheap Alcohol at Costco Without Me...](../../breakdowns/en/2026-07/tiktok-transcript-money-hacks-pt-2-inspired-by-onlyjayus-personalfinance-learn-4143.md) — 15.5M views · `Problem-Solution` · 2026-07-22
@@ -36,6 +38,8 @@
 - [Arafa Night Prayer for Life Change](../../breakdowns/en/2026-05/tiktok-transcript-video-a962.md) — 15.2M views · `Promise of transformation` · 2026-05-25
 
 - [You Are Enough Every Minute of Every Day](../../breakdowns/en/2026-06/tiktok-transcript-you-are-enough-every-minute-of-everyday-remind-yourself-how-3500.md) — 14.2M views · `Direct address + time constraint` · 2026-06-01
+
+- [Reposted My Video Friends Views Problem](../../breakdowns/en/2026-08/tiktok-transcript-newaccount-unfreez-tiktok-6c9f.md) — 14.0M views · `Emotional confession` · 2026-08-04
 
 - [Karachi Faroyu Lik: A Playful Street Scene](../../breakdowns/en/2026-07/tiktok-transcript-karachi-faroyu-lik-49a4.md) — 13.3M views · `Rhetorical question with absurd premise` · 2026-07-28
 
@@ -308,6 +312,8 @@
 - [Bakery Owner Replaced by Machine](../../breakdowns/en/2026-06/tiktok-transcript-if-you-enjoyed-this-story-leave-a-like-and-a-comment-emotion-bb14.md) — 886.8K views · `Unexpected dismissal` · 2026-06-27
 
 - [Baby Asks Funny Questions About Roti Price](../../breakdowns/en/2026-07/tiktok-transcript-baby-funny-video-12-babyfunnyvideo-babyvideo-funnyvideo-vira-b18a.md) — 870.1K views · `Price reveal with freebie` · 2026-07-17
+
+- [Reposted My Video Friends Views Problem](../../breakdowns/en/2026-08/tiktok-transcript-newaccount-unfreez-tiktok-8d47.md) — 827.0K views · `Direct Gratitude` · 2026-08-03
 
 - [Breakup Advice for Teenage Girls](../../breakdowns/en/2026-06/tiktok-transcript-fup-f002.md) — 811.2K views · `Direct Address + Authority` · 2026-06-22
 

@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 106 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 108 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -54,6 +54,8 @@
 - [Two Toxic Conflict Patterns That Ruin Loving Couples](../../breakdowns/zh-CN/2026-06/tiktok-transcript-even-the-most-loving-couples-can-t-last-if-they-fall-into-th-d3ec.md) — 5.0M views · `Curiosity Gap` · 2026-06-18
 
 - [Part 1: My Dad Told Me to Walk Home](../../breakdowns/zh-CN/2026-06/tiktok-transcript-part-1-storytime-redditstories-fyp-foryou-askreddit-foryoupa-f573.md) — 4.9M views · `Twist/Reversal` · 2026-06-28
+
+- [Buzzballz With Super Powers](../../breakdowns/zh-CN/2026-08/tiktok-transcript-buzzballz-with-super-powers-ai-fruitstory-buzzball-sadstory-6771.md) — 4.6M views · `Contrast and promise` · 2026-08-04
 
 - [Catfished Team Helps Betsy Expose Elon Musk Affair](../../breakdowns/zh-CN/2026-06/tiktok-transcript-shout-out-to-the-catfished-team-for-helping-betsy-and-for-pu-ef4a.md) — 3.9M views · `Shocking Claim` · 2026-06-09
 
@@ -172,6 +174,8 @@
 - [Why You Can't Leave a Toxic Partner: Break the Trauma Bond](../../breakdowns/zh-CN/2026-08/tiktok-transcript-here-s-why-you-re-struggling-to-leave-a-toxic-partner-you-ha-459b.md) — 913.9K views · `Direct address with a promise of a solution` · 2026-08-02
 
 - [Part 2: Confronting the Past in Manhattan](../../breakdowns/zh-CN/2026-06/tiktok-transcript-part-2-fyp-redditstories-viral-foryoupage-d9db.md) — 889.9K views · `Emotional confession` · 2026-06-23
+
+- [SpaceX Success Story: From Near Bankruptcy to Top Space Firm](../../breakdowns/zh-CN/2026-08/tiktok-transcript-spacex-tiktokuni-84b2.md) — 884.7K views · `Rags-to-Riches Tease` · 2026-08-03
 
 - [Long Live the Emotional Ones - Aléxia Porto](../../breakdowns/zh-CN/2026-07/tiktok-transcript-vida-longa-aos-emocionados-al-xia-porto-poesia-poesias-alexi-60fd.md) — 870.5K views · `Bold declaration` · 2026-07-17
 
