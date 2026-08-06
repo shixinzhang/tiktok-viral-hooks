@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 108 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 110 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -121,6 +121,8 @@
 
 - [Sharing My Story at Blue Valley Northwest Graduation](../../breakdowns/zh-CN/2026-05/tiktok-transcript-dream-come-true-getting-to-share-my-story-in-front-of-people-a9cc.md) — 1.9M views · `Shared anticipation` · 2026-05-27
 
+- [Nigerian Mom Catches Son Lying About Bible Study](../../breakdowns/zh-CN/2026-08/tiktok-transcript-fastest-switch-up-africanparents-nigerian-funny-real-streame-6d43.md) — 1.9M views · `Immediate tension + unexpected role reversal` · 2026-08-05
+
 - [Joachim Predicts 2026 World Cup Winner After 3 Correct Picks](../../breakdowns/zh-CN/2026-06/tiktok-transcript-depuis-3-ans-joachim-pr-dit-les-vainqueurs-de-chaque-coupe-d-5b24.md) — 1.8M views · `Pattern: Prediction Reveal` · 2026-06-14
 
 - [Editing a Dramatic Dragon Scene Twist](../../breakdowns/zh-CN/2026-06/tiktok-transcript-replying-to-sweetiequeen337-welcome-to-my-channel-here-i-edi-7194.md) — 1.7M views · `Immediate conflict` · 2026-06-17
@@ -130,6 +132,8 @@
 - [YouTuber Yuppi Faces Backlash for Watching Japan vs Tunis...](../../breakdowns/zh-CN/2026-07/tiktok-transcript-youtuber-fifa-a351.md) — 1.6M views · `Curiosity Gap` · 2026-07-05
 
 - [Dominik Mysterio Betrays His Father Rey to Join Judgment Day](../../breakdowns/zh-CN/2026-07/tiktok-transcript-dominik-mysterio-was-the-son-of-a-wrestling-legend-who-enter-34e1.md) — 1.6M views · `Rhetorical Question + Surprising Action` · 2026-07-01
+
+- [No More Parties, Bro](../../breakdowns/zh-CN/2026-08/tiktok-transcript-hhyeauh-zionn-heavenlyy-1e9c.md) — 1.6M views · `Repetition for emphasis` · 2026-08-05
 
 - [Jarvis Plots a Course for Rosehill Tennessee](../../breakdowns/zh-CN/2026-06/tiktok-transcript-jarvis-plot-a-course-for-rosehill-tennessee-jarvis-ironman-p-dbf9.md) — 1.5M views · `Call and response` · 2026-06-10
 

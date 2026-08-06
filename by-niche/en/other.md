@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 191 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 194 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -165,6 +165,8 @@
 
 - [Mashom Jokes About Cheap Potatoes and Free Chilies](../../breakdowns/en/2026-07/tiktok-transcript-mashom-aivideos-pashtostoriesai-grwomyaccount-fyp-funny-7011.md) — 2.5M views · `Question + Bonus Offer` · 2026-07-13
 
+- [Rare Window & Door Designs From China’s Biggest Factory](../../breakdowns/en/2026-08/tiktok-transcript-99-of-people-have-never-seen-these-window-door-designs-take-e7df.md) — 2.5M views · `Scale shock` · 2026-08-05
+
 - [Millionaire Buys 100 Hats and 200 Dresses for Embarrassed...](../../breakdowns/en/2026-06/tiktok-transcript-latintiktok-viralusaticktok-movieexplained-f6ec.md) — 2.4M views · `Contrast & Embarrassment` · 2026-06-23
 
 - [The Hardest Part of Grief Is Letting Go of Who You Were](../../breakdowns/en/2026-07/tiktok-transcript-lo-m-s-dif-cil-del-duelo-no-es-soltar-al-otro-es-soltar-a-la-bc1e.md) — 2.4M views · `Unexpected twist on a common idea` · 2026-07-17
@@ -230,6 +232,8 @@
 - [Pizza Toppings or Life Choices: Impossible Edition](../../breakdowns/en/2026-07/tiktok-transcript-tu-pr-f-res-quoi-tuprefereschallange-tupreferes-quiz-tiktokf-7f5b.md) — 1.6M views · `Impossible Choice` · 2026-07-09
 
 - [Hypothyroidism Pill Check: Levothyroxine Fatigue Fix](../../breakdowns/en/2026-05/tiktok-transcript-hipotiroidismo-salud-tiroides-medicina-bc00.md) — 1.6M views · `Challenge/Reversal` · 2026-05-28
+
+- [In-Laws Only Mock a Wife Whose Husband Doesn’t Support Her](../../breakdowns/en/2026-08/tiktok-transcript-3-4k-views-73k-reactions-instalike-instadaily-insta-instagra-898f.md) — 1.6M views · `Bold Truth Statement` · 2026-08-05
 
 - [Best Home Remedies For Stomach Diseases And Digestion](../../breakdowns/en/2026-06/tiktok-transcript-3-1m-views-62k-reactions-personalgrowth-digestion-curd-amazi-df93.md) — 1.5M views · `numbered list with specific duration` · 2026-06-28
 
@@ -306,6 +310,8 @@
 - [Mystic Cross in Palmistry: Hidden Sign of Spiritual Gifte...](../../breakdowns/en/2026-07/tiktok-transcript-palmistry-zodiacsigns-astrology-marriage-fyi-be92.md) — 897.5K views · `Exclusive Revelation` · 2026-07-08
 
 - [Two Equal Lines on Mount of Mercury Palm Sign](../../breakdowns/en/2026-07/tiktok-transcript-do-you-have-two-equal-lines-there-palm-tiktok-palmistry-fyp-a065.md) — 896.8K views · `Curiosity gap with personal prediction` · 2026-07-08
+
+- [Goodnight Text Expectations Explained](../../breakdowns/en/2026-08/tiktok-transcript-tiktok-video-7659614752712264991-e0b2.md) — 894.9K views · `Conditional threat with exaggerated consequence` · 2026-08-05
 
 - [Join 2 Free Handmade Soap Classes Starting May 26](../../breakdowns/en/2026-06/tiktok-transcript-nete-a-2-clases-gratuitas-de-jabones-artesanales-en-el-link-d2f7.md) — 887.7K views · `Rhetorical Question + Metaphor` · 2026-06-11
 
