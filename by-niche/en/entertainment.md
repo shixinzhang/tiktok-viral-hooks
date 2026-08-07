@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 110 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 111 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -56,6 +56,8 @@
 - [Part 1: My Dad Told Me to Walk Home](../../breakdowns/en/2026-06/tiktok-transcript-part-1-storytime-redditstories-fyp-foryou-askreddit-foryoupa-f573.md) — 4.9M views · `Twist/Reversal` · 2026-06-28
 
 - [Buzzballz With Super Powers](../../breakdowns/en/2026-08/tiktok-transcript-buzzballz-with-super-powers-ai-fruitstory-buzzball-sadstory-6771.md) — 4.6M views · `Contrast and promise` · 2026-08-04
+
+- [Sympathy vs Empathy: Key Differences Explained](../../breakdowns/en/2026-08/tiktok-transcript-what-s-the-difference-difference-learn-psychology-bff7.md) — 4.6M views · `Curiosity gap with binary contrast` · 2026-08-06
 
 - [Catfished Team Helps Betsy Expose Elon Musk Affair](../../breakdowns/en/2026-06/tiktok-transcript-shout-out-to-the-catfished-team-for-helping-betsy-and-for-pu-ef4a.md) — 3.9M views · `Shocking Claim` · 2026-06-09
 

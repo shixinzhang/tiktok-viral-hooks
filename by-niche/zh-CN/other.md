@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 194 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 198 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -105,6 +105,8 @@
 
 - [White Monitor Arm Holiday Sale for Clean Look](../../breakdowns/zh-CN/2026-07/tiktok-transcript-clean-look-maximum-flexibility-white-monitor-arm-holiday-sal-2f80.md) — 4.4M views · `Minimalist Hook` · 2026-07-09
 
+- [Share This Bible Verse With One Friend Today](../../breakdowns/zh-CN/2026-08/tiktok-transcript-tiktok-video-7657991710567386390-79ac.md) — 4.3M views · `Direct challenge + call to action` · 2026-08-06
+
 - [Falcon Tortures Itself 150 Days to Be Reborn](../../breakdowns/zh-CN/2026-06/tiktok-transcript-19-150-8621.md) — 4.2M views · `Curiosity gap with specific age` · 2026-06-12
 
 - [Typical Game of Fool](../../breakdowns/zh-CN/2026-07/tiktok-transcript-pov-story-62d9.md) — 4.2M views · `confusing escalation` · 2026-07-15
@@ -119,9 +121,13 @@
 
 - [Connected Diagonal Line Palm Wealth Meaning](../../breakdowns/zh-CN/2026-07/tiktok-transcript-palmistry-palmist-palmistry-palmreading-b574.md) — 3.9M views · `Reveal a hidden sign` · 2026-07-08
 
+- [Share Luke 9:26 With a Friend Today](../../breakdowns/zh-CN/2026-08/tiktok-transcript-tiktok-video-7667138462826450198-2a40.md) — 3.9M views · `Direct challenge with a specific action` · 2026-08-06
+
 - [Keep Kidneys Healthy With These Tips](../../breakdowns/zh-CN/2026-06/tiktok-transcript-kidney-bb8a.md) — 3.8M views · `Numbered list with urgent warning` · 2026-06-29
 
 - [How Street Lights Affect Plant Growth](../../breakdowns/zh-CN/2026-07/tiktok-transcript-9-3m-views-99k-reactions-how-street-lights-can-affect-plant-db19.md) — 3.7M views · `Contrasting perspective` · 2026-07-19
+
+- [God Calls You to Come Closer and Share the Gospel](../../breakdowns/zh-CN/2026-08/tiktok-transcript-tiktok-video-7655457558597094678-e67b.md) — 3.7M views · `Direct address with spiritual conviction` · 2026-08-06
 
 - [Angelina Jolie: Stay Single and Invest in Yourself](../../breakdowns/zh-CN/2026-07/tiktok-transcript-angelina-jolie-motivation-fyp-viral-angelinajolie-lifelesson-1adf.md) — 3.5M views · `Empowerment with divine promise` · 2026-07-02
 
@@ -184,6 +190,8 @@
 - [Why Piles of Worn Clothes Drain Your Energy](../../breakdowns/zh-CN/2026-07/tiktok-transcript-never-leave-piles-of-worn-clothes-on-chairs-or-couches-even-6538.md) — 2.2M views · `Direct Command + Consequence` · 2026-07-07
 
 - [Jetour Dashing Black Series Mafia Vibe Drive](../../breakdowns/zh-CN/2026-07/tiktok-transcript-jetour-dashing-black-series-boleh-rasa-mafia-vibe-sambil-dri-6a67.md) — 2.2M views · `Misdirection + Curiosity Gap` · 2026-07-13
+
+- [Why Women Can’t Save Men: A Biological Truth](../../breakdowns/zh-CN/2026-08/tiktok-transcript-women-cannot-save-men-or-the-human-species-will-not-continue-144a.md) — 2.2M views · `Provocative claim` · 2026-08-06
 
 - [5 Clothes Folding Methods You Need to Know](../../breakdowns/zh-CN/2026-06/tiktok-transcript-life-lifetips-fyp-foryou-lifehacks-viral-d22d.md) — 2.1M views · `Challenge/Knowledge Gap` · 2026-06-13
 
