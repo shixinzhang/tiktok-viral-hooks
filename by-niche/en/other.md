@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 198 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 200 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -191,6 +191,8 @@
 
 - [Jetour Dashing Black Series Mafia Vibe Drive](../../breakdowns/en/2026-07/tiktok-transcript-jetour-dashing-black-series-boleh-rasa-mafia-vibe-sambil-dri-6a67.md) — 2.2M views · `Misdirection + Curiosity Gap` · 2026-07-13
 
+- [Sharing Luke 9:26 When Ashamed of God's Word](../../breakdowns/en/2026-08/tiktok-transcript-tiktok-video-7658300018759191830-6c95.md) — 2.2M views · `Direct Call-to-Action + Scripture` · 2026-08-06
+
 - [Why Women Can’t Save Men: A Biological Truth](../../breakdowns/en/2026-08/tiktok-transcript-women-cannot-save-men-or-the-human-species-will-not-continue-144a.md) — 2.2M views · `Provocative claim` · 2026-08-06
 
 - [5 Clothes Folding Methods You Need to Know](../../breakdowns/en/2026-06/tiktok-transcript-life-lifetips-fyp-foryou-lifehacks-viral-d22d.md) — 2.1M views · `Challenge/Knowledge Gap` · 2026-06-13
@@ -282,6 +284,8 @@
 - [Old Cow Inheritance: A Father's Final Words](../../breakdowns/en/2026-08/tiktok-transcript-aistory-fruits-fruitstory-france-storytime-da2f.md) — 1.2M views · `The Inheritance Twist` · 2026-08-01
 
 - [John's Ranch Inheritance: 800 Cattle and One Old Cow](../../breakdowns/en/2026-08/tiktok-transcript-aistory-fruits-fruitstory-france-storytime-8d93.md) — 1.2M views · `Mysterious Inheritance` · 2026-08-01
+
+- [Share God’s Word: Never Waste Your Chance](../../breakdowns/en/2026-08/tiktok-transcript-tiktok-video-7662285999619198230-d3ac.md) — 1.2M views · `Direct call-to-action with urgency` · 2026-08-06
 
 - [Young Woman's Career Ambitions Shift After One Month Working](../../breakdowns/en/2026-07/tiktok-transcript-2-1m-views-10k-reactions-nh-n-o-y-thuycoluong-thuycoluong-d720.md) — 1.1M views · `Expectation vs Reality` · 2026-07-23
 

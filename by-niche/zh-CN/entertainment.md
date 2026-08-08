@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 111 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 113 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -28,6 +28,8 @@
 - [Goodbye My Favorite Stranger With Memories](../../breakdowns/zh-CN/2026-07/tiktok-transcript-goodbye-my-favorite-stranger-motivacion-inspiration-displine-84e6.md) — 9.8M views · `Contradictory juxtaposition` · 2026-07-03
 
 - [Don't Tell Your Dreams to Everybody Around](../../breakdowns/zh-CN/2026-06/tiktok-transcript-don-t-tell-your-dreams-capcut-fyp-trend-lyrics-templatecapcu-55fa.md) — 9.6M views · `Cautionary advice with contrast` · 2026-06-29
+
+- [Growing Up With Cousins Made Everything Special](../../breakdowns/zh-CN/2026-08/tiktok-transcript-to-the-cousins-who-made-growing-up-unforgettable-hopecore-re-9b16.md) — 9.4M views · `Direct address + nostalgic memory` · 2026-08-07
 
 - [Girl Plants GPS Tracker on Boyfriend, Finds Him at Hospital](../../breakdowns/zh-CN/2026-05/tiktok-transcript-film-movie-foryou-9be2.md) — 8.8M views · `Mystery/Deception Hook` · 2026-05-24
 
@@ -90,6 +92,8 @@
 - [Wife of 2 Years Cheating on Me: All 6 Updates](../../breakdowns/zh-CN/2026-07/tiktok-transcript-my-wife-of-two-years-is-cheating-on-me-all-6-updates-reddit-b760.md) — 3.0M views · `Bombshell Opening` · 2026-07-11
 
 - [Worm Fights Snail in Epic Garden Battle](../../breakdowns/zh-CN/2026-05/tiktok-transcript-worm-vs-snail-1781.md) — 2.8M views · `Subverted Expectation` · 2026-05-23
+
+- [He Called His Pregnant Wife a Cleaner, Then His Best Frie...](../../breakdowns/zh-CN/2026-08/tiktok-transcript-5-5m-views-223k-reactions-he-called-his-pregnant-wife-a-clea-3d4a.md) — 2.7M views · `Conflict Hook` · 2026-08-07
 
 - [Ana de Armas Through the Years](../../breakdowns/zh-CN/2026-07/tiktok-transcript-ana-de-armas-through-the-years-anadearmas-fyp-foryou-through-c66a.md) — 2.7M views · `Identity Reveal + Underdog Origin` · 2026-07-14
 
