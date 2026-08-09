@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 200 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 202 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -38,6 +38,8 @@
 - [Arafa Night Prayer for Life Change](../../breakdowns/zh-CN/2026-05/tiktok-transcript-video-a962.md) — 15.2M views · `Promise of transformation` · 2026-05-25
 
 - [You Are Enough Every Minute of Every Day](../../breakdowns/zh-CN/2026-06/tiktok-transcript-you-are-enough-every-minute-of-everyday-remind-yourself-how-3500.md) — 14.2M views · `Direct address + time constraint` · 2026-06-01
+
+- [Cute Baby Tries Sweets at Shop | Funny AI Video](../../breakdowns/zh-CN/2026-08/tiktok-transcript-38m-views-659k-reactions-cute-baby-sweets-shop-ai-funny-vide-3b18.md) — 14.0M views · `Direct request + playful refusal` · 2026-08-08
 
 - [Reposted My Video Friends Views Problem](../../breakdowns/zh-CN/2026-08/tiktok-transcript-newaccount-unfreez-tiktok-6c9f.md) — 14.0M views · `Emotional confession` · 2026-08-04
 
@@ -298,6 +300,8 @@
 - [The Lord's Prayer Recitation](../../breakdowns/zh-CN/2026-07/tiktok-transcript-padre-nuestro-fe-jesus-dios-c50a.md) — 1.1M views · `Familiar Opening` · 2026-07-18
 
 - [3 Things You Didn't Know About Airport Security Jobs](../../breakdowns/zh-CN/2026-07/tiktok-transcript-3-saker-du-inte-visste-om-jobbet-som-flygplatskontrollant-f-729a.md) — 1.1M views · `Lista med hemligheter` · 2026-07-19
+
+- [Share This Bible Verse Genesis 1 1 to Someone in Need](../../breakdowns/zh-CN/2026-08/tiktok-transcript-tiktok-video-7659571117492849942-e1a8.md) — 1.1M views · `Conditional challenge + direct engagement` · 2026-08-06
 
 - [Secret to Unbroken Marital Fortune: Tulsi Plant Ritual](../../breakdowns/zh-CN/2026-07/tiktok-transcript-2-5m-views-71k-reactions-cooking-tulsipuja-tradition-healtht-3035.md) — 1.1M views · `Numbered list + supernatural claim` · 2026-07-20
 

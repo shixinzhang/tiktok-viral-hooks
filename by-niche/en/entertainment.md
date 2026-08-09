@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 113 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 116 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -123,6 +123,10 @@
 
 - [OOTD: Deciding Whether to Let Go](../../breakdowns/en/2026-07/tiktok-transcript-ootd-484b.md) — 2.0M views · `Rhetorical Question` · 2026-07-03
 
+- [He Killed Victims and Attended Their Funerals: Part 1](../../breakdowns/en/2026-08/tiktok-transcript-ele-mat4va-suas-v-timas-e-ia-no-vel-rio-parte-1-fyp-foryou-f-e044.md) — 2.0M views · `Mystery + Authority Twist` · 2026-08-08
+
+- [Hazrat Ali Quotes on True Friendship and Separation](../../breakdowns/en/2026-08/tiktok-transcript-207k-views-353k-reactions-d-o-s-t-i-northerngirl-e956.md) — 2.0M views · `Authority + Consequence` · 2026-08-08
+
 - [Surprising Family With My Newborn Baby](../../breakdowns/en/2026-07/tiktok-transcript-took-my-newborn-surprise-the-family-foryou-tiktok-fyp-babylo-a59b.md) — 1.9M views · `Exclamatory Surprise` · 2026-07-27
 
 - [Sharing My Story at Blue Valley Northwest Graduation](../../breakdowns/en/2026-05/tiktok-transcript-dream-come-true-getting-to-share-my-story-in-front-of-people-a9cc.md) — 1.9M views · `Shared anticipation` · 2026-05-27
@@ -194,6 +198,8 @@
 - [The Devil's Bridge: Strange Phenomena in France Since 1994](../../breakdowns/en/2026-06/tiktok-transcript-horreurtiktok-horreur-histoire-histoirevrai-urbanlegends-fyp-a88e.md) — 804.4K views · `Mystery/Curiosity Gap` · 2026-06-11
 
 - [The Moroccan Killer Zarzour: A Silent Stranger](../../breakdowns/en/2026-06/tiktok-transcript-le-tueur-marocain-zarzour-horreurtiktok-horreur-histoire-mys-bfe8.md) — 730.5K views · `Rhetorical question with exotic hook` · 2026-06-11
+
+- [Honda Civic Sport Drive-By](../../breakdowns/en/2026-08/tiktok-transcript-hondacivic-sport-fyp-trending-a72a.md) — 728.8K views · `Repetition with emotional tension` · 2026-08-08
 
 - [Paddy Pimblett Reacts to Main Event Outcome Mid-Interview](../../breakdowns/en/2026-07/tiktok-transcript-1-9m-views-29k-reactions-classic-paddy-paddy-pimblett-reacts-7da8.md) — 728.7K views · `Shock and disbelief` · 2026-07-12
 
