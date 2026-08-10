@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 202 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 204 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -90,6 +90,8 @@
 - [Elias and Serina: The Secret Friend Part 2](../../breakdowns/zh-CN/2026-07/tiktok-transcript-12m-views-548k-reactions-part-2-si-elias-at-ang-kanyang-lihi-76c9.md) — 6.7M views · `Immediate problem + solution` · 2026-07-17
 
 - [Polyurethane Foam Spray Insulation Expanding and Solidifying](../../breakdowns/zh-CN/2026-06/tiktok-transcript-l-isolation-par-mousse-de-polyur-thane-isolation-polyurethan-fc83.md) — 6.6M views · `Visual Curiosity Gap` · 2026-06-16
+
+- [Party Supplies for Every Style from Penin Iutenson](../../breakdowns/zh-CN/2026-08/tiktok-transcript-productos-para-fiestas-que-te-encantar-n-muchos-estilos-list-c95a.md) — 6.4M views · `Question Hook` · 2026-08-09
 
 - [Let Him Fully Experience That Decision](../../breakdowns/zh-CN/2026-05/tiktok-transcript-baby-let-him-experience-that-decision-fully-nopryorwarning-a115.md) — 6.3M views · `Conditional Challenge` · 2026-05-25
 
@@ -182,6 +184,8 @@
 - [Tailored Set With High-Waist Pants And Long Vest](../../breakdowns/zh-CN/2026-05/tiktok-transcript-look-de-milh-es-conjuntofeminino-alfaiataria-elegante-177d.md) — 2.4M views · `Curiosity Gap` · 2026-05-22
 
 - [Abelardo De La Espriella's Proposals to Govern Colombia](../../breakdowns/zh-CN/2026-05/tiktok-transcript-estas-son-las-propuestas-de-abelardo-de-la-espriella-para-go-6f8d.md) — 2.4M views · `List of bold proposals` · 2026-05-28
+
+- [Faking Dementia to Avoid My Ex](../../breakdowns/zh-CN/2026-08/tiktok-transcript-tiktok-video-7671786630000299284-1965.md) — 2.4M views · `Open loop / mystery` · 2026-08-09
 
 - [Men Feel Pain But Don't Express It](../../breakdowns/zh-CN/2026-06/tiktok-transcript-6-2m-views-297k-reactions-aadmi-quotes-realtionship-podcast-7b6b.md) — 2.3M views · `Contradiction/Revelation` · 2026-06-01
 

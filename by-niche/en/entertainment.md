@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 116 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 119 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -35,11 +35,15 @@
 
 - [Meeting Cleopatra: A Time Travel Fantasy](../../breakdowns/en/2026-06/tiktok-transcript-i-will-say-it-would-be-really-cool-to-meet-cleopatra-just-to-1de2.md) — 8.1M views · `Hypothetical Question` · 2026-06-04
 
+- [Why Exes Demand Respect After Disrespecting You](../../breakdowns/en/2026-08/tiktok-transcript-tiktok-video-7671785610285174037-d198.md) — 7.9M views · `Direct accusation with emotional contrast` · 2026-08-09
+
 - [Angry People Are Often Misunderstood: Honest Souls Speak...](../../breakdowns/en/2026-05/tiktok-transcript-4-6m-views-395k-reactions-loud-fake-reality-truth-emotional-60f7.md) — 7.7M views · `Rhetorical question with emotional framing` · 2026-05-30
 
 - [Apology for Making Love Hard and Draining](../../breakdowns/en/2026-05/tiktok-transcript-tiktok-video-7502794542438124846-ae88.md) — 7.7M views · `Apology Hook` · 2026-05-28
 
 - [Bold Job Interview Answer: I'm Here to Help You](../../breakdowns/en/2026-06/tiktok-transcript-the-job-interview-18a7.md) — 7.6M views · `Deflection and Confidence` · 2026-06-14
+
+- [Why Exes Demand Respect After Disrespecting You](../../breakdowns/en/2026-08/tiktok-transcript-tiktok-video-7671785610285174037-0aae.md) — 7.6M views · `Direct accusation` · 2026-08-09
 
 - [Fruit Seller's Emotional AI Story](../../breakdowns/en/2026-06/tiktok-transcript-fruits-fruit-ai-aistory-emotional-emotionalstory-56ca.md) — 7.3M views · `Curiosity gap + Incentive` · 2026-06-25
 
@@ -102,6 +106,8 @@
 - [Shoutout to Aries and Taurus for 2023](../../breakdowns/en/2026-06/tiktok-transcript-shoutout-to-aries-taurus-2f18.md) — 2.6M views · `Astrological Authority + Bold Claim` · 2026-06-28
 
 - [Part 2: Confronting Steven Over the Birthday Lie](../../breakdowns/en/2026-06/tiktok-transcript-part-2-diy-storytime-fyp-foryou-tiktok-2744.md) — 2.5M views · `Betrayal Reveal` · 2026-06-01
+
+- [Why Exes Demand Respect After Disrespecting You](../../breakdowns/en/2026-08/tiktok-transcript-tiktok-video-7671785610285174037-a923.md) — 2.5M views · `Direct accusation` · 2026-08-09
 
 - [Father Tests Daughters With $67 Million Each](../../breakdowns/en/2026-06/tiktok-transcript-he-gave-the-money-to-his-daughters-as-a-test-storyline-fruit-e256.md) — 2.3M views · `Shock and Awe` · 2026-06-26
 
