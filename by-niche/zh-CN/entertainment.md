@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 119 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 123 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -8,6 +8,8 @@
 - [My First Original Rap Song Performance](../../breakdowns/zh-CN/2026-07/tiktok-transcript-my-first-own-rap-song-1477.md) — 129.5M views · `Identity + Status Reveal` · 2026-07-03
 
 - [He Tapped Back: Morse Code With Twin Brother After Accident](../../breakdowns/zh-CN/2026-06/tiktok-transcript-he-tapped-back-3danimation-animationart-digitalart-ed-2eee.md) — 50.6M views · `Childhood secret code setup` · 2026-06-08
+
+- [My Statement About My Fans and Our Split](../../breakdowns/zh-CN/2026-08/tiktok-transcript-tiktok-video-7649580881773989141-8d73.md) — 24.8M views · `Direct address + reluctant confession` · 2026-08-10
 
 - [Night Shift Truck Driver Rules for Surviving Ravens Hollow](../../breakdowns/zh-CN/2026-05/tiktok-transcript-could-you-survive-the-road-tiktokhorror-horror-horrortok-cre-5b01.md) — 18.8M views · `Second-person immersive setup` · 2026-05-25
 
@@ -141,6 +143,8 @@
 
 - [Joachim Predicts 2026 World Cup Winner After 3 Correct Picks](../../breakdowns/zh-CN/2026-06/tiktok-transcript-depuis-3-ans-joachim-pr-dit-les-vainqueurs-de-chaque-coupe-d-5b24.md) — 1.8M views · `Pattern: Prediction Reveal` · 2026-06-14
 
+- [True Life Story: I Passed My JAMB Exam](../../breakdowns/zh-CN/2026-08/tiktok-transcript-full-story-based-on-true-life-experience-aigenerated-fyp-vir-4d18.md) — 1.8M views · `Mystery/Secret Hook` · 2026-08-09
+
 - [Editing a Dramatic Dragon Scene Twist](../../breakdowns/zh-CN/2026-06/tiktok-transcript-replying-to-sweetiequeen337-welcome-to-my-channel-here-i-edi-7194.md) — 1.7M views · `Immediate conflict` · 2026-06-17
 
 - [Life Lesson: Flirting With a Married Woman](../../breakdowns/zh-CN/2026-05/tiktok-transcript-trietlynhansinh-af29.md) — 1.7M views · `Contrasting scenario + direct command` · 2026-05-26
@@ -148,6 +152,8 @@
 - [YouTuber Yuppi Faces Backlash for Watching Japan vs Tunis...](../../breakdowns/zh-CN/2026-07/tiktok-transcript-youtuber-fifa-a351.md) — 1.6M views · `Curiosity Gap` · 2026-07-05
 
 - [Dominik Mysterio Betrays His Father Rey to Join Judgment Day](../../breakdowns/zh-CN/2026-07/tiktok-transcript-dominik-mysterio-was-the-son-of-a-wrestling-legend-who-enter-34e1.md) — 1.6M views · `Rhetorical Question + Surprising Action` · 2026-07-01
+
+- [6-Year-Old Defies Segregation at School](../../breakdowns/zh-CN/2026-08/tiktok-transcript-le-jour-o-une-enfant-de-6-ans-a-d-fi-la-s-gr-gation-amazing-3955.md) — 1.6M views · `Historical revelation with emotional contrast` · 2026-08-10
 
 - [No More Parties, Bro](../../breakdowns/zh-CN/2026-08/tiktok-transcript-hhyeauh-zionn-heavenlyy-1e9c.md) — 1.6M views · `Repetition for emphasis` · 2026-08-05
 
@@ -162,6 +168,8 @@
 - [Remember Me in Six Years? Knock Knock](../../breakdowns/zh-CN/2026-07/tiktok-transcript-knock-knock-who-s-there-you-don-t-remember-me-c939.md) — 1.5M views · `Escalating Question` · 2026-07-10
 
 - [Paranormal Encounter Horror Story at 3:33 AM](../../breakdowns/zh-CN/2026-05/tiktok-transcript-historia-de-terror-de-un-encuentro-paranormal-a-las-3-33-de-36d6.md) — 1.5M views · `Personal anecdote with eerie setting` · 2026-05-24
+
+- [He Ended It Because He Wouldn't Promote My Work](../../breakdowns/zh-CN/2026-08/tiktok-transcript-alencarz-o-creatorsearchinsights-creatorsearchinsights2026-f-b5d5.md) — 1.5M views · `Curiosity gap + direct address` · 2026-08-09
 
 - [Sisters Get Shrink and Enlarge Systems Before Apocalypse](../../breakdowns/zh-CN/2026-06/tiktok-transcript-loredeepdive-tiktoktvfilmcontest-shortdramareview-tiktok-fyp-6822.md) — 1.4M views · `Choice with consequence` · 2026-06-20
 

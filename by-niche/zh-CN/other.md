@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 204 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 205 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -248,6 +248,8 @@
 - [Pizza Toppings or Life Choices: Impossible Edition](../../breakdowns/zh-CN/2026-07/tiktok-transcript-tu-pr-f-res-quoi-tuprefereschallange-tupreferes-quiz-tiktokf-7f5b.md) — 1.6M views · `Impossible Choice` · 2026-07-09
 
 - [Hypothyroidism Pill Check: Levothyroxine Fatigue Fix](../../breakdowns/zh-CN/2026-05/tiktok-transcript-hipotiroidismo-salud-tiroides-medicina-bc00.md) — 1.6M views · `Challenge/Reversal` · 2026-05-28
+
+- [I Got Home From Shopping and Needed to Talk](../../breakdowns/zh-CN/2026-08/tiktok-transcript-tiktok-video-7671785034013052180-185a.md) — 1.6M views · `Emotional confession with reluctant disclosure` · 2026-08-09
 
 - [In-Laws Only Mock a Wife Whose Husband Doesn’t Support Her](../../breakdowns/zh-CN/2026-08/tiktok-transcript-3-4k-views-73k-reactions-instalike-instadaily-insta-instagra-898f.md) — 1.6M views · `Bold Truth Statement` · 2026-08-05
 
