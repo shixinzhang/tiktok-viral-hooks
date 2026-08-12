@@ -1,6 +1,6 @@
 # food Breakdowns
 
-> 14 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 15 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -26,6 +26,8 @@
 - [Story Time: My Cake Business Secret Part 1](../../breakdowns/zh-CN/2026-06/tiktok-transcript-story-time-part-1-story-fyp-diy-foryoupage-viral-tiktok-7513.md) — 1.4M views · `Rhetorical question + shocking reveal` · 2026-06-02
 
 - [Frozen Banana Business: How She Earns $5 Per Treat](../../breakdowns/zh-CN/2026-06/tiktok-transcript-creatorsearchinsights-she-turned-a-simple-frozen-banana-into-aec0.md) — 1.3M views · `Transformation/Before-After` · 2026-06-25
+
+- [Salty vs Sweet Food Choices](../../breakdowns/zh-CN/2026-08/tiktok-transcript-choix-tupreferes-food-nourriture-d574.md) — 734.8K views · `Rapid-fire dilemma` · 2026-08-09
 
 - [Strawberries Grown in Small Spaces for Big Harvests](../../breakdowns/zh-CN/2026-07/tiktok-transcript-1-7m-views-11k-reactions-des-fraises-cultiv-es-avec-cette-m-9fab.md) — 592.6K views · `Emotional Gratitude` · 2026-07-28
 

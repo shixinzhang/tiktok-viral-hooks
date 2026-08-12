@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 205 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 207 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -375,6 +375,8 @@
 
 - [Apple Man Suspense Story Part 1](../../breakdowns/zh-CN/2026-07/tiktok-transcript-apple-man-suspense-story-part-1-aistory-storydrama-fruitstor-9aed.md) — 537.1K views · `Contrasting fates` · 2026-07-22
 
+- [Lost Gender Identity and the Fall of Mankind: Fallen Ange...](../../breakdowns/zh-CN/2026-08/tiktok-transcript-26k-views-17k-reactions-lost-gender-identity-caused-the-fall-8669.md) — 520.5K views · `Bold Claim + Direct Address` · 2026-08-11
+
 - [Australia: The Sixth Largest and Most Beautiful Country](../../breakdowns/zh-CN/2026-06/tiktok-transcript-australia-au-4a36.md) — 519.9K views · `Curiosity Gap` · 2026-06-20
 
 - [Chinese Rotating Monument Mechanism Illusion](../../breakdowns/zh-CN/2026-06/tiktok-transcript-video-f1b0.md) — 516.2K views · `Curiosity gap with promise of coolness` · 2026-06-17
@@ -390,6 +392,8 @@
 - [4 Secrets of a Happy Married Life – A Mother’s Advice](../../breakdowns/zh-CN/2026-06/tiktok-transcript-802k-views-22k-reactions-4-secrets-of-a-happy-married-life-a-e640.md) — 365.9K views · `List-based curiosity gap` · 2026-06-05
 
 - [Saint Michael Archangel Protection Reminder](../../breakdowns/zh-CN/2026-07/tiktok-transcript-wearing-saint-michael-reminds-me-that-protection-is-always-w-aff1.md) — 364.5K views · `Mysterious introduction + personal benefit` · 2026-07-22
+
+- [Forget the Peanut Shells Blame Game](../../breakdowns/zh-CN/2026-08/tiktok-transcript-kacang-lupakan-kulit-panglipurlara-hezrie-blissful-kacang-750f.md) — 364.1K views · `Reframe the familiar proverb` · 2026-08-10
 
 - [Bagaimana wording dalam Quran menggambarkan ketika mengejar dunia dan...](../../breakdowns/zh-CN/2026-07/tiktok-transcript-bagaimana-wording-dalam-quran-menggambarkan-ketika-mengejar-3229.md) — 347.4K views · `Mystery Reveal` · 2026-07-24
 
