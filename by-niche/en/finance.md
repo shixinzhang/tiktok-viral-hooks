@@ -1,6 +1,6 @@
 # finance Breakdowns
 
-> 27 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 29 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -58,3 +58,7 @@
 - [Renting Isn't a Failure: Why Buying a House Isn't for Eve...](../../breakdowns/en/2026-08/tiktok-transcript-a-mortgage-is-not-a-milestone-for-most-people-it-s-a-financi-0ecf.md) — 429.0K views · `Contrarian command` · 2026-08-01
 
 - [Why a $40K Car Is Unaffordable on $50K Income](../../breakdowns/en/2026-08/tiktok-transcript-most-people-don-t-ask-can-i-afford-this-car-they-ask-can-i-a-4fd6.md) — 402.5K views · `Contrarian statement` · 2026-08-01
+
+- [Trump's 1933 Gold Playbook for Bitcoin Confiscation](../../breakdowns/en/2026-08/tiktok-transcript-the-1933-gold-playbook-how-trump-may-take-your-bitcoin-df3e.md) — 183.6K views · `Fear-based prediction` · 2026-08-12
+
+- [Trump's 1933 Gold Playbook for Bitcoin Seizure](../../breakdowns/en/2026-08/tiktok-transcript-the-1933-gold-playbook-how-trump-may-take-your-bitcoin-4b06.md) — 183.6K views · `Fear-based prediction` · 2026-08-12

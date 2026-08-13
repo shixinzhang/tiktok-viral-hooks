@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 207 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 209 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -407,6 +407,8 @@
 
 - [What Happens If You Drink Ginsomin for 7 Days](../../breakdowns/zh-CN/2026-06/tiktok-transcript-ini-yang-terjadi-jika-kamu-minum-ginsomin-selama-7-hari-diab-750e.md) — 320.0K views · `Curiosity Gap` · 2026-06-22
 
+- [Grow a New Fruit Tree Faster: Branch Cutting Trick](../../breakdowns/zh-CN/2026-08/tiktok-transcript-458k-views-14k-reactions-how-to-grow-a-new-fruit-tree-withou-60c0.md) — 294.9K views · `Problem-Solution Tease` · 2026-08-12
+
 - [Full-Home Customization With Unique Cabinet Designs](../../breakdowns/zh-CN/2026-07/tiktok-transcript-full-home-customization-unique-homes-homecustomization-inter-bd37.md) — 288.8K views · `Contrasting command` · 2026-07-22
 
 - [#palmistry #zodiacsigns #astrology #marriage #fyi](../../breakdowns/zh-CN/2026-07/tiktok-transcript-palmistry-zodiacsigns-astrology-marriage-fyi-6ad4.md) — 277.8K views · `Mysterious conditional promise` · 2026-07-24
@@ -414,6 +416,8 @@
 - [456K views · 4.4K reactions | শাক দিয়ে মাছ ডেকে.... #motivation # | orins cooking](../../breakdowns/zh-CN/2026-07/tiktok-transcript-456k-views-4-4k-reactions-motivation-orins-cooking-5b13.md) — 241.2K views · `Exaggerated complaint` · 2026-07-24
 
 - [Bloated After Eating Little? Try Spirulina Superfoods](../../breakdowns/zh-CN/2026-07/tiktok-transcript-laging-bloated-kahit-konti-lang-kinain-tyan-mo-rin-ba-ganito-0deb.md) — 235.9K views · `Problem Agitation` · 2026-07-29
+
+- [Deep Lines on the Karakoram Highway: Scenic Drive Through...](../../breakdowns/zh-CN/2026-08/tiktok-transcript-2-9k-views-43k-reactions-deep-lines-naltar-expressway-by-ree-c45a.md) — 200.0K views · `Direct advice with negative consequence` · 2026-08-11
 
 - [If you have a mole on your hand, this could say a lot about your fate...](../../breakdowns/zh-CN/2026-07/tiktok-transcript-if-you-have-a-mole-on-your-hand-this-could-say-a-lot-about-y-ed5d.md) — 192.1K views · `Mystery & Curiosity` · 2026-07-23
 
