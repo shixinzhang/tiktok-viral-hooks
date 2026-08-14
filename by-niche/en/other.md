@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 209 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 210 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -282,6 +282,8 @@
 - [Excessive Paw Itching Caused by Fungi and Bacteria](../../breakdowns/en/2026-06/tiktok-transcript-coceiras-em-excesso-nas-patolas-podem-ser-causadas-por-fungo-71c0.md) — 1.3M views · `Curiosity gap with absurd analogy` · 2026-06-29
 
 - [3 Reasons Not to Buy the Viral Slushy Cup](../../breakdowns/en/2026-05/tiktok-transcript-n-achetez-pas-ce-gobelet-granita-viral-slushycupfreeze-st-a102.md) — 1.3M views · `Reverse Psychology List` · 2026-05-25
+
+- [Franklin's Animation: Sorry for Him](../../breakdowns/en/2026-08/tiktok-transcript-2-1m-views-76k-reactions-sorry-for-him-fyp-trending-franklin-4c4e.md) — 1.2M views · `Mystery/Cliffhanger` · 2026-08-13
 
 - [Why You Shouldn't Pee When Waking Up at Night](../../breakdowns/en/2026-06/tiktok-transcript-waking-up-in-the-middle-of-the-night-and-immediately-getting-e708.md) — 1.2M views · `Contrarian advice` · 2026-06-15
 
