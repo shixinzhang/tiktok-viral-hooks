@@ -1,4 +1,4 @@
-# Hook Pattern: Curiosity Gap
+# Hook Pattern: Curiosity gap
 
 > 12 viral TikTok videos that use this hook pattern.
 
