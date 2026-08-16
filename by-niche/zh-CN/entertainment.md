@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 126 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 128 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -209,6 +209,8 @@
 
 - [Long Live the Emotional Ones - Aléxia Porto](../../breakdowns/zh-CN/2026-07/tiktok-transcript-vida-longa-aos-emocionados-al-xia-porto-poesia-poesias-alexi-60fd.md) — 870.5K views · `Bold declaration` · 2026-07-17
 
+- [The More Honest You Are, the Sooner You Get Fired](../../breakdowns/zh-CN/2026-08/tiktok-transcript-18k-reactions-2k-shares-c-ng-th-t-th-c-ng-d-b-sa-th-i-congso-e38a.md) — 837.7K views · `Rhetorical question + familiar characters` · 2026-08-15
+
 - [Princess Anna Flees Political Marriage to England](../../breakdowns/zh-CN/2026-07/tiktok-transcript-france-movie-francaise-tiktokfilm-fyp-e930.md) — 835.4K views · `Immediate Tension` · 2026-07-27
 
 - [The Devil's Bridge: Strange Phenomena in France Since 1994](../../breakdowns/zh-CN/2026-06/tiktok-transcript-horreurtiktok-horreur-histoire-histoirevrai-urbanlegends-fyp-a88e.md) — 804.4K views · `Mystery/Curiosity Gap` · 2026-06-11
@@ -232,6 +234,8 @@
 - [Miami's Most Addictive Ice Cream and Its Deadly Secret](../../breakdowns/zh-CN/2026-06/tiktok-transcript-la-glace-la-plus-addictive-de-miami-et-le-secret-mortel-derr-ad03.md) — 570.5K views · `Forbidden Mystery` · 2026-06-11
 
 - [Husband Works Late, Wife Shares Improvised Lunch](../../breakdowns/zh-CN/2026-07/tiktok-transcript-son-mari-travaille-tard-elle-partage-un-d-jeuner-improvis-av-5a22.md) — 507.4K views · `Setup with a phone call` · 2026-07-28
+
+- [What High EQ People Say When They Spill Wine](../../breakdowns/zh-CN/2026-08/tiktok-transcript-778k-views-8-5k-reactions-l-l-m-ly-r-u-khi-m-i-kh-ch-ng-i-eq-51c5.md) — 364.3K views · `Scenario question + promise of story` · 2026-08-15
 
 - [Vinícius Júnior’s Apple Ad Song Revealed](../../breakdowns/zh-CN/2026-06/tiktok-transcript-what-song-is-vin-cius-j-nior-listening-to-apple-airpodsviniu-591c.md) — 363.7K views · `Curiosity Gap + Celebrity Tease` · 2026-06-21
 
