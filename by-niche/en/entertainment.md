@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 128 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 131 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -94,6 +94,8 @@
 - [Bury Me With a Picture of My Sister in My Front Pocket](../../breakdowns/en/2026-05/tiktok-transcript-bury-me-with-a-picture-of-my-sister-in-my-front-pocket-inspo-4ad4.md) — 3.2M views · `Unexpected Reversal` · 2026-05-29
 
 - [Model Strangers Street Photography After Three Years](../../breakdowns/en/2026-05/tiktok-transcript-i-have-been-working-on-model-strangers-for-almost-three-year-df88.md) — 3.1M views · `Compliment Hook` · 2026-05-29
+
+- [How I Built a Successful Life From Nothing](../../breakdowns/en/2026-08/tiktok-transcript-how-to-build-the-life-you-want-30e2.md) — 3.0M views · `Contrast / Before-After` · 2026-08-17
 
 - [Wife of 2 Years Cheating on Me: All 6 Updates](../../breakdowns/en/2026-07/tiktok-transcript-my-wife-of-two-years-is-cheating-on-me-all-6-updates-reddit-b760.md) — 3.0M views · `Bombshell Opening` · 2026-07-11
 
@@ -207,6 +209,8 @@
 
 - [SpaceX Success Story: From Near Bankruptcy to Top Space Firm](../../breakdowns/en/2026-08/tiktok-transcript-spacex-tiktokuni-84b2.md) — 884.7K views · `Rags-to-Riches Tease` · 2026-08-03
 
+- [20 Lies You Were Taught in School](../../breakdowns/en/2026-08/tiktok-transcript-2k-views-77k-reactions-20-lies-you-were-taught-in-school-evo-1ffd.md) — 876.1K views · `Listicle with urgency` · 2026-08-16
+
 - [Long Live the Emotional Ones - Aléxia Porto](../../breakdowns/en/2026-07/tiktok-transcript-vida-longa-aos-emocionados-al-xia-porto-poesia-poesias-alexi-60fd.md) — 870.5K views · `Bold declaration` · 2026-07-17
 
 - [The More Honest You Are, the Sooner You Get Fired](../../breakdowns/en/2026-08/tiktok-transcript-18k-reactions-2k-shares-c-ng-th-t-th-c-ng-d-b-sa-th-i-congso-e38a.md) — 837.7K views · `Rhetorical question + familiar characters` · 2026-08-15
@@ -246,6 +250,8 @@
 - [Fine Girl, No Filter  Sharp Mouth, Soft Heart  #tiktok #africtalesdai...](../../breakdowns/en/2026-07/tiktok-transcript-fine-girl-no-filter-sharp-mouth-soft-heart-tiktok-africtales-1bd4.md) — 266.3K views · `Mystery Reveal` · 2026-07-23
 
 - [Create an Alter Ego to Reach Your Craziest Dreams](../../breakdowns/en/2026-07/tiktok-transcript-crie-um-alter-ego-se-voc-quer-aprender-a-fazer-dinheiro-no-d-eac1.md) — 223.1K views · `Direct Promise` · 2026-07-29
+
+- [Ego, Ego-Death and Psilocybin: The Self You’re Protecting...](../../breakdowns/en/2026-08/tiktok-transcript-94k-views-16k-reactions-ego-ego-death-and-psilocybin-the-sel-cccd.md) — 202.6K views · `Provocative statement + immediate challenge` · 2026-08-16
 
 - [Neighbor’s Guitar and Cake Spark a Sudden Heartbeat](../../breakdowns/en/2026-08/tiktok-transcript-part7-the-neighbor-s-guitar-and-cake-a-sudden-heartbeat-next-ed75.md) — 189.2K views · `Mysterious Intrusion` · 2026-08-01
 
