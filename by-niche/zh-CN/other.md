@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 210 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 212 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -399,6 +399,8 @@
 
 - [Bagaimana wording dalam Quran menggambarkan ketika mengejar dunia dan...](../../breakdowns/zh-CN/2026-07/tiktok-transcript-bagaimana-wording-dalam-quran-menggambarkan-ketika-mengejar-3229.md) — 347.4K views · `Mystery Reveal` · 2026-07-24
 
+- [Why Men Dislike Their Girlfriend’s Male Best Friend](../../breakdowns/zh-CN/2026-08/tiktok-transcript-580k-views-8k-reactions-women-can-t-have-male-best-friend-on-8962.md) — 339.7K views · `Rhetorical question + curiosity gap` · 2026-08-17
+
 - [Customized Necklace Gift With Two-Sided Coin Design](../../breakdowns/zh-CN/2026-06/tiktok-transcript-video-6676.md) — 337.3K views · `Superlative + Specific` · 2026-06-07
 
 - [Young Girl Walks Into Lake in Dress Without Fear](../../breakdowns/zh-CN/2026-06/tiktok-transcript-flim-movie-tvshow-fyp-2dc2.md) — 330.2K views · `Mysterious Action` · 2026-06-05
@@ -422,5 +424,7 @@
 - [Deep Lines on the Karakoram Highway: Scenic Drive Through...](../../breakdowns/zh-CN/2026-08/tiktok-transcript-2-9k-views-43k-reactions-deep-lines-naltar-expressway-by-ree-c45a.md) — 200.0K views · `Direct advice with negative consequence` · 2026-08-11
 
 - [If you have a mole on your hand, this could say a lot about your fate...](../../breakdowns/zh-CN/2026-07/tiktok-transcript-if-you-have-a-mole-on-your-hand-this-could-say-a-lot-about-y-ed5d.md) — 192.1K views · `Mystery & Curiosity` · 2026-07-23
+
+- [Stop Rescuing What Discipline Could Have Protected](../../breakdowns/zh-CN/2026-08/tiktok-transcript-292k-views-19k-reactions-stop-rescuing-what-discipline-could-5cb8.md) — 139.8K views · `Problem-Agitation` · 2026-08-17
 
 - [How to Make Roblox Thumbnails for Your Game Easily](../../breakdowns/zh-CN/2026-06/tiktok-transcript-how-to-make-roblox-thumbnails-for-your-game-easily-robloxdev-1a53.md) — 124.1K views · `Speed/Result Promise` · 2026-06-07

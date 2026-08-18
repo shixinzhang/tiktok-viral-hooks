@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 131 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 134 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -243,11 +243,17 @@
 
 - [Vinícius Júnior’s Apple Ad Song Revealed](../../breakdowns/zh-CN/2026-06/tiktok-transcript-what-song-is-vin-cius-j-nior-listening-to-apple-airpodsviniu-591c.md) — 363.7K views · `Curiosity Gap + Celebrity Tease` · 2026-06-21
 
+- [Spiderman Bus Stunt Behind the Scenes FX](../../breakdowns/zh-CN/2026-08/tiktok-transcript-866k-views-15k-reactions-spiderman-stunt-on-bus-behind-fx-544e.md) — 353.6K views · `Immediate action call` · 2026-08-17
+
 - [Escanor's Fuckdometer Scale: From Virgin Mary to Bonnie Blue](../../breakdowns/zh-CN/2026-06/tiktok-transcript-escanor-escanor-sevendeadlysins-7deadlysins-anime-whodecided-579e.md) — 271.6K views · `absurd scale` · 2026-06-06
 
 - [Eight Weird Habits That Physically Upgrade Your Frequency](../../breakdowns/zh-CN/2026-08/tiktok-transcript-48k-views-22k-reactions-i-used-to-think-changing-your-state-e932.md) — 271.5K views · `Curiosity gap with a numbered list` · 2026-08-09
 
 - [Fine Girl, No Filter  Sharp Mouth, Soft Heart  #tiktok #africtalesdai...](../../breakdowns/zh-CN/2026-07/tiktok-transcript-fine-girl-no-filter-sharp-mouth-soft-heart-tiktok-africtales-1bd4.md) — 266.3K views · `Mystery Reveal` · 2026-07-23
+
+- [The Sukli of Kindness Part 2: True Goodness Never Fades](../../breakdowns/zh-CN/2026-08/tiktok-transcript-405k-views-27k-reactions-ang-sukli-ng-kabutihan-part-2-aral-1bb8.md) — 239.1K views · `Time-jump nostalgia` · 2026-08-17
+
+- [The Sukli of Kindness - Part 2: A Heartwarming Reunion](../../breakdowns/zh-CN/2026-08/tiktok-transcript-405k-views-27k-reactions-ang-sukli-ng-kabutihan-part-2-aral-2dd5.md) — 239.1K views · `Time-jump nostalgia` · 2026-08-17
 
 - [Create an Alter Ego to Reach Your Craziest Dreams](../../breakdowns/zh-CN/2026-07/tiktok-transcript-crie-um-alter-ego-se-voc-quer-aprender-a-fazer-dinheiro-no-d-eac1.md) — 223.1K views · `Direct Promise` · 2026-07-29
 
