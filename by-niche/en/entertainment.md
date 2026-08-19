@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 134 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 136 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -183,6 +183,8 @@
 
 - [This Is for All My Baby Girls](../../breakdowns/en/2026-05/tiktok-transcript-this-is-for-all-my-babygorls-2021tiktok-fyp-targetaudience-9e0a.md) — 1.3M views · `Direct address to a specific audience` · 2026-05-22
 
+- [Trump Panics as Senate Impeachment Case Made](../../breakdowns/en/2026-08/tiktok-transcript-trump-loses-it-as-impeachment-case-made-in-senate-4431.md) — 1.3M views · `Urgent escalation` · 2026-08-18
+
 - [What Happens When a Ship Sinks in the Ocean](../../breakdowns/en/2026-07/tiktok-transcript-fyp-reels-viral-shorts-4413.md) — 1.2M views · `Imminent Danger + Visual Surprise` · 2026-07-10
 
 - [Hiding Baby Secret From Wife](../../breakdowns/en/2026-06/tiktok-transcript-how-long-can-he-keep-little-cuh-a-secret-fruitstory-aistory-ee2e.md) — 1.1M views · `Misdirection / Unexpected Reveal` · 2026-06-26
@@ -272,3 +274,5 @@
 - [How to Keep Corn From Blowing Over in Wind](../../breakdowns/en/2026-08/tiktok-transcript-161k-views-3-7k-reactions-this-method-keeps-corn-from-blowin-16ca.md) — 111.1K views · `Relatable Frustration` · 2026-08-14
 
 - [Kratos 6 Rerun: Poseidon Drowned](../../breakdowns/en/2026-06/tiktok-transcript-kratos-6-rerun-kratos-godofwar-gow-godofwarragnarok-godofwar-940b.md) — 109.3K views · `Urgent Call to Action` · 2026-06-06
+
+- [Why You Smell Like the People You Surround Yourself With](../../breakdowns/en/2026-08/tiktok-transcript-188k-views-5-7k-reactions-if-you-spend-a-whole-day-at-a-fish-5e18.md) — 103.0K views · `Metaphor/Contrast Hook` · 2026-08-17

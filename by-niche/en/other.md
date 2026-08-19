@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 212 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 213 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -296,6 +296,8 @@
 - [Old Cow Inheritance: A Father's Final Words](../../breakdowns/en/2026-08/tiktok-transcript-aistory-fruits-fruitstory-france-storytime-da2f.md) — 1.2M views · `The Inheritance Twist` · 2026-08-01
 
 - [Share God’s Word: Never Waste Your Chance](../../breakdowns/en/2026-08/tiktok-transcript-tiktok-video-7662285999619198230-d3ac.md) — 1.2M views · `Direct call-to-action with urgency` · 2026-08-06
+
+- [Natural Herbal Remedy for Severe Back Pain Relief](../../breakdowns/en/2026-08/tiktok-transcript-2-7m-views-26k-reactions-756d.md) — 1.1M views · `Rhetorical question with ominous implication` · 2026-08-18
 
 - [Young Woman's Career Ambitions Shift After One Month Working](../../breakdowns/en/2026-07/tiktok-transcript-2-1m-views-10k-reactions-nh-n-o-y-thuycoluong-thuycoluong-d720.md) — 1.1M views · `Expectation vs Reality` · 2026-07-23
 
