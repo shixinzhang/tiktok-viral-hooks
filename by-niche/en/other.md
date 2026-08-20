@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 213 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 215 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -255,6 +255,8 @@
 
 - [Best Home Remedies For Stomach Diseases And Digestion](../../breakdowns/en/2026-06/tiktok-transcript-3-1m-views-62k-reactions-personalgrowth-digestion-curd-amazi-df93.md) — 1.5M views · `numbered list with specific duration` · 2026-06-28
 
+- [Is It a Crime to Think in India Now?](../../breakdowns/en/2026-08/tiktok-transcript-1-7m-views-124k-reactions-is-it-a-crime-to-think-in-india-no-664b.md) — 1.5M views · `Rhetorical question + shocking claim` · 2026-08-19
+
 - [The Happiest People Appreciate What They Have](../../breakdowns/en/2026-06/tiktok-transcript-3-6m-views-73k-reactions-the-happiest-people-are-not-the-one-5c6d.md) — 1.5M views · `Reframing` · 2026-06-25
 
 - [Lain Edit: You Are Needed by No One in the Real World](../../breakdowns/en/2026-06/tiktok-transcript-lain-edit-6ec4.md) — 1.5M views · `brutal truth reveal` · 2026-06-06
@@ -314,6 +316,8 @@
 - [Share This Bible Verse Genesis 1 1 to Someone in Need](../../breakdowns/en/2026-08/tiktok-transcript-tiktok-video-7659571117492849942-e1a8.md) — 1.1M views · `Conditional challenge + direct engagement` · 2026-08-06
 
 - [Secret to Unbroken Marital Fortune: Tulsi Plant Ritual](../../breakdowns/en/2026-07/tiktok-transcript-2-5m-views-71k-reactions-cooking-tulsipuja-tradition-healtht-3035.md) — 1.1M views · `Numbered list + supernatural claim` · 2026-07-20
+
+- [What Poets Really Mean in Hindi Exams | Ashok Jha Comedy](../../breakdowns/en/2026-08/tiktok-transcript-1-9m-views-10k-reactions-kavi-reels-fbreels-viral-comedy-com-e364.md) — 1.1M views · `Shared experience + rhetorical question` · 2026-08-19
 
 - [Indian Buffalo Grooming Before Sale for Better Price](../../breakdowns/en/2026-06/tiktok-transcript-tiktok-video-7645058607842741536-6fc0.md) — 1.0M views · `Curiosity gap` · 2026-06-15
 
