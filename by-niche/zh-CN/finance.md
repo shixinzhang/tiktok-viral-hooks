@@ -1,6 +1,6 @@
 # finance Breakdowns
 
-> 29 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 30 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -62,3 +62,5 @@
 - [Trump's 1933 Gold Playbook for Bitcoin Confiscation](../../breakdowns/zh-CN/2026-08/tiktok-transcript-the-1933-gold-playbook-how-trump-may-take-your-bitcoin-df3e.md) — 183.6K views · `Fear-based prediction` · 2026-08-12
 
 - [Trump's 1933 Gold Playbook for Bitcoin Seizure](../../breakdowns/zh-CN/2026-08/tiktok-transcript-the-1933-gold-playbook-how-trump-may-take-your-bitcoin-4b06.md) — 183.6K views · `Fear-based prediction` · 2026-08-12
+
+- [How Bankruptcy Protects Wealthy People Like Trump](../../breakdowns/zh-CN/2026-08/tiktok-transcript-8k-reactions-1-1k-shares-how-bankruptcy-protects-wealthy-peo-95bc.md) — 161.3K views · `Curiosity Gap + Contradiction` · 2026-08-20
