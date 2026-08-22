@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 136 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 137 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -256,6 +256,8 @@
 - [The Sukli of Kindness Part 2: True Goodness Never Fades](../../breakdowns/zh-CN/2026-08/tiktok-transcript-405k-views-27k-reactions-ang-sukli-ng-kabutihan-part-2-aral-1bb8.md) — 239.1K views · `Time-jump nostalgia` · 2026-08-17
 
 - [The Sukli of Kindness - Part 2: A Heartwarming Reunion](../../breakdowns/zh-CN/2026-08/tiktok-transcript-405k-views-27k-reactions-ang-sukli-ng-kabutihan-part-2-aral-2dd5.md) — 239.1K views · `Time-jump nostalgia` · 2026-08-17
+
+- [Rare Original Photo of Nikola Tesla Compared to Internet...](../../breakdowns/zh-CN/2026-08/tiktok-transcript-412k-views-9-7k-reactions-rare-original-photo-of-nikola-tesl-a726.md) — 230.9K views · `Curiosity Gap + Visual Contrast` · 2026-08-21
 
 - [Create an Alter Ego to Reach Your Craziest Dreams](../../breakdowns/zh-CN/2026-07/tiktok-transcript-crie-um-alter-ego-se-voc-quer-aprender-a-fazer-dinheiro-no-d-eac1.md) — 223.1K views · `Direct Promise` · 2026-07-29
 

@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 215 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 216 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -392,6 +392,8 @@
 - [Acting as If God Is Inside You Changes Everything](../../breakdowns/en/2026-07/tiktok-transcript-espiritualidade-espiritualidade-napoleonhill-consci-ncia-369-199a.md) — 515.7K views · `Conditional transformation` · 2026-07-22
 
 - [10 Amazing Health Facts You Need to Know](../../breakdowns/en/2026-07/tiktok-transcript-922k-views-22k-reactions-10-amazing-health-related-facts-ama-a73b.md) — 434.9K views · `Numbered list teaser` · 2026-07-09
+
+- [Learn Daily: Real Education Beyond School](../../breakdowns/en/2026-08/tiktok-transcript-1-1m-views-29k-reactions-educated-yourself-everyday-please-v-3751.md) — 424.9K views · `Reframe common belief` · 2026-08-21
 
 - [Letting Go of Love Without Possession](../../breakdowns/en/2026-06/tiktok-transcript-you-have-to-let-it-go-not-because-it-didn-t-matter-not-becau-6f93.md) — 370.4K views · `Unexpected twist on a common metaphor` · 2026-06-10
 
