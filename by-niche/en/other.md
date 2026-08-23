@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 216 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 217 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -404,6 +404,8 @@
 - [Saint Michael Archangel Protection Reminder](../../breakdowns/en/2026-07/tiktok-transcript-wearing-saint-michael-reminds-me-that-protection-is-always-w-aff1.md) — 364.5K views · `Mysterious introduction + personal benefit` · 2026-07-22
 
 - [Forget the Peanut Shells Blame Game](../../breakdowns/en/2026-08/tiktok-transcript-kacang-lupakan-kulit-panglipurlara-hezrie-blissful-kacang-750f.md) — 364.1K views · `Reframe the familiar proverb` · 2026-08-10
+
+- [Fuel Chaos in Russia: Drivers Switch Cars to Water](../../breakdowns/en/2026-08/tiktok-transcript-6-3k-reactions-772-shares-on-reels-3228.md) — 351.2K views · `Breaking news + escalating chaos` · 2026-08-22
 
 - [Bagaimana wording dalam Quran menggambarkan ketika mengejar dunia dan...](../../breakdowns/en/2026-07/tiktok-transcript-bagaimana-wording-dalam-quran-menggambarkan-ketika-mengejar-3229.md) — 347.4K views · `Mystery Reveal` · 2026-07-24
 

@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 137 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 138 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -220,6 +220,8 @@
 - [Princess Anna Flees Political Marriage to England](../../breakdowns/zh-CN/2026-07/tiktok-transcript-france-movie-francaise-tiktokfilm-fyp-e930.md) — 835.4K views · `Immediate Tension` · 2026-07-27
 
 - [The Devil's Bridge: Strange Phenomena in France Since 1994](../../breakdowns/zh-CN/2026-06/tiktok-transcript-horreurtiktok-horreur-histoire-histoirevrai-urbanlegends-fyp-a88e.md) — 804.4K views · `Mystery/Curiosity Gap` · 2026-06-11
+
+- [When Love Takes Over, Broken Parts Start Breathing Again](../../breakdowns/zh-CN/2026-08/tiktok-transcript-1-4m-views-91k-reactions-when-love-takes-over-even-the-broke-6ff5.md) — 756.3K views · `Direct confrontation with a universal truth` · 2026-08-22
 
 - [The Moroccan Killer Zarzour: A Silent Stranger](../../breakdowns/zh-CN/2026-06/tiktok-transcript-le-tueur-marocain-zarzour-horreurtiktok-horreur-histoire-mys-bfe8.md) — 730.5K views · `Rhetorical question with exotic hook` · 2026-06-11
 
