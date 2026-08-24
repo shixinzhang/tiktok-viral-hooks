@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 138 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 139 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -242,6 +242,8 @@
 - [Miami's Most Addictive Ice Cream and Its Deadly Secret](../../breakdowns/zh-CN/2026-06/tiktok-transcript-la-glace-la-plus-addictive-de-miami-et-le-secret-mortel-derr-ad03.md) — 570.5K views · `Forbidden Mystery` · 2026-06-11
 
 - [Husband Works Late, Wife Shares Improvised Lunch](../../breakdowns/zh-CN/2026-07/tiktok-transcript-son-mari-travaille-tard-elle-partage-un-d-jeuner-improvis-av-5a22.md) — 507.4K views · `Setup with a phone call` · 2026-07-28
+
+- [The Bottom of the Epstein Rabbit Hole](../../breakdowns/zh-CN/2026-08/tiktok-transcript-878k-views-23k-reactions-what-s-really-at-the-bottom-of-the-a213.md) — 499.0K views · `Curiosity gap + direct address` · 2026-08-23
 
 - [What High EQ People Say When They Spill Wine](../../breakdowns/zh-CN/2026-08/tiktok-transcript-778k-views-8-5k-reactions-l-l-m-ly-r-u-khi-m-i-kh-ch-ng-i-eq-51c5.md) — 364.3K views · `Scenario question + promise of story` · 2026-08-15
 
