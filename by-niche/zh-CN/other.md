@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 217 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 218 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -382,6 +382,8 @@
 - [Ronaldo Jr. Is the Next Star, Says Fan](../../breakdowns/zh-CN/2026-07/tiktok-transcript-ronaldo-junior-ronaldo-ronaldojunior-f1ed.md) — 543.5K views · `Contrast & Claim` · 2026-07-12
 
 - [Apple Man Suspense Story Part 1](../../breakdowns/zh-CN/2026-07/tiktok-transcript-apple-man-suspense-story-part-1-aistory-storydrama-fruitstor-9aed.md) — 537.1K views · `Contrasting fates` · 2026-07-22
+
+- [Jeffrey Epstein and the Simulation Theory Explained](../../breakdowns/zh-CN/2026-08/tiktok-transcript-839k-views-12k-reactions-jeffrey-epstein-is-why-the-simulati-b896.md) — 528.2K views · `Provocative generalization` · 2026-08-24
 
 - [Lost Gender Identity and the Fall of Mankind: Fallen Ange...](../../breakdowns/zh-CN/2026-08/tiktok-transcript-26k-views-17k-reactions-lost-gender-identity-caused-the-fall-8669.md) — 520.5K views · `Bold Claim + Direct Address` · 2026-08-11
 
