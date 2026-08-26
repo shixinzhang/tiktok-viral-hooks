@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 139 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 140 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -128,6 +128,8 @@
 - [70-Year-Old Indian Grandma's Dating Game Is Strong](../../breakdowns/en/2026-05/tiktok-transcript-she-may-be-70-but-her-dating-game-is-timeless-indian-grandma-6bdc.md) — 2.1M views · `Exaggerated compliment` · 2026-05-27
 
 - [Rio God Mode: Unstoppable Action](../../breakdowns/en/2026-06/tiktok-transcript-214k-views-289k-reactions-rio-god-mode-rio-films-97a8.md) — 2.1M views · `Defiance/Reversal` · 2026-06-16
+
+- [Dad Only Calls Me to Change the TV Channel](../../breakdowns/en/2026-08/tiktok-transcript-3m-views-94k-reactions-giorgi-bartia-on-reels-578f.md) — 2.1M views · `Question-Answer Interview` · 2026-08-25
 
 - [Dark Fantasy Golden Brown](../../breakdowns/en/2026-07/tiktok-transcript-darkfantasy-goldenbrown-fyp-0f74.md) — 2.0M views · `Audio Branding` · 2026-07-03
 

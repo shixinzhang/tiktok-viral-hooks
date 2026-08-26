@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 218 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 220 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -279,6 +279,8 @@
 
 - [Nikkah Was Very Simple In Our Prophet’s Time](../../breakdowns/en/2026-07/tiktok-transcript-2-8m-views-218k-reactions-warna-nikkah-bohot-aasan-tha-hamar-de02.md) — 1.3M views · `Bold accusation + contrast` · 2026-07-13
 
+- [Chihuahua Pranks Pregnant Lady and Steals Toddler's Break...](../../breakdowns/en/2026-08/tiktok-transcript-2-9m-views-57k-reactions-this-chihuahua-literally-has-zero-r-8580.md) — 1.3M views · `Whisper + Gratitude` · 2026-08-25
+
 - [Always Remember: You Don't Lose Them, They Lose You](../../breakdowns/en/2026-06/tiktok-transcript-always-remember-when-motivacion-motivacionvideo-motivacionqu-e331.md) — 1.3M views · `Reversal of expectation` · 2026-06-11
 
 - [Excessive Paw Itching Caused by Fungi and Bacteria](../../breakdowns/en/2026-06/tiktok-transcript-coceiras-em-excesso-nas-patolas-podem-ser-causadas-por-fungo-71c0.md) — 1.3M views · `Curiosity gap with absurd analogy` · 2026-06-29
@@ -436,6 +438,8 @@
 - [Deep Lines on the Karakoram Highway: Scenic Drive Through...](../../breakdowns/en/2026-08/tiktok-transcript-2-9k-views-43k-reactions-deep-lines-naltar-expressway-by-ree-c45a.md) — 200.0K views · `Direct advice with negative consequence` · 2026-08-11
 
 - [If you have a mole on your hand, this could say a lot about your fate...](../../breakdowns/en/2026-07/tiktok-transcript-if-you-have-a-mole-on-your-hand-this-could-say-a-lot-about-y-ed5d.md) — 192.1K views · `Mystery & Curiosity` · 2026-07-23
+
+- [If You Have a Brother, You Are Richer Than You Think](../../breakdowns/en/2026-08/tiktok-transcript-14k-reactions-2-3k-shares-4036.md) — 152.7K views · `Value affirmation` · 2026-08-25
 
 - [Stop Rescuing What Discipline Could Have Protected](../../breakdowns/en/2026-08/tiktok-transcript-292k-views-19k-reactions-stop-rescuing-what-discipline-could-5cb8.md) — 139.8K views · `Problem-Agitation` · 2026-08-17
 
