@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 220 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 221 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -350,6 +350,8 @@
 - [Bakery Owner Replaced by Machine](../../breakdowns/en/2026-06/tiktok-transcript-if-you-enjoyed-this-story-leave-a-like-and-a-comment-emotion-bb14.md) — 886.8K views · `Unexpected dismissal` · 2026-06-27
 
 - [Baby Asks Funny Questions About Roti Price](../../breakdowns/en/2026-07/tiktok-transcript-baby-funny-video-12-babyfunnyvideo-babyvideo-funnyvideo-vira-b18a.md) — 870.1K views · `Price reveal with freebie` · 2026-07-17
+
+- [God Can Open Doors But You Still Gotta Walk Through Them](../../breakdowns/en/2026-08/tiktok-transcript-1-8m-views-102k-reactions-god-can-open-doors-but-you-still-g-a5cc.md) — 857.3K views · `Direct challenge with repetition` · 2026-08-26
 
 - [Reposted My Video Friends Views Problem](../../breakdowns/en/2026-08/tiktok-transcript-newaccount-unfreez-tiktok-8d47.md) — 827.0K views · `Direct Gratitude` · 2026-08-03
 
