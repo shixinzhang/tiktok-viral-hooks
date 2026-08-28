@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 221 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 225 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -361,6 +361,8 @@
 
 - [Day 1 Content Creation Series Start Without Showing Face](../../breakdowns/en/2026-07/tiktok-transcript-creatorsearchinsights-day-1-content-creation-series-agar-aap-2cf1.md) — 717.9K views · `Problem-Agitation-Solution (PAS)` · 2026-07-31
 
+- [True Love Stays When Everything Else Leaves](../../breakdowns/en/2026-08/tiktok-transcript-1-6m-views-26k-reactions-dormire-insieme-non-amore-parlare-t-d733.md) — 713.6K views · `Repetition with negation` · 2026-08-27
+
 - [Forgetting Happens When You Wake Up One Day](../../breakdowns/en/2026-06/tiktok-transcript-dimenticare-perte-fyp-foryoupage-andiamoneiperte-3c46.md) — 711.7K views · `Relatable mundane setup with twist` · 2026-06-04
 
 - [Mountain Goat Walks Dangerous Cliff Edges Without Falling](../../breakdowns/en/2026-07/tiktok-transcript-1-3m-views-63k-reactions-dios-cre-un-animal-capaz-de-caminar-92a5.md) — 656.9K views · `Curiosity gap + surprising fact` · 2026-07-06
@@ -415,6 +417,8 @@
 
 - [Bagaimana wording dalam Quran menggambarkan ketika mengejar dunia dan...](../../breakdowns/en/2026-07/tiktok-transcript-bagaimana-wording-dalam-quran-menggambarkan-ketika-mengejar-3229.md) — 347.4K views · `Mystery Reveal` · 2026-07-24
 
+- [Kabibe sa Dalampasigan: A Short Magical Story](../../breakdowns/en/2026-08/tiktok-transcript-670k-views-19k-reactions-kabibe-sa-dalampasigan-short-magica-1d05.md) — 342.8K views · `Direct address with urgency and sensory appeal` · 2026-08-27
+
 - [Why Men Dislike Their Girlfriend’s Male Best Friend](../../breakdowns/en/2026-08/tiktok-transcript-580k-views-8k-reactions-women-can-t-have-male-best-friend-on-8962.md) — 339.7K views · `Rhetorical question + curiosity gap` · 2026-08-17
 
 - [Customized Necklace Gift With Two-Sided Coin Design](../../breakdowns/en/2026-06/tiktok-transcript-video-6676.md) — 337.3K views · `Superlative + Specific` · 2026-06-07
@@ -443,6 +447,10 @@
 
 - [If You Have a Brother, You Are Richer Than You Think](../../breakdowns/en/2026-08/tiktok-transcript-14k-reactions-2-3k-shares-4036.md) — 152.7K views · `Value affirmation` · 2026-08-25
 
+- [Why a Betrayer Avoids You: The Silent Punishment](../../breakdowns/en/2026-08/tiktok-transcript-408k-views-10k-reactions-una-persona-che-ti-ha-tradito-far-d-ad89.md) — 150.7K views · `Psychological insight` · 2026-08-27
+
 - [Stop Rescuing What Discipline Could Have Protected](../../breakdowns/en/2026-08/tiktok-transcript-292k-views-19k-reactions-stop-rescuing-what-discipline-could-5cb8.md) — 139.8K views · `Problem-Agitation` · 2026-08-17
 
 - [How to Make Roblox Thumbnails for Your Game Easily](../../breakdowns/en/2026-06/tiktok-transcript-how-to-make-roblox-thumbnails-for-your-game-easily-robloxdev-1a53.md) — 124.1K views · `Speed/Result Promise` · 2026-06-07
+
+- [How to Learn Any Language From Zero to Fluent](../../breakdowns/en/2026-08/tiktok-transcript-374k-views-5-6k-reactions-how-to-learn-any-language-0-to-flu-6669.md) — 103.1K views · `Promise of a proven system` · 2026-08-27

@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 140 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 141 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -32,6 +32,8 @@
 - [Don't Tell Your Dreams to Everybody Around](../../breakdowns/zh-CN/2026-06/tiktok-transcript-don-t-tell-your-dreams-capcut-fyp-trend-lyrics-templatecapcu-55fa.md) — 9.6M views · `Cautionary advice with contrast` · 2026-06-29
 
 - [Growing Up With Cousins Made Everything Special](../../breakdowns/zh-CN/2026-08/tiktok-transcript-to-the-cousins-who-made-growing-up-unforgettable-hopecore-re-9b16.md) — 9.4M views · `Direct address + nostalgic memory` · 2026-08-07
+
+- [Margin Call Thriller Movie on Tubi](../../breakdowns/zh-CN/2026-08/tiktok-transcript-margin-call-thriller-tubi-69ad.md) — 9.3M views · `Urgency + Apology` · 2026-08-28
 
 - [Girl Plants GPS Tracker on Boyfriend, Finds Him at Hospital](../../breakdowns/zh-CN/2026-05/tiktok-transcript-film-movie-foryou-9be2.md) — 8.8M views · `Mystery/Deception Hook` · 2026-05-24
 
