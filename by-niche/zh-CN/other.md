@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 225 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 227 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -399,6 +399,8 @@
 
 - [Acting as If God Is Inside You Changes Everything](../../breakdowns/zh-CN/2026-07/tiktok-transcript-espiritualidade-espiritualidade-napoleonhill-consci-ncia-369-199a.md) — 515.7K views · `Conditional transformation` · 2026-07-22
 
+- [Clove Water Room Spray: Simple DIY Home Freshener](../../breakdowns/zh-CN/2026-08/tiktok-transcript-1-2m-views-27k-reactions-sometimes-the-simplest-homemade-rem-2343.md) — 508.3K views · `Curiosity gap + common misconception` · 2026-08-29
+
 - [10 Amazing Health Facts You Need to Know](../../breakdowns/zh-CN/2026-07/tiktok-transcript-922k-views-22k-reactions-10-amazing-health-related-facts-ama-a73b.md) — 434.9K views · `Numbered list teaser` · 2026-07-09
 
 - [Learn Daily: Real Education Beyond School](../../breakdowns/zh-CN/2026-08/tiktok-transcript-1-1m-views-29k-reactions-educated-yourself-everyday-please-v-3751.md) — 424.9K views · `Reframe common belief` · 2026-08-21
@@ -440,6 +442,8 @@
 - [456K views · 4.4K reactions | শাক দিয়ে মাছ ডেকে.... #motivation # | orins cooking](../../breakdowns/zh-CN/2026-07/tiktok-transcript-456k-views-4-4k-reactions-motivation-orins-cooking-5b13.md) — 241.2K views · `Exaggerated complaint` · 2026-07-24
 
 - [Bloated After Eating Little? Try Spirulina Superfoods](../../breakdowns/zh-CN/2026-07/tiktok-transcript-laging-bloated-kahit-konti-lang-kinain-tyan-mo-rin-ba-ganito-0deb.md) — 235.9K views · `Problem Agitation` · 2026-07-29
+
+- [Comment Your Luck Next: Financial Blessing Coming Tomorrow](../../breakdowns/zh-CN/2026-08/tiktok-transcript-536k-views-28k-reactions-comment-nyo-na-mga-boss-baka-sa-iny-504e.md) — 212.8K views · `Direct challenge with conditional promise` · 2026-08-29
 
 - [Deep Lines on the Karakoram Highway: Scenic Drive Through...](../../breakdowns/zh-CN/2026-08/tiktok-transcript-2-9k-views-43k-reactions-deep-lines-naltar-expressway-by-ree-c45a.md) — 200.0K views · `Direct advice with negative consequence` · 2026-08-11
 
