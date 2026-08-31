@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 227 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 229 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -432,6 +432,10 @@
 - [Gratitude Is a Superpower for Your Normal Day](../../breakdowns/zh-CN/2026-06/tiktok-transcript-love-the-life-god-gave-you-299b.md) — 322.8K views · `Perspective Shift` · 2026-06-03
 
 - [What Happens If You Drink Ginsomin for 7 Days](../../breakdowns/zh-CN/2026-06/tiktok-transcript-ini-yang-terjadi-jika-kamu-minum-ginsomin-selama-7-hari-diab-750e.md) — 320.0K views · `Curiosity Gap` · 2026-06-22
+
+- [Choose Your Prize: Money, Car, Motorcycle, or House](../../breakdowns/zh-CN/2026-08/tiktok-transcript-1m-views-20k-reactions-comment-nyo-na-mga-boss-baka-sa-inyo-77c9.md) — 316.0K views · `Interactive Choice Hook` · 2026-08-30
+
+- [Why Good Men Value Character Over Beauty](../../breakdowns/zh-CN/2026-08/tiktok-transcript-720k-views-27k-reactions-the-truth-many-women-forget-a-goodm-9834.md) — 315.7K views · `Contrarian truth` · 2026-08-30
 
 - [Grow a New Fruit Tree Faster: Branch Cutting Trick](../../breakdowns/zh-CN/2026-08/tiktok-transcript-458k-views-14k-reactions-how-to-grow-a-new-fruit-tree-withou-60c0.md) — 294.9K views · `Problem-Solution Tease` · 2026-08-12
 
