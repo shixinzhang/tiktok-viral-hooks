@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 229 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 232 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -355,6 +355,8 @@
 
 - [Reposted My Video Friends Views Problem](../../breakdowns/zh-CN/2026-08/tiktok-transcript-newaccount-unfreez-tiktok-8d47.md) — 827.0K views · `Direct Gratitude` · 2026-08-03
 
+- [Sheetal Devi Beats Payal Nag for Khelo India Para Games Gold](../../breakdowns/zh-CN/2026-09/tiktok-transcript-3-1m-views-429k-reactions-jammu-and-kashmir-s-armless-archer-0a13.md) — 821.2K views · `Promise of wealth` · 2026-09-01
+
 - [Breakup Advice for Teenage Girls](../../breakdowns/zh-CN/2026-06/tiktok-transcript-fup-f002.md) — 811.2K views · `Direct Address + Authority` · 2026-06-22
 
 - [College: Is It Entirely Useless for Growth?](../../breakdowns/zh-CN/2026-06/tiktok-transcript-tiktok-video-7594956396702092557-7611.md) — 733.7K views · `Challenge + Question` · 2026-06-17
@@ -443,6 +445,8 @@
 
 - [#palmistry #zodiacsigns #astrology #marriage #fyi](../../breakdowns/zh-CN/2026-07/tiktok-transcript-palmistry-zodiacsigns-astrology-marriage-fyi-6ad4.md) — 277.8K views · `Mysterious conditional promise` · 2026-07-24
 
+- [Sheetal Devi Wins Gold at Khelo India Para Games](../../breakdowns/zh-CN/2026-09/tiktok-transcript-984k-views-207k-reactions-jammu-and-kashmir-s-armless-archer-7e40.md) — 255.9K views · `Promise of transformation` · 2026-09-01
+
 - [456K views · 4.4K reactions | শাক দিয়ে মাছ ডেকে.... #motivation # | orins cooking](../../breakdowns/zh-CN/2026-07/tiktok-transcript-456k-views-4-4k-reactions-motivation-orins-cooking-5b13.md) — 241.2K views · `Exaggerated complaint` · 2026-07-24
 
 - [Bloated After Eating Little? Try Spirulina Superfoods](../../breakdowns/zh-CN/2026-07/tiktok-transcript-laging-bloated-kahit-konti-lang-kinain-tyan-mo-rin-ba-ganito-0deb.md) — 235.9K views · `Problem Agitation` · 2026-07-29
@@ -458,6 +462,8 @@
 - [Why a Betrayer Avoids You: The Silent Punishment](../../breakdowns/zh-CN/2026-08/tiktok-transcript-408k-views-10k-reactions-una-persona-che-ti-ha-tradito-far-d-ad89.md) — 150.7K views · `Psychological insight` · 2026-08-27
 
 - [Stop Rescuing What Discipline Could Have Protected](../../breakdowns/zh-CN/2026-08/tiktok-transcript-292k-views-19k-reactions-stop-rescuing-what-discipline-could-5cb8.md) — 139.8K views · `Problem-Agitation` · 2026-08-17
+
+- [Sheetal Devi Wins Gold at Khelo India Para Games](../../breakdowns/zh-CN/2026-09/tiktok-transcript-501k-views-82k-reactions-jammu-and-kashmir-s-armless-archer-3cbb.md) — 134.6K views · `Divine Command + Conditional Blessing` · 2026-09-01
 
 - [How to Make Roblox Thumbnails for Your Game Easily](../../breakdowns/zh-CN/2026-06/tiktok-transcript-how-to-make-roblox-thumbnails-for-your-game-easily-robloxdev-1a53.md) — 124.1K views · `Speed/Result Promise` · 2026-06-07
 

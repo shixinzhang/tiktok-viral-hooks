@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 141 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 142 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -68,6 +68,8 @@
 - [Sympathy vs Empathy: Key Differences Explained](../../breakdowns/zh-CN/2026-08/tiktok-transcript-what-s-the-difference-difference-learn-psychology-bff7.md) — 4.6M views · `Curiosity gap with binary contrast` · 2026-08-06
 
 - [Buzzballz With Super Powers](../../breakdowns/zh-CN/2026-08/tiktok-transcript-buzzballz-with-super-powers-ai-fruitstory-buzzball-sadstory-6771.md) — 4.6M views · `Contrast and promise` · 2026-08-04
+
+- [What If Your Body Was Made of Clay, Plastic & Obsidian](../../breakdowns/zh-CN/2026-09/tiktok-transcript-what-if-your-body-was-made-of-clay-plastic-obsidian-whatif-s-12db.md) — 4.3M views · `Hypothetical 'What If'` · 2026-09-01
 
 - [Best Movie Recaps: Editing & Narrating Top Film Stories](../../breakdowns/zh-CN/2026-06/tiktok-transcript-welcome-to-my-channel-here-i-edit-and-narrating-the-best-mov-e49d.md) — 3.9M views · `Curiosity gap with shocking premise` · 2026-06-14
 
