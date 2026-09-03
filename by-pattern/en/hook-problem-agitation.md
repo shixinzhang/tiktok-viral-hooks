@@ -1,4 +1,4 @@
-# Hook Pattern: Problem Agitation
+# Hook Pattern: Problem-Agitation
 
 > 3 viral TikTok videos that use this hook pattern.
 

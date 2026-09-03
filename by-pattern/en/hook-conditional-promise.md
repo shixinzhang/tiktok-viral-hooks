@@ -1,4 +1,4 @@
-# Hook Pattern: Conditional promise
+# Hook Pattern: conditional promise
 
 > 2 viral TikTok videos that use this hook pattern.
 

@@ -1,4 +1,4 @@
-# Hook Pattern: Unexpected Twist
+# Hook Pattern: Unexpected twist
 
 > 4 viral TikTok videos that use this hook pattern.
 

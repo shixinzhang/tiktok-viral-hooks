@@ -1,6 +1,6 @@
 # finance Breakdowns
 
-> 30 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 31 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -41,13 +41,13 @@
 
 - [Waiting on Market Drop to Buy? You Lost Buying Power](../../breakdowns/zh-CN/2026-07/tiktok-transcript-if-you-re-waiting-on-the-market-to-go-down-to-buy-you-may-be-a80b.md) — 1.6M views · `Direct Address + Contrarian Question` · 2026-07-12
 
-- [Wealthy People Don’t Need to Show Off](../../breakdowns/zh-CN/2026-06/tiktok-transcript-you-ever-notice-how-the-loudest-people-in-the-room-are-usual-4cd4.md) — 1.5M views · `Cautionary reversal` · 2026-06-03
-
 - [Top 3 AI Stocks to Buy for the Next Decade](../../breakdowns/zh-CN/2026-06/tiktok-transcript-here-are-the-top-3-a-i-stocks-to-buy-for-the-next-decade-acc-cbda.md) — 1.5M views · `List-based promise with authority` · 2026-06-12
 
-- [3 Best Stocks to Buy for Wealth Building](../../breakdowns/zh-CN/2026-06/tiktok-transcript-the-best-stocks-to-buy-to-get-rich-9632.md) — 1.4M views · `Unexpected twist` · 2026-06-12
+- [Wealthy People Don’t Need to Show Off](../../breakdowns/zh-CN/2026-06/tiktok-transcript-you-ever-notice-how-the-loudest-people-in-the-room-are-usual-4cd4.md) — 1.5M views · `Cautionary reversal` · 2026-06-03
 
 - [Turn Your 30-Year Mortgage Into a 1-Year Payoff](../../breakdowns/zh-CN/2026-08/tiktok-transcript-most-banks-won-t-tell-you-this-but-you-can-turn-your-30-year-5446.md) — 1.4M views · `Forbidden Knowledge / Insider Secret` · 2026-08-02
+
+- [3 Best Stocks to Buy for Wealth Building](../../breakdowns/zh-CN/2026-06/tiktok-transcript-the-best-stocks-to-buy-to-get-rich-9632.md) — 1.4M views · `Unexpected twist` · 2026-06-12
 
 - [Video ni agak panjang tapi please tengok sampai habis sebelum korang ...](../../breakdowns/zh-CN/2026-07/tiktok-transcript-video-ni-agak-panjang-tapi-please-tengok-sampai-habis-sebelu-6446.md) — 1.3M views · `Value Promise` · 2026-07-24
 
@@ -58,6 +58,8 @@
 - [Renting Isn't a Failure: Why Buying a House Isn't for Eve...](../../breakdowns/zh-CN/2026-08/tiktok-transcript-a-mortgage-is-not-a-milestone-for-most-people-it-s-a-financi-0ecf.md) — 429.0K views · `Contrarian command` · 2026-08-01
 
 - [Why a $40K Car Is Unaffordable on $50K Income](../../breakdowns/zh-CN/2026-08/tiktok-transcript-most-people-don-t-ask-can-i-afford-this-car-they-ask-can-i-a-4fd6.md) — 402.5K views · `Contrarian statement` · 2026-08-01
+
+- [My Top 5 Trader Toolkit Apps](../../breakdowns/zh-CN/2026-09/tiktok-transcript-my-top-5-trader-toolkit-apps-43c4.md) — 211.9K views · `Listicle teaser` · 2026-09-02
 
 - [Trump's 1933 Gold Playbook for Bitcoin Confiscation](../../breakdowns/zh-CN/2026-08/tiktok-transcript-the-1933-gold-playbook-how-trump-may-take-your-bitcoin-df3e.md) — 183.6K views · `Fear-based prediction` · 2026-08-12
 

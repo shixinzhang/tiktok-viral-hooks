@@ -1,4 +1,4 @@
-# Hook Pattern: Challenge question
+# Hook Pattern: Challenge + Question
 
 > 2 viral TikTok videos that use this hook pattern.
 
