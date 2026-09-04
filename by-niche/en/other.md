@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 232 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 235 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -417,6 +417,10 @@
 
 - [Forget the Peanut Shells Blame Game](../../breakdowns/en/2026-08/tiktok-transcript-kacang-lupakan-kulit-panglipurlara-hezrie-blissful-kacang-750f.md) — 364.1K views · `Reframe the familiar proverb` · 2026-08-10
 
+- [See Yourself Through My Eyes](../../breakdowns/en/2026-09/tiktok-transcript-945k-views-27k-reactions-one-thing-i-want-to-give-you-in-lif-5f43.md) — 356.2K views · `Hypothetical gift` · 2026-09-03
+
+- [See Yourself Through My Eyes](../../breakdowns/en/2026-09/tiktok-transcript-945k-views-27k-reactions-one-thing-i-want-to-give-you-in-lif-b37d.md) — 352.2K views · `Empathetic wish` · 2026-09-03
+
 - [Fuel Chaos in Russia: Drivers Switch Cars to Water](../../breakdowns/en/2026-08/tiktok-transcript-6-3k-reactions-772-shares-on-reels-3228.md) — 351.2K views · `Breaking news + escalating chaos` · 2026-08-22
 
 - [Bagaimana wording dalam Quran menggambarkan ketika mengejar dunia dan...](../../breakdowns/en/2026-07/tiktok-transcript-bagaimana-wording-dalam-quran-menggambarkan-ketika-mengejar-3229.md) — 347.4K views · `Mystery Reveal` · 2026-07-24
@@ -438,6 +442,8 @@
 - [Choose Your Prize: Money, Car, Motorcycle, or House](../../breakdowns/en/2026-08/tiktok-transcript-1m-views-20k-reactions-comment-nyo-na-mga-boss-baka-sa-inyo-77c9.md) — 316.0K views · `Interactive Choice Hook` · 2026-08-30
 
 - [Why Good Men Value Character Over Beauty](../../breakdowns/en/2026-08/tiktok-transcript-720k-views-27k-reactions-the-truth-many-women-forget-a-goodm-9834.md) — 315.7K views · `Contrarian truth` · 2026-08-30
+
+- [5 Behaviors That Reveal True Personality](../../breakdowns/en/2026-09/tiktok-transcript-662k-views-27k-reactions-5-human-behaviors-that-expose-someo-49c6.md) — 302.1K views · `Listicle with shocking claim` · 2026-09-03
 
 - [Grow a New Fruit Tree Faster: Branch Cutting Trick](../../breakdowns/en/2026-08/tiktok-transcript-458k-views-14k-reactions-how-to-grow-a-new-fruit-tree-withou-60c0.md) — 294.9K views · `Problem-Solution Tease` · 2026-08-12
 

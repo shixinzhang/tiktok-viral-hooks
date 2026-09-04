@@ -1,6 +1,6 @@
 # finance Breakdowns
 
-> 31 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 32 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -58,6 +58,8 @@
 - [Renting Isn't a Failure: Why Buying a House Isn't for Eve...](../../breakdowns/zh-CN/2026-08/tiktok-transcript-a-mortgage-is-not-a-milestone-for-most-people-it-s-a-financi-0ecf.md) — 429.0K views · `Contrarian command` · 2026-08-01
 
 - [Why a $40K Car Is Unaffordable on $50K Income](../../breakdowns/zh-CN/2026-08/tiktok-transcript-most-people-don-t-ask-can-i-afford-this-car-they-ask-can-i-a-4fd6.md) — 402.5K views · `Contrarian statement` · 2026-08-01
+
+- [Gold Trading Technique Feels Like a Market Glitch](../../breakdowns/zh-CN/2026-09/tiktok-transcript-53k-views-6-1k-reactions-any-idea-quant-can-build-refine-lux-2c35.md) — 214.7K views · `Impossible promise` · 2026-09-03
 
 - [My Top 5 Trader Toolkit Apps](../../breakdowns/zh-CN/2026-09/tiktok-transcript-my-top-5-trader-toolkit-apps-43c4.md) — 211.9K views · `Listicle teaser` · 2026-09-02
 
