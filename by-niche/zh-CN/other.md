@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 235 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 236 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -442,6 +442,8 @@
 - [Choose Your Prize: Money, Car, Motorcycle, or House](../../breakdowns/zh-CN/2026-08/tiktok-transcript-1m-views-20k-reactions-comment-nyo-na-mga-boss-baka-sa-inyo-77c9.md) — 316.0K views · `Interactive Choice Hook` · 2026-08-30
 
 - [Why Good Men Value Character Over Beauty](../../breakdowns/zh-CN/2026-08/tiktok-transcript-720k-views-27k-reactions-the-truth-many-women-forget-a-goodm-9834.md) — 315.7K views · `Contrarian truth` · 2026-08-30
+
+- [Laptop Giveaway Comment to Win](../../breakdowns/zh-CN/2026-09/tiktok-transcript-655k-views-27k-reactions-comment-nyo-na-mga-boss-baka-sa-iny-d5f1.md) — 305.9K views · `Hypothetical question` · 2026-09-05
 
 - [5 Behaviors That Reveal True Personality](../../breakdowns/zh-CN/2026-09/tiktok-transcript-662k-views-27k-reactions-5-human-behaviors-that-expose-someo-49c6.md) — 302.1K views · `Listicle with shocking claim` · 2026-09-03
 

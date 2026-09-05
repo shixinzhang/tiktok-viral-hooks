@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 143 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 144 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -202,6 +202,8 @@
 - [Millionaire Tests Poor Boy and Finds the Truth](../../breakdowns/en/2026-07/tiktok-transcript-millionaire-tested-poor-boy-and-find-the-truth-full-story-ai-8db9.md) — 1.1M views · `Assumption vs. Reality` · 2026-07-20
 
 - [Speaking With Apollo Using Tech to Reach the Underworld](../../breakdowns/en/2026-08/tiktok-transcript-7-2k-views-32k-reactions-speaking-with-the-god-apollo-using-f166.md) — 993.3K views · `Mythological twist` · 2026-08-11
+
+- [5 Dark Psychology Signs You Need to Know](../../breakdowns/en/2026-09/tiktok-transcript-1-9m-views-110k-reactions-5-dark-psychology-signs-you-need-t-3ba2.md) — 979.8K views · `Listicle with curiosity gap` · 2026-09-04
 
 - [5 Dark Psychology Signs You Need to Know](../../breakdowns/en/2026-09/tiktok-transcript-1-9m-views-109k-reactions-5-dark-psychology-signs-you-need-t-bb54.md) — 978.8K views · `Listicle with curiosity gap` · 2026-09-02
 

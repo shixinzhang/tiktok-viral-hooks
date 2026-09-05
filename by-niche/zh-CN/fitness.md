@@ -1,6 +1,6 @@
 # fitness Breakdowns
 
-> 6 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 7 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -16,3 +16,5 @@
 - [Beetroot Powder Benefits: Nitric Oxide, Pumps & Blood Pre...](../../breakdowns/zh-CN/2026-07/tiktok-transcript-all-the-benefits-of-beet-root-fyp-beetroot-beetrootpowder-me-8fd2.md) — 544.3K views · `Science-Backed Benefit Tease` · 2026-07-30
 
 - [Spirulina Benefits for Men and Digestion](../../breakdowns/zh-CN/2026-07/tiktok-transcript-benefits-ng-spirulina-sa-lalaki-at-bakit-maganda-ito-sa-dige-86bc.md) — 442.5K views · `Curiosity gap + time promise` · 2026-07-29
+
+- [One Month of Discipline Can Restart Your Life](../../breakdowns/zh-CN/2026-09/tiktok-transcript-339k-views-23k-reactions-give-yourself-one-month-of-discipli-34ab.md) — 165.9K views · `Triadic structure with a challenge` · 2026-09-04
