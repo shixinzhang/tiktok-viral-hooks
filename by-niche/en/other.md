@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 236 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 240 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -132,6 +132,8 @@
 - [How Street Lights Affect Plant Growth](../../breakdowns/en/2026-07/tiktok-transcript-9-3m-views-99k-reactions-how-street-lights-can-affect-plant-db19.md) — 3.7M views · `Contrasting perspective` · 2026-07-19
 
 - [God Calls You to Come Closer and Share the Gospel](../../breakdowns/en/2026-08/tiktok-transcript-tiktok-video-7655457558597094678-e67b.md) — 3.7M views · `Direct address with spiritual conviction` · 2026-08-06
+
+- [Silent Love and Unspoken Farewells](../../breakdowns/en/2026-09/tiktok-transcript-7-9m-views-300k-reactions-sachi-mohabat-aur-khamoshyan-explo-5cc4.md) — 3.5M views · `Metaphorical contrast` · 2026-09-05
 
 - [Angelina Jolie: Stay Single and Invest in Yourself](../../breakdowns/en/2026-07/tiktok-transcript-angelina-jolie-motivation-fyp-viral-angelinajolie-lifelesson-1adf.md) — 3.5M views · `Empowerment with divine promise` · 2026-07-02
 
@@ -351,7 +353,11 @@
 
 - [Baby Asks Funny Questions About Roti Price](../../breakdowns/en/2026-07/tiktok-transcript-baby-funny-video-12-babyfunnyvideo-babyvideo-funnyvideo-vira-b18a.md) — 870.1K views · `Price reveal with freebie` · 2026-07-17
 
+- [Amazing Rohu Fish Cutting Skills Video](../../breakdowns/en/2026-09/tiktok-transcript-1-8m-views-36k-reactions-foryoupage-reelschallenge-fishingli-6e60.md) — 867.6K views · `Direct benefit + urgency + share incentive` · 2026-09-05
+
 - [God Can Open Doors But You Still Gotta Walk Through Them](../../breakdowns/en/2026-08/tiktok-transcript-1-8m-views-102k-reactions-god-can-open-doors-but-you-still-g-a5cc.md) — 857.3K views · `Direct challenge with repetition` · 2026-08-26
+
+- [Perfect Tilapia Fish Cutting Technique by Suman](../../breakdowns/en/2026-09/tiktok-transcript-1-7m-views-45k-reactions-suman-fish-cutting-7807.md) — 828.5K views · `Rhetorical question + challenge` · 2026-09-05
 
 - [Reposted My Video Friends Views Problem](../../breakdowns/en/2026-08/tiktok-transcript-newaccount-unfreez-tiktok-8d47.md) — 827.0K views · `Direct Gratitude` · 2026-08-03
 
@@ -474,5 +480,7 @@
 - [Sheetal Devi Wins Gold at Khelo India Para Games](../../breakdowns/en/2026-09/tiktok-transcript-501k-views-82k-reactions-jammu-and-kashmir-s-armless-archer-3cbb.md) — 134.6K views · `Divine Command + Conditional Blessing` · 2026-09-01
 
 - [How to Make Roblox Thumbnails for Your Game Easily](../../breakdowns/en/2026-06/tiktok-transcript-how-to-make-roblox-thumbnails-for-your-game-easily-robloxdev-1a53.md) — 124.1K views · `Speed/Result Promise` · 2026-06-07
+
+- [Wood For Sale At 100 Rupees Per Load](../../breakdowns/en/2026-09/tiktok-transcript-video-4330.md) — 114.1K views · `Confusing opener` · 2026-09-05
 
 - [How to Learn Any Language From Zero to Fluent](../../breakdowns/en/2026-08/tiktok-transcript-374k-views-5-6k-reactions-how-to-learn-any-language-0-to-flu-6669.md) — 103.1K views · `Promise of a proven system` · 2026-08-27

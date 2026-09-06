@@ -1,11 +1,13 @@
 # Hook Pattern: Rhetorical Question
 
-> 4 viral TikTok videos that use this hook pattern.
+> 5 viral TikTok videos that use this hook pattern.
 
 [← Back to README](../../README.md)
 
 
 - [Is Alina Ross Actually Candy Love](../../breakdowns/en/2026-05/tiktok-transcript-is-alina-ross-actually-candy-love-influencer-celebrity-candy-2a7b.md) — 10.1M views · `entertainment` · 2026-05-24
+
+- [A Man's Life Is Not Easy, He Just Hides His Pain](../../breakdowns/en/2026-09/tiktok-transcript-14m-views-607k-reactions-husband-myhusband-lovemyhusband-hus-4d1f.md) — 6.0M views · `entertainment` · 2026-09-05
 
 - [Trending Loose Pants For Women](../../breakdowns/en/2026-06/tiktok-transcript-trending-loose-pants-for-women-0616.md) — 5.8M views · `other` · 2026-06-20
 
