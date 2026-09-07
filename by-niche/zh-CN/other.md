@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 240 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 242 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -303,6 +303,8 @@
 
 - [Heatwave Animal Suffering in French Farms](../../breakdowns/zh-CN/2026-07/tiktok-transcript-muss-es-erst-zur-katastrophe-kommen-tierhaltung-hitzewelle-t-5813.md) — 1.2M views · `Emotional confession` · 2026-07-19
 
+- [Amanda Cole Hewitt Death Investigation Reopened by Mother](../../breakdowns/zh-CN/2026-09/tiktok-transcript-2-6m-views-20k-reactions-exposedjusticeisstilljustice-it-s-b-a3c7.md) — 1.2M views · `Shocking Revelation` · 2026-09-06
+
 - [Natural Herbal Remedy for Severe Back Pain Relief](../../breakdowns/zh-CN/2026-08/tiktok-transcript-2-7m-views-26k-reactions-756d.md) — 1.1M views · `Rhetorical question with ominous implication` · 2026-08-18
 
 - [Young Woman's Career Ambitions Shift After One Month Working](../../breakdowns/zh-CN/2026-07/tiktok-transcript-2-1m-views-10k-reactions-nh-n-o-y-thuycoluong-thuycoluong-d720.md) — 1.1M views · `Expectation vs Reality` · 2026-07-23
@@ -458,6 +460,8 @@
 - [Full-Home Customization With Unique Cabinet Designs](../../breakdowns/zh-CN/2026-07/tiktok-transcript-full-home-customization-unique-homes-homecustomization-inter-bd37.md) — 288.8K views · `Contrasting command` · 2026-07-22
 
 - [#palmistry #zodiacsigns #astrology #marriage #fyi](../../breakdowns/zh-CN/2026-07/tiktok-transcript-palmistry-zodiacsigns-astrology-marriage-fyi-6ad4.md) — 277.8K views · `Mysterious conditional promise` · 2026-07-24
+
+- [God Wanted You to Hear This: You Are Beautiful](../../breakdowns/zh-CN/2026-09/tiktok-transcript-29k-reactions-2-3k-shares-if-this-video-came-across-you-god-9e1b.md) — 271.3K views · `Direct address with promise of validation` · 2026-09-06
 
 - [Sheetal Devi Wins Gold at Khelo India Para Games](../../breakdowns/zh-CN/2026-09/tiktok-transcript-984k-views-207k-reactions-jammu-and-kashmir-s-armless-archer-7e40.md) — 255.9K views · `Promise of transformation` · 2026-09-01
 
