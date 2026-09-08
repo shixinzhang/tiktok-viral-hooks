@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 242 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 245 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -74,6 +74,8 @@
 - [Let Go When Someone Replaces You](../../breakdowns/zh-CN/2026-05/tiktok-transcript-deixa-ir-coringa-motiva-o-reflexaododia-videostatus-capcut-8a03.md) — 8.3M views · `conditional cascade` · 2026-05-26
 
 - [Prophet Ibrahim Visits Ismail's Wife Story](../../breakdowns/zh-CN/2026-06/tiktok-transcript-20m-views-2m-reactions-hazrat-ibrahim-a-s-aur-hazrat-ismail-464c.md) — 8.3M views · `Narrative hook with immediate conflict` · 2026-06-25
+
+- [Husband's Struggle When Money Is Tight](../../breakdowns/zh-CN/2026-09/tiktok-transcript-video-1180.md) — 8.0M views · `Nonsense Rhyme` · 2026-09-07
 
 - [The World's Strongest Beetle Shell Structure](../../breakdowns/zh-CN/2026-06/tiktok-transcript-el-escarabajo-m-s-fuerte-del-mundo-estadosunidos-datoscurios-e2a1.md) — 7.8M views · `Contrast & Surprise` · 2026-06-04
 
@@ -475,9 +477,13 @@
 
 - [If you have a mole on your hand, this could say a lot about your fate...](../../breakdowns/zh-CN/2026-07/tiktok-transcript-if-you-have-a-mole-on-your-hand-this-could-say-a-lot-about-y-ed5d.md) — 192.1K views · `Mystery & Curiosity` · 2026-07-23
 
+- [Lucky Commenter Wins ₱35,000 Premium Prize](../../breakdowns/zh-CN/2026-09/tiktok-transcript-402k-views-18k-reactions-comment-nyo-na-mga-boss-baka-sa-iny-9869.md) — 175.3K views · `Direct address + conditional reward` · 2026-09-07
+
 - [If You Have a Brother, You Are Richer Than You Think](../../breakdowns/zh-CN/2026-08/tiktok-transcript-14k-reactions-2-3k-shares-4036.md) — 152.7K views · `Value affirmation` · 2026-08-25
 
 - [Why a Betrayer Avoids You: The Silent Punishment](../../breakdowns/zh-CN/2026-08/tiktok-transcript-408k-views-10k-reactions-una-persona-che-ti-ha-tradito-far-d-ad89.md) — 150.7K views · `Psychological insight` · 2026-08-27
+
+- [Comment Now Boss, You Might Be Next! Win 50,000 Pesos](../../breakdowns/zh-CN/2026-09/tiktok-transcript-339k-views-15k-reactions-comment-nyo-na-mga-boss-baka-sa-iny-126b.md) — 146.1K views · `Direct Address + Luck/Exclusivity` · 2026-09-07
 
 - [Stop Rescuing What Discipline Could Have Protected](../../breakdowns/zh-CN/2026-08/tiktok-transcript-292k-views-19k-reactions-stop-rescuing-what-discipline-could-5cb8.md) — 139.8K views · `Problem-Agitation` · 2026-08-17
 

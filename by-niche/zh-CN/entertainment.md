@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 146 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 148 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -203,6 +203,8 @@
 
 - [Millionaire Tests Poor Boy and Finds the Truth](../../breakdowns/zh-CN/2026-07/tiktok-transcript-millionaire-tested-poor-boy-and-find-the-truth-full-story-ai-8db9.md) — 1.1M views · `Assumption vs. Reality` · 2026-07-20
 
+- [Dark Psychology Facts: Over-Explaining Signals Guilt](../../breakdowns/zh-CN/2026-09/tiktok-transcript-2-4m-views-53k-reactions-read-3-again-darkpsychology-psychol-12d9.md) — 1.1M views · `Contrarian listicle` · 2026-09-07
+
 - [Speaking With Apollo Using Tech to Reach the Underworld](../../breakdowns/zh-CN/2026-08/tiktok-transcript-7-2k-views-32k-reactions-speaking-with-the-god-apollo-using-f166.md) — 993.3K views · `Mythological twist` · 2026-08-11
 
 - [5 Dark Psychology Signs You Need to Know](../../breakdowns/zh-CN/2026-09/tiktok-transcript-1-9m-views-110k-reactions-5-dark-psychology-signs-you-need-t-3ba2.md) — 979.8K views · `Listicle with curiosity gap` · 2026-09-04
@@ -264,6 +266,8 @@
 - [Vinícius Júnior’s Apple Ad Song Revealed](../../breakdowns/zh-CN/2026-06/tiktok-transcript-what-song-is-vin-cius-j-nior-listening-to-apple-airpodsviniu-591c.md) — 363.7K views · `Curiosity Gap + Celebrity Tease` · 2026-06-21
 
 - [Spiderman Bus Stunt Behind the Scenes FX](../../breakdowns/zh-CN/2026-08/tiktok-transcript-866k-views-15k-reactions-spiderman-stunt-on-bus-behind-fx-544e.md) — 353.6K views · `Immediate action call` · 2026-08-17
+
+- [Dubai or New York Tomorrow? Travel Dilemmas](../../breakdowns/zh-CN/2026-09/tiktok-transcript-tu-pr-f-res-tupreferes-tupreferesquoi-dilemme-3a9e.md) — 330.9K views · `Interactive choice ladder` · 2026-09-07
 
 - [Escanor's Fuckdometer Scale: From Virgin Mary to Bonnie Blue](../../breakdowns/zh-CN/2026-06/tiktok-transcript-escanor-escanor-sevendeadlysins-7deadlysins-anime-whodecided-579e.md) — 271.6K views · `absurd scale` · 2026-06-06
 
