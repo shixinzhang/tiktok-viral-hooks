@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 148 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 150 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -237,6 +237,8 @@
 
 - [When Love Takes Over, Broken Parts Start Breathing Again](../../breakdowns/zh-CN/2026-08/tiktok-transcript-1-4m-views-91k-reactions-when-love-takes-over-even-the-broke-6ff5.md) — 756.3K views · `Direct confrontation with a universal truth` · 2026-08-22
 
+- [The Mysterious Old Man — Part 1 | Kwentolohiya](../../breakdowns/zh-CN/2026-09/tiktok-transcript-1-3m-views-25k-reactions-ang-misteryosong-lolo-part-1-kwento-3ed5.md) — 746.5K views · `Interruption + Request` · 2026-09-08
+
 - [The Moroccan Killer Zarzour: A Silent Stranger](../../breakdowns/zh-CN/2026-06/tiktok-transcript-le-tueur-marocain-zarzour-horreurtiktok-horreur-histoire-mys-bfe8.md) — 730.5K views · `Rhetorical question with exotic hook` · 2026-06-11
 
 - [Honda Civic Sport Drive-By](../../breakdowns/zh-CN/2026-08/tiktok-transcript-hondacivic-sport-fyp-trending-a72a.md) — 728.8K views · `Repetition with emotional tension` · 2026-08-08
@@ -264,6 +266,8 @@
 - [What High EQ People Say When They Spill Wine](../../breakdowns/zh-CN/2026-08/tiktok-transcript-778k-views-8-5k-reactions-l-l-m-ly-r-u-khi-m-i-kh-ch-ng-i-eq-51c5.md) — 364.3K views · `Scenario question + promise of story` · 2026-08-15
 
 - [Vinícius Júnior’s Apple Ad Song Revealed](../../breakdowns/zh-CN/2026-06/tiktok-transcript-what-song-is-vin-cius-j-nior-listening-to-apple-airpodsviniu-591c.md) — 363.7K views · `Curiosity Gap + Celebrity Tease` · 2026-06-21
+
+- [Rebecca Episode 1: Pregnant After Just the Tip](../../breakdowns/zh-CN/2026-09/tiktok-transcript-video-c218.md) — 358.6K views · `Shocking denial` · 2026-09-08
 
 - [Spiderman Bus Stunt Behind the Scenes FX](../../breakdowns/zh-CN/2026-08/tiktok-transcript-866k-views-15k-reactions-spiderman-stunt-on-bus-behind-fx-544e.md) — 353.6K views · `Immediate action call` · 2026-08-17
 

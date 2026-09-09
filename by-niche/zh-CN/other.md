@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 245 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 247 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -229,6 +229,8 @@
 
 - [Review of Viral Matcha Lake in China](../../breakdowns/zh-CN/2026-05/tiktok-transcript-review-h-matcha-si-u-hot-m-ng-x-h-i-th-gi-i-xem-n-cu-i-th-d28f.md) — 1.8M views · `Curiosity Gap` · 2026-05-28
 
+- [The One Who Lives for Others' Happiness](../../breakdowns/zh-CN/2026-09/tiktok-transcript-13k-views-210k-reactions-jo-dusaro-ki-khushi-ke-liye-jeeta-h-8534.md) — 1.7M views · `Rhetorical question + universal observation` · 2026-09-08
+
 - [Poem: What Are You Afraid of Losing When Nothing Belongs...](../../breakdowns/zh-CN/2026-06/tiktok-transcript-4-7m-views-170k-reactions-what-are-you-afraid-of-losing-when-a99b.md) — 1.7M views · `Rhetorical Question` · 2026-06-27
 
 - [Aceh Floods Reach Unimaginable Heights on December 6](../../breakdowns/zh-CN/2026-05/tiktok-transcript-6-december-25-aceh-taming-can-not-imagine-this-high-of-the-f-f7b4.md) — 1.7M views · `Question-Answer Mismatch` · 2026-05-24
@@ -250,6 +252,8 @@
 - [Join My Free Soap-Making Workshop](../../breakdowns/zh-CN/2026-06/tiktok-transcript-nete-a-mi-taller-sin-costo-d-nde-te-ense-ar-a-elaborar-jabon-074f.md) — 1.6M views · `Regret Aversion` · 2026-06-13
 
 - [Dara - Bangaranga, Your Eurovision 2026 Winning Song](../../breakdowns/zh-CN/2026-06/tiktok-transcript-dara-bangaranga-your-eurovision2026-winning-song-eurovisiond-3133.md) — 1.6M views · `Curiosity Gap + Emotional Stakes` · 2026-06-21
+
+- [Snowflake Part 2: A Promise of Support and Study](../../breakdowns/zh-CN/2026-09/tiktok-transcript-video-403c.md) — 1.6M views · `Emotional direct address` · 2026-09-08
 
 - [Christian Evangelist Claims Islam Is the Antichrist](../../breakdowns/zh-CN/2026-07/tiktok-transcript-christian-evangelist-believes-islam-is-the-antichrist-christ-c875.md) — 1.6M views · `Shocking Claim` · 2026-07-13
 

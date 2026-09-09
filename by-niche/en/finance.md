@@ -1,6 +1,6 @@
 # finance Breakdowns
 
-> 32 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 33 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -44,6 +44,8 @@
 - [Top 3 AI Stocks to Buy for the Next Decade](../../breakdowns/en/2026-06/tiktok-transcript-here-are-the-top-3-a-i-stocks-to-buy-for-the-next-decade-acc-cbda.md) — 1.5M views · `List-based promise with authority` · 2026-06-12
 
 - [Wealthy People Don’t Need to Show Off](../../breakdowns/en/2026-06/tiktok-transcript-you-ever-notice-how-the-loudest-people-in-the-room-are-usual-4cd4.md) — 1.5M views · `Cautionary reversal` · 2026-06-03
+
+- [3 Types of People Who Should Never Start a Business](../../breakdowns/en/2026-09/tiktok-transcript-video-bcdc.md) — 1.5M views · `Direct warning with list promise` · 2026-09-08
 
 - [Turn Your 30-Year Mortgage Into a 1-Year Payoff](../../breakdowns/en/2026-08/tiktok-transcript-most-banks-won-t-tell-you-this-but-you-can-turn-your-30-year-5446.md) — 1.4M views · `Forbidden Knowledge / Insider Secret` · 2026-08-02
 
