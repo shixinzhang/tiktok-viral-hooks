@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 150 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 152 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -8,6 +8,8 @@
 - [My First Original Rap Song Performance](../../breakdowns/zh-CN/2026-07/tiktok-transcript-my-first-own-rap-song-1477.md) — 129.5M views · `Identity + Status Reveal` · 2026-07-03
 
 - [He Tapped Back: Morse Code With Twin Brother After Accident](../../breakdowns/zh-CN/2026-06/tiktok-transcript-he-tapped-back-3danimation-animationart-digitalart-ed-2eee.md) — 50.6M views · `Childhood secret code setup` · 2026-06-08
+
+- [Mom Asks to Follow Girl on Instagram After Jazz Chat](../../breakdowns/zh-CN/2026-09/tiktok-transcript-63m-views-1-2m-reactions-tokyosims-on-reels-f1c6.md) — 29.1M views · `Unexpected Twist / Reveal` · 2026-09-09
 
 - [My Statement About My Fans and Our Split](../../breakdowns/zh-CN/2026-08/tiktok-transcript-tiktok-video-7649580881773989141-8d73.md) — 24.8M views · `Direct address + reluctant confession` · 2026-08-10
 
@@ -244,6 +246,8 @@
 - [Honda Civic Sport Drive-By](../../breakdowns/zh-CN/2026-08/tiktok-transcript-hondacivic-sport-fyp-trending-a72a.md) — 728.8K views · `Repetition with emotional tension` · 2026-08-08
 
 - [Paddy Pimblett Reacts to Main Event Outcome Mid-Interview](../../breakdowns/zh-CN/2026-07/tiktok-transcript-1-9m-views-29k-reactions-classic-paddy-paddy-pimblett-reacts-7da8.md) — 728.7K views · `Shock and disbelief` · 2026-07-12
+
+- [Wife Poisons Abusive Husband's Meal Part 1](../../breakdowns/zh-CN/2026-09/tiktok-transcript-the-poisoned-meal-part-1-storytime-fypviral-82e9.md) — 720.6K views · `Dark promise / revenge setup` · 2026-09-09
 
 - [Would You Rather Food Edition: Chicken or Beef?](../../breakdowns/zh-CN/2026-06/tiktok-transcript-tu-pr-f-res-dition-nourriture-tupreferes-tupreferesquoi-nour-99d8.md) — 719.3K views · `Challenge + Binary Choice` · 2026-06-16
 

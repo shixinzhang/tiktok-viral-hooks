@@ -1,9 +1,11 @@
 # other Breakdowns
 
-> 247 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 250 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
+
+- [Green Skincare Routine ASMR](../../breakdowns/zh-CN/2026-09/tiktok-transcript-a-green-routine-skincare-asmr-1af5.md) — 73.4M views · `Direct address` · 2026-09-09
 
 - [Poor Chihuahua’s Marriage Life in a Nutshell](../../breakdowns/zh-CN/2026-08/tiktok-transcript-poor-chihuahua-s-marriage-life-summarized-in-this-video-just-6d77.md) — 43.6M views · `Unexpected interruption` · 2026-08-03
 
@@ -365,6 +367,8 @@
 
 - [God Can Open Doors But You Still Gotta Walk Through Them](../../breakdowns/zh-CN/2026-08/tiktok-transcript-1-8m-views-102k-reactions-god-can-open-doors-but-you-still-g-a5cc.md) — 857.3K views · `Direct challenge with repetition` · 2026-08-26
 
+- [Why People Treat Their Pets Like Humans](../../breakdowns/zh-CN/2026-09/tiktok-transcript-1-9m-views-63k-reactions-why-some-people-treat-their-pets-li-5438.md) — 834.9K views · `Rhetorical question + curiosity gap` · 2026-09-10
+
 - [Perfect Tilapia Fish Cutting Technique by Suman](../../breakdowns/zh-CN/2026-09/tiktok-transcript-1-7m-views-45k-reactions-suman-fish-cutting-7807.md) — 828.5K views · `Rhetorical question + challenge` · 2026-09-05
 
 - [Reposted My Video Friends Views Problem](../../breakdowns/zh-CN/2026-08/tiktok-transcript-newaccount-unfreez-tiktok-8d47.md) — 827.0K views · `Direct Gratitude` · 2026-08-03
@@ -380,6 +384,8 @@
 - [True Love Stays When Everything Else Leaves](../../breakdowns/zh-CN/2026-08/tiktok-transcript-1-6m-views-26k-reactions-dormire-insieme-non-amore-parlare-t-d733.md) — 713.6K views · `Repetition with negation` · 2026-08-27
 
 - [Forgetting Happens When You Wake Up One Day](../../breakdowns/zh-CN/2026-06/tiktok-transcript-dimenticare-perte-fyp-foryoupage-andiamoneiperte-3c46.md) — 711.7K views · `Relatable mundane setup with twist` · 2026-06-04
+
+- [Handwritten Letter Inspired by Mon Laferte's Flaco](../../breakdowns/zh-CN/2026-09/tiktok-transcript-carta-inspirada-en-flaco-de-mon-laferte-te-extra-o-mucho-mi-bafd.md) — 684.6K views · `Emotional confession with poetic metaphor` · 2026-09-09
 
 - [Mountain Goat Walks Dangerous Cliff Edges Without Falling](../../breakdowns/zh-CN/2026-07/tiktok-transcript-1-3m-views-63k-reactions-dios-cre-un-animal-capaz-de-caminar-92a5.md) — 656.9K views · `Curiosity gap + surprising fact` · 2026-07-06
 
