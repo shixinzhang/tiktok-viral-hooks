@@ -1,11 +1,13 @@
 # marketing Breakdowns
 
-> 5 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 6 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
 
 - [Join the Insiders Community Link in Bio](../../breakdowns/zh-CN/2026-07/tiktok-transcript-join-the-insiders-community-link-in-bio-financialliteracy-sa-fc9b.md) — 3.3M views · `Negative consequence + story setup` · 2026-07-16
+
+- [Rolling Flower Pot Stand for Terrace and Balcony](../../breakdowns/zh-CN/2026-09/tiktok-transcript-5-4m-views-47k-reactions-buy-https-tr-ee-xxdpox-flower-pot-s-e9a2.md) — 2.6M views · `Price Shock` · 2026-09-10
 
 - [Maximize Facebook Income with Samantha Blizzard’s Content...](../../breakdowns/zh-CN/2026-08/tiktok-transcript-2-5m-views-20k-reactions-a-reminder-that-you-can-earn-money-ba3c.md) — 1.2M views · `Direct benefit promise` · 2026-08-15
 

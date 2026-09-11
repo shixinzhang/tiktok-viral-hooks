@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 152 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 154 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -139,6 +139,8 @@
 
 - [Dad Only Calls Me to Change the TV Channel](../../breakdowns/zh-CN/2026-08/tiktok-transcript-3m-views-94k-reactions-giorgi-bartia-on-reels-578f.md) — 2.1M views · `Question-Answer Interview` · 2026-08-25
 
+- [Every Person Enters Your Life for a Reason](../../breakdowns/zh-CN/2026-09/tiktok-transcript-4-5m-views-110k-reactions-every-person-enters-your-life-for-3600.md) — 2.1M views · `Command + Reframe` · 2026-09-10
+
 - [He Killed Victims and Attended Their Funerals: Part 1](../../breakdowns/zh-CN/2026-08/tiktok-transcript-ele-mat4va-suas-v-timas-e-ia-no-vel-rio-parte-1-fyp-foryou-f-e044.md) — 2.0M views · `Mystery + Authority Twist` · 2026-08-08
 
 - [OOTD: Deciding Whether to Let Go](../../breakdowns/zh-CN/2026-07/tiktok-transcript-ootd-484b.md) — 2.0M views · `Rhetorical Question` · 2026-07-03
@@ -188,6 +190,8 @@
 - [Sisters Get Shrink and Enlarge Systems Before Apocalypse](../../breakdowns/zh-CN/2026-06/tiktok-transcript-loredeepdive-tiktoktvfilmcontest-shortdramareview-tiktok-fyp-6822.md) — 1.4M views · `Choice with consequence` · 2026-06-20
 
 - [Smart Home Gadgets That Make Life Easier](../../breakdowns/zh-CN/2026-07/tiktok-transcript-smart-home-gadgets-make-your-life-easier-home-appliances-sma-18a1.md) — 1.4M views · `One-word teaser` · 2026-07-21
+
+- [Filipino Father's Silent Sacrifice Family Drama Part 1](../../breakdowns/zh-CN/2026-09/tiktok-transcript-2-7m-views-81k-reactions-tahimik-na-pasanin-part-1-isang-ama-7d7d.md) — 1.4M views · `Relatable Question Hook` · 2026-09-10
 
 - [This Is for All My Baby Girls](../../breakdowns/zh-CN/2026-05/tiktok-transcript-this-is-for-all-my-babygorls-2021tiktok-fyp-targetaudience-9e0a.md) — 1.3M views · `Direct address to a specific audience` · 2026-05-22
 
