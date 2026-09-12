@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 154 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 156 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -10,6 +10,8 @@
 - [He Tapped Back: Morse Code With Twin Brother After Accident](../../breakdowns/en/2026-06/tiktok-transcript-he-tapped-back-3danimation-animationart-digitalart-ed-2eee.md) — 50.6M views · `Childhood secret code setup` · 2026-06-08
 
 - [Mom Asks to Follow Girl on Instagram After Jazz Chat](../../breakdowns/en/2026-09/tiktok-transcript-63m-views-1-2m-reactions-tokyosims-on-reels-f1c6.md) — 29.1M views · `Unexpected Twist / Reveal` · 2026-09-09
+
+- [Female Ejaculation vs Squirting Explained](../../breakdowns/en/2026-09/tiktok-transcript-what-is-female-ejaculation-and-where-does-it-come-from-let-s-e3f4.md) — 27.2M views · `Myth-Busting Distinction` · 2026-09-11
 
 - [My Statement About My Fans and Our Split](../../breakdowns/en/2026-08/tiktok-transcript-tiktok-video-7649580881773989141-8d73.md) — 24.8M views · `Direct address + reluctant confession` · 2026-08-10
 
@@ -88,6 +90,8 @@
 - [Part 2: Oxidized Silver and Ruby Story](../../breakdowns/en/2026-05/tiktok-transcript-part-2-the-oxidized-sliver-and-the-ruby-story-part-1-fruitst-375f.md) — 3.6M views · `Question-Answer Conflict` · 2026-05-22
 
 - [Lightsunzayn’s Advice on Moving On After a Breakup](../../breakdowns/en/2026-07/tiktok-transcript-lightsunzayn-s-advice-on-how-to-move-on-properly-lights-7a98.md) — 3.5M views · `Direct question hook` · 2026-07-08
+
+- [Generation Living Through Others' Memories, Not Their Own](../../breakdowns/en/2026-09/tiktok-transcript-7-5m-views-116k-reactions-go-live-your-life-dietstartsmonday-78c8.md) — 3.5M views · `Provocative Prediction` · 2026-09-11
 
 - [Argentina 3-0 Algeria Match Highlights](../../breakdowns/en/2026-06/tiktok-transcript-r-sum-argentine-3-0-alg-rie-abonnez-vous-pour-voir-tous-les-a8ed.md) — 3.4M views · `Action-packed play-by-play` · 2026-06-19
 

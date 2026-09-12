@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 251 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 253 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -113,6 +113,8 @@
 
 - [Aloo's Goat Farm Story: Stolen Goat to Hidden Truth](../../breakdowns/zh-CN/2026-09/tiktok-transcript-aloo-s-goat-farm-story-from-stolen-goat-to-hidden-truth-crea-725c.md) — 4.6M views · `Direct Address` · 2026-09-10
 
+- [Nuclear Engineer Reacts to Nuking Mars](../../breakdowns/zh-CN/2026-09/tiktok-transcript-elon-musk-wants-to-nuke-mars-nuclear-engineer-reacts-35cb.md) — 4.4M views · `Myth Busting` · 2026-09-11
+
 - [White Monitor Arm Holiday Sale for Clean Look](../../breakdowns/zh-CN/2026-07/tiktok-transcript-clean-look-maximum-flexibility-white-monitor-arm-holiday-sal-2f80.md) — 4.4M views · `Minimalist Hook` · 2026-07-09
 
 - [Share This Bible Verse With One Friend Today](../../breakdowns/zh-CN/2026-08/tiktok-transcript-tiktok-video-7657991710567386390-79ac.md) — 4.3M views · `Direct challenge + call to action` · 2026-08-06
@@ -156,6 +158,8 @@
 - [Mashom Funny Pashto Story About Kachaloo](../../breakdowns/zh-CN/2026-07/tiktok-transcript-mashom-aivideos-pashtostoriesai-grwomyaccount-fyp-funny-8989.md) — 3.2M views · `Question + Offer` · 2026-07-14
 
 - [Today's Advice: Fear of Rejection Is Lack of Shame](../../breakdowns/zh-CN/2026-05/tiktok-transcript-consejo-de-hoy-5a21.md) — 3.1M views · `Confrontational Reframe` · 2026-05-22
+
+- [Develop Your Child's Talent, Not Weaknesses](../../breakdowns/zh-CN/2026-09/tiktok-transcript-desarrolla-tu-talento-no-tus-debilidades-entra-al-link-de-la-51ea.md) — 3.1M views · `Direct Address + Contrast Scenario` · 2026-09-11
 
 - [Ebola Outbreak Declared Global Health Emergency, US Bans...](../../breakdowns/zh-CN/2026-05/tiktok-transcript-one-thing-after-another-504d.md) — 3.0M views · `Urgent News Alert` · 2026-05-25
 

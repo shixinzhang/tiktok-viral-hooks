@@ -1,11 +1,13 @@
 # tech Breakdowns
 
-> 7 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 8 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
 
 - [Powerful Rechargeable Torch for 90 Rupees](../../breakdowns/en/2026-09/tiktok-transcript-powerful-rechargeable-torch-92f2.md) — 7.7M views · `Price Shock + Product Reveal` · 2026-09-11
+
+- [Smallest Mini CCTV Camera With Phone Live View](../../breakdowns/en/2026-09/tiktok-transcript-powerful-mini-cctv-camera-d842.md) — 3.4M views · `Superlative Product Reveal` · 2026-09-11
 
 - [RGB Monitor Mount Stack, Spin and Shine](../../breakdowns/en/2026-07/tiktok-transcript-stack-spin-shine-rgb-monitor-mount-does-it-all-odyssey-ole-b4d9.md) — 1.7M views · `List-based promise` · 2026-07-09
 
