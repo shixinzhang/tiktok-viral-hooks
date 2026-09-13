@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 156 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 159 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -55,6 +55,8 @@
 
 - [Fruit Seller's Emotional AI Story](../../breakdowns/en/2026-06/tiktok-transcript-fruits-fruit-ai-aistory-emotional-emotionalstory-56ca.md) — 7.3M views · `Curiosity gap + Incentive` · 2026-06-25
 
+- [Silent Burden Episode 2: Ramon Fights for His Kids](../../breakdowns/en/2026-09/tiktok-transcript-14m-views-398k-reactions-tahimik-na-pasanin-episode-2-iniwan-a815.md) — 7.2M views · `Relatable Question` · 2026-09-12
+
 - [CR7 Fans React to Name Reveal](../../breakdowns/en/2026-06/tiktok-transcript-cr7-tiktok-foryoupage-fyp-tiktok-7d77.md) — 6.8M views · `Curiosity Gap + Bold Claim` · 2026-06-27
 
 - [Loyal Apple Chooses Between Wife and Sneaky Link](../../breakdowns/en/2026-07/tiktok-transcript-part-1-loyal-apple-fruitstory-aistory-fruitdrama-aifruit-7b19.md) — 6.3M views · `Dilemma Hook` · 2026-07-13
@@ -75,6 +77,8 @@
 
 - [Buzzballz With Super Powers](../../breakdowns/en/2026-08/tiktok-transcript-buzzballz-with-super-powers-ai-fruitstory-buzzball-sadstory-6771.md) — 4.6M views · `Contrast and promise` · 2026-08-04
 
+- [Jericho's Honest Shoeshine Earns Praise](../../breakdowns/en/2026-09/tiktok-transcript-8-1m-views-249k-reactions-ang-malinis-na-trabaho-ni-jericho-acc3.md) — 4.5M views · `Immediate Conflict & Misjudgment` · 2026-09-12
+
 - [What If Your Body Was Made of Clay, Plastic & Obsidian](../../breakdowns/en/2026-09/tiktok-transcript-what-if-your-body-was-made-of-clay-plastic-obsidian-whatif-s-12db.md) — 4.3M views · `Hypothetical 'What If'` · 2026-09-01
 
 - [Catfished Team Helps Betsy Expose Elon Musk Affair](../../breakdowns/en/2026-06/tiktok-transcript-shout-out-to-the-catfished-team-for-helping-betsy-and-for-pu-ef4a.md) — 3.9M views · `Shocking Claim` · 2026-06-09
@@ -88,6 +92,8 @@
 - [Must-See Space Events of 2026 You Can't Miss](../../breakdowns/en/2026-05/tiktok-transcript-make-sure-you-don-t-miss-them-65f4.md) — 3.7M views · `Time urgency + curiosity gap` · 2026-05-28
 
 - [Part 2: Oxidized Silver and Ruby Story](../../breakdowns/en/2026-05/tiktok-transcript-part-2-the-oxidized-sliver-and-the-ruby-story-part-1-fruitst-375f.md) — 3.6M views · `Question-Answer Conflict` · 2026-05-22
+
+- [Son Tells Mother He Passed His JAMB Exam](../../breakdowns/en/2026-09/tiktok-transcript-full-story-based-on-true-life-experience-aigenerated-fyp-vir-f898.md) — 3.6M views · `Urgent Secret` · 2026-09-12
 
 - [Lightsunzayn’s Advice on Moving On After a Breakup](../../breakdowns/en/2026-07/tiktok-transcript-lightsunzayn-s-advice-on-how-to-move-on-properly-lights-7a98.md) — 3.5M views · `Direct question hook` · 2026-07-08
 

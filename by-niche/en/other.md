@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 253 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 254 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -102,6 +102,8 @@
 - [Cat Makes Nutella Toast](../../breakdowns/en/2026-07/tiktok-transcript-nutella-toast-catsoftiktok-cattok-cat-funnycat-fyp-e96d.md) — 6.2M views · `Direct request` · 2026-07-27
 
 - [Dual Screen Setup with HUANUO Monitor Arm](../../breakdowns/en/2026-07/tiktok-transcript-dual-screen-wonder-stacked-perfection-with-huanuo-monitor-ar-088a.md) — 6.1M views · `Audio-only hook` · 2026-07-09
+
+- [Quran Verse 84: Who Owns the Earth and All in It](../../breakdowns/en/2026-09/tiktok-transcript-say-5958.md) — 5.9M views · `Direct Address with Controversy` · 2026-09-12
 
 - [Trending Loose Pants For Women](../../breakdowns/en/2026-06/tiktok-transcript-trending-loose-pants-for-women-0616.md) — 5.8M views · `Rhetorical Question` · 2026-06-20
 

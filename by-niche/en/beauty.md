@@ -1,6 +1,6 @@
 # beauty Breakdowns
 
-> 18 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 19 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -14,6 +14,8 @@
 - [Loc Wig Install Is Easy and Breathable](../../breakdowns/en/2026-07/tiktok-transcript-locs-are-sooo-beautiful-free-shipping-locwig-lochairstyles-g-b9b8.md) — 6.2M views · `Surprise Reveal` · 2026-07-02
 
 - [Whitening Strips That Actually Work, Son Was Scared](../../breakdowns/en/2026-06/tiktok-transcript-if-you-re-not-happy-with-your-yellow-teeth-get-you-some-of-t-c307.md) — 4.0M views · `Contrast Hook` · 2026-06-27
+
+- [Korean Cleansing Routine for Closed Comedones](../../breakdowns/en/2026-09/tiktok-transcript-cleansing-routine-for-closed-comedones-kbeauty-koreanskincar-5408.md) — 3.9M views · `Pattern interrupt + callout` · 2026-09-12
 
 - [20 Inch Hair Install Tutorial & Review](../../breakdowns/en/2026-07/tiktok-transcript-20-inches-install-video-tutorial-youtube-simone-nicole-unice-4b19.md) — 3.8M views · `Curiosity gap + social proof` · 2026-07-30
 
