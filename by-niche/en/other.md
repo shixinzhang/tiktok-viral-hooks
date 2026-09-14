@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 254 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 255 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -184,6 +184,8 @@
 - [How Criminals Clean Dirty Money](../../breakdowns/en/2026-06/tiktok-transcript-how-to-clean-dirty-money-finance-animation-uk-b0d3.md) — 2.6M views · `Rhetorical question + personal stake` · 2026-06-03
 
 - [Why You Can't Stop Thinking About Your Ex](../../breakdowns/en/2026-07/tiktok-transcript-no-puedes-parar-de-pensar-en-tu-ex-psicologia-neurociencia-c-12e3.md) — 2.6M views · `Analogy Hook` · 2026-07-21
+
+- [200 Rupee Soft Bed Mattress for Comfortable Sleep](../../breakdowns/en/2026-09/tiktok-transcript-super-soft-bed-mattress-5d73.md) — 2.6M views · `Problem-Solution with Price Hook` · 2026-09-13
 
 - [Rare Window & Door Designs From China’s Biggest Factory](../../breakdowns/en/2026-08/tiktok-transcript-99-of-people-have-never-seen-these-window-door-designs-take-e7df.md) — 2.5M views · `Scale shock` · 2026-08-05
 

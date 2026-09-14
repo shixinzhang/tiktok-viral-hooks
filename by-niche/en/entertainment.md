@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 159 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 163 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -87,6 +87,8 @@
 
 - [Best Relationship Advice From a Father](../../breakdowns/en/2026-06/tiktok-transcript-what-s-the-best-relationship-advice-you-ve-ever-gotten-reddi-c803.md) — 3.9M views · `Question Hook` · 2026-06-23
 
+- [God Judges Kindness to People, Not Temple Visits](../../breakdowns/en/2026-09/tiktok-transcript-11k-views-239k-reactions-neha-on-reels-1fa1.md) — 3.9M views · `Curiosity + Authority` · 2026-09-13
+
 - [True Crime: The Haunting Case in Villisca, Iowa](../../breakdowns/en/2026-05/tiktok-transcript-video-bde4.md) — 3.8M views · `Mystery Hook` · 2026-05-29
 
 - [Must-See Space Events of 2026 You Can't Miss](../../breakdowns/en/2026-05/tiktok-transcript-make-sure-you-don-t-miss-them-65f4.md) — 3.7M views · `Time urgency + curiosity gap` · 2026-05-28
@@ -94,6 +96,8 @@
 - [Part 2: Oxidized Silver and Ruby Story](../../breakdowns/en/2026-05/tiktok-transcript-part-2-the-oxidized-sliver-and-the-ruby-story-part-1-fruitst-375f.md) — 3.6M views · `Question-Answer Conflict` · 2026-05-22
 
 - [Son Tells Mother He Passed His JAMB Exam](../../breakdowns/en/2026-09/tiktok-transcript-full-story-based-on-true-life-experience-aigenerated-fyp-vir-f898.md) — 3.6M views · `Urgent Secret` · 2026-09-12
+
+- [Son Tells Mother He Passed His JAMB Exam](../../breakdowns/en/2026-09/tiktok-transcript-full-story-based-on-true-life-experience-aigenerated-fyp-vir-8d87.md) — 3.6M views · `Urgent Secret` · 2026-09-12
 
 - [Lightsunzayn’s Advice on Moving On After a Breakup](../../breakdowns/en/2026-07/tiktok-transcript-lightsunzayn-s-advice-on-how-to-move-on-properly-lights-7a98.md) — 3.5M views · `Direct question hook` · 2026-07-08
 
@@ -117,6 +121,8 @@
 
 - [Wife of 2 Years Cheating on Me: All 6 Updates](../../breakdowns/en/2026-07/tiktok-transcript-my-wife-of-two-years-is-cheating-on-me-all-6-updates-reddit-b760.md) — 3.0M views · `Bombshell Opening` · 2026-07-11
 
+- [Truth Tellers Never Fit In Anywhere](../../breakdowns/en/2026-09/tiktok-transcript-6-5m-views-246k-reactions-sachkibaat-kadwisachchai-lifequote-244a.md) — 2.9M views · `Universal Truth Callout` · 2026-09-13
+
 - [Worm Fights Snail in Epic Garden Battle](../../breakdowns/en/2026-05/tiktok-transcript-worm-vs-snail-1781.md) — 2.8M views · `Subverted Expectation` · 2026-05-23
 
 - [He Called His Pregnant Wife a Cleaner, Then His Best Frie...](../../breakdowns/en/2026-08/tiktok-transcript-5-5m-views-223k-reactions-he-called-his-pregnant-wife-a-clea-3d4a.md) — 2.7M views · `Conflict Hook` · 2026-08-07
@@ -130,6 +136,8 @@
 - [Why Exes Demand Respect After Disrespecting You](../../breakdowns/en/2026-08/tiktok-transcript-tiktok-video-7671785610285174037-a923.md) — 2.5M views · `Direct accusation` · 2026-08-09
 
 - [Part 2: Confronting Steven Over the Birthday Lie](../../breakdowns/en/2026-06/tiktok-transcript-part-2-diy-storytime-fyp-foryou-tiktok-2744.md) — 2.5M views · `Betrayal Reveal` · 2026-06-01
+
+- [Poor Son Pursues CSS Exam Part 1](../../breakdowns/en/2026-09/tiktok-transcript-gareeb-ka-bcha-or-css-part-1-creatorsearchinginsight-aianiam-ad96.md) — 2.4M views · `Provocative Question Hook` · 2026-09-13
 
 - [Father Tests Daughters With $67 Million Each](../../breakdowns/en/2026-06/tiktok-transcript-he-gave-the-money-to-his-daughters-as-a-test-storyline-fruit-e256.md) — 2.3M views · `Shock and Awe` · 2026-06-26
 
