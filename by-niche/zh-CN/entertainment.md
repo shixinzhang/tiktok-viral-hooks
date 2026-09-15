@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 163 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 165 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -147,6 +147,8 @@
 
 - [Rare 1800s Historical Photos: Chestnut Crushing Shoes & More](../../breakdowns/zh-CN/2026-06/tiktok-transcript-rare-historical-photos-of-1800-historical-creepy-storytime-f-02cb.md) — 2.2M views · `Curiosity gap with specific oddity` · 2026-06-08
 
+- [Love Bombing, Ghosting, and Modern Dating Confusion](../../breakdowns/zh-CN/2026-09/tiktok-transcript-video-ce1c.md) — 2.2M views · `Rhetorical Question` · 2026-09-12
+
 - [Diver Describes Secret Mission Underwater](../../breakdowns/zh-CN/2026-07/tiktok-transcript-with-the-fishes-junus-e42a.md) — 2.2M views · `Identity + Call to Action` · 2026-07-03
 
 - [70-Year-Old Indian Grandma's Dating Game Is Strong](../../breakdowns/zh-CN/2026-05/tiktok-transcript-she-may-be-70-but-her-dating-game-is-timeless-indian-grandma-6bdc.md) — 2.1M views · `Exaggerated compliment` · 2026-05-27
@@ -202,6 +204,8 @@
 - [Universe Tarot Warning: Stop Ignoring This Sign](../../breakdowns/zh-CN/2026-07/tiktok-transcript-universe-tarotok-viral-tarot-foryou-fypviraltiktok-tarotr-fc1e.md) — 1.5M views · `Urgent Warning` · 2026-07-08
 
 - [Remember Me in Six Years? Knock Knock](../../breakdowns/zh-CN/2026-07/tiktok-transcript-knock-knock-who-s-there-you-don-t-remember-me-c939.md) — 1.5M views · `Escalating Question` · 2026-07-10
+
+- [Money Can Be Re-earned, Family Time Cannot](../../breakdowns/zh-CN/2026-09/tiktok-transcript-3-5m-views-108k-reactions-emotional-family-lifequotes-heartt-4095.md) — 1.5M views · `Contrast Hook` · 2026-09-13
 
 - [Subway Hero Stops Harasser Before Job Interview](../../breakdowns/zh-CN/2026-05/tiktok-transcript-movie-foryou-usa-tik-tok-a7d3.md) — 1.4M views · `Immediate tension` · 2026-05-22
 

@@ -1,6 +1,6 @@
 # food Breakdowns
 
-> 15 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 16 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -18,6 +18,8 @@
 - [3-Ingredient Snack Recipe](../../breakdowns/en/2026-05/tiktok-transcript-salgadinho-de-s-3-ingredientes-salgadinho-receita-facil-004b.md) — 3.3M views · `Curiosity gap + promise` · 2026-05-31
 
 - [Tasty Burger Production: Marinade to Meat Grinder](../../breakdowns/en/2026-06/tiktok-transcript-movie-usa-foryou-film-tiktok-d95e.md) — 2.2M views · `Curiosity Gap` · 2026-06-13
+
+- [Stainless Steel Meatball Maker Spoon Hack](../../breakdowns/en/2026-09/tiktok-transcript-chega-de-fazer-alm-ndegas-com-as-m-os-e-ficar-com-tudo-gruda-5663.md) — 2.2M views · `Problem-Agitation-Solution` · 2026-09-14
 
 - [Food Dilemma: Beef vs Chicken, Carbonara vs Bolognese](../../breakdowns/en/2026-06/tiktok-transcript-part-340-tu-pr-f-res-tupreferes-tupreferesquoi-dilemme-375f.md) — 1.8M views · `Interactive choice hook` · 2026-06-29
 

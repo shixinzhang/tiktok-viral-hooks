@@ -1,6 +1,6 @@
 # Hook Pattern: Rhetorical Question
 
-> 5 viral TikTok videos that use this hook pattern.
+> 6 viral TikTok videos that use this hook pattern.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -10,6 +10,8 @@
 - [A Man's Life Is Not Easy, He Just Hides His Pain](../../breakdowns/zh-CN/2026-09/tiktok-transcript-14m-views-607k-reactions-husband-myhusband-lovemyhusband-hus-4d1f.md) — 6.0M views · `entertainment` · 2026-09-05
 
 - [Trending Loose Pants For Women](../../breakdowns/zh-CN/2026-06/tiktok-transcript-trending-loose-pants-for-women-0616.md) — 5.8M views · `other` · 2026-06-20
+
+- [Love Bombing, Ghosting, and Modern Dating Confusion](../../breakdowns/zh-CN/2026-09/tiktok-transcript-video-ce1c.md) — 2.2M views · `entertainment` · 2026-09-12
 
 - [OOTD: Deciding Whether to Let Go](../../breakdowns/zh-CN/2026-07/tiktok-transcript-ootd-484b.md) — 2.0M views · `entertainment` · 2026-07-03
 

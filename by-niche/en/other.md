@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 255 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 257 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -183,6 +183,8 @@
 
 - [How Criminals Clean Dirty Money](../../breakdowns/en/2026-06/tiktok-transcript-how-to-clean-dirty-money-finance-animation-uk-b0d3.md) — 2.6M views · `Rhetorical question + personal stake` · 2026-06-03
 
+- [No-Heat Pipe Connector Fits Without Soldering](../../breakdowns/en/2026-09/tiktok-transcript-ventaquincenal-regresoaclasescontiktokshop-ventaveraniega-ti-53e0.md) — 2.6M views · `Rhetorical Question + Praise` · 2026-09-14
+
 - [Why You Can't Stop Thinking About Your Ex](../../breakdowns/en/2026-07/tiktok-transcript-no-puedes-parar-de-pensar-en-tu-ex-psicologia-neurociencia-c-12e3.md) — 2.6M views · `Analogy Hook` · 2026-07-21
 
 - [200 Rupee Soft Bed Mattress for Comfortable Sleep](../../breakdowns/en/2026-09/tiktok-transcript-super-soft-bed-mattress-5d73.md) — 2.6M views · `Problem-Solution with Price Hook` · 2026-09-13
@@ -252,6 +254,8 @@
 - [Warning Against Ignoring God's Call](../../breakdowns/en/2026-07/tiktok-transcript-tiktok-video-7300772978990599454-c23c.md) — 1.7M views · `Fear of consequence` · 2026-07-18
 
 - [Plane Flashlight M77 500W Brightness Test](../../breakdowns/en/2026-07/tiktok-transcript-video-dd82.md) — 1.7M views · `Hyperbolic Claim` · 2026-07-13
+
+- [10 Ways to Increase Your Value in Life](../../breakdowns/en/2026-09/tiktok-transcript-4-5m-views-170k-reactions-tapu-tapu-on-reels-a7be.md) — 1.6M views · `Direct Benefit Promise` · 2026-09-14
 
 - [I Got Home From Shopping and Needed to Talk](../../breakdowns/en/2026-08/tiktok-transcript-tiktok-video-7671785034013052180-185a.md) — 1.6M views · `Emotional confession with reluctant disclosure` · 2026-08-09
 
