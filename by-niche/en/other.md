@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 257 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 259 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -227,6 +227,8 @@
 
 - [Funny Couple 4th of July Graphic Tees](../../breakdowns/en/2026-07/tiktok-transcript-funnyshirt-coupleshirt-4thofjuly-graphictees-funnycouple-f3d7.md) — 2.1M views · `Single-word exclamation` · 2026-07-17
 
+- [10 Things to Avoid After C-Section for Faster Recovery](../../breakdowns/en/2026-09/tiktok-transcript-c-section-delivery-recovery-10-7499.md) — 2.0M views · `Warning + Timeframe` · 2026-09-15
+
 - [When the Holy Spirit Enters Your Life](../../breakdowns/en/2026-07/tiktok-transcript-quando-o-esp-rito-santo-de-deus-entra-na-sua-vida-oracao-ver-da62.md) — 2.0M views · `Curiosity gap` · 2026-07-23
 
 - [World Stands With You in Joy, Not in Grief](../../breakdowns/en/2026-07/tiktok-transcript-4-9m-views-156k-reactions-khushi-or-gham-mein-duniya-ka-sath-f3c9.md) — 1.9M views · `Contrasting Parallelism` · 2026-07-15
@@ -358,6 +360,8 @@
 - [Would You Rather Nuggets or Cookies? Dilemma Quiz](../../breakdowns/en/2026-06/tiktok-transcript-tu-pr-f-res-ou-tupreferes-wouldyourather-dilemme-question-efc6.md) — 971.1K views · `Challenge + Binary Choice` · 2026-06-06
 
 - [TikTok Channel Idea From @nguyenquang4998](../../breakdowns/en/2026-07/tiktok-transcript-t-ng-t-k-nh-anh-nguyenquang4998-nguoimoixaykenh-tutruyenthon-4887.md) — 960.5K views · `Contrarian opener` · 2026-07-30
+
+- [Social Argument Essay on Modern Social Media Impact](../../breakdowns/en/2026-09/tiktok-transcript-ngh-lu-n-x-h-i-v-v-n-m-ng-x-h-i-th-i-nay-thichthetha-nghilua-d574.md) — 934.5K views · `Provocative Metaphor` · 2026-09-14
 
 - [Letter to Dad: First Love, First Disappointment](../../breakdowns/en/2026-05/tiktok-transcript-ya-tocaba-uno-as-monlaferte-fpy-desamor-fenmefatale-parati-b1d2.md) — 933.8K views · `Contrasting Emotion` · 2026-05-25
 

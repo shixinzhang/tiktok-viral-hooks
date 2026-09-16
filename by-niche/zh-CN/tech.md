@@ -1,6 +1,6 @@
 # tech Breakdowns
 
-> 8 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 9 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -16,6 +16,8 @@
 - [Build AI Agent That Handles Emails and Meetings](../../breakdowns/zh-CN/2026-06/tiktok-transcript-most-people-overcomplicate-ai-agents-i-built-one-that-handle-0ccc.md) — 1.3M views · `What if + aspirational promise` · 2026-06-09
 
 - [How to Use a Multimeter: Check Continuity and Measure DC...](../../breakdowns/zh-CN/2026-08/tiktok-transcript-how-to-use-a-multimeter-tik-knowledge-science-multimeter-aab0.md) — 1.2M views · `Direct question + invitation` · 2026-08-07
+
+- [Flexible Bike Indicator That Won't Break When Dropped](../../breakdowns/zh-CN/2026-09/tiktok-transcript-viral-bike-indicator-9fa8.md) — 959.9K views · `Problem-Solution with Price Hook` · 2026-09-15
 
 - [Phone Store Owner's Water Damage Phone Hacks](../../breakdowns/zh-CN/2026-07/tiktok-transcript-fyp-lifehack-lifestyle-lifetips-diy-4053.md) — 882.3K views · `Authority/Insider Knowledge` · 2026-07-05
 

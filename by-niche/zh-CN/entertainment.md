@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 165 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 167 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -183,6 +183,8 @@
 
 - [Editing a Dramatic Dragon Scene Twist](../../breakdowns/zh-CN/2026-06/tiktok-transcript-replying-to-sweetiequeen337-welcome-to-my-channel-here-i-edi-7194.md) — 1.7M views · `Immediate conflict` · 2026-06-17
 
+- [The Cost of Being Wise in Relationships](../../breakdowns/zh-CN/2026-09/tiktok-transcript-1-1k-views-98k-reactions-life-reality-emotional-shayari-poet-899a.md) — 1.6M views · `Provocative Paradox` · 2026-09-15
+
 - [No More Parties, Bro](../../breakdowns/zh-CN/2026-08/tiktok-transcript-hhyeauh-zionn-heavenlyy-1e9c.md) — 1.6M views · `Repetition for emphasis` · 2026-08-05
 
 - [6-Year-Old Defies Segregation at School](../../breakdowns/zh-CN/2026-08/tiktok-transcript-le-jour-o-une-enfant-de-6-ans-a-d-fi-la-s-gr-gation-amazing-3955.md) — 1.6M views · `Historical revelation with emotional contrast` · 2026-08-10
@@ -244,6 +246,8 @@
 - [Human Body Quiz: What Causes Headaches?](../../breakdowns/zh-CN/2026-05/tiktok-transcript-quiz-sur-le-corps-humain-pourtoi-cultureg-quizz-france-corps-64ff.md) — 962.7K views · `Challenge with stakes` · 2026-05-25
 
 - [This Player Almost Scored an Own Goal on a Back Pass](../../breakdowns/zh-CN/2026-06/tiktok-transcript-este-jugador-calcul-muy-mal-1-simple-pase-hacia-atr-s-futbol-3dae.md) — 943.7K views · `Miscalculation / Near Own Goal` · 2026-06-13
+
+- [Alawi Family Gift Giveaway via Call for Commenters](../../breakdowns/zh-CN/2026-09/tiktok-transcript-2-4m-views-150k-reactions-comment-nyo-na-mga-boss-baka-sa-in-24fb.md) — 938.8K views · `Direct Promise` · 2026-09-13
 
 - [Man Destroys Beef Tree to Ruin Rival](../../breakdowns/zh-CN/2026-07/tiktok-transcript-he-destroyed-the-beef-tree-to-ruin-his-rival-madewithcantina-329a.md) — 926.8K views · `Question + Incredible Claim` · 2026-07-14
 
