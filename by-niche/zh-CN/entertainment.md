@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 167 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 172 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -38,6 +38,8 @@
 - [Growing Up With Cousins Made Everything Special](../../breakdowns/zh-CN/2026-08/tiktok-transcript-to-the-cousins-who-made-growing-up-unforgettable-hopecore-re-9b16.md) — 9.4M views · `Direct address + nostalgic memory` · 2026-08-07
 
 - [Margin Call Thriller Movie on Tubi](../../breakdowns/zh-CN/2026-08/tiktok-transcript-margin-call-thriller-tubi-69ad.md) — 9.3M views · `Urgency + Apology` · 2026-08-28
+
+- [Father's Cornucopia Inheritance Drama Part 1](../../breakdowns/zh-CN/2026-09/tiktok-transcript-part-1-drama-shortfilm-chinesedrama-0502.md) — 9.1M views · `Mysterious Inheritance` · 2026-09-16
 
 - [Girl Plants GPS Tracker on Boyfriend, Finds Him at Hospital](../../breakdowns/zh-CN/2026-05/tiktok-transcript-film-movie-foryou-9be2.md) — 8.8M views · `Mystery/Deception Hook` · 2026-05-24
 
@@ -131,6 +133,8 @@
 
 - [Ana de Armas Through the Years](../../breakdowns/zh-CN/2026-07/tiktok-transcript-ana-de-armas-through-the-years-anadearmas-fyp-foryou-through-c66a.md) — 2.7M views · `Identity Reveal + Underdog Origin` · 2026-07-14
 
+- [Motivational Spanish Message About Self-Worth and Effort](../../breakdowns/zh-CN/2026-09/tiktok-transcript-22k-views-148k-reactions-tinitov-0716.md) — 2.6M views · `Direct compliment` · 2026-09-16
+
 - [Shoutout to Aries and Taurus for 2023](../../breakdowns/zh-CN/2026-06/tiktok-transcript-shoutout-to-aries-taurus-2f18.md) — 2.6M views · `Astrological Authority + Bold Claim` · 2026-06-28
 
 - [Why Exes Demand Respect After Disrespecting You](../../breakdowns/zh-CN/2026-08/tiktok-transcript-tiktok-video-7671785610285174037-a923.md) — 2.5M views · `Direct accusation` · 2026-08-09
@@ -173,6 +177,8 @@
 
 - [Sharing My Story at Blue Valley Northwest Graduation](../../breakdowns/zh-CN/2026-05/tiktok-transcript-dream-come-true-getting-to-share-my-story-in-front-of-people-a9cc.md) — 1.9M views · `Shared anticipation` · 2026-05-27
 
+- [Woman Chooses Herself Over Cheating Husband](../../breakdowns/zh-CN/2026-09/tiktok-transcript-part-one-the-strong-woman-s-tears-africanfolklore-africanfol-19f7.md) — 1.9M views · `Urgent Confrontation` · 2026-09-16
+
 - [Surprising Family With My Newborn Baby](../../breakdowns/zh-CN/2026-07/tiktok-transcript-took-my-newborn-surprise-the-family-foryou-tiktok-fyp-babylo-a59b.md) — 1.9M views · `Exclamatory Surprise` · 2026-07-27
 
 - [True Life Story: I Passed My JAMB Exam](../../breakdowns/zh-CN/2026-08/tiktok-transcript-full-story-based-on-true-life-experience-aigenerated-fyp-vir-4d18.md) — 1.8M views · `Mystery/Secret Hook` · 2026-08-09
@@ -202,6 +208,8 @@
 - [Jarvis Plots a Course for Rosehill Tennessee](../../breakdowns/zh-CN/2026-06/tiktok-transcript-jarvis-plot-a-course-for-rosehill-tennessee-jarvis-ironman-p-dbf9.md) — 1.5M views · `Call and response` · 2026-06-10
 
 - [John Cena Becomes a Wild WWE Referee](../../breakdowns/zh-CN/2026-06/tiktok-transcript-john-cena-is-the-worst-referee-wwe-wrestling-fighting-champi-7449.md) — 1.5M views · `Unexpected Twist` · 2026-06-29
+
+- [Dear Talia: African AI Series Review](../../breakdowns/zh-CN/2026-09/tiktok-transcript-dear-talia-the-african-ai-series-you-need-to-watch-deartalia-31f1.md) — 1.5M views · `Contrast Hook` · 2026-09-16
 
 - [Universe Tarot Warning: Stop Ignoring This Sign](../../breakdowns/zh-CN/2026-07/tiktok-transcript-universe-tarotok-viral-tarot-foryou-fypviraltiktok-tarotr-fc1e.md) — 1.5M views · `Urgent Warning` · 2026-07-08
 
@@ -270,6 +278,8 @@
 - [When Love Takes Over, Broken Parts Start Breathing Again](../../breakdowns/zh-CN/2026-08/tiktok-transcript-1-4m-views-91k-reactions-when-love-takes-over-even-the-broke-6ff5.md) — 756.3K views · `Direct confrontation with a universal truth` · 2026-08-22
 
 - [The Mysterious Old Man — Part 1 | Kwentolohiya](../../breakdowns/zh-CN/2026-09/tiktok-transcript-1-3m-views-25k-reactions-ang-misteryosong-lolo-part-1-kwento-3ed5.md) — 746.5K views · `Interruption + Request` · 2026-09-08
+
+- [Newlywed Warned About Her Husband's House](../../breakdowns/zh-CN/2026-09/tiktok-transcript-mystery-after-my-wedding-episode-one-africanmovies-africanst-55de.md) — 744.9K views · `Secret Warning` · 2026-09-16
 
 - [The Moroccan Killer Zarzour: A Silent Stranger](../../breakdowns/zh-CN/2026-06/tiktok-transcript-le-tueur-marocain-zarzour-horreurtiktok-horreur-histoire-mys-bfe8.md) — 730.5K views · `Rhetorical question with exotic hook` · 2026-06-11
 
