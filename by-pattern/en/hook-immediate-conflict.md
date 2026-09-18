@@ -1,9 +1,11 @@
 # Hook Pattern: Immediate conflict
 
-> 2 viral TikTok videos that use this hook pattern.
+> 3 viral TikTok videos that use this hook pattern.
 
 [← Back to README](../../README.md)
 
+
+- [Father Fed Only Rice Until Daughter Arrives](../../breakdowns/en/2026-09/tiktok-transcript-3-6m-views-134k-reactions-short-story-kanin-lang-ang-pinakai-a431.md) — 2.3M views · `entertainment` · 2026-09-18
 
 - [Editing a Dramatic Dragon Scene Twist](../../breakdowns/en/2026-06/tiktok-transcript-replying-to-sweetiequeen337-welcome-to-my-channel-here-i-edi-7194.md) — 1.7M views · `entertainment` · 2026-06-17
 

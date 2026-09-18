@@ -1,6 +1,6 @@
 # beauty Breakdowns
 
-> 19 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 20 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -24,6 +24,8 @@
 - [Teeth Whitening Strips Before And After 20 Minutes](../../breakdowns/zh-CN/2026-06/tiktok-transcript-i-was-not-expecting-that-b97f.md) — 1.9M views · `Instructional/ASMR-like sequence` · 2026-06-23
 
 - [Teeth Whitening Strip Half Cut Test Results](../../breakdowns/zh-CN/2026-06/tiktok-transcript-guys-i-m-scared-what-just-happened-teethwhitening-teethwhite-7b04.md) — 1.8M views · `Curiosity gap with step-by-step instruction` · 2026-06-23
+
+- [Custom Private Label Skincare Products Manufacturing](../../breakdowns/zh-CN/2026-09/tiktok-transcript-do-you-want-to-customize-your-own-brand-of-skin-care-product-7458.md) — 1.8M views · `Direct Question Hook` · 2026-09-17
 
 - [Truth About Grace And Glow Deodorant Roll-On](../../breakdowns/zh-CN/2026-06/tiktok-transcript-s-th-t-v-l-n-kh-m-i-grace-and-glow-lannach-lankhumui-huongnu-6f75.md) — 1.5M views · `Social proof + curiosity gap` · 2026-06-14
 

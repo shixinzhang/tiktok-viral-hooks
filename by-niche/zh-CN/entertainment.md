@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 172 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 175 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -68,6 +68,8 @@
 - [The Terrifying True Story Behind Wrong Turn](../../breakdowns/zh-CN/2026-05/tiktok-transcript-the-real-story-behind-wrong-turn-creepy-1900s-storytime-wron-337b.md) — 5.8M views · `Mystery/Curiosity Gap` · 2026-05-24
 
 - [Strawberry's Secrets Part 1: Controlling Argument Over Pa...](../../breakdowns/zh-CN/2026-06/tiktok-transcript-part-1-strawberry-s-secrets-aifruit-fruitstory-fruitdrama-ai-6746.md) — 5.3M views · `Accusatory Question` · 2026-06-19
+
+- [Sheetal Devi Wins Gold at Khelo India Para Games](../../breakdowns/zh-CN/2026-09/tiktok-transcript-11m-views-1-9m-reactions-jammu-and-kashmir-s-armless-archer-5a96.md) — 5.1M views · `Challenge Question Hook` · 2026-09-17
 
 - [We Suffer More in Imagination Than in Reality](../../breakdowns/zh-CN/2026-06/tiktok-transcript-we-suffer-more-in-imagination-than-in-reality-seneca-stoicis-2c7e.md) — 5.0M views · `Rhetorical questions + contrast` · 2026-06-28
 
@@ -145,6 +147,8 @@
 
 - [Father Tests Daughters With $67 Million Each](../../breakdowns/zh-CN/2026-06/tiktok-transcript-he-gave-the-money-to-his-daughters-as-a-test-storyline-fruit-e256.md) — 2.3M views · `Shock and Awe` · 2026-06-26
 
+- [Father Fed Only Rice Until Daughter Arrives](../../breakdowns/zh-CN/2026-09/tiktok-transcript-3-6m-views-134k-reactions-short-story-kanin-lang-ang-pinakai-a431.md) — 2.3M views · `Immediate Conflict` · 2026-09-18
+
 - [Secret Billionaire Father's Child - Episode 8 Finale (Tag...](../../breakdowns/zh-CN/2026-06/tiktok-transcript-sekretong-anak-bilyonaryong-ama-episode-8-ang-pagwawakas-tag-e36e.md) — 2.2M views · `Resigned Acceptance` · 2026-06-24
 
 - [She Says Save Money Then Asks for Ice Cream](../../breakdowns/zh-CN/2026-05/tiktok-transcript-me-dice-que-ahorremos-y-me-sale-con-esto-2664.md) — 2.2M views · `Contrasting setup` · 2026-05-25
@@ -210,6 +214,8 @@
 - [John Cena Becomes a Wild WWE Referee](../../breakdowns/zh-CN/2026-06/tiktok-transcript-john-cena-is-the-worst-referee-wwe-wrestling-fighting-champi-7449.md) — 1.5M views · `Unexpected Twist` · 2026-06-29
 
 - [Dear Talia: African AI Series Review](../../breakdowns/zh-CN/2026-09/tiktok-transcript-dear-talia-the-african-ai-series-you-need-to-watch-deartalia-31f1.md) — 1.5M views · `Contrast Hook` · 2026-09-16
+
+- [Man Longing for a Woman's Love Every Day](../../breakdowns/zh-CN/2026-09/tiktok-transcript-tiktok-video-7680354107663715592-ccdd.md) — 1.5M views · `Provocative Question` · 2026-09-17
 
 - [Universe Tarot Warning: Stop Ignoring This Sign](../../breakdowns/zh-CN/2026-07/tiktok-transcript-universe-tarotok-viral-tarot-foryou-fypviraltiktok-tarotr-fc1e.md) — 1.5M views · `Urgent Warning` · 2026-07-08
 

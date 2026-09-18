@@ -1,6 +1,6 @@
 # tech Breakdowns
 
-> 9 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 10 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -10,6 +10,8 @@
 - [Smallest Mini CCTV Camera With Phone Live View](../../breakdowns/en/2026-09/tiktok-transcript-powerful-mini-cctv-camera-d842.md) — 3.4M views · `Superlative Product Reveal` · 2026-09-11
 
 - [RGB Monitor Mount Stack, Spin and Shine](../../breakdowns/en/2026-07/tiktok-transcript-stack-spin-shine-rgb-monitor-mount-does-it-all-odyssey-ole-b4d9.md) — 1.7M views · `List-based promise` · 2026-07-09
+
+- [Car Battery Drain Fix With Circuit Tester](../../breakdowns/en/2026-09/tiktok-transcript-tired-of-a-dead-battery-every-morning-watch-this-the-2026-ca-f6fb.md) — 1.6M views · `Frustration Resolution` · 2026-09-17
 
 - [Pocket-Sized Emergency Phone Charger on Shark Tank US](../../breakdowns/en/2026-05/tiktok-transcript-sharks-loved-this-tiny-charger-shark-tank-us-5681.md) — 1.4M views · `Question-Answer Surprise` · 2026-05-23
 
