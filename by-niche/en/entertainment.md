@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 175 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 177 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -16,6 +16,8 @@
 - [My Statement About My Fans and Our Split](../../breakdowns/en/2026-08/tiktok-transcript-tiktok-video-7649580881773989141-8d73.md) — 24.8M views · `Direct address + reluctant confession` · 2026-08-10
 
 - [Night Shift Truck Driver Rules for Surviving Ravens Hollow](../../breakdowns/en/2026-05/tiktok-transcript-could-you-survive-the-road-tiktokhorror-horror-horrortok-cre-5b01.md) — 18.8M views · `Second-person immersive setup` · 2026-05-25
+
+- [Sheetal Devi Wins Para Archery Gold at Khelo India](../../breakdowns/en/2026-09/tiktok-transcript-55m-views-7-2m-reactions-jammu-and-kashmir-s-armless-archer-473f.md) — 16.4M views · `Superstition Challenge` · 2026-09-18
 
 - [Past Tense of Read Is Read That's Why](../../breakdowns/en/2026-05/tiktok-transcript-the-past-tense-of-read-is-read-that-s-why-english-lol-joe-fe-582f.md) — 15.9M views · `False expectation setup` · 2026-05-29
 
@@ -148,6 +150,8 @@
 - [Father Tests Daughters With $67 Million Each](../../breakdowns/en/2026-06/tiktok-transcript-he-gave-the-money-to-his-daughters-as-a-test-storyline-fruit-e256.md) — 2.3M views · `Shock and Awe` · 2026-06-26
 
 - [Father Fed Only Rice Until Daughter Arrives](../../breakdowns/en/2026-09/tiktok-transcript-3-6m-views-134k-reactions-short-story-kanin-lang-ang-pinakai-a431.md) — 2.3M views · `Immediate Conflict` · 2026-09-18
+
+- [Devi Chitralekha on Why Blessings Come From God](../../breakdowns/en/2026-09/tiktok-transcript-6-1m-views-302k-reactions-gratitude-blessings-life-motivatio-db55.md) — 2.3M views · `Question Hook` · 2026-09-18
 
 - [Secret Billionaire Father's Child - Episode 8 Finale (Tag...](../../breakdowns/en/2026-06/tiktok-transcript-sekretong-anak-bilyonaryong-ama-episode-8-ang-pagwawakas-tag-e36e.md) — 2.2M views · `Resigned Acceptance` · 2026-06-24
 

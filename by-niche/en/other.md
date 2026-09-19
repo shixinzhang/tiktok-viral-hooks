@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 259 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 261 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -124,6 +124,8 @@
 - [Falcon Tortures Itself 150 Days to Be Reborn](../../breakdowns/en/2026-06/tiktok-transcript-19-150-8621.md) — 4.2M views · `Curiosity gap with specific age` · 2026-06-12
 
 - [Typical Game of Fool](../../breakdowns/en/2026-07/tiktok-transcript-pov-story-62d9.md) — 4.2M views · `confusing escalation` · 2026-07-15
+
+- [Gibbon Monkey Shows Change Starts With Yourself](../../breakdowns/en/2026-09/tiktok-transcript-8m-views-236k-reactions-monkey-sumon-rh-2a72.md) — 4.1M views · `Cultural Name-Drop` · 2026-09-18
 
 - [Artemis Crew Flying Behind the Moon Monday](../../breakdowns/en/2026-05/tiktok-transcript-don-t-miss-it-8da8.md) — 4.1M views · `Urgency + Promise of Significance` · 2026-05-28
 
@@ -290,6 +292,8 @@
 - [Admitting My Mistake and the Pain I Caused](../../breakdowns/en/2026-05/tiktok-transcript-tiktok-video-7642225034412428552-3d4b.md) — 1.5M views · `Vulnerability & Accountability` · 2026-05-24
 
 - [Lain Edit: You Are Needed by No One in the Real World](../../breakdowns/en/2026-06/tiktok-transcript-lain-edit-6ec4.md) — 1.5M views · `brutal truth reveal` · 2026-06-06
+
+- [Adjustable Sling Carrier for Toddlers on the Go](../../breakdowns/en/2026-09/tiktok-transcript-every-mom-needs-this-lujifo-toddlersoftiktok-babyslingcarrie-767c.md) — 1.5M views · `Problem-Agitate-Solution` · 2026-09-18
 
 - [How Keeping a Cat Improves Home Feng Shui](../../breakdowns/en/2026-07/tiktok-transcript-how-keeping-a-cat-transforms-your-home-s-feng-shui-cat-fengs-75ab.md) — 1.5M views · `Curiosity Gap` · 2026-07-07
 

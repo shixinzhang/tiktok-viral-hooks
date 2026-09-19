@@ -1,6 +1,6 @@
 # finance Breakdowns
 
-> 33 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 34 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -38,6 +38,8 @@
 - [Want a Million Dollars? Follow These Rules](../../breakdowns/zh-CN/2026-06/tiktok-transcript-4-2m-views-102k-reactions-millionbanknote-7bb1.md) — 2.0M views · `Aspirational Challenge` · 2026-06-27
 
 - [How to Achieve Financial Freedom Through House Hacking](../../breakdowns/zh-CN/2026-06/tiktok-transcript-earn-financial-freedom-by-house-hacking-realestate-wealth-hu-e7bf.md) — 1.7M views · `Direct Promise` · 2026-06-09
+
+- [Indian Citizens Can Get Rs 3,000 Monthly via Labour Card](../../breakdowns/zh-CN/2026-09/tiktok-transcript-307k-views-32k-reactions-labourregistration-labour-labourcar-87e8.md) — 1.7M views · `Direct Benefit Announcement` · 2026-09-18
 
 - [Waiting on Market Drop to Buy? You Lost Buying Power](../../breakdowns/zh-CN/2026-07/tiktok-transcript-if-you-re-waiting-on-the-market-to-go-down-to-buy-you-may-be-a80b.md) — 1.6M views · `Direct Address + Contrarian Question` · 2026-07-12
 
