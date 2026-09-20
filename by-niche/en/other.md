@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 261 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 264 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -317,6 +317,10 @@
 
 - [Always Remember: You Don't Lose Them, They Lose You](../../breakdowns/en/2026-06/tiktok-transcript-always-remember-when-motivacion-motivacionvideo-motivacionqu-e331.md) — 1.3M views · `Reversal of expectation` · 2026-06-11
 
+- [How a Sling Carrier Stops Constant Baby Holding](../../breakdowns/en/2026-09/tiktok-transcript-my-biggest-baby-hack-slingcarrier-babycarrier-momsoftiktok-b-b0df.md) — 1.3M views · `Problem-Agitation` · 2026-09-18
+
+- [Krue Tries a Side Sling Baby Carrier](../../breakdowns/en/2026-09/tiktok-transcript-krue-is-obsessed-with-this-side-sling-ima-have-to-carry-her-539a.md) — 1.3M views · `Challenge/Invitation Hook` · 2026-09-18
+
 - [Franklin's Animation: Sorry for Him](../../breakdowns/en/2026-08/tiktok-transcript-2-1m-views-76k-reactions-sorry-for-him-fyp-trending-franklin-4c4e.md) — 1.2M views · `Mystery/Cliffhanger` · 2026-08-13
 
 - [Share God’s Word: Never Waste Your Chance](../../breakdowns/en/2026-08/tiktok-transcript-tiktok-video-7662285999619198230-d3ac.md) — 1.2M views · `Direct call-to-action with urgency` · 2026-08-06
@@ -326,6 +330,8 @@
 - [John's Ranch Inheritance: 800 Cattle and One Old Cow](../../breakdowns/en/2026-08/tiktok-transcript-aistory-fruits-fruitstory-france-storytime-8d93.md) — 1.2M views · `Mysterious Inheritance` · 2026-08-01
 
 - [Why You Shouldn't Pee When Waking Up at Night](../../breakdowns/en/2026-06/tiktok-transcript-waking-up-in-the-middle-of-the-night-and-immediately-getting-e708.md) — 1.2M views · `Contrarian advice` · 2026-06-15
+
+- [Baby Sling Carrier Ends Hot Potato Game](../../breakdowns/en/2026-09/tiktok-transcript-now-i-get-to-be-a-baby-hog-because-my-arm-isn-t-dying-babyca-8ca3.md) — 1.2M views · `Problem-Agitate-Solution` · 2026-09-18
 
 - [Natural Sleep Recipe for Deep Rest All Week](../../breakdowns/en/2026-07/tiktok-transcript-sleep-like-a-baby-again-bettersleep-naturalremedy-bedtime-sl-422f.md) — 1.2M views · `Pain point empathy` · 2026-07-06
 

@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 177 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 179 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -92,6 +92,8 @@
 - [Best Movie Recaps: Editing & Narrating Top Film Stories](../../breakdowns/en/2026-06/tiktok-transcript-welcome-to-my-channel-here-i-edit-and-narrating-the-best-mov-e49d.md) — 3.9M views · `Curiosity gap with shocking premise` · 2026-06-14
 
 - [Best Relationship Advice From a Father](../../breakdowns/en/2026-06/tiktok-transcript-what-s-the-best-relationship-advice-you-ve-ever-gotten-reddi-c803.md) — 3.9M views · `Question Hook` · 2026-06-23
+
+- [Couple's Consent Double Standard Questioned](../../breakdowns/en/2026-09/tiktok-transcript-foryoupage-viralvideo-tren-71c8.md) — 3.9M views · `Mutual Action Contrast` · 2026-09-19
 
 - [God Judges Kindness to People, Not Temple Visits](../../breakdowns/en/2026-09/tiktok-transcript-11k-views-239k-reactions-neha-on-reels-1fa1.md) — 3.9M views · `Curiosity + Authority` · 2026-09-13
 
@@ -192,6 +194,8 @@
 - [True Life Story: I Passed My JAMB Exam](../../breakdowns/en/2026-08/tiktok-transcript-full-story-based-on-true-life-experience-aigenerated-fyp-vir-4d18.md) — 1.8M views · `Mystery/Secret Hook` · 2026-08-09
 
 - [Joachim Predicts 2026 World Cup Winner After 3 Correct Picks](../../breakdowns/en/2026-06/tiktok-transcript-depuis-3-ans-joachim-pr-dit-les-vainqueurs-de-chaque-coupe-d-5b24.md) — 1.8M views · `Pattern: Prediction Reveal` · 2026-06-14
+
+- [Trust and Funerals Never Return Once Gone](../../breakdowns/en/2026-09/tiktok-transcript-beshak-kurulusosman-viral-1millionaudition-turkishseries-bur-63af.md) — 1.8M views · `Metaphorical Comparison` · 2026-09-19
 
 - [Life Lesson: Flirting With a Married Woman](../../breakdowns/en/2026-05/tiktok-transcript-trietlynhansinh-af29.md) — 1.7M views · `Contrasting scenario + direct command` · 2026-05-26
 
