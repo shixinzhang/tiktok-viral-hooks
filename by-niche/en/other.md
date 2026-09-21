@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 264 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 266 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -349,6 +349,8 @@
 
 - [A Father's Love Knows No Limits, Waking Tired for His Kids](../../breakdowns/en/2026-06/tiktok-transcript-l-amour-pour-ses-enfants-ne-conna-t-aucune-limite-je-me-l-ve-1fb3.md) — 1.1M views · `Sacrificial Love` · 2026-06-26
 
+- [Sling Baby Carrier for Moms With Back Pain](../../breakdowns/en/2026-09/tiktok-transcript-every-mom-needs-one-of-these-babyslingcarrier-babycarrier-mo-e127.md) — 1.1M views · `Problem Callout` · 2026-09-18
+
 - [3 Things You Didn't Know About Airport Security Jobs](../../breakdowns/en/2026-07/tiktok-transcript-3-saker-du-inte-visste-om-jobbet-som-flygplatskontrollant-f-729a.md) — 1.1M views · `Lista med hemligheter` · 2026-07-19
 
 - [Poem Recitation: A Whip for Silent Messages](../../breakdowns/en/2026-07/tiktok-transcript-please-tiktok-team-don-t-under-review-my-video-viral-a1d1.md) — 1.1M views · `Unexpected declaration` · 2026-07-17
@@ -438,6 +440,8 @@
 - [Ronaldo Jr. Is the Next Star, Says Fan](../../breakdowns/en/2026-07/tiktok-transcript-ronaldo-junior-ronaldo-ronaldojunior-f1ed.md) — 543.5K views · `Contrast & Claim` · 2026-07-12
 
 - [Apple Man Suspense Story Part 1](../../breakdowns/en/2026-07/tiktok-transcript-apple-man-suspense-story-part-1-aistory-storydrama-fruitstor-9aed.md) — 537.1K views · `Contrasting fates` · 2026-07-22
+
+- [Toddler Carrier for Clingy Babies Under $30](../../breakdowns/en/2026-09/tiktok-transcript-under-30-are-you-kidding-me-perfect-for-those-toddlers-that-d50a.md) — 530.3K views · `Direct Call-Out + Curiosity Gap` · 2026-09-18
 
 - [Jeffrey Epstein and the Simulation Theory Explained](../../breakdowns/en/2026-08/tiktok-transcript-839k-views-12k-reactions-jeffrey-epstein-is-why-the-simulati-b896.md) — 528.2K views · `Provocative generalization` · 2026-08-24
 

@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 179 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 182 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -70,6 +70,8 @@
 - [The Terrifying True Story Behind Wrong Turn](../../breakdowns/en/2026-05/tiktok-transcript-the-real-story-behind-wrong-turn-creepy-1900s-storytime-wron-337b.md) — 5.8M views · `Mystery/Curiosity Gap` · 2026-05-24
 
 - [Strawberry's Secrets Part 1: Controlling Argument Over Pa...](../../breakdowns/en/2026-06/tiktok-transcript-part-1-strawberry-s-secrets-aifruit-fruitstory-fruitdrama-ai-6746.md) — 5.3M views · `Accusatory Question` · 2026-06-19
+
+- [Husband Confesses Affair and Pregnancy to Wife](../../breakdowns/en/2026-09/tiktok-transcript-part-1-the-quiet-storm-storytime-aistory-aistorytelling-ai-288d.md) — 5.1M views · `Confession` · 2026-09-20
 
 - [Sheetal Devi Wins Gold at Khelo India Para Games](../../breakdowns/en/2026-09/tiktok-transcript-11m-views-1-9m-reactions-jammu-and-kashmir-s-armless-archer-5a96.md) — 5.1M views · `Challenge Question Hook` · 2026-09-17
 
@@ -275,6 +277,8 @@
 
 - [Why You Can't Leave a Toxic Partner: Break the Trauma Bond](../../breakdowns/en/2026-08/tiktok-transcript-here-s-why-you-re-struggling-to-leave-a-toxic-partner-you-ha-459b.md) — 913.9K views · `Direct address with a promise of a solution` · 2026-08-02
 
+- [Toddler Hip Carrier Deal Review for Moms](../../breakdowns/en/2026-09/tiktok-transcript-toddlercarrier-babycarrier-dealsforyoudays-toddlerhipcarrier-b152.md) — 906.0K views · `Sensory Immersion` · 2026-09-18
+
 - [Part 2: Confronting the Past in Manhattan](../../breakdowns/en/2026-06/tiktok-transcript-part-2-fyp-redditstories-viral-foryoupage-d9db.md) — 889.9K views · `Emotional confession` · 2026-06-23
 
 - [SpaceX Success Story: From Near Bankruptcy to Top Space Firm](../../breakdowns/en/2026-08/tiktok-transcript-spacex-tiktokuni-84b2.md) — 884.7K views · `Rags-to-Riches Tease` · 2026-08-03
@@ -286,6 +290,8 @@
 - [The More Honest You Are, the Sooner You Get Fired](../../breakdowns/en/2026-08/tiktok-transcript-18k-reactions-2k-shares-c-ng-th-t-th-c-ng-d-b-sa-th-i-congso-e38a.md) — 837.7K views · `Rhetorical question + familiar characters` · 2026-08-15
 
 - [Princess Anna Flees Political Marriage to England](../../breakdowns/en/2026-07/tiktok-transcript-france-movie-francaise-tiktokfilm-fyp-e930.md) — 835.4K views · `Immediate Tension` · 2026-07-27
+
+- [Guard Your Peace Despite What People Think](../../breakdowns/en/2026-09/tiktok-transcript-2-2m-views-61k-reactions-guard-your-peace-life-lifelessons-p-6798.md) — 826.1K views · `Contrast Hook` · 2026-09-19
 
 - [The Devil's Bridge: Strange Phenomena in France Since 1994](../../breakdowns/en/2026-06/tiktok-transcript-horreurtiktok-horreur-histoire-histoirevrai-urbanlegends-fyp-a88e.md) — 804.4K views · `Mystery/Curiosity Gap` · 2026-06-11
 
