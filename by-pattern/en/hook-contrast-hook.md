@@ -1,6 +1,6 @@
 # Hook Pattern: Contrast Hook
 
-> 4 viral TikTok videos that use this hook pattern.
+> 5 viral TikTok videos that use this hook pattern.
 
 [← Back to README](../../README.md)
 
@@ -12,3 +12,5 @@
 - [Money Can Be Re-earned, Family Time Cannot](../../breakdowns/en/2026-09/tiktok-transcript-3-5m-views-108k-reactions-emotional-family-lifequotes-heartt-4095.md) — 1.5M views · `entertainment` · 2026-09-13
 
 - [Guard Your Peace Despite What People Think](../../breakdowns/en/2026-09/tiktok-transcript-2-2m-views-61k-reactions-guard-your-peace-life-lifelessons-p-6798.md) — 826.1K views · `entertainment` · 2026-09-19
+
+- [Lorenzo Hunt vs Walter Pugliesi Bare Knuckle Fight](../../breakdowns/en/2026-09/tiktok-transcript-lorenzo-hunt-vs-walter-pugliesi-boxing-bkfc-tiktok-froyoupag-e6db.md) — 593.4K views · `entertainment` · 2026-09-21

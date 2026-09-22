@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 182 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 186 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -14,6 +14,8 @@
 - [Female Ejaculation vs Squirting Explained](../../breakdowns/en/2026-09/tiktok-transcript-what-is-female-ejaculation-and-where-does-it-come-from-let-s-e3f4.md) — 27.2M views · `Myth-Busting Distinction` · 2026-09-11
 
 - [My Statement About My Fans and Our Split](../../breakdowns/en/2026-08/tiktok-transcript-tiktok-video-7649580881773989141-8d73.md) — 24.8M views · `Direct address + reluctant confession` · 2026-08-10
+
+- [Boxer Zhang Wiley Pulls Off Shocking Comeback](../../breakdowns/en/2026-09/tiktok-transcript-no-one-expected-this-ending-fyp-foryoupage-froyou-boxing-box-925d.md) — 20.9M views · `Shocking Stat` · 2026-09-21
 
 - [Night Shift Truck Driver Rules for Surviving Ravens Hollow](../../breakdowns/en/2026-05/tiktok-transcript-could-you-survive-the-road-tiktokhorror-horror-horrortok-cre-5b01.md) — 18.8M views · `Second-person immersive setup` · 2026-05-25
 
@@ -151,6 +153,8 @@
 
 - [Poor Son Pursues CSS Exam Part 1](../../breakdowns/en/2026-09/tiktok-transcript-gareeb-ka-bcha-or-css-part-1-creatorsearchinginsight-aianiam-ad96.md) — 2.4M views · `Provocative Question Hook` · 2026-09-13
 
+- [Uncle, Please Support Me Like Your Own Daughter](../../breakdowns/en/2026-09/tiktok-transcript-6-2m-views-460k-reactions-03045658506-b71d.md) — 2.4M views · `Emotional Appeal + Direct Address` · 2026-09-21
+
 - [Father Tests Daughters With $67 Million Each](../../breakdowns/en/2026-06/tiktok-transcript-he-gave-the-money-to-his-daughters-as-a-test-storyline-fruit-e256.md) — 2.3M views · `Shock and Awe` · 2026-06-26
 
 - [Father Fed Only Rice Until Daughter Arrives](../../breakdowns/en/2026-09/tiktok-transcript-3-6m-views-134k-reactions-short-story-kanin-lang-ang-pinakai-a431.md) — 2.3M views · `Immediate Conflict` · 2026-09-18
@@ -204,6 +208,8 @@
 - [Editing a Dramatic Dragon Scene Twist](../../breakdowns/en/2026-06/tiktok-transcript-replying-to-sweetiequeen337-welcome-to-my-channel-here-i-edi-7194.md) — 1.7M views · `Immediate conflict` · 2026-06-17
 
 - [The Cost of Being Wise in Relationships](../../breakdowns/en/2026-09/tiktok-transcript-1-1k-views-98k-reactions-life-reality-emotional-shayari-poet-899a.md) — 1.6M views · `Provocative Paradox` · 2026-09-15
+
+- [Empty Plate Analogy on People Using You Then Leaving](../../breakdowns/en/2026-09/tiktok-transcript-3-8m-views-123k-reactions-emotional-sadreality-hearttouching-e8fe.md) — 1.6M views · `Metaphor Hook` · 2026-09-21
 
 - [No More Parties, Bro](../../breakdowns/en/2026-08/tiktok-transcript-hhyeauh-zionn-heavenlyy-1e9c.md) — 1.6M views · `Repetition for emphasis` · 2026-08-05
 
@@ -318,6 +324,8 @@
 - [Axel Oficial Reveals How He Composed Your Love Forever](../../breakdowns/en/2026-06/tiktok-transcript-esto-tiene-algo-axeloficial-revela-c-mo-compuso-uno-de-sus-m-4286.md) — 625.6K views · `Surprising reveal + emotional confession` · 2026-06-16
 
 - [How to Read Palm Lines That Indicate Marrying a Billionaire](../../breakdowns/en/2026-07/tiktok-transcript-astrology-palmistry-palmreading-handreading-facereading-fort-4602.md) — 620.3K views · `Direct promise of a desirable outcome` · 2026-07-10
+
+- [Lorenzo Hunt vs Walter Pugliesi Bare Knuckle Fight](../../breakdowns/en/2026-09/tiktok-transcript-lorenzo-hunt-vs-walter-pugliesi-boxing-bkfc-tiktok-froyoupag-e6db.md) — 593.4K views · `contrast hook` · 2026-09-21
 
 - [Miami's Most Addictive Ice Cream and Its Deadly Secret](../../breakdowns/en/2026-06/tiktok-transcript-la-glace-la-plus-addictive-de-miami-et-le-secret-mortel-derr-ad03.md) — 570.5K views · `Forbidden Mystery` · 2026-06-11
 

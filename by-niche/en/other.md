@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 266 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 267 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -180,6 +180,8 @@
 - [Karma Is Real: What Goes Around Comes Back Tenfold](../../breakdowns/en/2026-07/tiktok-transcript-karma-is-real-motivation-podcast-quotes-podcastclips-womene-dd79.md) — 2.9M views · `Bold Statement` · 2026-07-04
 
 - [Modern Consciousness Catastrophe Explained](../../breakdowns/en/2026-05/tiktok-transcript-note-this-video-will-lag-if-you-catch-it-early-you-can-downl-5a47.md) — 2.7M views · `Urgent philosophical revelation` · 2026-05-31
+
+- [Why Don't You Come Talk on Messenger](../../breakdowns/en/2026-09/tiktok-transcript-8-9m-views-237k-reactions-03045658506-740c.md) — 2.7M views · `Direct Question` · 2026-09-21
 
 - [Why You Should Never Put Fertilizer Too Close To Plants](../../breakdowns/en/2026-08/tiktok-transcript-5-3m-views-63k-reactions-why-you-should-never-put-fertilizer-137d.md) — 2.6M views · `Unexpected personification + immediate conflict` · 2026-08-03
 
