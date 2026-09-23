@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 267 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 269 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -113,6 +113,8 @@
 
 - [Hungry Stray Dog Stares at Restaurant Ad](../../breakdowns/en/2026-07/tiktok-transcript-this-hungry-stray-dog-stopped-in-front-of-a-restaurant-adver-57cc.md) — 5.6M views · `Single-word exclamation` · 2026-07-27
 
+- [Fluffy Winter Boots That Beat Horse Hoof Look](../../breakdowns/en/2026-09/tiktok-transcript-i-will-proudly-wear-these-because-i-don-t-feel-like-a-wannab-84a8.md) — 5.3M views · `Comparison Hook` · 2026-09-22
+
 - [Aloo's Goat Farm Story: Stolen Goat to Hidden Truth](../../breakdowns/en/2026-09/tiktok-transcript-aloo-s-goat-farm-story-from-stolen-goat-to-hidden-truth-crea-725c.md) — 4.6M views · `Direct Address` · 2026-09-10
 
 - [Nuclear Engineer Reacts to Nuking Mars](../../breakdowns/en/2026-09/tiktok-transcript-elon-musk-wants-to-nuke-mars-nuclear-engineer-reacts-35cb.md) — 4.4M views · `Myth Busting` · 2026-09-11
@@ -130,6 +132,8 @@
 - [Artemis Crew Flying Behind the Moon Monday](../../breakdowns/en/2026-05/tiktok-transcript-don-t-miss-it-8da8.md) — 4.1M views · `Urgency + Promise of Significance` · 2026-05-28
 
 - [The Hardest Part of ADHD: Hyperfixation on Loved Ones](../../breakdowns/en/2026-06/tiktok-transcript-the-truth-about-adhd-no-one-talks-about-adhdawareness-psycho-400d.md) — 4.1M views · `Relatable Revelation` · 2026-06-21
+
+- [Why Don't You Come Talk on Messenger](../../breakdowns/en/2026-09/tiktok-transcript-13m-views-328k-reactions-03045658506-d988.md) — 4.1M views · `Direct Question` · 2026-09-22
 
 - [Why Gardeners Remove Small Tomatoes](../../breakdowns/en/2026-07/tiktok-transcript-8-3m-views-120k-reactions-why-gardeners-remove-small-tomatoe-fdbc.md) — 4.0M views · `Sensory Appreciation` · 2026-07-12
 

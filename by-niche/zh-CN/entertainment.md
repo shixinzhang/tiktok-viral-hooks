@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 186 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 189 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -10,6 +10,8 @@
 - [He Tapped Back: Morse Code With Twin Brother After Accident](../../breakdowns/zh-CN/2026-06/tiktok-transcript-he-tapped-back-3danimation-animationart-digitalart-ed-2eee.md) — 50.6M views · `Childhood secret code setup` · 2026-06-08
 
 - [Mom Asks to Follow Girl on Instagram After Jazz Chat](../../breakdowns/zh-CN/2026-09/tiktok-transcript-63m-views-1-2m-reactions-tokyosims-on-reels-f1c6.md) — 29.1M views · `Unexpected Twist / Reveal` · 2026-09-09
+
+- [Boxing Match Heated Argument Before Fight](../../breakdowns/zh-CN/2026-09/tiktok-transcript-fyp-foryoupage-froyou-boxing-boxing-4631.md) — 28.9M views · `Controversy Hook` · 2026-09-22
 
 - [Female Ejaculation vs Squirting Explained](../../breakdowns/zh-CN/2026-09/tiktok-transcript-what-is-female-ejaculation-and-where-does-it-come-from-let-s-e3f4.md) — 27.2M views · `Myth-Busting Distinction` · 2026-09-11
 
@@ -40,6 +42,8 @@
 - [Don't Tell Your Dreams to Everybody Around](../../breakdowns/zh-CN/2026-06/tiktok-transcript-don-t-tell-your-dreams-capcut-fyp-trend-lyrics-templatecapcu-55fa.md) — 9.6M views · `Cautionary advice with contrast` · 2026-06-29
 
 - [Growing Up With Cousins Made Everything Special](../../breakdowns/zh-CN/2026-08/tiktok-transcript-to-the-cousins-who-made-growing-up-unforgettable-hopecore-re-9b16.md) — 9.4M views · `Direct address + nostalgic memory` · 2026-08-07
+
+- [PTT Apichart Farm vs Shayan Heydari Muay Thai Fight](../../breakdowns/zh-CN/2026-09/tiktok-transcript-ptt-apichart-farm-vs-shayan-heydari-boxing-fyp-tiktok-froyou-ca26.md) — 9.3M views · `Shock and Awe` · 2026-09-22
 
 - [Margin Call Thriller Movie on Tubi](../../breakdowns/zh-CN/2026-08/tiktok-transcript-margin-call-thriller-tubi-69ad.md) — 9.3M views · `Urgency + Apology` · 2026-08-28
 
@@ -72,6 +76,8 @@
 - [The Terrifying True Story Behind Wrong Turn](../../breakdowns/zh-CN/2026-05/tiktok-transcript-the-real-story-behind-wrong-turn-creepy-1900s-storytime-wron-337b.md) — 5.8M views · `Mystery/Curiosity Gap` · 2026-05-24
 
 - [Strawberry's Secrets Part 1: Controlling Argument Over Pa...](../../breakdowns/zh-CN/2026-06/tiktok-transcript-part-1-strawberry-s-secrets-aifruit-fruitstory-fruitdrama-ai-6746.md) — 5.3M views · `Accusatory Question` · 2026-06-19
+
+- [Hunter Tracks Wounded Deer After Accidental Shot](../../breakdowns/zh-CN/2026-09/tiktok-transcript-video-6c4c.md) — 5.1M views · `Accidental Action` · 2026-09-22
 
 - [Husband Confesses Affair and Pregnancy to Wife](../../breakdowns/zh-CN/2026-09/tiktok-transcript-part-1-the-quiet-storm-storytime-aistory-aistorytelling-ai-288d.md) — 5.1M views · `Confession` · 2026-09-20
 
