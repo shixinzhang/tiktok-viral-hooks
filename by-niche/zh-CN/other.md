@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 269 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 270 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -140,6 +140,8 @@
 - [Tom Hardy Explains Why He Chooses to Be Single](../../breakdowns/zh-CN/2026-07/tiktok-transcript-tom-hardy-motivation-tomhardy-relationshipgoals-relationship-9d4f.md) — 4.0M views · `Contradiction/Reframe` · 2026-07-02
 
 - [Share Luke 9:26 With a Friend Today](../../breakdowns/zh-CN/2026-08/tiktok-transcript-tiktok-video-7667138462826450198-2a40.md) — 3.9M views · `Direct challenge with a specific action` · 2026-08-06
+
+- [Prisoner Eats Massive Meal at Prison Restaurant](../../breakdowns/zh-CN/2026-09/tiktok-transcript-video-1960.md) — 3.9M views · `intriguing anomaly` · 2026-09-22
 
 - [Connected Diagonal Line Palm Wealth Meaning](../../breakdowns/zh-CN/2026-07/tiktok-transcript-palmistry-palmist-palmistry-palmreading-b574.md) — 3.9M views · `Reveal a hidden sign` · 2026-07-08
 

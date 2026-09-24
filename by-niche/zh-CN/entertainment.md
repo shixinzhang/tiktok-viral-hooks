@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 189 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 193 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -77,6 +77,8 @@
 
 - [Strawberry's Secrets Part 1: Controlling Argument Over Pa...](../../breakdowns/zh-CN/2026-06/tiktok-transcript-part-1-strawberry-s-secrets-aifruit-fruitstory-fruitdrama-ai-6746.md) — 5.3M views · `Accusatory Question` · 2026-06-19
 
+- [Nigerian Drama: Woman Leaves After Job Offer and Insult](../../breakdowns/zh-CN/2026-09/tiktok-transcript-part-1-the-curse-fyp-viral-naijatiktok-uktiktok-ai-2ed8.md) — 5.3M views · `Question Hook` · 2026-09-23
+
 - [Hunter Tracks Wounded Deer After Accidental Shot](../../breakdowns/zh-CN/2026-09/tiktok-transcript-video-6c4c.md) — 5.1M views · `Accidental Action` · 2026-09-22
 
 - [Husband Confesses Affair and Pregnancy to Wife](../../breakdowns/zh-CN/2026-09/tiktok-transcript-part-1-the-quiet-storm-storytime-aistory-aistorytelling-ai-288d.md) — 5.1M views · `Confession` · 2026-09-20
@@ -111,6 +113,8 @@
 
 - [Must-See Space Events of 2026 You Can't Miss](../../breakdowns/zh-CN/2026-05/tiktok-transcript-make-sure-you-don-t-miss-them-65f4.md) — 3.7M views · `Time urgency + curiosity gap` · 2026-05-28
 
+- [IUD Inserted at 6-Week Postpartum Checkup](../../breakdowns/zh-CN/2026-09/tiktok-transcript-i-also-do-have-an-iud-since-my-6-week-postpartum-appointment-de39.md) — 3.7M views · `Surprising Personal Revelation` · 2026-09-23
+
 - [Part 2: Oxidized Silver and Ruby Story](../../breakdowns/zh-CN/2026-05/tiktok-transcript-part-2-the-oxidized-sliver-and-the-ruby-story-part-1-fruitst-375f.md) — 3.6M views · `Question-Answer Conflict` · 2026-05-22
 
 - [Son Tells Mother He Passed His JAMB Exam](../../breakdowns/zh-CN/2026-09/tiktok-transcript-full-story-based-on-true-life-experience-aigenerated-fyp-vir-f898.md) — 3.6M views · `Urgent Secret` · 2026-09-12
@@ -134,6 +138,8 @@
 - [Married Woman's Shower Interrupted by Worker](../../breakdowns/zh-CN/2026-07/tiktok-transcript-for-fyp-film-movie-moviereview-249b.md) — 3.2M views · `Mystery/Forbidden Romance Setup` · 2026-07-27
 
 - [Model Strangers Street Photography After Three Years](../../breakdowns/zh-CN/2026-05/tiktok-transcript-i-have-been-working-on-model-strangers-for-almost-three-year-df88.md) — 3.1M views · `Compliment Hook` · 2026-05-29
+
+- [Divorced Man Says Nobody Likes Him for Being Hindu](../../breakdowns/zh-CN/2026-09/tiktok-transcript-8-1m-views-217k-reactions-wafa-world-facebookreels-reels-tre-46ee.md) — 3.1M views · `Controversial Confession` · 2026-09-23
 
 - [How I Built a Successful Life From Nothing](../../breakdowns/zh-CN/2026-08/tiktok-transcript-how-to-build-the-life-you-want-30e2.md) — 3.0M views · `Contrast / Before-After` · 2026-08-17
 
@@ -168,6 +174,8 @@
 - [Devi Chitralekha on Why Blessings Come From God](../../breakdowns/zh-CN/2026-09/tiktok-transcript-6-1m-views-302k-reactions-gratitude-blessings-life-motivatio-db55.md) — 2.3M views · `Question Hook` · 2026-09-18
 
 - [Secret Billionaire Father's Child - Episode 8 Finale (Tag...](../../breakdowns/zh-CN/2026-06/tiktok-transcript-sekretong-anak-bilyonaryong-ama-episode-8-ang-pagwawakas-tag-e36e.md) — 2.2M views · `Resigned Acceptance` · 2026-06-24
+
+- [Everyone Has Something but Not Everything](../../breakdowns/zh-CN/2026-09/tiktok-transcript-5-5m-views-178k-reactions-rjkartik-rjkartikstories-relatable-1a87.md) — 2.2M views · `Irony of Life` · 2026-09-23
 
 - [She Says Save Money Then Asks for Ice Cream](../../breakdowns/zh-CN/2026-05/tiktok-transcript-me-dice-que-ahorremos-y-me-sale-con-esto-2664.md) — 2.2M views · `Contrasting setup` · 2026-05-25
 
