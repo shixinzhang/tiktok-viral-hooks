@@ -1,4 +1,4 @@
-# Hook Pattern: Immediate tension
+# Hook Pattern: Immediate Tension
 
 > 2 viral TikTok videos that use this hook pattern.
 

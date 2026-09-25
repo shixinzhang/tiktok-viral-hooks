@@ -1,4 +1,4 @@
-# Hook Pattern: Direct Question Hook
+# Hook Pattern: Direct question hook
 
 > 2 viral TikTok videos that use this hook pattern.
 

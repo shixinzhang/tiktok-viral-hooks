@@ -1,4 +1,4 @@
-# Hook Pattern: Interactive Choice Hook
+# Hook Pattern: Interactive choice hook
 
 > 2 viral TikTok videos that use this hook pattern.
 

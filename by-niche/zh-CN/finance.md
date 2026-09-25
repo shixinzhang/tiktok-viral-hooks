@@ -49,9 +49,9 @@
 
 - [3 Types of People Who Should Never Start a Business](../../breakdowns/zh-CN/2026-09/tiktok-transcript-video-bcdc.md) — 1.5M views · `Direct warning with list promise` · 2026-09-08
 
-- [Turn Your 30-Year Mortgage Into a 1-Year Payoff](../../breakdowns/zh-CN/2026-08/tiktok-transcript-most-banks-won-t-tell-you-this-but-you-can-turn-your-30-year-5446.md) — 1.4M views · `Forbidden Knowledge / Insider Secret` · 2026-08-02
-
 - [3 Best Stocks to Buy for Wealth Building](../../breakdowns/zh-CN/2026-06/tiktok-transcript-the-best-stocks-to-buy-to-get-rich-9632.md) — 1.4M views · `Unexpected twist` · 2026-06-12
+
+- [Turn Your 30-Year Mortgage Into a 1-Year Payoff](../../breakdowns/zh-CN/2026-08/tiktok-transcript-most-banks-won-t-tell-you-this-but-you-can-turn-your-30-year-5446.md) — 1.4M views · `Forbidden Knowledge / Insider Secret` · 2026-08-02
 
 - [Video ni agak panjang tapi please tengok sampai habis sebelum korang ...](../../breakdowns/zh-CN/2026-07/tiktok-transcript-video-ni-agak-panjang-tapi-please-tengok-sampai-habis-sebelu-6446.md) — 1.3M views · `Value Promise` · 2026-07-24
 
