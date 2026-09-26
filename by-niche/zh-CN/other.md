@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 272 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 274 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -123,6 +123,8 @@
 
 - [Share This Bible Verse With One Friend Today](../../breakdowns/zh-CN/2026-08/tiktok-transcript-tiktok-video-7657991710567386390-79ac.md) — 4.3M views · `Direct challenge + call to action` · 2026-08-06
 
+- [Why Don't You Come on Messenger](../../breakdowns/zh-CN/2026-09/tiktok-transcript-14m-views-339k-reactions-03045658506-31e0.md) — 4.2M views · `Direct Question` · 2026-09-25
+
 - [Falcon Tortures Itself 150 Days to Be Reborn](../../breakdowns/zh-CN/2026-06/tiktok-transcript-19-150-8621.md) — 4.2M views · `Curiosity gap with specific age` · 2026-06-12
 
 - [Typical Game of Fool](../../breakdowns/zh-CN/2026-07/tiktok-transcript-pov-story-62d9.md) — 4.2M views · `confusing escalation` · 2026-07-15
@@ -242,6 +244,8 @@
 - [Islamic Greeting and Shahada Recitation by Sanam](../../breakdowns/zh-CN/2026-09/tiktok-transcript-5-6m-views-150k-reactions-f491.md) — 2.0M views · `Controversial Statement` · 2026-09-23
 
 - [When the Holy Spirit Enters Your Life](../../breakdowns/zh-CN/2026-07/tiktok-transcript-quando-o-esp-rito-santo-de-deus-entra-na-sua-vida-oracao-ver-da62.md) — 2.0M views · `Curiosity gap` · 2026-07-23
+
+- [Hindi Cover Song Performance on CapCut](../../breakdowns/zh-CN/2026-09/tiktok-transcript-capcut-go-viral-now-triding-video-virall-coversong-hindisong-6010.md) — 2.0M views · `Mystery Statement` · 2026-09-25
 
 - [World Stands With You in Joy, Not in Grief](../../breakdowns/zh-CN/2026-07/tiktok-transcript-4-9m-views-156k-reactions-khushi-or-gham-mein-duniya-ka-sath-f3c9.md) — 1.9M views · `Contrasting Parallelism` · 2026-07-15
 

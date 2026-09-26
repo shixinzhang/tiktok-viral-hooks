@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 196 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 199 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -321,11 +321,15 @@
 
 - [The Devil's Bridge: Strange Phenomena in France Since 1994](../../breakdowns/zh-CN/2026-06/tiktok-transcript-horreurtiktok-horreur-histoire-histoirevrai-urbanlegends-fyp-a88e.md) — 804.4K views · `Mystery/Curiosity Gap` · 2026-06-11
 
+- [Would You Rather Luxury Edition Part 2](../../breakdowns/zh-CN/2026-09/tiktok-transcript-partie-2-tu-pr-f-res-version-luxe-tupreferes-tupreferesquoi-3856.md) — 802.5K views · `Would You Rather` · 2026-09-25
+
 - [When Love Takes Over, Broken Parts Start Breathing Again](../../breakdowns/zh-CN/2026-08/tiktok-transcript-1-4m-views-91k-reactions-when-love-takes-over-even-the-broke-6ff5.md) — 756.3K views · `Direct confrontation with a universal truth` · 2026-08-22
 
 - [The Mysterious Old Man — Part 1 | Kwentolohiya](../../breakdowns/zh-CN/2026-09/tiktok-transcript-1-3m-views-25k-reactions-ang-misteryosong-lolo-part-1-kwento-3ed5.md) — 746.5K views · `Interruption + Request` · 2026-09-08
 
 - [Newlywed Warned About Her Husband's House](../../breakdowns/zh-CN/2026-09/tiktok-transcript-mystery-after-my-wedding-episode-one-africanmovies-africanst-55de.md) — 744.9K views · `Secret Warning` · 2026-09-16
+
+- [Spoken Word Poem About Living With Trauma](../../breakdowns/zh-CN/2026-09/tiktok-transcript-poetry-poem-poems-poet-writer-7e92.md) — 744.0K views · `Consequence Hook` · 2026-09-23
 
 - [The Moroccan Killer Zarzour: A Silent Stranger](../../breakdowns/zh-CN/2026-06/tiktok-transcript-le-tueur-marocain-zarzour-horreurtiktok-horreur-histoire-mys-bfe8.md) — 730.5K views · `Rhetorical question with exotic hook` · 2026-06-11
 
@@ -340,6 +344,8 @@
 - [Why Grapevine Bark Is Stripped in Winter](../../breakdowns/zh-CN/2026-07/tiktok-transcript-why-is-the-bark-of-grapevines-stripped-in-winter-60fe.md) — 694.6K views · `False accusation / misunderstanding` · 2026-07-30
 
 - [New Student Sits in Bully's Seat on First Day](../../breakdowns/zh-CN/2026-07/tiktok-transcript-1-4m-views-51k-reactions-o-valent-o-mexeu-com-o-cara-errado-813e.md) — 684.0K views · `Immediate Conflict` · 2026-07-28
+
+- [Man Who Left Wife and Kids for Another Woman](../../breakdowns/zh-CN/2026-09/tiktok-transcript-1-4m-views-32k-reactions-ng-i-n-ng-ng-u-nh-t-m-c-mi-n-0dc0.md) — 658.5K views · `Insult Hook` · 2026-09-23
 
 - [Axel Oficial Reveals How He Composed Your Love Forever](../../breakdowns/zh-CN/2026-06/tiktok-transcript-esto-tiene-algo-axeloficial-revela-c-mo-compuso-uno-de-sus-m-4286.md) — 625.6K views · `Surprising reveal + emotional confession` · 2026-06-16
 

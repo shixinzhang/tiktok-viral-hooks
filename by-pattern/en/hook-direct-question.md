@@ -1,9 +1,11 @@
 # Hook Pattern: Direct Question
 
-> 2 viral TikTok videos that use this hook pattern.
+> 3 viral TikTok videos that use this hook pattern.
 
 [← Back to README](../../README.md)
 
+
+- [Why Don't You Come on Messenger](../../breakdowns/en/2026-09/tiktok-transcript-14m-views-339k-reactions-03045658506-31e0.md) — 4.2M views · `other` · 2026-09-25
 
 - [Why Don't You Come Talk on Messenger](../../breakdowns/en/2026-09/tiktok-transcript-13m-views-328k-reactions-03045658506-d988.md) — 4.1M views · `other` · 2026-09-22
 
