@@ -1,6 +1,6 @@
 # food Breakdowns
 
-> 16 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 17 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -12,6 +12,8 @@
 - [Carrot Beetroot Cabbage Lemon Juice Detox Benefits by Dr....](../../breakdowns/en/2026-06/tiktok-transcript-esse-suco-um-potente-detox-para-o-corpo-dr-dayan-siebra-no-01fe.md) — 17.3M views · `Bold Claim` · 2026-06-28
 
 - [Easy Chicken Alfredo Recipe With Chipotle Seasoning](../../breakdowns/en/2026-06/tiktok-transcript-my-new-chicken-alfredo-recipe-2595.md) — 14.1M views · `Direct invitation with sensory payoff` · 2026-06-27
+
+- [3 Easy Indian Mithai Recipes: Malpua and Moong Dal Halwa](../../breakdowns/en/2026-09/tiktok-transcript-9-5m-views-91k-reactions-viralreels-fbreels-trendingreels-in-e802.md) — 4.2M views · `Listicle Hook` · 2026-09-26
 
 - [Body Pain Relief Remedy with Milk and Spices](../../breakdowns/en/2026-06/tiktok-transcript-dekhein-21fe.md) — 3.6M views · `Conditional promise` · 2026-06-29
 

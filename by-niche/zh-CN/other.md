@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 274 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 277 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -377,6 +377,8 @@
 
 - [What Poets Really Mean in Hindi Exams | Ashok Jha Comedy](../../breakdowns/zh-CN/2026-08/tiktok-transcript-1-9m-views-10k-reactions-kavi-reels-fbreels-viral-comedy-com-e364.md) — 1.1M views · `Shared experience + rhetorical question` · 2026-08-19
 
+- [Touch the Arrow Target Twice If You Dare](../../breakdowns/zh-CN/2026-09/tiktok-transcript-2-8m-views-42k-reactions-03045658504-81ab.md) — 1.0M views · `Challenge/Question Hook` · 2026-09-26
+
 - [Indian Buffalo Grooming Before Sale for Better Price](../../breakdowns/zh-CN/2026-06/tiktok-transcript-tiktok-video-7645058607842741536-6fc0.md) — 1.0M views · `Curiosity gap` · 2026-06-15
 
 - [Stop Expecting People to Be What You Need](../../breakdowns/zh-CN/2026-07/tiktok-transcript-mindset-success-selfimprovement-relationships-boundaries-eee4.md) — 1.0M views · `Problem-Solution Promise` · 2026-07-19
@@ -431,6 +433,8 @@
 
 - [Forgetting Happens When You Wake Up One Day](../../breakdowns/zh-CN/2026-06/tiktok-transcript-dimenticare-perte-fyp-foryoupage-andiamoneiperte-3c46.md) — 711.7K views · `Relatable mundane setup with twist` · 2026-06-04
 
+- [How To Message Me Directly On Messenger](../../breakdowns/zh-CN/2026-09/tiktok-transcript-1-9m-views-67k-reactions-wafa-world-facebookreels-reels-tren-98f2.md) — 686.6K views · `Direct Benefit Hook` · 2026-09-26
+
 - [Handwritten Letter Inspired by Mon Laferte's Flaco](../../breakdowns/zh-CN/2026-09/tiktok-transcript-carta-inspirada-en-flaco-de-mon-laferte-te-extra-o-mucho-mi-bafd.md) — 684.6K views · `Emotional confession with poetic metaphor` · 2026-09-09
 
 - [Mountain Goat Walks Dangerous Cliff Edges Without Falling](../../breakdowns/zh-CN/2026-07/tiktok-transcript-1-3m-views-63k-reactions-dios-cre-un-animal-capaz-de-caminar-92a5.md) — 656.9K views · `Curiosity gap + surprising fact` · 2026-07-06
@@ -470,6 +474,8 @@
 - [Acting as If God Is Inside You Changes Everything](../../breakdowns/zh-CN/2026-07/tiktok-transcript-espiritualidade-espiritualidade-napoleonhill-consci-ncia-369-199a.md) — 515.7K views · `Conditional transformation` · 2026-07-22
 
 - [Clove Water Room Spray: Simple DIY Home Freshener](../../breakdowns/zh-CN/2026-08/tiktok-transcript-1-2m-views-27k-reactions-sometimes-the-simplest-homemade-rem-2343.md) — 508.3K views · `Curiosity gap + common misconception` · 2026-08-29
+
+- [Woman Recites Shahada on Target Mark in Video](../../breakdowns/zh-CN/2026-09/tiktok-transcript-1-4m-views-84k-reactions-6672.md) — 494.1K views · `Contrast & Confession` · 2026-09-25
 
 - [10 Amazing Health Facts You Need to Know](../../breakdowns/zh-CN/2026-07/tiktok-transcript-922k-views-22k-reactions-10-amazing-health-related-facts-ama-a73b.md) — 434.9K views · `Numbered list teaser` · 2026-07-09
 

@@ -1,6 +1,6 @@
 # Hook Pattern: Question Hook
 
-> 4 viral TikTok videos that use this hook pattern.
+> 5 viral TikTok videos that use this hook pattern.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -12,3 +12,5 @@
 - [Best Relationship Advice From a Father](../../breakdowns/zh-CN/2026-06/tiktok-transcript-what-s-the-best-relationship-advice-you-ve-ever-gotten-reddi-c803.md) — 3.9M views · `entertainment` · 2026-06-23
 
 - [Devi Chitralekha on Why Blessings Come From God](../../breakdowns/zh-CN/2026-09/tiktok-transcript-6-1m-views-302k-reactions-gratitude-blessings-life-motivatio-db55.md) — 2.3M views · `entertainment` · 2026-09-18
+
+- [Woman Says I Love You in Urdu, Asks Not to Get Angry](../../breakdowns/zh-CN/2026-09/tiktok-transcript-1-2m-views-41k-reactions-03045658506-6e79.md) — 436.7K views · `entertainment` · 2026-09-25

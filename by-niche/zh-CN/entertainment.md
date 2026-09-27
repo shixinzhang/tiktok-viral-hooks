@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 199 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 200 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -360,6 +360,8 @@
 - [The Bottom of the Epstein Rabbit Hole](../../breakdowns/zh-CN/2026-08/tiktok-transcript-878k-views-23k-reactions-what-s-really-at-the-bottom-of-the-a213.md) — 499.0K views · `Curiosity gap + direct address` · 2026-08-23
 
 - [Gentle Teacher Shocked as Real Estate Tycoon Rejects Her](../../breakdowns/zh-CN/2026-09/tiktok-transcript-c-gi-o-d-u-d-ng-ng-ng-ng-b-i-gia-b-s-t-ch-i-ph-nghe-l-do-xon-359d.md) — 441.9K views · `Apology tease` · 2026-09-06
+
+- [Woman Says I Love You in Urdu, Asks Not to Get Angry](../../breakdowns/zh-CN/2026-09/tiktok-transcript-1-2m-views-41k-reactions-03045658506-6e79.md) — 436.7K views · `Question Hook` · 2026-09-25
 
 - [What High EQ People Say When They Spill Wine](../../breakdowns/zh-CN/2026-08/tiktok-transcript-778k-views-8-5k-reactions-l-l-m-ly-r-u-khi-m-i-kh-ch-ng-i-eq-51c5.md) — 364.3K views · `Scenario question + promise of story` · 2026-08-15
 
