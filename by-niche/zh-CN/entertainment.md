@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 200 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 203 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -249,6 +249,8 @@
 
 - [Dear Talia: African AI Series Review](../../breakdowns/zh-CN/2026-09/tiktok-transcript-dear-talia-the-african-ai-series-you-need-to-watch-deartalia-31f1.md) — 1.5M views · `Contrast Hook` · 2026-09-16
 
+- [The Curse Part 2: A Barren Wife Story](../../breakdowns/zh-CN/2026-09/tiktok-transcript-part-2-the-curse-naijatiktok-viral-fyp-ai-uktiktok-3daf.md) — 1.5M views · `Conflict Hook` · 2026-09-27
+
 - [Man Longing for a Woman's Love Every Day](../../breakdowns/zh-CN/2026-09/tiktok-transcript-tiktok-video-7680354107663715592-ccdd.md) — 1.5M views · `Provocative Question` · 2026-09-17
 
 - [He Ended It Because He Wouldn't Promote My Work](../../breakdowns/zh-CN/2026-08/tiktok-transcript-alencarz-o-creatorsearchinsights-creatorsearchinsights2026-f-b5d5.md) — 1.5M views · `Curiosity gap + direct address` · 2026-08-09
@@ -363,6 +365,8 @@
 
 - [Woman Says I Love You in Urdu, Asks Not to Get Angry](../../breakdowns/zh-CN/2026-09/tiktok-transcript-1-2m-views-41k-reactions-03045658506-6e79.md) — 436.7K views · `Question Hook` · 2026-09-25
 
+- [Couple Argues Over IVF Treatment in Fate Cursed Part 2](../../breakdowns/zh-CN/2026-09/tiktok-transcript-part-2-fate-cursed-aistory-aistoryteller-ai-6053.md) — 414.3K views · `Conflict Hook` · 2026-09-27
+
 - [What High EQ People Say When They Spill Wine](../../breakdowns/zh-CN/2026-08/tiktok-transcript-778k-views-8-5k-reactions-l-l-m-ly-r-u-khi-m-i-kh-ch-ng-i-eq-51c5.md) — 364.3K views · `Scenario question + promise of story` · 2026-08-15
 
 - [Vinícius Júnior’s Apple Ad Song Revealed](../../breakdowns/zh-CN/2026-06/tiktok-transcript-what-song-is-vin-cius-j-nior-listening-to-apple-airpodsviniu-591c.md) — 363.7K views · `Curiosity Gap + Celebrity Tease` · 2026-06-21
@@ -378,6 +382,8 @@
 - [Eight Weird Habits That Physically Upgrade Your Frequency](../../breakdowns/zh-CN/2026-08/tiktok-transcript-48k-views-22k-reactions-i-used-to-think-changing-your-state-e932.md) — 271.5K views · `Curiosity gap with a numbered list` · 2026-08-09
 
 - [Fine Girl, No Filter  Sharp Mouth, Soft Heart  #tiktok #africtalesdai...](../../breakdowns/zh-CN/2026-07/tiktok-transcript-fine-girl-no-filter-sharp-mouth-soft-heart-tiktok-africtales-1bd4.md) — 266.3K views · `Mystery Reveal` · 2026-07-23
+
+- [Billionaire Dad Part 1: Daughter Rides Jeep to School](../../breakdowns/zh-CN/2026-09/tiktok-transcript-417k-views-19k-reactions-part-1-ang-bilyonaryong-tatay-melom-b4e7.md) — 243.5K views · `Protective Parent Confrontation` · 2026-09-26
 
 - [The Sukli of Kindness Part 2: True Goodness Never Fades](../../breakdowns/zh-CN/2026-08/tiktok-transcript-405k-views-27k-reactions-ang-sukli-ng-kabutihan-part-2-aral-1bb8.md) — 239.1K views · `Time-jump nostalgia` · 2026-08-17
 

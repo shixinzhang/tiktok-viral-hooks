@@ -1,6 +1,6 @@
 # finance Breakdowns
 
-> 34 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 35 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -66,6 +66,8 @@
 - [Gold Trading Technique Feels Like a Market Glitch](../../breakdowns/en/2026-09/tiktok-transcript-53k-views-6-1k-reactions-any-idea-quant-can-build-refine-lux-2c35.md) — 214.7K views · `Impossible promise` · 2026-09-03
 
 - [My Top 5 Trader Toolkit Apps](../../breakdowns/en/2026-09/tiktok-transcript-my-top-5-trader-toolkit-apps-43c4.md) — 211.9K views · `Listicle teaser` · 2026-09-02
+
+- [Abandoned Storage Unit Auctions: Real Profit](../../breakdowns/en/2026-09/tiktok-transcript-392k-views-11k-reactions-everyone-watches-those-storage-show-d8ff.md) — 195.1K views · `Controversial Curiosity Hook` · 2026-09-27
 
 - [Trump's 1933 Gold Playbook for Bitcoin Confiscation](../../breakdowns/en/2026-08/tiktok-transcript-the-1933-gold-playbook-how-trump-may-take-your-bitcoin-df3e.md) — 183.6K views · `Fear-based prediction` · 2026-08-12
 

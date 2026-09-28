@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 277 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 278 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -536,6 +536,8 @@
 - [Bloated After Eating Little? Try Spirulina Superfoods](../../breakdowns/en/2026-07/tiktok-transcript-laging-bloated-kahit-konti-lang-kinain-tyan-mo-rin-ba-ganito-0deb.md) — 235.9K views · `Problem Agitation` · 2026-07-29
 
 - [Comment Your Luck Next: Financial Blessing Coming Tomorrow](../../breakdowns/en/2026-08/tiktok-transcript-536k-views-28k-reactions-comment-nyo-na-mga-boss-baka-sa-iny-504e.md) — 212.8K views · `Direct challenge with conditional promise` · 2026-08-29
+
+- [Gujarati Reel Clip With Crowd Scene](../../breakdowns/en/2026-09/tiktok-transcript-679k-views-10k-reactions-30866358548-on-reels-dc3c.md) — 205.6K views · `Intriguing Regional Dialogue` · 2026-09-26
 
 - [Deep Lines on the Karakoram Highway: Scenic Drive Through...](../../breakdowns/en/2026-08/tiktok-transcript-2-9k-views-43k-reactions-deep-lines-naltar-expressway-by-ree-c45a.md) — 200.0K views · `Direct advice with negative consequence` · 2026-08-11
 
