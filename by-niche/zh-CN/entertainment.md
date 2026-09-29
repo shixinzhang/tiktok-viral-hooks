@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 203 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 207 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -64,6 +64,8 @@
 - [Why Exes Demand Respect After Disrespecting You](../../breakdowns/zh-CN/2026-08/tiktok-transcript-tiktok-video-7671785610285174037-0aae.md) — 7.6M views · `Direct accusation` · 2026-08-09
 
 - [Fruit Seller's Emotional AI Story](../../breakdowns/zh-CN/2026-06/tiktok-transcript-fruits-fruit-ai-aistory-emotional-emotionalstory-56ca.md) — 7.3M views · `Curiosity gap + Incentive` · 2026-06-25
+
+- [Divorced Man Asks Why Nobody Likes Him](../../breakdowns/zh-CN/2026-09/tiktok-transcript-18m-views-532k-reactions-wafa-world-facebookreels-reels-tren-276c.md) — 7.2M views · `Controversial Question` · 2026-09-28
 
 - [Silent Burden Episode 2: Ramon Fights for His Kids](../../breakdowns/zh-CN/2026-09/tiktok-transcript-14m-views-398k-reactions-tahimik-na-pasanin-episode-2-iniwan-a815.md) — 7.2M views · `Relatable Question` · 2026-09-12
 
@@ -163,6 +165,8 @@
 
 - [Part 2: Confronting Steven Over the Birthday Lie](../../breakdowns/zh-CN/2026-06/tiktok-transcript-part-2-diy-storytime-fyp-foryou-tiktok-2744.md) — 2.5M views · `Betrayal Reveal` · 2026-06-01
 
+- [La Siguanaba: The Punishment of Unfaithful Men](../../breakdowns/zh-CN/2026-09/tiktok-transcript-la-siguanaba-el-castigo-de-los-hombres-infieles-historiadete-1000.md) — 2.5M views · `Emotional Outburst` · 2026-09-28
+
 - [Why Exes Demand Respect After Disrespecting You](../../breakdowns/zh-CN/2026-08/tiktok-transcript-tiktok-video-7671785610285174037-a923.md) — 2.5M views · `Direct accusation` · 2026-08-09
 
 - [Poor Son Pursues CSS Exam Part 1](../../breakdowns/zh-CN/2026-09/tiktok-transcript-gareeb-ka-bcha-or-css-part-1-creatorsearchinginsight-aianiam-ad96.md) — 2.4M views · `Provocative Question Hook` · 2026-09-13
@@ -204,6 +208,8 @@
 - [He Killed Victims and Attended Their Funerals: Part 1](../../breakdowns/zh-CN/2026-08/tiktok-transcript-ele-mat4va-suas-v-timas-e-ia-no-vel-rio-parte-1-fyp-foryou-f-e044.md) — 2.0M views · `Mystery + Authority Twist` · 2026-08-08
 
 - [Hazrat Ali Quotes on True Friendship and Separation](../../breakdowns/zh-CN/2026-08/tiktok-transcript-207k-views-353k-reactions-d-o-s-t-i-northerngirl-e956.md) — 2.0M views · `Authority + Consequence` · 2026-08-08
+
+- [Punjabi Girl Jokes About Aunties Giving Numbers on Facebook](../../breakdowns/zh-CN/2026-09/tiktok-transcript-5-2m-views-142k-reactions-han-btao-kon-hy-everyonehighlights-d414.md) — 2.0M views · `Callout/Contrast` · 2026-09-28
 
 - [Surprising Family With My Newborn Baby](../../breakdowns/zh-CN/2026-07/tiktok-transcript-took-my-newborn-surprise-the-family-foryou-tiktok-fyp-babylo-a59b.md) — 1.9M views · `Exclamatory Surprise` · 2026-07-27
 
@@ -366,6 +372,8 @@
 - [Woman Says I Love You in Urdu, Asks Not to Get Angry](../../breakdowns/zh-CN/2026-09/tiktok-transcript-1-2m-views-41k-reactions-03045658506-6e79.md) — 436.7K views · `Question Hook` · 2026-09-25
 
 - [Couple Argues Over IVF Treatment in Fate Cursed Part 2](../../breakdowns/zh-CN/2026-09/tiktok-transcript-part-2-fate-cursed-aistory-aistoryteller-ai-6053.md) — 414.3K views · `Conflict Hook` · 2026-09-27
+
+- [Woman Says She Wants a Long Hug in Hindi Reel](../../breakdowns/zh-CN/2026-09/tiktok-transcript-1m-views-37k-reactions-facebookreels-viralreels-trendingreel-9d27.md) — 388.8K views · `Direct Emotional Request` · 2026-09-28
 
 - [What High EQ People Say When They Spill Wine](../../breakdowns/zh-CN/2026-08/tiktok-transcript-778k-views-8-5k-reactions-l-l-m-ly-r-u-khi-m-i-kh-ch-ng-i-eq-51c5.md) — 364.3K views · `Scenario question + promise of story` · 2026-08-15
 

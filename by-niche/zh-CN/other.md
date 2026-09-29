@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 278 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 279 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -442,6 +442,8 @@
 - [Real Fortune Telling: Write Your First Name in Comments](../../breakdowns/zh-CN/2026-07/tiktok-transcript-je-vais-te-faire-de-la-vrai-divination-crit-ton-pr-nom-en-co-8805.md) — 630.1K views · `Direct Command with Mystery` · 2026-07-06
 
 - [Ojalá Un Día Te Duél Mi Ausencia Mon Laferte](../../breakdowns/zh-CN/2026-06/tiktok-transcript-tal-vez-nunca-entendi-cu-nto-lo-am-monlaferte-decepcion-tikt-2163.md) — 629.6K views · `Ojalá + dolor inverso` · 2026-06-22
+
+- [PM Awas Yojana 2026 New List: Check Your Name](../../breakdowns/zh-CN/2026-09/tiktok-transcript-1-1m-views-18k-reactions-pm-awas-2026-new-list-pm-awas-yojan-a696.md) — 624.5K views · `Breaking News Alert` · 2026-09-28
 
 - [Isha Koppikar Addresses NEET Issue and Fan Concerns](../../breakdowns/zh-CN/2026-08/tiktok-transcript-12k-views-28k-reactions-to-everyone-feeling-anxious-angry-or-55d0.md) — 619.7K views · `Direct address + contrarian stance` · 2026-08-01
 
