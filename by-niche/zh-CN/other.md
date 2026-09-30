@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 279 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 283 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -115,6 +115,8 @@
 
 - [Fluffy Winter Boots That Beat Horse Hoof Look](../../breakdowns/zh-CN/2026-09/tiktok-transcript-i-will-proudly-wear-these-because-i-don-t-feel-like-a-wannab-84a8.md) — 5.3M views · `Comparison Hook` · 2026-09-22
 
+- [Rain Turns Solo River Bivouac Into an Unforgettable Night](../../breakdowns/zh-CN/2026-09/tiktok-transcript-je-pensais-que-la-pluie-allait-g-cher-mon-bivouac-mais-elle-cb8b.md) — 5.0M views · `Expectation vs. Reality Twist` · 2026-09-29
+
 - [Aloo's Goat Farm Story: Stolen Goat to Hidden Truth](../../breakdowns/zh-CN/2026-09/tiktok-transcript-aloo-s-goat-farm-story-from-stolen-goat-to-hidden-truth-crea-725c.md) — 4.6M views · `Direct Address` · 2026-09-10
 
 - [Nuclear Engineer Reacts to Nuking Mars](../../breakdowns/zh-CN/2026-09/tiktok-transcript-elon-musk-wants-to-nuke-mars-nuclear-engineer-reacts-35cb.md) — 4.4M views · `Myth Busting` · 2026-09-11
@@ -217,6 +219,8 @@
 
 - [Tailored Set With High-Waist Pants And Long Vest](../../breakdowns/zh-CN/2026-05/tiktok-transcript-look-de-milh-es-conjuntofeminino-alfaiataria-elegante-177d.md) — 2.4M views · `Curiosity Gap` · 2026-05-22
 
+- [Respect and Trust Build a Strong Relationship](../../breakdowns/zh-CN/2026-09/tiktok-transcript-5-9m-views-236k-reactions-s-s-s-reels-emotional-relationship-d005.md) — 2.4M views · `Shock Reveal` · 2026-09-30
+
 - [Men Feel Pain But Don't Express It](../../breakdowns/zh-CN/2026-06/tiktok-transcript-6-2m-views-297k-reactions-aadmi-quotes-realtionship-podcast-7b6b.md) — 2.3M views · `Contradiction/Revelation` · 2026-06-01
 
 - [They Call Me a Stranger Here](../../breakdowns/zh-CN/2026-06/tiktok-transcript-capcut-3ydo-50ca.md) — 2.3M views · `Contrast & Warning` · 2026-06-27
@@ -238,6 +242,8 @@
 - [Funny Couple 4th of July Graphic Tees](../../breakdowns/zh-CN/2026-07/tiktok-transcript-funnyshirt-coupleshirt-4thofjuly-graphictees-funnycouple-f3d7.md) — 2.1M views · `Single-word exclamation` · 2026-07-17
 
 - [Baby Elephant Plays with a Plastic Bottle](../../breakdowns/zh-CN/2026-07/tiktok-transcript-daa-bejli-bill-trending-baby-ai-unfrezzmyaccount-804-32a1.md) — 2.1M views · `Unfamiliar language opener` · 2026-07-21
+
+- [Four Years of Therapy Explained in 20 Seconds](../../breakdowns/zh-CN/2026-09/tiktok-transcript-four-years-of-therapy-in-20-seconds-bca2.md) — 2.1M views · `Time Compression Promise` · 2026-09-29
 
 - [10 Things to Avoid After C-Section for Faster Recovery](../../breakdowns/zh-CN/2026-09/tiktok-transcript-c-section-delivery-recovery-10-7499.md) — 2.0M views · `Warning + Timeframe` · 2026-09-15
 
@@ -352,6 +358,8 @@
 - [Old Cow Inheritance: A Father's Final Words](../../breakdowns/zh-CN/2026-08/tiktok-transcript-aistory-fruits-fruitstory-france-storytime-da2f.md) — 1.2M views · `The Inheritance Twist` · 2026-08-01
 
 - [Share God’s Word: Never Waste Your Chance](../../breakdowns/zh-CN/2026-08/tiktok-transcript-tiktok-video-7662285999619198230-d3ac.md) — 1.2M views · `Direct call-to-action with urgency` · 2026-08-06
+
+- [Qari Abu Rayhan Recites Quran on Returning to Allah](../../breakdowns/zh-CN/2026-09/tiktok-transcript-3-9m-views-440k-reactions-qari-abu-rayhan-d493.md) — 1.2M views · `Divine Address` · 2026-09-29
 
 - [Amanda Cole Hewitt Death Investigation Reopened by Mother](../../breakdowns/zh-CN/2026-09/tiktok-transcript-2-6m-views-20k-reactions-exposedjusticeisstilljustice-it-s-b-a3c7.md) — 1.2M views · `Shocking Revelation` · 2026-09-06
 
