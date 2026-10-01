@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 208 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 211 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -225,6 +225,8 @@
 
 - [Trust and Funerals Never Return Once Gone](../../breakdowns/zh-CN/2026-09/tiktok-transcript-beshak-kurulusosman-viral-1millionaudition-turkishseries-bur-63af.md) — 1.8M views · `Metaphorical Comparison` · 2026-09-19
 
+- [Final Part: The Curse Nollywood Story](../../breakdowns/zh-CN/2026-09/tiktok-transcript-final-part-the-curse-naijatiktok-fyp-viral-ai-ff42.md) — 1.8M views · `Recognition Hook` · 2026-09-30
+
 - [True Life Story: I Passed My JAMB Exam](../../breakdowns/zh-CN/2026-08/tiktok-transcript-full-story-based-on-true-life-experience-aigenerated-fyp-vir-4d18.md) — 1.8M views · `Mystery/Secret Hook` · 2026-08-09
 
 - [Editing a Dramatic Dragon Scene Twist](../../breakdowns/zh-CN/2026-06/tiktok-transcript-replying-to-sweetiequeen337-welcome-to-my-channel-here-i-edi-7194.md) — 1.7M views · `Immediate conflict` · 2026-06-17
@@ -333,6 +335,8 @@
 
 - [Would You Rather Luxury Edition Part 2](../../breakdowns/zh-CN/2026-09/tiktok-transcript-partie-2-tu-pr-f-res-version-luxe-tupreferes-tupreferesquoi-3856.md) — 802.5K views · `Would You Rather` · 2026-09-25
 
+- [Funny Cat and Horse Clip Part 159](../../breakdowns/zh-CN/2026-09/tiktok-transcript-funny-animals-2026-funny-cats-horse-video-part-159-funnyanim-ba00.md) — 779.3K views · `absurdist command` · 2026-09-30
+
 - [When Love Takes Over, Broken Parts Start Breathing Again](../../breakdowns/zh-CN/2026-08/tiktok-transcript-1-4m-views-91k-reactions-when-love-takes-over-even-the-broke-6ff5.md) — 756.3K views · `Direct confrontation with a universal truth` · 2026-08-22
 
 - [The Mysterious Old Man — Part 1 | Kwentolohiya](../../breakdowns/zh-CN/2026-09/tiktok-transcript-1-3m-views-25k-reactions-ang-misteryosong-lolo-part-1-kwento-3ed5.md) — 746.5K views · `Interruption + Request` · 2026-09-08
@@ -372,6 +376,8 @@
 - [Gentle Teacher Shocked as Real Estate Tycoon Rejects Her](../../breakdowns/zh-CN/2026-09/tiktok-transcript-c-gi-o-d-u-d-ng-ng-ng-ng-b-i-gia-b-s-t-ch-i-ph-nghe-l-do-xon-359d.md) — 441.9K views · `Apology tease` · 2026-09-06
 
 - [Woman Says I Love You in Urdu, Asks Not to Get Angry](../../breakdowns/zh-CN/2026-09/tiktok-transcript-1-2m-views-41k-reactions-03045658506-6e79.md) — 436.7K views · `Question Hook` · 2026-09-25
+
+- [Loyal Woman Stands by Struggling Man](../../breakdowns/zh-CN/2026-09/tiktok-transcript-1-1m-views-32k-reactions-kadang-mburi-omah-on-reels-98c8.md) — 433.7K views · `Universal Truth + Contrast` · 2026-09-30
 
 - [Couple Argues Over IVF Treatment in Fate Cursed Part 2](../../breakdowns/zh-CN/2026-09/tiktok-transcript-part-2-fate-cursed-aistory-aistoryteller-ai-6053.md) — 414.3K views · `Conflict Hook` · 2026-09-27
 

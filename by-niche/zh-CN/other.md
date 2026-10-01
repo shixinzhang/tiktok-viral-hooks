@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 283 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 285 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -391,6 +391,8 @@
 
 - [Stop Expecting People to Be What You Need](../../breakdowns/zh-CN/2026-07/tiktok-transcript-mindset-success-selfimprovement-relationships-boundaries-eee4.md) — 1.0M views · `Problem-Solution Promise` · 2026-07-19
 
+- [Morning at the Farm With a Young Foal](../../breakdowns/zh-CN/2026-09/tiktok-transcript-je-pensais-simplement-commencer-une-journ-e-ordinaire-la-fer-83ad.md) — 1.0M views · `Expectation vs. Reality / Simple Pleasures` · 2026-09-29
+
 - [Macaroni and Cheese vs Chicken Nuggets: Which Do You Prefer?](../../breakdowns/zh-CN/2026-05/tiktok-transcript-tu-pr-f-res-macaroni-au-fromage-nuggets-de-poulet-snickers-8840.md) — 1.0M views · `Challenge/Test` · 2026-05-23
 
 - [Stop Being Mad at People for Not Meeting Your Needs](../../breakdowns/zh-CN/2026-07/tiktok-transcript-mindset-success-selfimprovement-relationships-boundaries-a180.md) — 994.9K views · `Problem-solution promise` · 2026-07-19
@@ -486,6 +488,8 @@
 - [Clove Water Room Spray: Simple DIY Home Freshener](../../breakdowns/zh-CN/2026-08/tiktok-transcript-1-2m-views-27k-reactions-sometimes-the-simplest-homemade-rem-2343.md) — 508.3K views · `Curiosity gap + common misconception` · 2026-08-29
 
 - [Woman Recites Shahada on Target Mark in Video](../../breakdowns/zh-CN/2026-09/tiktok-transcript-1-4m-views-84k-reactions-6672.md) — 494.1K views · `Contrast & Confession` · 2026-09-25
+
+- [Woman Renovates Home After Divorce and Starting Over](../../breakdowns/zh-CN/2026-09/tiktok-transcript-vous-aimez-la-couleur-de-la-peinture-maison-nettoyage-travai-99f3.md) — 455.1K views · `Personal Transformation Hook` · 2026-09-29
 
 - [10 Amazing Health Facts You Need to Know](../../breakdowns/zh-CN/2026-07/tiktok-transcript-922k-views-22k-reactions-10-amazing-health-related-facts-ama-a73b.md) — 434.9K views · `Numbered list teaser` · 2026-07-09
 
