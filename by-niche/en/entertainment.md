@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 211 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 216 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -160,6 +160,8 @@
 - [Ana de Armas Through the Years](../../breakdowns/en/2026-07/tiktok-transcript-ana-de-armas-through-the-years-anadearmas-fyp-foryou-through-c66a.md) — 2.7M views · `Identity Reveal + Underdog Origin` · 2026-07-14
 
 - [True Friendship Story Part 2: He Took His Job](../../breakdowns/en/2026-08/tiktok-transcript-part-2-of-the-true-friendship-story-tungtungtungsahur-tungtu-bdb0.md) — 2.7M views · `Unexpected twist` · 2026-08-03
+
+- [Woman Asks Why You Don't Message Her on Messenger](../../breakdowns/en/2026-10/tiktok-transcript-7-8m-views-88k-reactions-trendingreels-viral-viralreels-tren-0f00.md) — 2.6M views · `Direct Question` · 2026-10-01
 
 - [Motivational Spanish Message About Self-Worth and Effort](../../breakdowns/en/2026-09/tiktok-transcript-22k-views-148k-reactions-tinitov-0716.md) — 2.6M views · `Direct compliment` · 2026-09-16
 
@@ -369,9 +371,13 @@
 
 - [Miami's Most Addictive Ice Cream and Its Deadly Secret](../../breakdowns/en/2026-06/tiktok-transcript-la-glace-la-plus-addictive-de-miami-et-le-secret-mortel-derr-ad03.md) — 570.5K views · `Forbidden Mystery` · 2026-06-11
 
+- [Street Interview: Was Jesus Resurrected?](../../breakdowns/en/2026-10/tiktok-transcript-jes-s-resucit-dios-biblia-paratii-entrevista-tiktok-2996.md) — 529.6K views · `Provocative Question` · 2026-10-02
+
 - [Husband Works Late, Wife Shares Improvised Lunch](../../breakdowns/en/2026-07/tiktok-transcript-son-mari-travaille-tard-elle-partage-un-d-jeuner-improvis-av-5a22.md) — 507.4K views · `Setup with a phone call` · 2026-07-28
 
 - [The Bottom of the Epstein Rabbit Hole](../../breakdowns/en/2026-08/tiktok-transcript-878k-views-23k-reactions-what-s-really-at-the-bottom-of-the-a213.md) — 499.0K views · `Curiosity gap + direct address` · 2026-08-23
+
+- [Richest Girl Falls for Poor New Student Movie Recap](../../breakdowns/en/2026-10/tiktok-transcript-tiktokfilmtvcompetition-filmbreaker-moviereview-usmovies-49c2.md) — 489.0K views · `Status Contrast` · 2026-10-01
 
 - [Gentle Teacher Shocked as Real Estate Tycoon Rejects Her](../../breakdowns/en/2026-09/tiktok-transcript-c-gi-o-d-u-d-ng-ng-ng-ng-b-i-gia-b-s-t-ch-i-ph-nghe-l-do-xon-359d.md) — 441.9K views · `Apology tease` · 2026-09-06
 
@@ -391,7 +397,11 @@
 
 - [Spiderman Bus Stunt Behind the Scenes FX](../../breakdowns/en/2026-08/tiktok-transcript-866k-views-15k-reactions-spiderman-stunt-on-bus-behind-fx-544e.md) — 353.6K views · `Immediate action call` · 2026-08-17
 
+- [Pastor Tells Williams His Prayers Go Unheard](../../breakdowns/en/2026-09/tiktok-transcript-part-3-fate-cursed-aistoryteller-aistory-ai-a70c.md) — 343.4K views · `Direct Address & Spiritual Challenge` · 2026-09-29
+
 - [Dubai or New York Tomorrow? Travel Dilemmas](../../breakdowns/en/2026-09/tiktok-transcript-tu-pr-f-res-tupreferes-tupreferesquoi-dilemme-3a9e.md) — 330.9K views · `Interactive choice ladder` · 2026-09-07
+
+- [Advice I Wish I Heard as a Teenager](../../breakdowns/en/2026-10/tiktok-transcript-eu-queria-ter-ouvido-isso-quando-adolescente-milionario-ef43.md) — 311.7K views · `Repetition + Urgency` · 2026-10-01
 
 - [Escanor's Fuckdometer Scale: From Virgin Mary to Bonnie Blue](../../breakdowns/en/2026-06/tiktok-transcript-escanor-escanor-sevendeadlysins-7deadlysins-anime-whodecided-579e.md) — 271.6K views · `absurd scale` · 2026-06-06
 
