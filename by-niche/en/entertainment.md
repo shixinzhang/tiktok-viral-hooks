@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 216 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 218 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -403,6 +403,8 @@
 
 - [Advice I Wish I Heard as a Teenager](../../breakdowns/en/2026-10/tiktok-transcript-eu-queria-ter-ouvido-isso-quando-adolescente-milionario-ef43.md) — 311.7K views · `Repetition + Urgency` · 2026-10-01
 
+- [Al-Hawari Satirically Impersonates Houthi Speech](../../breakdowns/en/2026-10/tiktok-transcript-video-e25a.md) — 298.7K views · `Direct Address & Rhythmic Repetition` · 2026-10-01
+
 - [Escanor's Fuckdometer Scale: From Virgin Mary to Bonnie Blue](../../breakdowns/en/2026-06/tiktok-transcript-escanor-escanor-sevendeadlysins-7deadlysins-anime-whodecided-579e.md) — 271.6K views · `absurd scale` · 2026-06-06
 
 - [Eight Weird Habits That Physically Upgrade Your Frequency](../../breakdowns/en/2026-08/tiktok-transcript-48k-views-22k-reactions-i-used-to-think-changing-your-state-e932.md) — 271.5K views · `Curiosity gap with a numbered list` · 2026-08-09
@@ -418,6 +420,8 @@
 - [Rare Original Photo of Nikola Tesla Compared to Internet...](../../breakdowns/en/2026-08/tiktok-transcript-412k-views-9-7k-reactions-rare-original-photo-of-nikola-tesl-a726.md) — 230.9K views · `Curiosity Gap + Visual Contrast` · 2026-08-21
 
 - [Create an Alter Ego to Reach Your Craziest Dreams](../../breakdowns/en/2026-07/tiktok-transcript-crie-um-alter-ego-se-voc-quer-aprender-a-fazer-dinheiro-no-d-eac1.md) — 223.1K views · `Direct Promise` · 2026-07-29
+
+- [Yemeni Satirical Comedy Skit by Muhammad Al-Hawari](../../breakdowns/en/2026-10/tiktok-transcript-414k-views-8-7k-reactions-comedy-80ca.md) — 206.5K views · `invocation_declaration` · 2026-10-01
 
 - [Ego, Ego-Death and Psilocybin: The Self You’re Protecting...](../../breakdowns/en/2026-08/tiktok-transcript-94k-views-16k-reactions-ego-ego-death-and-psilocybin-the-sel-cccd.md) — 202.6K views · `Provocative statement + immediate challenge` · 2026-08-16
 

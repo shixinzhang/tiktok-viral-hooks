@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 285 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 287 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -544,6 +544,10 @@
 - [God Wanted You to Hear This: You Are Beautiful](../../breakdowns/en/2026-09/tiktok-transcript-29k-reactions-2-3k-shares-if-this-video-came-across-you-god-9e1b.md) — 271.3K views · `Direct address with promise of validation` · 2026-09-06
 
 - [Sheetal Devi Wins Gold at Khelo India Para Games](../../breakdowns/en/2026-09/tiktok-transcript-984k-views-207k-reactions-jammu-and-kashmir-s-armless-archer-7e40.md) — 255.9K views · `Promise of transformation` · 2026-09-01
+
+- [Lion Cannot Stand Heat Inside Our Cave](../../breakdowns/en/2026-10/tiktok-transcript-dear-tiktok-please-don-t-underview-my-videos-foryoupage-fyp-e308.md) — 252.0K views · `shocking fact` · 2026-10-02
+
+- [How Tourists Can Stay in Spain Legally via Study](../../breakdowns/en/2026-10/tiktok-transcript-llega-a-madrid-como-turista-y-qu-date-en-forma-legal-la-esta-0c24.md) — 246.4K views · `Problem-Solution Hook` · 2026-10-02
 
 - [456K views · 4.4K reactions | শাক দিয়ে মাছ ডেকে.... #motivation # | orins cooking](../../breakdowns/en/2026-07/tiktok-transcript-456k-views-4-4k-reactions-motivation-orins-cooking-5b13.md) — 241.2K views · `Exaggerated complaint` · 2026-07-24
 
