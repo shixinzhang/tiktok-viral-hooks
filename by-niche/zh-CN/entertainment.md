@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 218 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 219 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -376,6 +376,8 @@
 - [Husband Works Late, Wife Shares Improvised Lunch](../../breakdowns/zh-CN/2026-07/tiktok-transcript-son-mari-travaille-tard-elle-partage-un-d-jeuner-improvis-av-5a22.md) — 507.4K views · `Setup with a phone call` · 2026-07-28
 
 - [The Bottom of the Epstein Rabbit Hole](../../breakdowns/zh-CN/2026-08/tiktok-transcript-878k-views-23k-reactions-what-s-really-at-the-bottom-of-the-a213.md) — 499.0K views · `Curiosity gap + direct address` · 2026-08-23
+
+- [World's Most Consumed Drink Quiz Question](../../breakdowns/zh-CN/2026-10/tiktok-transcript-quiz-quelle-est-la-boisson-la-plus-consomm-e-au-monde-quiz-c-9c24.md) — 497.7K views · `Question-Answer Hook` · 2026-10-03
 
 - [Richest Girl Falls for Poor New Student Movie Recap](../../breakdowns/zh-CN/2026-10/tiktok-transcript-tiktokfilmtvcompetition-filmbreaker-moviereview-usmovies-49c2.md) — 489.0K views · `Status Contrast` · 2026-10-01
 

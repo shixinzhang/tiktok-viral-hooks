@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 287 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 291 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -139,6 +139,8 @@
 
 - [Why Don't You Come Talk on Messenger](../../breakdowns/zh-CN/2026-09/tiktok-transcript-13m-views-328k-reactions-03045658506-d988.md) — 4.1M views · `Direct Question` · 2026-09-22
 
+- [Will You Dare Touch the Arrow Target Twice](../../breakdowns/zh-CN/2026-10/tiktok-transcript-10m-views-163k-reactions-03045658506-1e58.md) — 4.1M views · `Challenge Hook` · 2026-10-03
+
 - [Why Gardeners Remove Small Tomatoes](../../breakdowns/zh-CN/2026-07/tiktok-transcript-8-3m-views-120k-reactions-why-gardeners-remove-small-tomatoe-fdbc.md) — 4.0M views · `Sensory Appreciation` · 2026-07-12
 
 - [Tom Hardy Explains Why He Chooses to Be Single](../../breakdowns/zh-CN/2026-07/tiktok-transcript-tom-hardy-motivation-tomhardy-relationshipgoals-relationship-9d4f.md) — 4.0M views · `Contradiction/Reframe` · 2026-07-02
@@ -264,6 +266,8 @@
 - [Teach Your Daughter Financial Independence for Self-Respect](../../breakdowns/zh-CN/2026-07/tiktok-transcript-one-day-i-will-tell-my-daughter-this-make-your-own-money-not-fc83.md) — 1.9M views · `Promise + Imperative` · 2026-07-10
 
 - [If Someone Asks What You Did Today, Don't Say It Was Hard](../../breakdowns/zh-CN/2026-06/tiktok-transcript-699k-views-100k-reactions-theek-hai-ashish-bagrecha-c2a0.md) — 1.8M views · `Hypothetical Question + Emotional Contrast` · 2026-06-01
+
+- [1966 Kids Predict Automation and Job Loss](../../breakdowns/zh-CN/2026-10/tiktok-transcript-future-according-to-kids-documentary-from-1966-ai-future-une-5eea.md) — 1.8M views · `Expectation Subversion` · 2026-10-03
 
 - [Platform Shoes Fall Fashion Look](../../breakdowns/zh-CN/2026-09/tiktok-transcript-platformshoes-fall-fallfashion-superbrandclub-viralontiktoks-2b08.md) — 1.8M views · `Incomplete / Unverifiable` · 2026-09-22
 
@@ -435,6 +439,8 @@
 
 - [Breakup Advice for Teenage Girls](../../breakdowns/zh-CN/2026-06/tiktok-transcript-fup-f002.md) — 811.2K views · `Direct Address + Authority` · 2026-06-22
 
+- [Samina Rani Invites Followers to WhatsApp](../../breakdowns/zh-CN/2026-10/tiktok-transcript-2-2m-views-56k-reactions-hi-samina-rani-07e9.md) — 799.0K views · `Direct Address & Platform Transition` · 2026-10-03
+
 - [College: Is It Entirely Useless for Growth?](../../breakdowns/zh-CN/2026-06/tiktok-transcript-tiktok-video-7594956396702092557-7611.md) — 733.7K views · `Challenge + Question` · 2026-06-17
 
 - [Day 1 Content Creation Series Start Without Showing Face](../../breakdowns/zh-CN/2026-07/tiktok-transcript-creatorsearchinsights-day-1-content-creation-series-agar-aap-2cf1.md) — 717.9K views · `Problem-Agitation-Solution (PAS)` · 2026-07-31
@@ -562,6 +568,8 @@
 - [If you have a mole on your hand, this could say a lot about your fate...](../../breakdowns/zh-CN/2026-07/tiktok-transcript-if-you-have-a-mole-on-your-hand-this-could-say-a-lot-about-y-ed5d.md) — 192.1K views · `Mystery & Curiosity` · 2026-07-23
 
 - [Lucky Commenter Wins ₱35,000 Premium Prize](../../breakdowns/zh-CN/2026-09/tiktok-transcript-402k-views-18k-reactions-comment-nyo-na-mga-boss-baka-sa-iny-9869.md) — 175.3K views · `Direct address + conditional reward` · 2026-09-07
+
+- [How to Learn Faster Than Others: 3 Study Strategies](../../breakdowns/zh-CN/2026-10/tiktok-transcript-ph-ng-ph-p-c-i-thi-n-t-duy-h-c-h-i-c-a-b-n-caocams-thaygiaoc-d81d.md) — 165.8K views · `Curiosity Gap + Problem-Solution` · 2026-10-04
 
 - [If You Have a Brother, You Are Richer Than You Think](../../breakdowns/zh-CN/2026-08/tiktok-transcript-14k-reactions-2-3k-shares-4036.md) — 152.7K views · `Value affirmation` · 2026-08-25
 
