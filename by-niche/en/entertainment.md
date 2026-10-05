@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 219 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 223 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -223,6 +223,8 @@
 
 - [Sharing My Story at Blue Valley Northwest Graduation](../../breakdowns/en/2026-05/tiktok-transcript-dream-come-true-getting-to-share-my-story-in-front-of-people-a9cc.md) — 1.9M views · `Shared anticipation` · 2026-05-27
 
+- [TikTok Fame 2020: The Breakup That Started the Drama](../../breakdowns/en/2026-10/tiktok-transcript-let-me-know-if-u-want-to-hear-more-about-the-momiiblade-era-3abb.md) — 1.8M views · `Part Two Tease` · 2026-10-04
+
 - [Joachim Predicts 2026 World Cup Winner After 3 Correct Picks](../../breakdowns/en/2026-06/tiktok-transcript-depuis-3-ans-joachim-pr-dit-les-vainqueurs-de-chaque-coupe-d-5b24.md) — 1.8M views · `Pattern: Prediction Reveal` · 2026-06-14
 
 - [Trust and Funerals Never Return Once Gone](../../breakdowns/en/2026-09/tiktok-transcript-beshak-kurulusosman-viral-1millionaudition-turkishseries-bur-63af.md) — 1.8M views · `Metaphorical Comparison` · 2026-09-19
@@ -327,6 +329,8 @@
 
 - [Long Live the Emotional Ones - Aléxia Porto](../../breakdowns/en/2026-07/tiktok-transcript-vida-longa-aos-emocionados-al-xia-porto-poesia-poesias-alexi-60fd.md) — 870.5K views · `Bold declaration` · 2026-07-17
 
+- [Father Tells Son His Only Dream Is for Him to Be a Good P...](../../breakdowns/en/2026-10/tiktok-transcript-2-6m-views-101k-reactions-baappage-6691.md) — 849.3K views · `Direct Question Hook` · 2026-10-04
+
 - [The More Honest You Are, the Sooner You Get Fired](../../breakdowns/en/2026-08/tiktok-transcript-18k-reactions-2k-shares-c-ng-th-t-th-c-ng-d-b-sa-th-i-congso-e38a.md) — 837.7K views · `Rhetorical question + familiar characters` · 2026-08-15
 
 - [Princess Anna Flees Political Marriage to England](../../breakdowns/en/2026-07/tiktok-transcript-france-movie-francaise-tiktokfilm-fyp-e930.md) — 835.4K views · `Immediate Tension` · 2026-07-27
@@ -401,6 +405,8 @@
 
 - [Pastor Tells Williams His Prayers Go Unheard](../../breakdowns/en/2026-09/tiktok-transcript-part-3-fate-cursed-aistoryteller-aistory-ai-a70c.md) — 343.4K views · `Direct Address & Spiritual Challenge` · 2026-09-29
 
+- [Ex-Boyfriend Pathological Liar Storytime Part 3](../../breakdowns/en/2026-10/tiktok-transcript-replying-to-heres-another-part-momiinlade-storytime-ex-6fcb.md) — 335.1K views · `Continuation Hook` · 2026-10-04
+
 - [Dubai or New York Tomorrow? Travel Dilemmas](../../breakdowns/en/2026-09/tiktok-transcript-tu-pr-f-res-tupreferes-tupreferesquoi-dilemme-3a9e.md) — 330.9K views · `Interactive choice ladder` · 2026-09-07
 
 - [Advice I Wish I Heard as a Teenager](../../breakdowns/en/2026-10/tiktok-transcript-eu-queria-ter-ouvido-isso-quando-adolescente-milionario-ef43.md) — 311.7K views · `Repetition + Urgency` · 2026-10-01
@@ -432,6 +438,8 @@
 - [Married to a Comatose Tycoon: My Daily Routine of Annoyin...](../../breakdowns/en/2026-08/tiktok-transcript-part23-married-to-a-comatose-tycoon-my-daily-routine-annoy-h-b421.md) — 164.8K views · `Conflict setup with high stakes` · 2026-08-01
 
 - [Last Part- Fine Girl, No Filter  Sharp Mouth, Soft Heart  #part2 #vir...](../../breakdowns/en/2026-07/tiktok-transcript-last-part-fine-girl-no-filter-sharp-mouth-soft-heart-part2-v-173e.md) — 160.5K views · `Exaggerated Comparison` · 2026-07-23
+
+- [Ex Claims He Looks Like BTS Taehyung or Jungkook](../../breakdowns/en/2026-10/tiktok-transcript-it-doesnt-end-storytime-momiiblade-ex-474a.md) — 159.3K views · `Part 2 / Continuation Hook` · 2026-10-04
 
 - [Neighbor’s Guitar and Cake: A Sudden Heartbeat Next Door](../../breakdowns/en/2026-07/tiktok-transcript-part5-the-neighbor-s-guitar-and-cake-a-sudden-heartbeat-next-7e7e.md) — 146.5K views · `Emotional Cold Open` · 2026-07-31
 
