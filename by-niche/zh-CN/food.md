@@ -1,6 +1,6 @@
 # food Breakdowns
 
-> 17 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 18 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -38,3 +38,5 @@
 - [Beef Burger or Veggie Burger? Food Preference Quiz](../../breakdowns/zh-CN/2026-06/tiktok-transcript-tu-pr-f-res-quoi-tupreferes-quiz-tiktokfrance-nourriture-fr-3d22.md) — 481.9K views · `Challenge/Test` · 2026-06-03
 
 - [Slow French: Cooking Mexican Pancakes the French Way](../../breakdowns/zh-CN/2026-06/tiktok-transcript-slow-french-tu-cuisines-avec-moi-comprehensibleinput-frenchc-c3cf.md) — 304.4K views · `Invitation to participate` · 2026-06-04
+
+- [Smooth Vanilla Matcha Review: Ceremonial Japan Blend](../../breakdowns/zh-CN/2026-10/tiktok-transcript-el-matcha-m-s-suave-y-delicioso-que-he-probado-matcha-co-unb-44ce.md) — 188.2K views · `Problem-Solution` · 2026-10-05

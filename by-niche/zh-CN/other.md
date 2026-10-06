@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 291 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 292 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -122,6 +122,8 @@
 - [Nuclear Engineer Reacts to Nuking Mars](../../breakdowns/zh-CN/2026-09/tiktok-transcript-elon-musk-wants-to-nuke-mars-nuclear-engineer-reacts-35cb.md) — 4.4M views · `Myth Busting` · 2026-09-11
 
 - [White Monitor Arm Holiday Sale for Clean Look](../../breakdowns/zh-CN/2026-07/tiktok-transcript-clean-look-maximum-flexibility-white-monitor-arm-holiday-sal-2f80.md) — 4.4M views · `Minimalist Hook` · 2026-07-09
+
+- [Would You Touch This Arrow Mark Twice](../../breakdowns/zh-CN/2026-10/tiktok-transcript-10m-views-171k-reactions-03045658506-5568.md) — 4.3M views · `Challenge Question` · 2026-10-05
 
 - [Share This Bible Verse With One Friend Today](../../breakdowns/zh-CN/2026-08/tiktok-transcript-tiktok-video-7657991710567386390-79ac.md) — 4.3M views · `Direct challenge + call to action` · 2026-08-06
 

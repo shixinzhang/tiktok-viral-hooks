@@ -1,9 +1,11 @@
-# Hook Pattern: Challenge + Question
+# Hook Pattern: Challenge Question
 
-> 2 viral TikTok videos that use this hook pattern.
+> 3 viral TikTok videos that use this hook pattern.
 
 [← Back to README](../../README.md)
 
+
+- [Would You Touch This Arrow Mark Twice](../../breakdowns/en/2026-10/tiktok-transcript-10m-views-171k-reactions-03045658506-5568.md) — 4.3M views · `other` · 2026-10-05
 
 - [How to Fix Car Hard Start, Power Loss, High Fuel Consumption](../../breakdowns/en/2026-06/tiktok-transcript-the-car-is-difficult-to-start-the-power-decreases-and-the-fu-6292.md) — 734.4K views · `tech` · 2026-06-20
 

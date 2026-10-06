@@ -1,6 +1,6 @@
 # beauty Breakdowns
 
-> 20 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 21 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -18,6 +18,8 @@
 - [Korean Cleansing Routine for Closed Comedones](../../breakdowns/en/2026-09/tiktok-transcript-cleansing-routine-for-closed-comedones-kbeauty-koreanskincar-5408.md) — 3.9M views · `Pattern interrupt + callout` · 2026-09-12
 
 - [20 Inch Hair Install Tutorial & Review](../../breakdowns/en/2026-07/tiktok-transcript-20-inches-install-video-tutorial-youtube-simone-nicole-unice-4b19.md) — 3.8M views · `Curiosity gap + social proof` · 2026-07-30
+
+- [Razor With Anti-Cut System for Safe Intimate Shaving](../../breakdowns/en/2026-10/tiktok-transcript-respuesta-a-mario-unicperfect-com-nunca-volver-a-usar-la-cuc-fe9e.md) — 3.0M views · `Curiosity Gap + Fear Reversal` · 2026-10-05
 
 - [Sea Moss Gummies for Glowing Clear Skin](../../breakdowns/en/2026-05/tiktok-transcript-glowier-clearer-skin-from-gummies-that-won-t-let-you-down-li-6742.md) — 2.5M views · `Contrast & Relatable Regret` · 2026-05-29
 

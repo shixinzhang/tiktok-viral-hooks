@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 223 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 225 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -301,6 +301,8 @@
 
 - [Dark Psychology Facts: Over-Explaining Signals Guilt](../../breakdowns/en/2026-09/tiktok-transcript-2-4m-views-53k-reactions-read-3-again-darkpsychology-psychol-12d9.md) — 1.1M views · `Contrarian listicle` · 2026-09-07
 
+- [Bassem Youssef and Galal Amer Mosque Story](../../breakdowns/en/2026-10/tiktok-transcript-viral-fyp-foryou-e933.md) — 1.0M views · `Storytelling with a twist` · 2026-10-05
+
 - [Speaking With Apollo Using Tech to Reach the Underworld](../../breakdowns/en/2026-08/tiktok-transcript-7-2k-views-32k-reactions-speaking-with-the-god-apollo-using-f166.md) — 993.3K views · `Mythological twist` · 2026-08-11
 
 - [5 Dark Psychology Signs You Need to Know](../../breakdowns/en/2026-09/tiktok-transcript-1-9m-views-110k-reactions-5-dark-psychology-signs-you-need-t-3ba2.md) — 979.8K views · `Listicle with curiosity gap` · 2026-09-04
@@ -442,6 +444,8 @@
 - [Ex Claims He Looks Like BTS Taehyung or Jungkook](../../breakdowns/en/2026-10/tiktok-transcript-it-doesnt-end-storytime-momiiblade-ex-474a.md) — 159.3K views · `Part 2 / Continuation Hook` · 2026-10-04
 
 - [Neighbor’s Guitar and Cake: A Sudden Heartbeat Next Door](../../breakdowns/en/2026-07/tiktok-transcript-part5-the-neighbor-s-guitar-and-cake-a-sudden-heartbeat-next-7e7e.md) — 146.5K views · `Emotional Cold Open` · 2026-07-31
+
+- [Man Recounts Chaotic Neighborhood Fight in Arabic](../../breakdowns/en/2026-10/tiktok-transcript-tiktok-video-7693123849365228821-2bcf.md) — 141.6K views · `shock confession` · 2026-10-05
 
 - [Neighbor’s Guitar and Cake: A Sudden Heartbeat Next Door](../../breakdowns/en/2026-07/tiktok-transcript-part6-the-neighbor-s-guitar-and-cake-a-sudden-heartbeat-next-80c4.md) — 134.8K views · `Mysterious arrival` · 2026-07-31
 
