@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 292 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 294 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -34,6 +34,8 @@
 - [Ameen: Prayer for Ease and Relief](../../breakdowns/zh-CN/2026-08/tiktok-transcript-ameen-islamicvideo-foryoupage-viralvideos-growmyaccou-1c38.md) — 17.1M views · `Repetitive prayer with escalating emotional stakes` · 2026-08-04
 
 - [The Chosen Son Part 1: Mother Sent to Gatekeeper House](../../breakdowns/zh-CN/2026-06/tiktok-transcript-the-chosen-son-part-1-storytelling-motherandson-storytime-st-376f.md) — 16.5M views · `Shocking Revelation` · 2026-06-08
+
+- [Potato Tasked With Booking a Dubai Hotel](../../breakdowns/zh-CN/2026-10/tiktok-transcript-alo-aistory-trend-tiktokgrowthchallenge-fyp-3b0e.md) — 15.7M views · `absurdist non-sequitur` · 2026-10-06
 
 - [Money Hacks Pt. 2: Buy Cheap Alcohol at Costco Without Me...](../../breakdowns/zh-CN/2026-07/tiktok-transcript-money-hacks-pt-2-inspired-by-onlyjayus-personalfinance-learn-4143.md) — 15.5M views · `Problem-Solution` · 2026-07-22
 
@@ -440,6 +442,8 @@
 - [Sheetal Devi Beats Payal Nag for Khelo India Para Games Gold](../../breakdowns/zh-CN/2026-09/tiktok-transcript-3-1m-views-429k-reactions-jammu-and-kashmir-s-armless-archer-0a13.md) — 821.2K views · `Promise of wealth` · 2026-09-01
 
 - [Breakup Advice for Teenage Girls](../../breakdowns/zh-CN/2026-06/tiktok-transcript-fup-f002.md) — 811.2K views · `Direct Address + Authority` · 2026-06-22
+
+- [Car Washer Builds His First Car: Part 3](../../breakdowns/zh-CN/2026-10/tiktok-transcript-el-lavador-de-autos-que-so-aba-con-fabricar-autos-parte-3-fy-8662.md) — 809.9K views · `Dream Fulfillment` · 2026-10-07
 
 - [Samina Rani Invites Followers to WhatsApp](../../breakdowns/zh-CN/2026-10/tiktok-transcript-2-2m-views-56k-reactions-hi-samina-rani-07e9.md) — 799.0K views · `Direct Address & Platform Transition` · 2026-10-03
 

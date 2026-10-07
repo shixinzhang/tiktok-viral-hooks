@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 225 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 227 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -223,6 +223,8 @@
 
 - [Sharing My Story at Blue Valley Northwest Graduation](../../breakdowns/en/2026-05/tiktok-transcript-dream-come-true-getting-to-share-my-story-in-front-of-people-a9cc.md) — 1.9M views · `Shared anticipation` · 2026-05-27
 
+- [Sacrificing for Your Partner Who Doesn't Appreciate It](../../breakdowns/en/2026-10/tiktok-transcript-cuando-te-sacrificas-por-el-bienestar-de-tu-pareja-y-este-no-5d44.md) — 1.8M views · `conflict setup` · 2026-10-07
+
 - [TikTok Fame 2020: The Breakup That Started the Drama](../../breakdowns/en/2026-10/tiktok-transcript-let-me-know-if-u-want-to-hear-more-about-the-momiiblade-era-3abb.md) — 1.8M views · `Part Two Tease` · 2026-10-04
 
 - [Joachim Predicts 2026 World Cup Winner After 3 Correct Picks](../../breakdowns/en/2026-06/tiktok-transcript-depuis-3-ans-joachim-pr-dit-les-vainqueurs-de-chaque-coupe-d-5b24.md) — 1.8M views · `Pattern: Prediction Reveal` · 2026-06-14
@@ -352,6 +354,8 @@
 - [Newlywed Warned About Her Husband's House](../../breakdowns/en/2026-09/tiktok-transcript-mystery-after-my-wedding-episode-one-africanmovies-africanst-55de.md) — 744.9K views · `Secret Warning` · 2026-09-16
 
 - [Spoken Word Poem About Living With Trauma](../../breakdowns/en/2026-09/tiktok-transcript-poetry-poem-poems-poet-writer-7e92.md) — 744.0K views · `Consequence Hook` · 2026-09-23
+
+- [Football Quiz: Champions League, Ballon d'Or and World Cup](../../breakdowns/en/2026-10/tiktok-transcript-quiz-football-quiz-football-france-eaec.md) — 743.0K views · `Question Hook` · 2026-10-06
 
 - [The Moroccan Killer Zarzour: A Silent Stranger](../../breakdowns/en/2026-06/tiktok-transcript-le-tueur-marocain-zarzour-horreurtiktok-horreur-histoire-mys-bfe8.md) — 730.5K views · `Rhetorical question with exotic hook` · 2026-06-11
 
