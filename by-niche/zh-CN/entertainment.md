@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 227 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 229 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -86,6 +86,8 @@
 - [Husband Confesses Affair and Pregnancy to Wife](../../breakdowns/zh-CN/2026-09/tiktok-transcript-part-1-the-quiet-storm-storytime-aistory-aistorytelling-ai-288d.md) — 5.1M views · `Confession` · 2026-09-20
 
 - [Sheetal Devi Wins Gold at Khelo India Para Games](../../breakdowns/zh-CN/2026-09/tiktok-transcript-11m-views-1-9m-reactions-jammu-and-kashmir-s-armless-archer-5a96.md) — 5.1M views · `Challenge Question Hook` · 2026-09-17
+
+- [Goalkeeper Sent Off With No Substitute on Bench](../../breakdowns/zh-CN/2026-10/tiktok-transcript-video-042a.md) — 5.0M views · `When [someone] decided to be smart and [action]` · 2026-10-07
 
 - [We Suffer More in Imagination Than in Reality](../../breakdowns/zh-CN/2026-06/tiktok-transcript-we-suffer-more-in-imagination-than-in-reality-seneca-stoicis-2c7e.md) — 5.0M views · `Rhetorical questions + contrast` · 2026-06-28
 
@@ -282,6 +284,8 @@
 - [Subway Hero Stops Harasser Before Job Interview](../../breakdowns/zh-CN/2026-05/tiktok-transcript-movie-foryou-usa-tik-tok-a7d3.md) — 1.4M views · `Immediate tension` · 2026-05-22
 
 - [Filipino Father's Silent Sacrifice Family Drama Part 1](../../breakdowns/zh-CN/2026-09/tiktok-transcript-2-7m-views-81k-reactions-tahimik-na-pasanin-part-1-isang-ama-7d7d.md) — 1.4M views · `Relatable Question Hook` · 2026-09-10
+
+- [Sheetal Devi Wins Para Archery Gold at Khelo India](../../breakdowns/zh-CN/2026-10/tiktok-transcript-3-5m-views-114k-reactions-jammu-and-kashmir-s-armless-archer-0e19.md) — 1.3M views · `Emotional Confession` · 2026-10-08
 
 - [Ghost Train of Hiroshima Passes Daily at 8:15 AM](../../breakdowns/zh-CN/2026-06/tiktok-transcript-o-trem-fantasma-de-hiroshima-historias-hiroshima-historiarea-0a42.md) — 1.3M views · `Did you know + specific location + supernatural element` · 2026-06-11
 

@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 294 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 297 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -157,6 +157,8 @@
 
 - [Keep Kidneys Healthy With These Tips](../../breakdowns/zh-CN/2026-06/tiktok-transcript-kidney-bb8a.md) — 3.8M views · `Numbered list with urgent warning` · 2026-06-29
 
+- [Lawyer Seeks Friendship Despite Color Bias](../../breakdowns/zh-CN/2026-10/tiktok-transcript-10m-views-251k-reactions-wafa-world-facebookreels-reels-tren-1e59.md) — 3.7M views · `Problem-Solution with Vulnerability` · 2026-10-08
+
 - [How Street Lights Affect Plant Growth](../../breakdowns/zh-CN/2026-07/tiktok-transcript-9-3m-views-99k-reactions-how-street-lights-can-affect-plant-db19.md) — 3.7M views · `Contrasting perspective` · 2026-07-19
 
 - [God Calls You to Come Closer and Share the Gospel](../../breakdowns/zh-CN/2026-08/tiktok-transcript-tiktok-video-7655457558597094678-e67b.md) — 3.7M views · `Direct address with spiritual conviction` · 2026-08-06
@@ -225,6 +227,8 @@
 
 - [Tailored Set With High-Waist Pants And Long Vest](../../breakdowns/zh-CN/2026-05/tiktok-transcript-look-de-milh-es-conjuntofeminino-alfaiataria-elegante-177d.md) — 2.4M views · `Curiosity Gap` · 2026-05-22
 
+- [Samina Rani Invites Followers to WhatsApp](../../breakdowns/zh-CN/2026-10/tiktok-transcript-6m-views-147k-reactions-hi-samina-rani-38a6.md) — 2.4M views · `Direct Call to Action with Curiosity` · 2026-10-07
+
 - [Respect and Trust Build a Strong Relationship](../../breakdowns/zh-CN/2026-09/tiktok-transcript-5-9m-views-236k-reactions-s-s-s-reels-emotional-relationship-d005.md) — 2.4M views · `Shock Reveal` · 2026-09-30
 
 - [Men Feel Pain But Don't Express It](../../breakdowns/zh-CN/2026-06/tiktok-transcript-6-2m-views-297k-reactions-aadmi-quotes-realtionship-podcast-7b6b.md) — 2.3M views · `Contradiction/Revelation` · 2026-06-01
@@ -232,6 +236,8 @@
 - [They Call Me a Stranger Here](../../breakdowns/zh-CN/2026-06/tiktok-transcript-capcut-3ydo-50ca.md) — 2.3M views · `Contrast & Warning` · 2026-06-27
 
 - [Driving an Electric Car on a Chinese Highway](../../breakdowns/zh-CN/2026-07/tiktok-transcript-if-you-come-to-china-you-might-as-well-rent-an-electric-car-336a.md) — 2.3M views · `Question-Answer` · 2026-07-18
+
+- [Woman Asks for Phone Number in Hindi Reel](../../breakdowns/zh-CN/2026-10/tiktok-transcript-5-9m-views-103k-reactions-aaria-minnal-on-reels-5a88.md) — 2.2M views · `Direct request with unexpected twist` · 2026-10-07
 
 - [Why Piles of Worn Clothes Drain Your Energy](../../breakdowns/zh-CN/2026-07/tiktok-transcript-never-leave-piles-of-worn-clothes-on-chairs-or-couches-even-6538.md) — 2.2M views · `Direct Command + Consequence` · 2026-07-07
 
