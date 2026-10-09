@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 229 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 232 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -323,7 +323,11 @@
 
 - [Alawi Family Gift Giveaway via Call for Commenters](../../breakdowns/en/2026-09/tiktok-transcript-2-4m-views-150k-reactions-comment-nyo-na-mga-boss-baka-sa-in-24fb.md) — 938.8K views · `Direct Promise` · 2026-09-13
 
+- [Wife's Emotional Tribute to Her Honest Husband](../../breakdowns/en/2026-10/tiktok-transcript-3-1m-views-80k-reactions-viralstoryhindi-trendingreelsindia-2c65.md) — 930.0K views · `Defiant Defense of Loved One` · 2026-10-07
+
 - [Man Destroys Beef Tree to Ruin Rival](../../breakdowns/en/2026-07/tiktok-transcript-he-destroyed-the-beef-tree-to-ruin-his-rival-madewithcantina-329a.md) — 926.8K views · `Question + Incredible Claim` · 2026-07-14
+
+- [Cleanest Part of the Human Body Quiz Question](../../breakdowns/en/2026-10/tiktok-transcript-quiz-quelle-est-la-partie-la-plus-propre-du-corps-humain-qui-4bd1.md) — 916.4K views · `Surprising Question with Immediate Answer` · 2026-10-08
 
 - [Why You Can't Leave a Toxic Partner: Break the Trauma Bond](../../breakdowns/en/2026-08/tiktok-transcript-here-s-why-you-re-struggling-to-leave-a-toxic-partner-you-ha-459b.md) — 913.9K views · `Direct address with a promise of a solution` · 2026-08-02
 
@@ -360,6 +364,8 @@
 - [Spoken Word Poem About Living With Trauma](../../breakdowns/en/2026-09/tiktok-transcript-poetry-poem-poems-poet-writer-7e92.md) — 744.0K views · `Consequence Hook` · 2026-09-23
 
 - [Football Quiz: Champions League, Ballon d'Or and World Cup](../../breakdowns/en/2026-10/tiktok-transcript-quiz-football-quiz-football-france-eaec.md) — 743.0K views · `Question Hook` · 2026-10-06
+
+- [Stop Living for People's Opinions, Own Your Future](../../breakdowns/en/2026-10/tiktok-transcript-172k-views-63k-reactions-no-matter-what-you-do-they-will-tal-ea66.md) — 738.0K views · `If you do X, people say Y; if you do Z, people say W` · 2026-10-09
 
 - [The Moroccan Killer Zarzour: A Silent Stranger](../../breakdowns/en/2026-06/tiktok-transcript-le-tueur-marocain-zarzour-horreurtiktok-horreur-histoire-mys-bfe8.md) — 730.5K views · `Rhetorical question with exotic hook` · 2026-06-11
 

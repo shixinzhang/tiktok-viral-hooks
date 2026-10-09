@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 297 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 299 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -397,6 +397,8 @@
 
 - [Secret to Unbroken Marital Fortune: Tulsi Plant Ritual](../../breakdowns/en/2026-07/tiktok-transcript-2-5m-views-71k-reactions-cooking-tulsipuja-tradition-healtht-3035.md) — 1.1M views · `Numbered list + supernatural claim` · 2026-07-20
 
+- [Farmer Shows Off Her Field in Viral Video](../../breakdowns/en/2026-10/tiktok-transcript-2-7m-views-47k-reactions-03456585060-5155.md) — 1.1M views · `Shock + Challenge + Follow CTA` · 2026-10-07
+
 - [What Poets Really Mean in Hindi Exams | Ashok Jha Comedy](../../breakdowns/en/2026-08/tiktok-transcript-1-9m-views-10k-reactions-kavi-reels-fbreels-viral-comedy-com-e364.md) — 1.1M views · `Shared experience + rhetorical question` · 2026-08-19
 
 - [Touch the Arrow Target Twice If You Dare](../../breakdowns/en/2026-09/tiktok-transcript-2-8m-views-42k-reactions-03045658504-81ab.md) — 1.0M views · `Challenge/Question Hook` · 2026-09-26
@@ -452,6 +454,8 @@
 - [Car Washer Builds His First Car: Part 3](../../breakdowns/en/2026-10/tiktok-transcript-el-lavador-de-autos-que-so-aba-con-fabricar-autos-parte-3-fy-8662.md) — 809.9K views · `Dream Fulfillment` · 2026-10-07
 
 - [Samina Rani Invites Followers to WhatsApp](../../breakdowns/en/2026-10/tiktok-transcript-2-2m-views-56k-reactions-hi-samina-rani-07e9.md) — 799.0K views · `Direct Address & Platform Transition` · 2026-10-03
+
+- [Woman Recites Shahada, Denies Lying About Faith](../../breakdowns/en/2026-10/tiktok-transcript-2-2m-views-100k-reactions-9920.md) — 793.6K views · `Contrast with others + honesty claim` · 2026-10-08
 
 - [College: Is It Entirely Useless for Growth?](../../breakdowns/en/2026-06/tiktok-transcript-tiktok-video-7594956396702092557-7611.md) — 733.7K views · `Challenge + Question` · 2026-06-17
 
