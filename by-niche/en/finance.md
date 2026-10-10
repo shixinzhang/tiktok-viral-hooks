@@ -1,6 +1,6 @@
 # finance Breakdowns
 
-> 36 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 38 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -10,6 +10,10 @@
 - [Rich Dad Market Lesson with iPhone Analogy](../../breakdowns/en/2026-07/tiktok-transcript-rich-dad-lesson-on-the-market-using-an-iphone-analogy-person-7e7f.md) — 18.0M views · `Curiosity Gap` · 2026-07-22
 
 - [How to Beat Evil Credit Cards](../../breakdowns/en/2026-07/tiktok-transcript-how-to-beat-evil-credit-cards-learnontiktok-personalfinance-4b51.md) — 17.7M views · `Unexpected Generosity` · 2026-07-28
+
+- [Carrot Worker Receives Triple Monthly Pay](../../breakdowns/en/2026-10/tiktok-transcript-drame-fruitstory-aifruits-a4d6.md) — 13.7M views · `Problem-Solution Hook` · 2026-10-09
+
+- [Carrot Worker Receives Triple Monthly Pay](../../breakdowns/en/2026-10/tiktok-transcript-drame-fruitstory-aifruits-3423.md) — 13.7M views · `Problem-Solution Setup` · 2026-10-09
 
 - [The 3 Worst Businesses to Buy According to an Expert](../../breakdowns/en/2026-07/tiktok-transcript-here-are-the-3-worst-businesses-you-could-ever-buy-because-i-b7ad.md) — 12.4M views · `Listicle with contrarian premise` · 2026-07-01
 

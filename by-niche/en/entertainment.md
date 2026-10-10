@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 232 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 234 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -24,6 +24,8 @@
 - [Sheetal Devi Wins Para Archery Gold at Khelo India](../../breakdowns/en/2026-09/tiktok-transcript-55m-views-7-2m-reactions-jammu-and-kashmir-s-armless-archer-473f.md) — 16.4M views · `Superstition Challenge` · 2026-09-18
 
 - [Past Tense of Read Is Read That's Why](../../breakdowns/en/2026-05/tiktok-transcript-the-past-tense-of-read-is-read-that-s-why-english-lol-joe-fe-582f.md) — 15.9M views · `False expectation setup` · 2026-05-29
+
+- [Fruit Drama: Mom Rejects Ugly Daughter](../../breakdowns/en/2026-10/tiktok-transcript-partie-1-la-diff-rence-de-fraisita-fruitdrama-fruitanimation-498a.md) — 15.4M views · `Question-Answer Emotional Hook` · 2026-10-09
 
 - [Family Rejects PS5 Then Unexpected Baby Reveal](../../breakdowns/en/2026-06/tiktok-transcript-they-didn-t-want-the-ps5-but-this-happened-fruitstory-fruitd-5173.md) — 13.1M views · `Contrasting absurdity` · 2026-06-07
 
@@ -100,6 +102,8 @@
 - [Sympathy vs Empathy: Key Differences Explained](../../breakdowns/en/2026-08/tiktok-transcript-what-s-the-difference-difference-learn-psychology-bff7.md) — 4.6M views · `Curiosity gap with binary contrast` · 2026-08-06
 
 - [Jericho's Honest Shoeshine Earns Praise](../../breakdowns/en/2026-09/tiktok-transcript-8-1m-views-249k-reactions-ang-malinis-na-trabaho-ni-jericho-acc3.md) — 4.5M views · `Immediate Conflict & Misjudgment` · 2026-09-12
+
+- [Dr. Vinay Gupta Warns Teen Girls on Toxic Relationships](../../breakdowns/en/2026-10/tiktok-transcript-7m-views-215k-reactions-gurukul-pundri-kaithal-haryana-aware-f296.md) — 4.4M views · `Conditional Warning + Call to Action` · 2026-10-09
 
 - [What If Your Body Was Made of Clay, Plastic & Obsidian](../../breakdowns/en/2026-09/tiktok-transcript-what-if-your-body-was-made-of-clay-plastic-obsidian-whatif-s-12db.md) — 4.3M views · `Hypothetical 'What If'` · 2026-09-01
 
