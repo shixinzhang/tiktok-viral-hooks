@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 234 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 237 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -107,6 +107,8 @@
 
 - [What If Your Body Was Made of Clay, Plastic & Obsidian](../../breakdowns/en/2026-09/tiktok-transcript-what-if-your-body-was-made-of-clay-plastic-obsidian-whatif-s-12db.md) — 4.3M views · `Hypothetical 'What If'` · 2026-09-01
 
+- [Bank Auction Fortuner and Scorpio Cars Cheap](../../breakdowns/en/2026-10/tiktok-transcript-11m-views-143k-reactions-fortuner-auction-roamingbird-auctio-c14f.md) — 4.1M views · `Contrast Hook: 'Others do X, but I do Y'` · 2026-10-09
+
 - [Catfished Team Helps Betsy Expose Elon Musk Affair](../../breakdowns/en/2026-06/tiktok-transcript-shout-out-to-the-catfished-team-for-helping-betsy-and-for-pu-ef4a.md) — 3.9M views · `Shocking Claim` · 2026-06-09
 
 - [Best Relationship Advice From a Father](../../breakdowns/en/2026-06/tiktok-transcript-what-s-the-best-relationship-advice-you-ve-ever-gotten-reddi-c803.md) — 3.9M views · `Question Hook` · 2026-06-23
@@ -116,6 +118,8 @@
 - [Couple's Consent Double Standard Questioned](../../breakdowns/en/2026-09/tiktok-transcript-foryoupage-viralvideo-tren-71c8.md) — 3.9M views · `Mutual Action Contrast` · 2026-09-19
 
 - [God Judges Kindness to People, Not Temple Visits](../../breakdowns/en/2026-09/tiktok-transcript-11k-views-239k-reactions-neha-on-reels-1fa1.md) — 3.9M views · `Curiosity + Authority` · 2026-09-13
+
+- [Girl Must Choose Between 3 Future Husbands](../../breakdowns/en/2026-10/tiktok-transcript-elle-doit-en-choisir-un-fruitdrama-fruitstory-ai-france-brai-5a9f.md) — 3.8M views · `Challenge/Test Hook` · 2026-10-09
 
 - [True Crime: The Haunting Case in Villisca, Iowa](../../breakdowns/en/2026-05/tiktok-transcript-video-bde4.md) — 3.8M views · `Mystery Hook` · 2026-05-29
 
@@ -136,6 +140,8 @@
 - [Argentina 3-0 Algeria Match Highlights](../../breakdowns/en/2026-06/tiktok-transcript-r-sum-argentine-3-0-alg-rie-abonnez-vous-pour-voir-tous-les-a8ed.md) — 3.4M views · `Action-packed play-by-play` · 2026-06-19
 
 - [Android Babies Cannot Be Separated at 18](../../breakdowns/en/2026-07/tiktok-transcript-ai-aifruits-brainrot-aistory-fruitdrama-872f.md) — 3.4M views · `Unexpected reveal` · 2026-07-14
+
+- [Ramez Galal Explains His New Show Idea](../../breakdowns/en/2026-10/tiktok-transcript-6-5m-views-80k-reactions-ramez-galal-b69a.md) — 3.3M views · `Reassurance Repetition` · 2026-10-10
 
 - [Queen of Pop Out Now Stream Everywhere](../../breakdowns/en/2026-07/tiktok-transcript-queen-of-pop-out-now-jetzt-auf-allen-plattformen-streamen-f03a.md) — 3.3M views · `Identity Shift / Status Claim` · 2026-07-03
 

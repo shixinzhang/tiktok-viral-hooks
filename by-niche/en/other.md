@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 300 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 302 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -93,6 +93,8 @@
 
 - [Switzerland: A Peaceful Paradise in Central Europe](../../breakdowns/en/2026-06/tiktok-transcript-switzerland-switzerlandnature-6e36.md) — 7.1M views · `Curiosity gap with contrast` · 2026-06-30
 
+- [Farmer Shows Off Her Field in Urdu Video](../../breakdowns/en/2026-10/tiktok-transcript-20m-views-254k-reactions-wafa-world-facebookreelsviral-reels-9e68.md) — 7.0M views · `Shock + Challenge Hook` · 2026-10-11
+
 - [Elias and Serina: The Secret Friend Part 2](../../breakdowns/en/2026-07/tiktok-transcript-12m-views-548k-reactions-part-2-si-elias-at-ang-kanyang-lihi-76c9.md) — 6.7M views · `Immediate problem + solution` · 2026-07-17
 
 - [Polyurethane Foam Spray Insulation Expanding and Solidifying](../../breakdowns/en/2026-06/tiktok-transcript-l-isolation-par-mousse-de-polyur-thane-isolation-polyurethan-fc83.md) — 6.6M views · `Visual Curiosity Gap` · 2026-06-16
@@ -162,6 +164,8 @@
 - [Lawyer Seeks Friendship Despite Color Bias](../../breakdowns/en/2026-10/tiktok-transcript-10m-views-251k-reactions-wafa-world-facebookreels-reels-tren-1e59.md) — 3.7M views · `Problem-Solution with Vulnerability` · 2026-10-08
 
 - [How Street Lights Affect Plant Growth](../../breakdowns/en/2026-07/tiktok-transcript-9-3m-views-99k-reactions-how-street-lights-can-affect-plant-db19.md) — 3.7M views · `Contrasting perspective` · 2026-07-19
+
+- [What Parents Cannot Legally Control at 18](../../breakdowns/en/2026-10/tiktok-transcript-turning-18-changes-more-than-people-realize-your-parents-can-2fad.md) — 3.7M views · `List of things parents can't control` · 2026-10-10
 
 - [God Calls You to Come Closer and Share the Gospel](../../breakdowns/en/2026-08/tiktok-transcript-tiktok-video-7655457558597094678-e67b.md) — 3.7M views · `Direct address with spiritual conviction` · 2026-08-06
 
