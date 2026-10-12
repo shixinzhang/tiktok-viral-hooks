@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 302 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 303 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -236,6 +236,8 @@
 - [Samina Rani Invites Followers to WhatsApp](../../breakdowns/zh-CN/2026-10/tiktok-transcript-6m-views-147k-reactions-hi-samina-rani-38a6.md) — 2.4M views · `Direct Call to Action with Curiosity` · 2026-10-07
 
 - [Respect and Trust Build a Strong Relationship](../../breakdowns/zh-CN/2026-09/tiktok-transcript-5-9m-views-236k-reactions-s-s-s-reels-emotional-relationship-d005.md) — 2.4M views · `Shock Reveal` · 2026-09-30
+
+- [Sister Leaves Home Carrying Many Things](../../breakdowns/zh-CN/2026-10/tiktok-transcript-2m-views-166k-reactions-677f.md) — 2.3M views · `Repetitive Gratitude` · 2026-10-10
 
 - [Men Feel Pain But Don't Express It](../../breakdowns/zh-CN/2026-06/tiktok-transcript-6-2m-views-297k-reactions-aadmi-quotes-realtionship-podcast-7b6b.md) — 2.3M views · `Contradiction/Revelation` · 2026-06-01
 

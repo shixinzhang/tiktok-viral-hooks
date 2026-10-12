@@ -1,6 +1,6 @@
 # food Breakdowns
 
-> 18 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 19 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -24,6 +24,8 @@
 - [Stainless Steel Meatball Maker Spoon Hack](../../breakdowns/en/2026-09/tiktok-transcript-chega-de-fazer-alm-ndegas-com-as-m-os-e-ficar-com-tudo-gruda-5663.md) — 2.2M views · `Problem-Agitation-Solution` · 2026-09-14
 
 - [Food Dilemma: Beef vs Chicken, Carbonara vs Bolognese](../../breakdowns/en/2026-06/tiktok-transcript-part-340-tu-pr-f-res-tupreferes-tupreferesquoi-dilemme-375f.md) — 1.8M views · `Interactive choice hook` · 2026-06-29
+
+- [Name These 10 Seafood in English Vocabulary Quiz](../../breakdowns/en/2026-10/tiktok-transcript-3-9m-views-41k-reactions-can-you-name-all-these-seafood-corr-14a7.md) — 1.6M views · `Rapid-fire Seafood Enumeration` · 2026-10-10
 
 - [Unlimited Steak and Sides for 90 Minutes in Sydney](../../breakdowns/en/2026-05/tiktok-transcript-unlimited-steak-run-follow-for-best-sydney-guide-get-10-off-a4a9.md) — 1.5M views · `Scarcity + Abundance` · 2026-05-22
 

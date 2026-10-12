@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 237 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 240 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -159,6 +159,8 @@
 
 - [How I Built a Successful Life From Nothing](../../breakdowns/zh-CN/2026-08/tiktok-transcript-how-to-build-the-life-you-want-30e2.md) — 3.0M views · `Contrast / Before-After` · 2026-08-17
 
+- [Kiwi Buys a House for $10 in Fruit Drama Story](../../breakdowns/zh-CN/2026-10/tiktok-transcript-kiwi-buys-a-house-for-10-dollars-fruitstory-fruitdrama-759e.md) — 3.0M views · `shock value question` · 2026-10-09
+
 - [Wife of 2 Years Cheating on Me: All 6 Updates](../../breakdowns/zh-CN/2026-07/tiktok-transcript-my-wife-of-two-years-is-cheating-on-me-all-6-updates-reddit-b760.md) — 3.0M views · `Bombshell Opening` · 2026-07-11
 
 - [Time Travel Question About Earth's Position in 1979](../../breakdowns/zh-CN/2026-09/tiktok-transcript-the-time-travel-questions-never-end-timetravel-timetraveler-43c7.md) — 2.9M views · `Mind-Blowing Fact` · 2026-09-29
@@ -188,6 +190,8 @@
 - [Poor Son Pursues CSS Exam Part 1](../../breakdowns/zh-CN/2026-09/tiktok-transcript-gareeb-ka-bcha-or-css-part-1-creatorsearchinginsight-aianiam-ad96.md) — 2.4M views · `Provocative Question Hook` · 2026-09-13
 
 - [Uncle, Please Support Me Like Your Own Daughter](../../breakdowns/zh-CN/2026-09/tiktok-transcript-6-2m-views-460k-reactions-03045658506-b71d.md) — 2.4M views · `Emotional Appeal + Direct Address` · 2026-09-21
+
+- [Woman Police Officer Challenges Viewers to Follow](../../breakdowns/zh-CN/2026-10/tiktok-transcript-6-8m-views-237k-reactions-wafa-world-facebookreelsviral-reel-3db9.md) — 2.4M views · `Authority Challenge` · 2026-10-11
 
 - [Father Tests Daughters With $67 Million Each](../../breakdowns/zh-CN/2026-06/tiktok-transcript-he-gave-the-money-to-his-daughters-as-a-test-storyline-fruit-e256.md) — 2.3M views · `Shock and Awe` · 2026-06-26
 
@@ -234,6 +238,8 @@
 - [Nigerian Mom Catches Son Lying About Bible Study](../../breakdowns/zh-CN/2026-08/tiktok-transcript-fastest-switch-up-africanparents-nigerian-funny-real-streame-6d43.md) — 1.9M views · `Immediate tension + unexpected role reversal` · 2026-08-05
 
 - [Sharing My Story at Blue Valley Northwest Graduation](../../breakdowns/zh-CN/2026-05/tiktok-transcript-dream-come-true-getting-to-share-my-story-in-front-of-people-a9cc.md) — 1.9M views · `Shared anticipation` · 2026-05-27
+
+- [Apply Perfume to Underwear Before Sleep Remedy](../../breakdowns/zh-CN/2026-10/tiktok-transcript-1m-views-62k-reactions-under-garments-perfume-remedy-explore-dda5.md) — 1.9M views · `Direct Promise of Demonstration` · 2026-10-11
 
 - [Sacrificing for Your Partner Who Doesn't Appreciate It](../../breakdowns/zh-CN/2026-10/tiktok-transcript-cuando-te-sacrificas-por-el-bienestar-de-tu-pareja-y-este-no-5d44.md) — 1.8M views · `conflict setup` · 2026-10-07
 
