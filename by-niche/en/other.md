@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 303 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 305 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -273,6 +273,8 @@
 
 - [Hindi Cover Song Performance on CapCut](../../breakdowns/en/2026-09/tiktok-transcript-capcut-go-viral-now-triding-video-virall-coversong-hindisong-6010.md) — 2.0M views · `Mystery Statement` · 2026-09-25
 
+- [Farmer Shows Off Field in Urdu Video](../../breakdowns/en/2026-10/tiktok-transcript-5-1m-views-82k-reactions-wafa-world-facebookreels-reels-tren-9e8c.md) — 2.0M views · `Shock + Challenge` · 2026-10-12
+
 - [World Stands With You in Joy, Not in Grief](../../breakdowns/en/2026-07/tiktok-transcript-4-9m-views-156k-reactions-khushi-or-gham-mein-duniya-ka-sath-f3c9.md) — 1.9M views · `Contrasting Parallelism` · 2026-07-15
 
 - [World Stands With You In Joy But Not In Grief](../../breakdowns/en/2026-07/tiktok-transcript-4-9m-views-156k-reactions-khushi-or-gham-mein-duniya-ka-sath-dc6e.md) — 1.9M views · `contrast` · 2026-07-15
@@ -286,6 +288,8 @@
 - [If Someone Asks What You Did Today, Don't Say It Was Hard](../../breakdowns/en/2026-06/tiktok-transcript-699k-views-100k-reactions-theek-hai-ashish-bagrecha-c2a0.md) — 1.8M views · `Hypothetical Question + Emotional Contrast` · 2026-06-01
 
 - [1966 Kids Predict Automation and Job Loss](../../breakdowns/en/2026-10/tiktok-transcript-future-according-to-kids-documentary-from-1966-ai-future-une-5eea.md) — 1.8M views · `Expectation Subversion` · 2026-10-03
+
+- [Imran Khan Supporters Clash With Police in Pakistan](../../breakdowns/en/2026-10/tiktok-transcript-video-8b63.md) — 1.8M views · `Incomplete phrase` · 2026-10-12
 
 - [Platform Shoes Fall Fashion Look](../../breakdowns/en/2026-09/tiktok-transcript-platformshoes-fall-fallfashion-superbrandclub-viralontiktoks-2b08.md) — 1.8M views · `Incomplete / Unverifiable` · 2026-09-22
 
