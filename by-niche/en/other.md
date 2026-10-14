@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 305 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 307 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -209,6 +209,8 @@
 
 - [Why You Should Never Put Fertilizer Too Close To Plants](../../breakdowns/en/2026-08/tiktok-transcript-5-3m-views-63k-reactions-why-you-should-never-put-fertilizer-137d.md) — 2.6M views · `Unexpected personification + immediate conflict` · 2026-08-03
 
+- [Screw-Type Tire Plug Repair With a Nail](../../breakdowns/en/2026-10/tiktok-transcript-a-small-nail-helps-you-repair-the-tire-quickly-repairtires-t-494b.md) — 2.6M views · `Praise + Question Hook` · 2026-10-14
+
 - [How Criminals Clean Dirty Money](../../breakdowns/en/2026-06/tiktok-transcript-how-to-clean-dirty-money-finance-animation-uk-b0d3.md) — 2.6M views · `Rhetorical question + personal stake` · 2026-06-03
 
 - [Why You Can't Stop Thinking About Your Ex](../../breakdowns/en/2026-07/tiktok-transcript-no-puedes-parar-de-pensar-en-tu-ex-psicologia-neurociencia-c-12e3.md) — 2.6M views · `Analogy Hook` · 2026-07-21
@@ -414,6 +416,8 @@
 - [What Poets Really Mean in Hindi Exams | Ashok Jha Comedy](../../breakdowns/en/2026-08/tiktok-transcript-1-9m-views-10k-reactions-kavi-reels-fbreels-viral-comedy-com-e364.md) — 1.1M views · `Shared experience + rhetorical question` · 2026-08-19
 
 - [Touch the Arrow Target Twice If You Dare](../../breakdowns/en/2026-09/tiktok-transcript-2-8m-views-42k-reactions-03045658504-81ab.md) — 1.0M views · `Challenge/Question Hook` · 2026-09-26
+
+- [Archangel Raguel: Divine Justice and Order Explained](../../breakdowns/en/2026-10/tiktok-transcript-raguel-arc-ngel-6-arcangel-espiritualidad-energia-viral-a-5928.md) — 1.0M views · `Problem-Solution Promise` · 2026-10-14
 
 - [Indian Buffalo Grooming Before Sale for Better Price](../../breakdowns/en/2026-06/tiktok-transcript-tiktok-video-7645058607842741536-6fc0.md) — 1.0M views · `Curiosity gap` · 2026-06-15
 

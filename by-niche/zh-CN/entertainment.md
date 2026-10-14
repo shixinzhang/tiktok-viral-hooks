@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 243 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 246 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -97,6 +97,8 @@
 
 - [Part 1: My Dad Told Me to Walk Home](../../breakdowns/zh-CN/2026-06/tiktok-transcript-part-1-storytime-redditstories-fyp-foryou-askreddit-foryoupa-f573.md) — 4.9M views · `Twist/Reversal` · 2026-06-28
 
+- [Hushpuppi: The Internet Scammer Who Faked Wealth](../../breakdowns/zh-CN/2026-10/tiktok-transcript-l-histoire-d-hushpuppi-l-un-des-plus-grand-escroc-d-internet-0790.md) — 4.7M views · `Irony Reveal` · 2026-10-13
+
 - [Buzzballz With Super Powers](../../breakdowns/zh-CN/2026-08/tiktok-transcript-buzzballz-with-super-powers-ai-fruitstory-buzzball-sadstory-6771.md) — 4.6M views · `Contrast and promise` · 2026-08-04
 
 - [Sympathy vs Empathy: Key Differences Explained](../../breakdowns/zh-CN/2026-08/tiktok-transcript-what-s-the-difference-difference-learn-psychology-bff7.md) — 4.6M views · `Curiosity gap with binary contrast` · 2026-08-06
@@ -105,9 +107,13 @@
 
 - [Dr. Vinay Gupta Warns Teen Girls on Toxic Relationships](../../breakdowns/zh-CN/2026-10/tiktok-transcript-7m-views-215k-reactions-gurukul-pundri-kaithal-haryana-aware-f296.md) — 4.4M views · `Conditional Warning + Call to Action` · 2026-10-09
 
+- [Didier Drogba's Speech That Stopped a War](../../breakdowns/zh-CN/2026-10/tiktok-transcript-le-jour-o-didier-drogba-a-particip-la-fin-d-une-guerre-ec20.md) — 4.3M views · `Contrast Hook` · 2026-10-13
+
 - [What If Your Body Was Made of Clay, Plastic & Obsidian](../../breakdowns/zh-CN/2026-09/tiktok-transcript-what-if-your-body-was-made-of-clay-plastic-obsidian-whatif-s-12db.md) — 4.3M views · `Hypothetical 'What If'` · 2026-09-01
 
 - [Bank Auction Fortuner and Scorpio Cars Cheap](../../breakdowns/zh-CN/2026-10/tiktok-transcript-11m-views-143k-reactions-fortuner-auction-roamingbird-auctio-c14f.md) — 4.1M views · `Contrast Hook: 'Others do X, but I do Y'` · 2026-10-09
+
+- [1989 Central Park Five Wrongful Conviction Explained](../../breakdowns/zh-CN/2026-10/tiktok-transcript-l-une-des-plus-grandes-injustices-raciales-des-ann-es-80-app-99e1.md) — 4.1M views · `Shock + Direct Address` · 2026-10-13
 
 - [Catfished Team Helps Betsy Expose Elon Musk Affair](../../breakdowns/zh-CN/2026-06/tiktok-transcript-shout-out-to-the-catfished-team-for-helping-betsy-and-for-pu-ef4a.md) — 3.9M views · `Shocking Claim` · 2026-06-09
 
