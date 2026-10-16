@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 246 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 250 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -96,6 +96,8 @@
 - [Two Toxic Conflict Patterns That Ruin Loving Couples](../../breakdowns/en/2026-06/tiktok-transcript-even-the-most-loving-couples-can-t-last-if-they-fall-into-th-d3ec.md) — 5.0M views · `Curiosity Gap` · 2026-06-18
 
 - [Part 1: My Dad Told Me to Walk Home](../../breakdowns/en/2026-06/tiktok-transcript-part-1-storytime-redditstories-fyp-foryou-askreddit-foryoupa-f573.md) — 4.9M views · `Twist/Reversal` · 2026-06-28
+
+- [Babysitter Secretly Coached My Son for Real Parents](../../breakdowns/en/2026-10/tiktok-transcript-storytime-fyp-scary-scarystories-skincrawlstories-story-subm-8ea1.md) — 4.8M views · `Shocking Secret Reveal` · 2026-10-14
 
 - [Hushpuppi: The Internet Scammer Who Faked Wealth](../../breakdowns/en/2026-10/tiktok-transcript-l-histoire-d-hushpuppi-l-un-des-plus-grand-escroc-d-internet-0790.md) — 4.7M views · `Irony Reveal` · 2026-10-13
 
@@ -249,6 +251,8 @@
 
 - [Apply Perfume to Underwear Before Sleep Remedy](../../breakdowns/en/2026-10/tiktok-transcript-1m-views-62k-reactions-under-garments-perfume-remedy-explore-dda5.md) — 1.9M views · `Direct Promise of Demonstration` · 2026-10-11
 
+- [Man's Life Struggle: Hindi Emotional Quote About Responsi...](../../breakdowns/en/2026-10/tiktok-transcript-3-8m-views-179k-reactions-hindiquotes-viralpost-trendingpost-de5c.md) — 1.8M views · `Provocative Gender Contrast` · 2026-10-14
+
 - [Sacrificing for Your Partner Who Doesn't Appreciate It](../../breakdowns/en/2026-10/tiktok-transcript-cuando-te-sacrificas-por-el-bienestar-de-tu-pareja-y-este-no-5d44.md) — 1.8M views · `conflict setup` · 2026-10-07
 
 - [TikTok Fame 2020: The Breakup That Started the Drama](../../breakdowns/en/2026-10/tiktok-transcript-let-me-know-if-u-want-to-hear-more-about-the-momiiblade-era-3abb.md) — 1.8M views · `Part Two Tease` · 2026-10-04
@@ -280,6 +284,8 @@
 - [No More Parties, Bro](../../breakdowns/en/2026-08/tiktok-transcript-hhyeauh-zionn-heavenlyy-1e9c.md) — 1.6M views · `Repetition for emphasis` · 2026-08-05
 
 - [Men Who Seem Kind but Are Emotionally Cold](../../breakdowns/en/2026-09/tiktok-transcript-3-4m-views-76k-reactions-c-m-t-th-lo-i-n-ng-c-n-ng-s-h-n-lo-ee3f.md) — 1.6M views · `Contrarian Comparison Hook` · 2026-09-23
+
+- [Why a Man Constantly Bites His Wife: Affection Overflow](../../breakdowns/en/2026-10/tiktok-transcript-le-d-bordement-affectif-pourquoi-un-homme-mord-constamment-s-a980.md) — 1.5M views · `Contrarian Reframe` · 2026-10-14
 
 - [Boy's Father Buys Prostitute as His 11th Mom This Year](../../breakdowns/en/2026-06/tiktok-transcript-tiktok-movie-foryou-fullrecap-fyp-70e8.md) — 1.5M views · `Shocking Reveal` · 2026-06-03
 
@@ -346,6 +352,8 @@
 - [Would You Rather: Car Edition](../../breakdowns/en/2026-07/tiktok-transcript-tu-pr-f-res-dition-voiture-tupreferes-tupr-f-res-voiture-pas-fb77.md) — 968.6K views · `Challenge/Test` · 2026-07-17
 
 - [Human Body Quiz: What Causes Headaches?](../../breakdowns/en/2026-05/tiktok-transcript-quiz-sur-le-corps-humain-pourtoi-cultureg-quizz-france-corps-64ff.md) — 962.7K views · `Challenge with stakes` · 2026-05-25
+
+- [Polygel With Soft Gel Nail Tip Extensions](../../breakdowns/en/2026-10/tiktok-transcript-polygel-with-soft-gel-nail-tips-extensions-love-the-results-d190.md) — 953.8K views · `Direct Question Hook` · 2026-10-13
 
 - [This Player Almost Scored an Own Goal on a Back Pass](../../breakdowns/en/2026-06/tiktok-transcript-este-jugador-calcul-muy-mal-1-simple-pase-hacia-atr-s-futbol-3dae.md) — 943.7K views · `Miscalculation / Near Own Goal` · 2026-06-13
 

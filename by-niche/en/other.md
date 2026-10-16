@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 307 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 308 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -450,6 +450,8 @@
 - [Join 2 Free Handmade Soap Classes Starting May 26](../../breakdowns/en/2026-06/tiktok-transcript-nete-a-2-clases-gratuitas-de-jabones-artesanales-en-el-link-d2f7.md) — 887.7K views · `Rhetorical Question + Metaphor` · 2026-06-11
 
 - [Bakery Owner Replaced by Machine](../../breakdowns/en/2026-06/tiktok-transcript-if-you-enjoyed-this-story-leave-a-like-and-a-comment-emotion-bb14.md) — 886.8K views · `Unexpected dismissal` · 2026-06-27
+
+- [Why Your Child Smiles When You Scold Them](../../breakdowns/en/2026-10/tiktok-transcript-pourquoi-ton-enfant-sourit-quand-tu-le-grondes-tu-grondes-to-431e.md) — 878.0K views · `Relatable Scenario + Unexpected Twist` · 2026-10-14
 
 - [Baby Asks Funny Questions About Roti Price](../../breakdowns/en/2026-07/tiktok-transcript-baby-funny-video-12-babyfunnyvideo-babyvideo-funnyvideo-vira-b18a.md) — 870.1K views · `Price reveal with freebie` · 2026-07-17
 
