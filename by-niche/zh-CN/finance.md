@@ -1,6 +1,6 @@
 # finance Breakdowns
 
-> 38 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 39 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -58,6 +58,8 @@
 - [Turn Your 30-Year Mortgage Into a 1-Year Payoff](../../breakdowns/zh-CN/2026-08/tiktok-transcript-most-banks-won-t-tell-you-this-but-you-can-turn-your-30-year-5446.md) — 1.4M views · `Forbidden Knowledge / Insider Secret` · 2026-08-02
 
 - [Video ni agak panjang tapi please tengok sampai habis sebelum korang ...](../../breakdowns/zh-CN/2026-07/tiktok-transcript-video-ni-agak-panjang-tapi-please-tengok-sampai-habis-sebelu-6446.md) — 1.3M views · `Value Promise` · 2026-07-24
+
+- [France Changes From October 1, 2026: Benefits and Fuel](../../breakdowns/zh-CN/2026-10/tiktok-transcript-tout-ce-qui-change-en-octobre-2026-en-france-d-s-le-1er-octo-fbb9.md) — 862.8K views · `Date-triggered benefit increase announcement` · 2026-10-14
 
 - [4 Years of Financial Education in 60 Seconds](../../breakdowns/zh-CN/2026-06/tiktok-transcript-4-a-os-de-educaci-n-financiera-en-60-segundos-finanzas-diner-053f.md) — 745.4K views · `Counterintuitive statement` · 2026-06-06
 

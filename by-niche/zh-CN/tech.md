@@ -1,6 +1,6 @@
 # tech Breakdowns
 
-> 10 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 11 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -16,6 +16,8 @@
 - [Pocket-Sized Emergency Phone Charger on Shark Tank US](../../breakdowns/zh-CN/2026-05/tiktok-transcript-sharks-loved-this-tiny-charger-shark-tank-us-5681.md) — 1.4M views · `Question-Answer Surprise` · 2026-05-23
 
 - [Build AI Agent That Handles Emails and Meetings](../../breakdowns/zh-CN/2026-06/tiktok-transcript-most-people-overcomplicate-ai-agents-i-built-one-that-handle-0ccc.md) — 1.3M views · `What if + aspirational promise` · 2026-06-09
+
+- [18-in-1 Snowflake Multi Tool EDC Wrench Review](../../breakdowns/zh-CN/2026-10/tiktok-transcript-be-sure-to-carry-this-snowflake-wrench-with-you-when-you-re-aeab.md) — 1.2M views · `Praise + Problem Agitation` · 2026-10-16
 
 - [How to Use a Multimeter: Check Continuity and Measure DC...](../../breakdowns/zh-CN/2026-08/tiktok-transcript-how-to-use-a-multimeter-tik-knowledge-science-multimeter-aab0.md) — 1.2M views · `Direct question + invitation` · 2026-08-07
 

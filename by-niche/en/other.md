@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 308 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 310 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -309,6 +309,8 @@
 
 - [Aceh Floods Reach Unimaginable Heights on December 6](../../breakdowns/en/2026-05/tiktok-transcript-6-december-25-aceh-taming-can-not-imagine-this-high-of-the-f-f7b4.md) — 1.7M views · `Question-Answer Mismatch` · 2026-05-24
 
+- [Dr. Amen Explains the 7 Types of ADHD](../../breakdowns/en/2026-10/tiktok-transcript-482k-views-103k-reactions-did-you-know-adhd-isn-t-one-size-f-7c9e.md) — 1.7M views · `Categorization Hook` · 2026-10-16
+
 - [10 Ways to Increase Your Value in Life](../../breakdowns/en/2026-09/tiktok-transcript-4-5m-views-170k-reactions-tapu-tapu-on-reels-a7be.md) — 1.6M views · `Direct Benefit Promise` · 2026-09-14
 
 - [Tired of Pride Month Rainbows on Grinder](../../breakdowns/en/2026-06/tiktok-transcript-this-month-brings-me-great-distress-as-you-could-clearly-tel-cb8f.md) — 1.6M views · `Contrarian Complaint` · 2026-06-04
@@ -466,6 +468,8 @@
 - [Reposted My Video Friends Views Problem](../../breakdowns/en/2026-08/tiktok-transcript-newaccount-unfreez-tiktok-8d47.md) — 827.0K views · `Direct Gratitude` · 2026-08-03
 
 - [Sheetal Devi Beats Payal Nag for Khelo India Para Games Gold](../../breakdowns/en/2026-09/tiktok-transcript-3-1m-views-429k-reactions-jammu-and-kashmir-s-armless-archer-0a13.md) — 821.2K views · `Promise of wealth` · 2026-09-01
+
+- [Emotional Safety: When Touch Only Means Intimacy](../../breakdowns/en/2026-10/tiktok-transcript-la-s-curit-motionnelle-emotions-santementale-bf76.md) — 818.0K views · `Problem-Solution Hook` · 2026-10-14
 
 - [Breakup Advice for Teenage Girls](../../breakdowns/en/2026-06/tiktok-transcript-fup-f002.md) — 811.2K views · `Direct Address + Authority` · 2026-06-22
 

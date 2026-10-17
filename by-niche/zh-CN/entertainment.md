@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 250 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 251 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -322,6 +322,8 @@
 - [Ghost Train of Hiroshima Passes Daily at 8:15 AM](../../breakdowns/zh-CN/2026-06/tiktok-transcript-o-trem-fantasma-de-hiroshima-historias-hiroshima-historiarea-0a42.md) — 1.3M views · `Did you know + specific location + supernatural element` · 2026-06-11
 
 - [This Is for All My Baby Girls](../../breakdowns/zh-CN/2026-05/tiktok-transcript-this-is-for-all-my-babygorls-2021tiktok-fyp-targetaudience-9e0a.md) — 1.3M views · `Direct address to a specific audience` · 2026-05-22
+
+- [Accepting I'm Not Everyone's First Choice](../../breakdowns/zh-CN/2026-10/tiktok-transcript-112k-reactions-18k-shares-i-m-finally-accepting-that-i-m-not-6cea.md) — 1.3M views · `Vulnerable Admission + Empowering Turn` · 2026-10-16
 
 - [Trump Panics as Senate Impeachment Case Made](../../breakdowns/zh-CN/2026-08/tiktok-transcript-trump-loses-it-as-impeachment-case-made-in-senate-4431.md) — 1.3M views · `Urgent escalation` · 2026-08-18
 
