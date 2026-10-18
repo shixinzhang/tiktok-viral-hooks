@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 310 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 311 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -88,6 +88,8 @@
 - [Forest Work ASMR Satisfying Forestry Sounds](../../breakdowns/zh-CN/2026-07/tiktok-transcript-fyp-viral-foryou-trending-forestwork-forestry-asmr-satisfyin-348d.md) — 7.7M views · `Single-word agreement` · 2026-07-21
 
 - [The Best Thing I Ever Did Was Stay Quiet](../../breakdowns/zh-CN/2026-06/tiktok-transcript-the-best-i-have-ever-done-is-to-stay-quiet-denzelwashington-89b9.md) — 7.4M views · `Contrarian declaration` · 2026-06-02
+
+- [Woman Shows Her Field and Challenges Viewers to Follow](../../breakdowns/zh-CN/2026-10/tiktok-transcript-21m-views-264k-reactions-wafa-world-facebookreelsviral-reels-12b6.md) — 7.3M views · `Shock Promise + Dare-to-Watch Challenge` · 2026-10-17
 
 - [Why Banana Trees Are Cut Down After Harvest](../../breakdowns/zh-CN/2026-07/tiktok-transcript-14m-views-231k-reactions-why-banana-trees-get-cut-down-after-e7e0.md) — 7.2M views · `Urgent command with reward` · 2026-07-13
 

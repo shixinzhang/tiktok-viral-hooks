@@ -1,6 +1,6 @@
 # tech Breakdowns
 
-> 11 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 12 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -26,3 +26,5 @@
 - [Phone Store Owner's Water Damage Phone Hacks](../../breakdowns/en/2026-07/tiktok-transcript-fyp-lifehack-lifestyle-lifetips-diy-4053.md) — 882.3K views · `Authority/Insider Knowledge` · 2026-07-05
 
 - [How to Fix Car Hard Start, Power Loss, High Fuel Consumption](../../breakdowns/en/2026-06/tiktok-transcript-the-car-is-difficult-to-start-the-power-decreases-and-the-fu-6292.md) — 734.4K views · `Challenge question` · 2026-06-20
+
+- [Keo Optimized vs Star Optimized Modpack FPS Comparison](../../breakdowns/en/2026-10/tiktok-transcript-comparando-mi-modpack-de-optimizaci-n-keo-optimized-ec5e.md) — 666.7K views · `Comparison Challenge` · 2026-10-16

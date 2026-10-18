@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 251 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 254 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -201,6 +201,8 @@
 
 - [Woman Police Officer Challenges Viewers to Follow](../../breakdowns/zh-CN/2026-10/tiktok-transcript-6-8m-views-237k-reactions-wafa-world-facebookreelsviral-reel-3db9.md) — 2.4M views · `Authority Challenge` · 2026-10-11
 
+- [Woman Seeking Facebook Friends in Urdu Video](../../breakdowns/zh-CN/2026-10/tiktok-transcript-6-4m-views-206k-reactions-wafa-world-facebookreelsviral-reel-e5e4.md) — 2.3M views · `Provocative Taunt + Complaint` · 2026-10-17
+
 - [Father Tests Daughters With $67 Million Each](../../breakdowns/zh-CN/2026-06/tiktok-transcript-he-gave-the-money-to-his-daughters-as-a-test-storyline-fruit-e256.md) — 2.3M views · `Shock and Awe` · 2026-06-26
 
 - [Father Fed Only Rice Until Daughter Arrives](../../breakdowns/zh-CN/2026-09/tiktok-transcript-3-6m-views-134k-reactions-short-story-kanin-lang-ang-pinakai-a431.md) — 2.3M views · `Immediate Conflict` · 2026-09-18
@@ -369,6 +371,8 @@
 
 - [Why You Can't Leave a Toxic Partner: Break the Trauma Bond](../../breakdowns/zh-CN/2026-08/tiktok-transcript-here-s-why-you-re-struggling-to-leave-a-toxic-partner-you-ha-459b.md) — 913.9K views · `Direct address with a promise of a solution` · 2026-08-02
 
+- [Sunflower Head Shaker DIY Car Decor](../../breakdowns/zh-CN/2026-10/tiktok-transcript-5-diy-55d6.md) — 907.0K views · `Symbolism Reveal Question` · 2026-10-17
+
 - [Toddler Hip Carrier Deal Review for Moms](../../breakdowns/zh-CN/2026-09/tiktok-transcript-toddlercarrier-babycarrier-dealsforyoudays-toddlerhipcarrier-b152.md) — 906.0K views · `Sensory Immersion` · 2026-09-18
 
 - [Part 2: Confronting the Past in Manhattan](../../breakdowns/zh-CN/2026-06/tiktok-transcript-part-2-fyp-redditstories-viral-foryoupage-d9db.md) — 889.9K views · `Emotional confession` · 2026-06-23
@@ -390,6 +394,8 @@
 - [The Devil's Bridge: Strange Phenomena in France Since 1994](../../breakdowns/zh-CN/2026-06/tiktok-transcript-horreurtiktok-horreur-histoire-histoirevrai-urbanlegends-fyp-a88e.md) — 804.4K views · `Mystery/Curiosity Gap` · 2026-06-11
 
 - [Would You Rather Luxury Edition Part 2](../../breakdowns/zh-CN/2026-09/tiktok-transcript-partie-2-tu-pr-f-res-version-luxe-tupreferes-tupreferesquoi-3856.md) — 802.5K views · `Would You Rather` · 2026-09-25
+
+- [Never Lose Faith Even When All Seems Lost](../../breakdowns/zh-CN/2026-10/tiktok-transcript-1-8m-views-34k-reactions-nunca-pierdas-la-fe-aunque-crees-qu-cc98.md) — 794.7K views · `Sensory buildup + sudden reversal` · 2026-10-17
 
 - [Funny Cat and Horse Clip Part 159](../../breakdowns/zh-CN/2026-09/tiktok-transcript-funny-animals-2026-funny-cats-horse-video-part-159-funnyanim-ba00.md) — 779.3K views · `absurdist command` · 2026-09-30
 
