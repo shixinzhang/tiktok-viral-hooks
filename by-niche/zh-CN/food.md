@@ -1,6 +1,6 @@
 # food Breakdowns
 
-> 19 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 20 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -18,6 +18,8 @@
 - [Body Pain Relief Remedy with Milk and Spices](../../breakdowns/zh-CN/2026-06/tiktok-transcript-dekhein-21fe.md) — 3.6M views · `Conditional promise` · 2026-06-29
 
 - [3-Ingredient Snack Recipe](../../breakdowns/zh-CN/2026-05/tiktok-transcript-salgadinho-de-s-3-ingredientes-salgadinho-receita-facil-004b.md) — 3.3M views · `Curiosity gap + promise` · 2026-05-31
+
+- [Family Kitchen Chat About Cooking and Onions](../../breakdowns/zh-CN/2026-10/tiktok-transcript-tiktok-video-7668736763153632532-f168.md) — 2.6M views · `Direct Question + Urgency` · 2026-10-18
 
 - [Tasty Burger Production: Marinade to Meat Grinder](../../breakdowns/zh-CN/2026-06/tiktok-transcript-movie-usa-foryou-film-tiktok-d95e.md) — 2.2M views · `Curiosity Gap` · 2026-06-13
 

@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 254 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 258 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -437,6 +437,8 @@
 
 - [Street Interview: Was Jesus Resurrected?](../../breakdowns/zh-CN/2026-10/tiktok-transcript-jes-s-resucit-dios-biblia-paratii-entrevista-tiktok-2996.md) — 529.6K views · `Provocative Question` · 2026-10-02
 
+- [Toyota Hilux Grand Prize Contest at Dealership Opening](../../breakdowns/zh-CN/2026-10/tiktok-transcript-1-6m-views-27k-reactions-toyota-toyotadealership-toyotaafric-7676.md) — 517.3K views · `Challenge with Prize` · 2026-10-17
+
 - [Husband Works Late, Wife Shares Improvised Lunch](../../breakdowns/zh-CN/2026-07/tiktok-transcript-son-mari-travaille-tard-elle-partage-un-d-jeuner-improvis-av-5a22.md) — 507.4K views · `Setup with a phone call` · 2026-07-28
 
 - [The Bottom of the Epstein Rabbit Hole](../../breakdowns/zh-CN/2026-08/tiktok-transcript-878k-views-23k-reactions-what-s-really-at-the-bottom-of-the-a213.md) — 499.0K views · `Curiosity gap + direct address` · 2026-08-23
@@ -445,11 +447,17 @@
 
 - [Richest Girl Falls for Poor New Student Movie Recap](../../breakdowns/zh-CN/2026-10/tiktok-transcript-tiktokfilmtvcompetition-filmbreaker-moviereview-usmovies-49c2.md) — 489.0K views · `Status Contrast` · 2026-10-01
 
+- [Arabic Song Lyric Video With Emotional Vocals](../../breakdowns/zh-CN/2026-10/tiktok-transcript-tiktok-video-7675888087058156820-9fb8.md) — 465.6K views · `Rhetorical Question with Emotional Accusation` · 2026-10-18
+
+- [Biblical Artifacts Actually Found: Hezekiah's Tunnel](../../breakdowns/zh-CN/2026-10/tiktok-transcript-796k-views-48k-reactions-things-from-the-bible-that-have-act-b181.md) — 448.7K views · `Curiosity Gap + Record-Breaking Tease` · 2026-10-17
+
 - [Gentle Teacher Shocked as Real Estate Tycoon Rejects Her](../../breakdowns/zh-CN/2026-09/tiktok-transcript-c-gi-o-d-u-d-ng-ng-ng-ng-b-i-gia-b-s-t-ch-i-ph-nghe-l-do-xon-359d.md) — 441.9K views · `Apology tease` · 2026-09-06
 
 - [Woman Says I Love You in Urdu, Asks Not to Get Angry](../../breakdowns/zh-CN/2026-09/tiktok-transcript-1-2m-views-41k-reactions-03045658506-6e79.md) — 436.7K views · `Question Hook` · 2026-09-25
 
 - [Loyal Woman Stands by Struggling Man](../../breakdowns/zh-CN/2026-09/tiktok-transcript-1-1m-views-32k-reactions-kadang-mburi-omah-on-reels-98c8.md) — 433.7K views · `Universal Truth + Contrast` · 2026-09-30
+
+- [Respect After Neglect Loses Its Meaning](../../breakdowns/zh-CN/2026-10/tiktok-transcript-1m-views-35k-reactions-sadreels-sadvideo-trendingreels-nidha-e4e7.md) — 428.5K views · `Pain-then-Love Paradox Statement` · 2026-10-18
 
 - [Couple Argues Over IVF Treatment in Fate Cursed Part 2](../../breakdowns/zh-CN/2026-09/tiktok-transcript-part-2-fate-cursed-aistory-aistoryteller-ai-6053.md) — 414.3K views · `Conflict Hook` · 2026-09-27
 
