@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 311 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 313 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -537,6 +537,8 @@
 
 - [Woman Renovates Home After Divorce and Starting Over](../../breakdowns/en/2026-09/tiktok-transcript-vous-aimez-la-couleur-de-la-peinture-maison-nettoyage-travai-99f3.md) — 455.1K views · `Personal Transformation Hook` · 2026-09-29
 
+- [Jacques Chirac 21 Years Earlier: A Crisis of Meaning](../../breakdowns/en/2026-10/tiktok-transcript-c-tait-vingt-et-un-ans-plus-t-t-le-pr-sident-jacques-chirac-fa33.md) — 438.1K views · `Problem Declaration` · 2026-10-19
+
 - [10 Amazing Health Facts You Need to Know](../../breakdowns/en/2026-07/tiktok-transcript-922k-views-22k-reactions-10-amazing-health-related-facts-ama-a73b.md) — 434.9K views · `Numbered list teaser` · 2026-07-09
 
 - [Learn Daily: Real Education Beyond School](../../breakdowns/en/2026-08/tiktok-transcript-1-1m-views-29k-reactions-educated-yourself-everyday-please-v-3751.md) — 424.9K views · `Reframe common belief` · 2026-08-21
@@ -562,6 +564,8 @@
 - [Kabibe sa Dalampasigan: A Short Magical Story](../../breakdowns/en/2026-08/tiktok-transcript-670k-views-19k-reactions-kabibe-sa-dalampasigan-short-magica-1d05.md) — 342.8K views · `Direct address with urgency and sensory appeal` · 2026-08-27
 
 - [Why Men Dislike Their Girlfriend’s Male Best Friend](../../breakdowns/en/2026-08/tiktok-transcript-580k-views-8k-reactions-women-can-t-have-male-best-friend-on-8962.md) — 339.7K views · `Rhetorical question + curiosity gap` · 2026-08-17
+
+- [Bank-Seized Fortuner & Scorpio at Lowest Prices](../../breakdowns/en/2026-10/tiktok-transcript-898k-views-26k-reactions-whatsapp-https-whatsapp-openinapp-l-b23f.md) — 337.3K views · `Personal Confession + Unmet Need` · 2026-10-17
 
 - [Customized Necklace Gift With Two-Sided Coin Design](../../breakdowns/en/2026-06/tiktok-transcript-video-6676.md) — 337.3K views · `Superlative + Specific` · 2026-06-07
 

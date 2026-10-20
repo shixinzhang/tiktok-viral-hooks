@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 258 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 261 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -361,6 +361,8 @@
 
 - [This Player Almost Scored an Own Goal on a Back Pass](../../breakdowns/zh-CN/2026-06/tiktok-transcript-este-jugador-calcul-muy-mal-1-simple-pase-hacia-atr-s-futbol-3dae.md) — 943.7K views · `Miscalculation / Near Own Goal` · 2026-06-13
 
+- [Senator John Kennedy's Funniest Debate Comebacks](../../breakdowns/zh-CN/2026-10/tiktok-transcript-senator-john-kennedy-iconic-moments-senatorkennedy-politics-fcb6.md) — 940.1K views · `Paradoxical Statement` · 2026-10-19
+
 - [Alawi Family Gift Giveaway via Call for Commenters](../../breakdowns/zh-CN/2026-09/tiktok-transcript-2-4m-views-150k-reactions-comment-nyo-na-mga-boss-baka-sa-in-24fb.md) — 938.8K views · `Direct Promise` · 2026-09-13
 
 - [Wife's Emotional Tribute to Her Honest Husband](../../breakdowns/zh-CN/2026-10/tiktok-transcript-3-1m-views-80k-reactions-viralstoryhindi-trendingreelsindia-2c65.md) — 930.0K views · `Defiant Defense of Loved One` · 2026-10-07
@@ -398,6 +400,8 @@
 - [Never Lose Faith Even When All Seems Lost](../../breakdowns/zh-CN/2026-10/tiktok-transcript-1-8m-views-34k-reactions-nunca-pierdas-la-fe-aunque-crees-qu-cc98.md) — 794.7K views · `Sensory buildup + sudden reversal` · 2026-10-17
 
 - [Funny Cat and Horse Clip Part 159](../../breakdowns/zh-CN/2026-09/tiktok-transcript-funny-animals-2026-funny-cats-horse-video-part-159-funnyanim-ba00.md) — 779.3K views · `absurdist command` · 2026-09-30
+
+- [Wealthy Suitor Wish: Woman Regrets Marrying a Poor Man](../../breakdowns/zh-CN/2026-10/tiktok-transcript-tiktok-video-7677722190250298644-d935.md) — 758.4K views · `Exaggerated Self-Praise with Contrast` · 2026-10-19
 
 - [When Love Takes Over, Broken Parts Start Breathing Again](../../breakdowns/zh-CN/2026-08/tiktok-transcript-1-4m-views-91k-reactions-when-love-takes-over-even-the-broke-6ff5.md) — 756.3K views · `Direct confrontation with a universal truth` · 2026-08-22
 
@@ -448,6 +452,8 @@
 - [Richest Girl Falls for Poor New Student Movie Recap](../../breakdowns/zh-CN/2026-10/tiktok-transcript-tiktokfilmtvcompetition-filmbreaker-moviereview-usmovies-49c2.md) — 489.0K views · `Status Contrast` · 2026-10-01
 
 - [Arabic Song Lyric Video With Emotional Vocals](../../breakdowns/zh-CN/2026-10/tiktok-transcript-tiktok-video-7675888087058156820-9fb8.md) — 465.6K views · `Rhetorical Question with Emotional Accusation` · 2026-10-18
+
+- [Egyptian Comedy Skit About a Thief on a Balcony](../../breakdowns/zh-CN/2026-10/tiktok-transcript-tiktok-video-7693234457997790484-0b8d.md) — 452.5K views · `Sudden Chaos Opener` · 2026-10-19
 
 - [Biblical Artifacts Actually Found: Hezekiah's Tunnel](../../breakdowns/zh-CN/2026-10/tiktok-transcript-796k-views-48k-reactions-things-from-the-bible-that-have-act-b181.md) — 448.7K views · `Curiosity Gap + Record-Breaking Tease` · 2026-10-17
 
