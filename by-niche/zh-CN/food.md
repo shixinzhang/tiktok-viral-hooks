@@ -21,9 +21,9 @@
 
 - [Family Kitchen Chat About Cooking and Onions](../../breakdowns/zh-CN/2026-10/tiktok-transcript-tiktok-video-7668736763153632532-f168.md) — 2.6M views · `Direct Question + Urgency` · 2026-10-18
 
-- [Tasty Burger Production: Marinade to Meat Grinder](../../breakdowns/zh-CN/2026-06/tiktok-transcript-movie-usa-foryou-film-tiktok-d95e.md) — 2.2M views · `Curiosity Gap` · 2026-06-13
-
 - [Stainless Steel Meatball Maker Spoon Hack](../../breakdowns/zh-CN/2026-09/tiktok-transcript-chega-de-fazer-alm-ndegas-com-as-m-os-e-ficar-com-tudo-gruda-5663.md) — 2.2M views · `Problem-Agitation-Solution` · 2026-09-14
+
+- [Tasty Burger Production: Marinade to Meat Grinder](../../breakdowns/zh-CN/2026-06/tiktok-transcript-movie-usa-foryou-film-tiktok-d95e.md) — 2.2M views · `Curiosity Gap` · 2026-06-13
 
 - [Food Dilemma: Beef vs Chicken, Carbonara vs Bolognese](../../breakdowns/zh-CN/2026-06/tiktok-transcript-part-340-tu-pr-f-res-tupreferes-tupreferesquoi-dilemme-375f.md) — 1.8M views · `Interactive choice hook` · 2026-06-29
 

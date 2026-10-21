@@ -1,4 +1,4 @@
-# Hook Pattern: Curiosity gap with specific age
+# Hook Pattern: Curiosity Gap with Specific Age
 
 > 2 viral TikTok videos that use this hook pattern.
 
