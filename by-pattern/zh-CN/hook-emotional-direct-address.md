@@ -1,8 +1,10 @@
-# Hook Pattern: Emotional direct address
+# Hook Pattern: Emotional Direct Address
 
-> 1 viral TikTok videos that use this hook pattern.
+> 2 viral TikTok videos that use this hook pattern.
 
 [← Back to README](../../README.md).zh-CN.md
 
 
 - [Snowflake Part 2: A Promise of Support and Study](../../breakdowns/zh-CN/2026-09/tiktok-transcript-video-403c.md) — 1.6M views · `other` · 2026-09-08
+
+- [Jennifer Emotional Thanking Fans for Their Support](../../breakdowns/zh-CN/2026-10/tiktok-transcript-so-much-love-from-fans-that-made-jennifer-emotional-jennifer-7d63.md) — 388.6K views · `entertainment` · 2026-10-21

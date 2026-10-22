@@ -1,4 +1,4 @@
-# Hook Pattern: Direct Address
+# Hook Pattern: Direct address
 
 > 2 viral TikTok videos that use this hook pattern.
 
