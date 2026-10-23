@@ -1,6 +1,6 @@
 # Hook Pattern: Emotional Confession
 
-> 5 viral TikTok videos that use this hook pattern.
+> 6 viral TikTok videos that use this hook pattern.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -14,3 +14,5 @@
 - [Heatwave Animal Suffering in French Farms](../../breakdowns/zh-CN/2026-07/tiktok-transcript-muss-es-erst-zur-katastrophe-kommen-tierhaltung-hitzewelle-t-5813.md) — 1.2M views · `other` · 2026-07-19
 
 - [Part 2: Confronting the Past in Manhattan](../../breakdowns/zh-CN/2026-06/tiktok-transcript-part-2-fyp-redditstories-viral-foryoupage-d9db.md) — 889.9K views · `entertainment` · 2026-06-23
+
+- [I Came to Say Goodbye](../../breakdowns/zh-CN/2026-10/tiktok-transcript-video-c565.md) — 691.3K views · `entertainment` · 2026-10-22

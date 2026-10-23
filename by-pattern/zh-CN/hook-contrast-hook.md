@@ -1,6 +1,6 @@
 # Hook Pattern: Contrast Hook
 
-> 6 viral TikTok videos that use this hook pattern.
+> 7 viral TikTok videos that use this hook pattern.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -16,3 +16,5 @@
 - [Guard Your Peace Despite What People Think](../../breakdowns/zh-CN/2026-09/tiktok-transcript-2-2m-views-61k-reactions-guard-your-peace-life-lifelessons-p-6798.md) — 826.1K views · `entertainment` · 2026-09-19
 
 - [Lorenzo Hunt vs Walter Pugliesi Bare Knuckle Fight](../../breakdowns/zh-CN/2026-09/tiktok-transcript-lorenzo-hunt-vs-walter-pugliesi-boxing-bkfc-tiktok-froyoupag-e6db.md) — 593.4K views · `entertainment` · 2026-09-21
+
+- [De-Influencing Overconsumption: The Real Cost of Trendy J...](../../breakdowns/zh-CN/2026-10/tiktok-transcript-once-something-gets-a-name-it-trends-and-the-landfills-get-b-4779.md) — 210.1K views · `entertainment` · 2026-10-20

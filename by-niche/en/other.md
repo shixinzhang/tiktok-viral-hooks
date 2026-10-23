@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 314 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 315 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -614,6 +614,8 @@
 - [If you have a mole on your hand, this could say a lot about your fate...](../../breakdowns/en/2026-07/tiktok-transcript-if-you-have-a-mole-on-your-hand-this-could-say-a-lot-about-y-ed5d.md) — 192.1K views · `Mystery & Curiosity` · 2026-07-23
 
 - [Lucky Commenter Wins ₱35,000 Premium Prize](../../breakdowns/en/2026-09/tiktok-transcript-402k-views-18k-reactions-comment-nyo-na-mga-boss-baka-sa-iny-9869.md) — 175.3K views · `Direct address + conditional reward` · 2026-09-07
+
+- [Marrying a Foreigner Without Saudi Interior Ministry Appr...](../../breakdowns/en/2026-10/tiktok-transcript-video-7a9f.md) — 168.1K views · `Problem-Solution with Consequence` · 2026-10-21
 
 - [How to Learn Faster Than Others: 3 Study Strategies](../../breakdowns/en/2026-10/tiktok-transcript-ph-ng-ph-p-c-i-thi-n-t-duy-h-c-h-i-c-a-b-n-caocams-thaygiaoc-d81d.md) — 165.8K views · `Curiosity Gap + Problem-Solution` · 2026-10-04
 

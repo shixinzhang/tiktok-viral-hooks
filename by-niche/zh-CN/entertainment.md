@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 270 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 273 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -437,6 +437,8 @@
 
 - [Why Grapevine Bark Is Stripped in Winter](../../breakdowns/zh-CN/2026-07/tiktok-transcript-why-is-the-bark-of-grapevines-stripped-in-winter-60fe.md) — 694.6K views · `False accusation / misunderstanding` · 2026-07-30
 
+- [I Came to Say Goodbye](../../breakdowns/zh-CN/2026-10/tiktok-transcript-video-c565.md) — 691.3K views · `Emotional Confession` · 2026-10-22
+
 - [New Student Sits in Bully's Seat on First Day](../../breakdowns/zh-CN/2026-07/tiktok-transcript-1-4m-views-51k-reactions-o-valent-o-mexeu-com-o-cara-errado-813e.md) — 684.0K views · `Immediate Conflict` · 2026-07-28
 
 - [Man Who Left Wife and Kids for Another Woman](../../breakdowns/zh-CN/2026-09/tiktok-transcript-1-4m-views-32k-reactions-ng-i-n-ng-ng-u-nh-t-m-c-mi-n-0dc0.md) — 658.5K views · `Insult Hook` · 2026-09-23
@@ -521,11 +523,15 @@
 
 - [Create an Alter Ego to Reach Your Craziest Dreams](../../breakdowns/zh-CN/2026-07/tiktok-transcript-crie-um-alter-ego-se-voc-quer-aprender-a-fazer-dinheiro-no-d-eac1.md) — 223.1K views · `Direct Promise` · 2026-07-29
 
+- [De-Influencing Overconsumption: The Real Cost of Trendy J...](../../breakdowns/zh-CN/2026-10/tiktok-transcript-once-something-gets-a-name-it-trends-and-the-landfills-get-b-4779.md) — 210.1K views · `Contrast Hook` · 2026-10-20
+
 - [Yemeni Satirical Comedy Skit by Muhammad Al-Hawari](../../breakdowns/zh-CN/2026-10/tiktok-transcript-414k-views-8-7k-reactions-comedy-80ca.md) — 206.5K views · `invocation_declaration` · 2026-10-01
 
 - [Ego, Ego-Death and Psilocybin: The Self You’re Protecting...](../../breakdowns/zh-CN/2026-08/tiktok-transcript-94k-views-16k-reactions-ego-ego-death-and-psilocybin-the-sel-cccd.md) — 202.6K views · `Provocative statement + immediate challenge` · 2026-08-16
 
 - [Neighbor’s Guitar and Cake Spark a Sudden Heartbeat](../../breakdowns/zh-CN/2026-08/tiktok-transcript-part7-the-neighbor-s-guitar-and-cake-a-sudden-heartbeat-next-ed75.md) — 189.2K views · `Mysterious Intrusion` · 2026-08-01
+
+- [Sevdiğim Sensin New Episode Tonight on Star TV](../../breakdowns/zh-CN/2026-10/tiktok-transcript-hepinizi-bekliyoruz-sevdi-imsensin-yeni-b-l-m-yle-bu-ak-am-v-8df7.md) — 172.4K views · `casual confusion` · 2026-10-20
 
 - [Married to a Comatose Tycoon: My Daily Routine of Annoyin...](../../breakdowns/zh-CN/2026-08/tiktok-transcript-part23-married-to-a-comatose-tycoon-my-daily-routine-annoy-h-b421.md) — 164.8K views · `Conflict setup with high stakes` · 2026-08-01
 

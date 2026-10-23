@@ -1,6 +1,6 @@
 # tech Breakdowns
 
-> 12 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 13 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -28,3 +28,5 @@
 - [How to Fix Car Hard Start, Power Loss, High Fuel Consumption](../../breakdowns/zh-CN/2026-06/tiktok-transcript-the-car-is-difficult-to-start-the-power-decreases-and-the-fu-6292.md) — 734.4K views · `Challenge question` · 2026-06-20
 
 - [Keo Optimized vs Star Optimized Modpack FPS Comparison](../../breakdowns/zh-CN/2026-10/tiktok-transcript-comparando-mi-modpack-de-optimizaci-n-keo-optimized-ec5e.md) — 666.7K views · `Comparison Challenge` · 2026-10-16
+
+- [Dashcam App Explained in 30 Seconds](../../breakdowns/zh-CN/2026-10/tiktok-transcript-gib-mir-30-sekunden-link-in-der-bio-5ae1.md) — 175.9K views · `Time-bound promise + feature reveal` · 2026-10-20
