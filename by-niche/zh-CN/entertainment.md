@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 273 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 274 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -538,6 +538,8 @@
 - [Last Part- Fine Girl, No Filter  Sharp Mouth, Soft Heart  #part2 #vir...](../../breakdowns/zh-CN/2026-07/tiktok-transcript-last-part-fine-girl-no-filter-sharp-mouth-soft-heart-part2-v-173e.md) — 160.5K views · `Exaggerated Comparison` · 2026-07-23
 
 - [Ex Claims He Looks Like BTS Taehyung or Jungkook](../../breakdowns/zh-CN/2026-10/tiktok-transcript-it-doesnt-end-storytime-momiiblade-ex-474a.md) — 159.3K views · `Part 2 / Continuation Hook` · 2026-10-04
+
+- [Confident Self-Knowledge: Ignoring Opinions and Revenge](../../breakdowns/zh-CN/2026-10/tiktok-transcript-i-don-t-care-what-people-say-about-me-because-i-know-who-i-a-eb3f.md) — 147.8K views · `Defiant self-declaration` · 2026-10-23
 
 - [Neighbor’s Guitar and Cake: A Sudden Heartbeat Next Door](../../breakdowns/zh-CN/2026-07/tiktok-transcript-part5-the-neighbor-s-guitar-and-cake-a-sudden-heartbeat-next-7e7e.md) — 146.5K views · `Emotional Cold Open` · 2026-07-31
 
