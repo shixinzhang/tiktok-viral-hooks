@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 275 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 276 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -468,6 +468,8 @@
 - [Richest Girl Falls for Poor New Student Movie Recap](../../breakdowns/en/2026-10/tiktok-transcript-tiktokfilmtvcompetition-filmbreaker-moviereview-usmovies-49c2.md) — 489.0K views · `Status Contrast` · 2026-10-01
 
 - [Arabic Song Lyric Video With Emotional Vocals](../../breakdowns/en/2026-10/tiktok-transcript-tiktok-video-7675888087058156820-9fb8.md) — 465.6K views · `Rhetorical Question with Emotional Accusation` · 2026-10-18
+
+- [I Get Patrick: I Wanted Betty With Michel Too](../../breakdowns/en/2026-10/tiktok-transcript-te-entiendo-patrick-yo-tambi-n-quer-a-que-betty-se-quedara-c-0b00.md) — 463.4K views · `Laughter + Denial Hook` · 2026-10-27
 
 - [Egyptian Comedy Skit About a Thief on a Balcony](../../breakdowns/en/2026-10/tiktok-transcript-tiktok-video-7693234457997790484-0b8d.md) — 452.5K views · `Sudden Chaos Opener` · 2026-10-19
 
