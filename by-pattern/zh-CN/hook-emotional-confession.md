@@ -1,6 +1,6 @@
 # Hook Pattern: Emotional Confession
 
-> 6 viral TikTok videos that use this hook pattern.
+> 8 viral TikTok videos that use this hook pattern.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -16,3 +16,7 @@
 - [Part 2: Confronting the Past in Manhattan](../../breakdowns/zh-CN/2026-06/tiktok-transcript-part-2-fyp-redditstories-viral-foryoupage-d9db.md) — 889.9K views · `entertainment` · 2026-06-23
 
 - [I Came to Say Goodbye](../../breakdowns/zh-CN/2026-10/tiktok-transcript-video-c565.md) — 691.3K views · `entertainment` · 2026-10-22
+
+- [Mayli, Let Them Speak Ill of Me - Miron Xamrakulov](../../breakdowns/zh-CN/2026-10/tiktok-transcript-mayli-meni-yomonlashsin-miron-xamrakulov-vijdon-gaplar-dard-83a0.md) — 266.9K views · `entertainment` · 2026-10-28
+
+- [After Death, I Hope to Find You in the Next Life](../../breakdowns/zh-CN/2026-10/tiktok-transcript-video-b393.md) — 204.3K views · `entertainment` · 2026-10-28

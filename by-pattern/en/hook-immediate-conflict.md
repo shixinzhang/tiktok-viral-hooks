@@ -1,4 +1,4 @@
-# Hook Pattern: Immediate conflict
+# Hook Pattern: Immediate Conflict
 
 > 3 viral TikTok videos that use this hook pattern.
 
