@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 278 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 279 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -454,6 +454,8 @@
 - [Lorenzo Hunt vs Walter Pugliesi Bare Knuckle Fight](../../breakdowns/zh-CN/2026-09/tiktok-transcript-lorenzo-hunt-vs-walter-pugliesi-boxing-bkfc-tiktok-froyoupag-e6db.md) — 593.4K views · `contrast hook` · 2026-09-21
 
 - [Miami's Most Addictive Ice Cream and Its Deadly Secret](../../breakdowns/zh-CN/2026-06/tiktok-transcript-la-glace-la-plus-addictive-de-miami-et-le-secret-mortel-derr-ad03.md) — 570.5K views · `Forbidden Mystery` · 2026-06-11
+
+- [Use Headset Phonk Song With Brazilian Funk Lyrics](../../breakdowns/zh-CN/2026-10/tiktok-transcript-follow-for-more-songs-slowedandreverb-phonk-song-caf9.md) — 543.4K views · `Direct Address + Provocative Statement` · 2026-10-30
 
 - [Street Interview: Was Jesus Resurrected?](../../breakdowns/zh-CN/2026-10/tiktok-transcript-jes-s-resucit-dios-biblia-paratii-entrevista-tiktok-2996.md) — 529.6K views · `Provocative Question` · 2026-10-02
 
