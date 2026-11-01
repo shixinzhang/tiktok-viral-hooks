@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 279 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 280 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -554,6 +554,8 @@
 - [Neighbor’s Guitar and Cake: A Sudden Heartbeat Next Door](../../breakdowns/en/2026-07/tiktok-transcript-part5-the-neighbor-s-guitar-and-cake-a-sudden-heartbeat-next-7e7e.md) — 146.5K views · `Emotional Cold Open` · 2026-07-31
 
 - [Man Recounts Chaotic Neighborhood Fight in Arabic](../../breakdowns/en/2026-10/tiktok-transcript-tiktok-video-7693123849365228821-2bcf.md) — 141.6K views · `shock confession` · 2026-10-05
+
+- [Afghan Regime Releases Anti-Pakistan Song Namak Haram](../../breakdowns/en/2026-10/tiktok-transcript-hindutva-knight-afghan-regime-has-released-a-song-called-nam-1115.md) — 139.5K views · `Direct accusation with repeated betrayal label` · 2026-10-31
 
 - [Neighbor’s Guitar and Cake: A Sudden Heartbeat Next Door](../../breakdowns/en/2026-07/tiktok-transcript-part6-the-neighbor-s-guitar-and-cake-a-sudden-heartbeat-next-80c4.md) — 134.8K views · `Mysterious arrival` · 2026-07-31
 
