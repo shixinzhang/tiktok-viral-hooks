@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 280 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 281 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -558,6 +558,8 @@
 - [Afghan Regime Releases Anti-Pakistan Song Namak Haram](../../breakdowns/zh-CN/2026-10/tiktok-transcript-hindutva-knight-afghan-regime-has-released-a-song-called-nam-1115.md) — 139.5K views · `Direct accusation with repeated betrayal label` · 2026-10-31
 
 - [Neighbor’s Guitar and Cake: A Sudden Heartbeat Next Door](../../breakdowns/zh-CN/2026-07/tiktok-transcript-part6-the-neighbor-s-guitar-and-cake-a-sudden-heartbeat-next-80c4.md) — 134.8K views · `Mysterious arrival` · 2026-07-31
+
+- [The Unseelie Jig Song Lyrics](../../breakdowns/zh-CN/2026-11/tiktok-transcript-the-unseelie-jig-lyrics-fyp-4u-vibe-c486.md) — 132.6K views · `Music Bed With Subscribe CTA` · 2026-11-01
 
 - [How to Keep Corn From Blowing Over in Wind](../../breakdowns/zh-CN/2026-08/tiktok-transcript-161k-views-3-7k-reactions-this-method-keeps-corn-from-blowin-16ca.md) — 111.1K views · `Relatable Frustration` · 2026-08-14
 
