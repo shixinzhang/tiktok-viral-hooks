@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 281 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 282 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md)
 
@@ -560,6 +560,8 @@
 - [Neighbor’s Guitar and Cake: A Sudden Heartbeat Next Door](../../breakdowns/en/2026-07/tiktok-transcript-part6-the-neighbor-s-guitar-and-cake-a-sudden-heartbeat-next-80c4.md) — 134.8K views · `Mysterious arrival` · 2026-07-31
 
 - [The Unseelie Jig Song Lyrics](../../breakdowns/en/2026-11/tiktok-transcript-the-unseelie-jig-lyrics-fyp-4u-vibe-c486.md) — 132.6K views · `Music Bed With Subscribe CTA` · 2026-11-01
+
+- [How Shazam's Transformation Works](../../breakdowns/en/2026-11/tiktok-transcript-how-shazam-s-transformation-works-69ec.md) — 112.7K views · `Visual Misconception Correction` · 2026-11-02
 
 - [How to Keep Corn From Blowing Over in Wind](../../breakdowns/en/2026-08/tiktok-transcript-161k-views-3-7k-reactions-this-method-keeps-corn-from-blowin-16ca.md) — 111.1K views · `Relatable Frustration` · 2026-08-14
 

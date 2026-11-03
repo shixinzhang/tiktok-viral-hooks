@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 315 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 316 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -620,6 +620,8 @@
 - [How to Learn Faster Than Others: 3 Study Strategies](../../breakdowns/zh-CN/2026-10/tiktok-transcript-ph-ng-ph-p-c-i-thi-n-t-duy-h-c-h-i-c-a-b-n-caocams-thaygiaoc-d81d.md) — 165.8K views · `Curiosity Gap + Problem-Solution` · 2026-10-04
 
 - [If You Have a Brother, You Are Richer Than You Think](../../breakdowns/zh-CN/2026-08/tiktok-transcript-14k-reactions-2-3k-shares-4036.md) — 152.7K views · `Value affirmation` · 2026-08-25
+
+- [Ramadan Study Followed by Mysterious Book Delivery](../../breakdowns/zh-CN/2026-11/tiktok-transcript-ramadan-muslim-synchronicity-islam-christian-e408.md) — 152.6K views · `Urgent Continuation` · 2026-11-02
 
 - [Why a Betrayer Avoids You: The Silent Punishment](../../breakdowns/zh-CN/2026-08/tiktok-transcript-408k-views-10k-reactions-una-persona-che-ti-ha-tradito-far-d-ad89.md) — 150.7K views · `Psychological insight` · 2026-08-27
 
