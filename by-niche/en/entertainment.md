@@ -79,9 +79,9 @@
 
 - [The Terrifying True Story Behind Wrong Turn](../../breakdowns/en/2026-05/tiktok-transcript-the-real-story-behind-wrong-turn-creepy-1900s-storytime-wron-337b.md) — 5.8M views · `Mystery/Curiosity Gap` · 2026-05-24
 
-- [Strawberry's Secrets Part 1: Controlling Argument Over Pa...](../../breakdowns/en/2026-06/tiktok-transcript-part-1-strawberry-s-secrets-aifruit-fruitstory-fruitdrama-ai-6746.md) — 5.3M views · `Accusatory Question` · 2026-06-19
-
 - [Nigerian Drama: Woman Leaves After Job Offer and Insult](../../breakdowns/en/2026-09/tiktok-transcript-part-1-the-curse-fyp-viral-naijatiktok-uktiktok-ai-2ed8.md) — 5.3M views · `Question Hook` · 2026-09-23
+
+- [Strawberry's Secrets Part 1: Controlling Argument Over Pa...](../../breakdowns/en/2026-06/tiktok-transcript-part-1-strawberry-s-secrets-aifruit-fruitstory-fruitdrama-ai-6746.md) — 5.3M views · `Accusatory Question` · 2026-06-19
 
 - [Hunter Tracks Wounded Deer After Accidental Shot](../../breakdowns/en/2026-09/tiktok-transcript-video-6c4c.md) — 5.1M views · `Accidental Action` · 2026-09-22
 
@@ -91,9 +91,9 @@
 
 - [Goalkeeper Sent Off With No Substitute on Bench](../../breakdowns/en/2026-10/tiktok-transcript-video-042a.md) — 5.0M views · `When [someone] decided to be smart and [action]` · 2026-10-07
 
-- [Two Toxic Conflict Patterns That Ruin Loving Couples](../../breakdowns/en/2026-06/tiktok-transcript-even-the-most-loving-couples-can-t-last-if-they-fall-into-th-d3ec.md) — 5.0M views · `Curiosity Gap` · 2026-06-18
-
 - [We Suffer More in Imagination Than in Reality](../../breakdowns/en/2026-06/tiktok-transcript-we-suffer-more-in-imagination-than-in-reality-seneca-stoicis-2c7e.md) — 5.0M views · `Rhetorical questions + contrast` · 2026-06-28
+
+- [Two Toxic Conflict Patterns That Ruin Loving Couples](../../breakdowns/en/2026-06/tiktok-transcript-even-the-most-loving-couples-can-t-last-if-they-fall-into-th-d3ec.md) — 5.0M views · `Curiosity Gap` · 2026-06-18
 
 - [Part 1: My Dad Told Me to Walk Home](../../breakdowns/en/2026-06/tiktok-transcript-part-1-storytime-redditstories-fyp-foryou-askreddit-foryoupa-f573.md) — 4.9M views · `Twist/Reversal` · 2026-06-28
 
@@ -119,19 +119,19 @@
 
 - [1989 Central Park Five Wrongful Conviction Explained](../../breakdowns/en/2026-10/tiktok-transcript-l-une-des-plus-grandes-injustices-raciales-des-ann-es-80-app-99e1.md) — 4.1M views · `Shock + Direct Address` · 2026-10-13
 
+- [Couple's Consent Double Standard Questioned](../../breakdowns/en/2026-09/tiktok-transcript-foryoupage-viralvideo-tren-71c8.md) — 3.9M views · `Mutual Action Contrast` · 2026-09-19
+
 - [Best Relationship Advice From a Father](../../breakdowns/en/2026-06/tiktok-transcript-what-s-the-best-relationship-advice-you-ve-ever-gotten-reddi-c803.md) — 3.9M views · `Question Hook` · 2026-06-23
 
 - [Best Movie Recaps: Editing & Narrating Top Film Stories](../../breakdowns/en/2026-06/tiktok-transcript-welcome-to-my-channel-here-i-edit-and-narrating-the-best-mov-e49d.md) — 3.9M views · `Curiosity gap with shocking premise` · 2026-06-14
 
 - [Catfished Team Helps Betsy Expose Elon Musk Affair](../../breakdowns/en/2026-06/tiktok-transcript-shout-out-to-the-catfished-team-for-helping-betsy-and-for-pu-ef4a.md) — 3.9M views · `Shocking Claim` · 2026-06-09
 
-- [Couple's Consent Double Standard Questioned](../../breakdowns/en/2026-09/tiktok-transcript-foryoupage-viralvideo-tren-71c8.md) — 3.9M views · `Mutual Action Contrast` · 2026-09-19
-
 - [God Judges Kindness to People, Not Temple Visits](../../breakdowns/en/2026-09/tiktok-transcript-11k-views-239k-reactions-neha-on-reels-1fa1.md) — 3.9M views · `Curiosity + Authority` · 2026-09-13
 
-- [Girl Must Choose Between 3 Future Husbands](../../breakdowns/en/2026-10/tiktok-transcript-elle-doit-en-choisir-un-fruitdrama-fruitstory-ai-france-brai-5a9f.md) — 3.8M views · `Challenge/Test Hook` · 2026-10-09
-
 - [True Crime: The Haunting Case in Villisca, Iowa](../../breakdowns/en/2026-05/tiktok-transcript-video-bde4.md) — 3.8M views · `Mystery Hook` · 2026-05-29
+
+- [Girl Must Choose Between 3 Future Husbands](../../breakdowns/en/2026-10/tiktok-transcript-elle-doit-en-choisir-un-fruitdrama-fruitstory-ai-france-brai-5a9f.md) — 3.8M views · `Challenge/Test Hook` · 2026-10-09
 
 - [Must-See Space Events of 2026 You Can't Miss](../../breakdowns/en/2026-05/tiktok-transcript-make-sure-you-don-t-miss-them-65f4.md) — 3.7M views · `Time urgency + curiosity gap` · 2026-05-28
 
@@ -139,17 +139,17 @@
 
 - [Part 2: Oxidized Silver and Ruby Story](../../breakdowns/en/2026-05/tiktok-transcript-part-2-the-oxidized-sliver-and-the-ruby-story-part-1-fruitst-375f.md) — 3.6M views · `Question-Answer Conflict` · 2026-05-22
 
-- [Son Tells Mother He Passed His JAMB Exam](../../breakdowns/en/2026-09/tiktok-transcript-full-story-based-on-true-life-experience-aigenerated-fyp-vir-8d87.md) — 3.6M views · `Urgent Secret` · 2026-09-12
-
 - [Son Tells Mother He Passed His JAMB Exam](../../breakdowns/en/2026-09/tiktok-transcript-full-story-based-on-true-life-experience-aigenerated-fyp-vir-f898.md) — 3.6M views · `Urgent Secret` · 2026-09-12
+
+- [Son Tells Mother He Passed His JAMB Exam](../../breakdowns/en/2026-09/tiktok-transcript-full-story-based-on-true-life-experience-aigenerated-fyp-vir-8d87.md) — 3.6M views · `Urgent Secret` · 2026-09-12
 
 - [Lightsunzayn’s Advice on Moving On After a Breakup](../../breakdowns/en/2026-07/tiktok-transcript-lightsunzayn-s-advice-on-how-to-move-on-properly-lights-7a98.md) — 3.5M views · `Direct question hook` · 2026-07-08
 
 - [Generation Living Through Others' Memories, Not Their Own](../../breakdowns/en/2026-09/tiktok-transcript-7-5m-views-116k-reactions-go-live-your-life-dietstartsmonday-78c8.md) — 3.5M views · `Provocative Prediction` · 2026-09-11
 
-- [Android Babies Cannot Be Separated at 18](../../breakdowns/en/2026-07/tiktok-transcript-ai-aifruits-brainrot-aistory-fruitdrama-872f.md) — 3.4M views · `Unexpected reveal` · 2026-07-14
-
 - [Argentina 3-0 Algeria Match Highlights](../../breakdowns/en/2026-06/tiktok-transcript-r-sum-argentine-3-0-alg-rie-abonnez-vous-pour-voir-tous-les-a8ed.md) — 3.4M views · `Action-packed play-by-play` · 2026-06-19
+
+- [Android Babies Cannot Be Separated at 18](../../breakdowns/en/2026-07/tiktok-transcript-ai-aifruits-brainrot-aistory-fruitdrama-872f.md) — 3.4M views · `Unexpected reveal` · 2026-07-14
 
 - [Ramez Galal Explains His New Show Idea](../../breakdowns/en/2026-10/tiktok-transcript-6-5m-views-80k-reactions-ramez-galal-b69a.md) — 3.3M views · `Reassurance Repetition` · 2026-10-10
 
@@ -159,9 +159,9 @@
 
 - [Bury Me With a Picture of My Sister in My Front Pocket](../../breakdowns/en/2026-05/tiktok-transcript-bury-me-with-a-picture-of-my-sister-in-my-front-pocket-inspo-4ad4.md) — 3.2M views · `Unexpected Reversal` · 2026-05-29
 
-- [Married Woman's Shower Interrupted by Worker](../../breakdowns/en/2026-07/tiktok-transcript-for-fyp-film-movie-moviereview-249b.md) — 3.2M views · `Mystery/Forbidden Romance Setup` · 2026-07-27
-
 - [The Dancing Plague of 1518 in Strasbourg](../../breakdowns/en/2026-06/tiktok-transcript-the-dancing-plague-fyp-history-dff4.md) — 3.2M views · `Imaginary scenario` · 2026-06-08
+
+- [Married Woman's Shower Interrupted by Worker](../../breakdowns/en/2026-07/tiktok-transcript-for-fyp-film-movie-moviereview-249b.md) — 3.2M views · `Mystery/Forbidden Romance Setup` · 2026-07-27
 
 - [Model Strangers Street Photography After Three Years](../../breakdowns/en/2026-05/tiktok-transcript-i-have-been-working-on-model-strangers-for-almost-three-year-df88.md) — 3.1M views · `Compliment Hook` · 2026-05-29
 
@@ -181,9 +181,9 @@
 
 - [He Called His Pregnant Wife a Cleaner, Then His Best Frie...](../../breakdowns/en/2026-08/tiktok-transcript-5-5m-views-223k-reactions-he-called-his-pregnant-wife-a-clea-3d4a.md) — 2.7M views · `Conflict Hook` · 2026-08-07
 
-- [Ana de Armas Through the Years](../../breakdowns/en/2026-07/tiktok-transcript-ana-de-armas-through-the-years-anadearmas-fyp-foryou-through-c66a.md) — 2.7M views · `Identity Reveal + Underdog Origin` · 2026-07-14
-
 - [True Friendship Story Part 2: He Took His Job](../../breakdowns/en/2026-08/tiktok-transcript-part-2-of-the-true-friendship-story-tungtungtungsahur-tungtu-bdb0.md) — 2.7M views · `Unexpected twist` · 2026-08-03
+
+- [Ana de Armas Through the Years](../../breakdowns/en/2026-07/tiktok-transcript-ana-de-armas-through-the-years-anadearmas-fyp-foryou-through-c66a.md) — 2.7M views · `Identity Reveal + Underdog Origin` · 2026-07-14
 
 - [Woman Asks Why You Don't Message Her on Messenger](../../breakdowns/en/2026-10/tiktok-transcript-7-8m-views-88k-reactions-trendingreels-viral-viralreels-tren-0f00.md) — 2.6M views · `Direct Question` · 2026-10-01
 
@@ -191,9 +191,9 @@
 
 - [Shoutout to Aries and Taurus for 2023](../../breakdowns/en/2026-06/tiktok-transcript-shoutout-to-aries-taurus-2f18.md) — 2.6M views · `Astrological Authority + Bold Claim` · 2026-06-28
 
-- [Part 2: Confronting Steven Over the Birthday Lie](../../breakdowns/en/2026-06/tiktok-transcript-part-2-diy-storytime-fyp-foryou-tiktok-2744.md) — 2.5M views · `Betrayal Reveal` · 2026-06-01
-
 - [La Siguanaba: The Punishment of Unfaithful Men](../../breakdowns/en/2026-09/tiktok-transcript-la-siguanaba-el-castigo-de-los-hombres-infieles-historiadete-1000.md) — 2.5M views · `Emotional Outburst` · 2026-09-28
+
+- [Part 2: Confronting Steven Over the Birthday Lie](../../breakdowns/en/2026-06/tiktok-transcript-part-2-diy-storytime-fyp-foryou-tiktok-2744.md) — 2.5M views · `Betrayal Reveal` · 2026-06-01
 
 - [Why Exes Demand Respect After Disrespecting You](../../breakdowns/en/2026-08/tiktok-transcript-tiktok-video-7671785610285174037-a923.md) — 2.5M views · `Direct accusation` · 2026-08-09
 
@@ -219,11 +219,11 @@
 
 - [She Says Save Money Then Asks for Ice Cream](../../breakdowns/en/2026-05/tiktok-transcript-me-dice-que-ahorremos-y-me-sale-con-esto-2664.md) — 2.2M views · `Contrasting setup` · 2026-05-25
 
-- [Diver Describes Secret Mission Underwater](../../breakdowns/en/2026-07/tiktok-transcript-with-the-fishes-junus-e42a.md) — 2.2M views · `Identity + Call to Action` · 2026-07-03
+- [Love Bombing, Ghosting, and Modern Dating Confusion](../../breakdowns/en/2026-09/tiktok-transcript-video-ce1c.md) — 2.2M views · `Rhetorical Question` · 2026-09-12
 
 - [Rare 1800s Historical Photos: Chestnut Crushing Shoes & More](../../breakdowns/en/2026-06/tiktok-transcript-rare-historical-photos-of-1800-historical-creepy-storytime-f-02cb.md) — 2.2M views · `Curiosity gap with specific oddity` · 2026-06-08
 
-- [Love Bombing, Ghosting, and Modern Dating Confusion](../../breakdowns/en/2026-09/tiktok-transcript-video-ce1c.md) — 2.2M views · `Rhetorical Question` · 2026-09-12
+- [Diver Describes Secret Mission Underwater](../../breakdowns/en/2026-07/tiktok-transcript-with-the-fishes-junus-e42a.md) — 2.2M views · `Identity + Call to Action` · 2026-07-03
 
 - [70-Year-Old Indian Grandma's Dating Game Is Strong](../../breakdowns/en/2026-05/tiktok-transcript-she-may-be-70-but-her-dating-game-is-timeless-indian-grandma-6bdc.md) — 2.1M views · `Exaggerated compliment` · 2026-05-27
 
@@ -235,11 +235,11 @@
 
 - [Every Person Enters Your Life for a Reason](../../breakdowns/en/2026-09/tiktok-transcript-4-5m-views-110k-reactions-every-person-enters-your-life-for-3600.md) — 2.1M views · `Command + Reframe` · 2026-09-10
 
-- [OOTD: Deciding Whether to Let Go](../../breakdowns/en/2026-07/tiktok-transcript-ootd-484b.md) — 2.0M views · `Rhetorical Question` · 2026-07-03
+- [He Killed Victims and Attended Their Funerals: Part 1](../../breakdowns/en/2026-08/tiktok-transcript-ele-mat4va-suas-v-timas-e-ia-no-vel-rio-parte-1-fyp-foryou-f-e044.md) — 2.0M views · `Mystery + Authority Twist` · 2026-08-08
 
 - [Dark Fantasy Golden Brown](../../breakdowns/en/2026-07/tiktok-transcript-darkfantasy-goldenbrown-fyp-0f74.md) — 2.0M views · `Audio Branding` · 2026-07-03
 
-- [He Killed Victims and Attended Their Funerals: Part 1](../../breakdowns/en/2026-08/tiktok-transcript-ele-mat4va-suas-v-timas-e-ia-no-vel-rio-parte-1-fyp-foryou-f-e044.md) — 2.0M views · `Mystery + Authority Twist` · 2026-08-08
+- [OOTD: Deciding Whether to Let Go](../../breakdowns/en/2026-07/tiktok-transcript-ootd-484b.md) — 2.0M views · `Rhetorical Question` · 2026-07-03
 
 - [Hazrat Ali Quotes on True Friendship and Separation](../../breakdowns/en/2026-08/tiktok-transcript-207k-views-353k-reactions-d-o-s-t-i-northerngirl-e956.md) — 2.0M views · `Authority + Consequence` · 2026-08-08
 
@@ -247,25 +247,25 @@
 
 - [Sharing My Story at Blue Valley Northwest Graduation](../../breakdowns/en/2026-05/tiktok-transcript-dream-come-true-getting-to-share-my-story-in-front-of-people-a9cc.md) — 1.9M views · `Shared anticipation` · 2026-05-27
 
-- [Surprising Family With My Newborn Baby](../../breakdowns/en/2026-07/tiktok-transcript-took-my-newborn-surprise-the-family-foryou-tiktok-fyp-babylo-a59b.md) — 1.9M views · `Exclamatory Surprise` · 2026-07-27
-
 - [Woman Chooses Herself Over Cheating Husband](../../breakdowns/en/2026-09/tiktok-transcript-part-one-the-strong-woman-s-tears-africanfolklore-africanfol-19f7.md) — 1.9M views · `Urgent Confrontation` · 2026-09-16
 
 - [Nigerian Mom Catches Son Lying About Bible Study](../../breakdowns/en/2026-08/tiktok-transcript-fastest-switch-up-africanparents-nigerian-funny-real-streame-6d43.md) — 1.9M views · `Immediate tension + unexpected role reversal` · 2026-08-05
+
+- [Surprising Family With My Newborn Baby](../../breakdowns/en/2026-07/tiktok-transcript-took-my-newborn-surprise-the-family-foryou-tiktok-fyp-babylo-a59b.md) — 1.9M views · `Exclamatory Surprise` · 2026-07-27
 
 - [Apply Perfume to Underwear Before Sleep Remedy](../../breakdowns/en/2026-10/tiktok-transcript-1m-views-62k-reactions-under-garments-perfume-remedy-explore-dda5.md) — 1.9M views · `Direct Promise of Demonstration` · 2026-10-11
 
 - [Man's Life Struggle: Hindi Emotional Quote About Responsi...](../../breakdowns/en/2026-10/tiktok-transcript-3-8m-views-179k-reactions-hindiquotes-viralpost-trendingpost-de5c.md) — 1.8M views · `Provocative Gender Contrast` · 2026-10-14
 
-- [Sacrificing for Your Partner Who Doesn't Appreciate It](../../breakdowns/en/2026-10/tiktok-transcript-cuando-te-sacrificas-por-el-bienestar-de-tu-pareja-y-este-no-5d44.md) — 1.8M views · `conflict setup` · 2026-10-07
-
-- [TikTok Fame 2020: The Breakup That Started the Drama](../../breakdowns/en/2026-10/tiktok-transcript-let-me-know-if-u-want-to-hear-more-about-the-momiiblade-era-3abb.md) — 1.8M views · `Part Two Tease` · 2026-10-04
-
-- [Joachim Predicts 2026 World Cup Winner After 3 Correct Picks](../../breakdowns/en/2026-06/tiktok-transcript-depuis-3-ans-joachim-pr-dit-les-vainqueurs-de-chaque-coupe-d-5b24.md) — 1.8M views · `Pattern: Prediction Reveal` · 2026-06-14
-
 - [Final Part: The Curse Nollywood Story](../../breakdowns/en/2026-09/tiktok-transcript-final-part-the-curse-naijatiktok-fyp-viral-ai-ff42.md) — 1.8M views · `Recognition Hook` · 2026-09-30
 
 - [Trust and Funerals Never Return Once Gone](../../breakdowns/en/2026-09/tiktok-transcript-beshak-kurulusosman-viral-1millionaudition-turkishseries-bur-63af.md) — 1.8M views · `Metaphorical Comparison` · 2026-09-19
+
+- [TikTok Fame 2020: The Breakup That Started the Drama](../../breakdowns/en/2026-10/tiktok-transcript-let-me-know-if-u-want-to-hear-more-about-the-momiiblade-era-3abb.md) — 1.8M views · `Part Two Tease` · 2026-10-04
+
+- [Sacrificing for Your Partner Who Doesn't Appreciate It](../../breakdowns/en/2026-10/tiktok-transcript-cuando-te-sacrificas-por-el-bienestar-de-tu-pareja-y-este-no-5d44.md) — 1.8M views · `conflict setup` · 2026-10-07
+
+- [Joachim Predicts 2026 World Cup Winner After 3 Correct Picks](../../breakdowns/en/2026-06/tiktok-transcript-depuis-3-ans-joachim-pr-dit-les-vainqueurs-de-chaque-coupe-d-5b24.md) — 1.8M views · `Pattern: Prediction Reveal` · 2026-06-14
 
 - [True Life Story: I Passed My JAMB Exam](../../breakdowns/en/2026-08/tiktok-transcript-full-story-based-on-true-life-experience-aigenerated-fyp-vir-4d18.md) — 1.8M views · `Mystery/Secret Hook` · 2026-08-09
 
@@ -279,45 +279,45 @@
 
 - [Strawberry vs Kiwi Race to Unreal Rank in Fortnite](../../breakdowns/en/2026-10/tiktok-transcript-who-will-reach-the-unreal-rank-first-vs-brainrot-ai-fortnite-11c5.md) — 1.6M views · `Direct Command + Absurd Premise` · 2026-10-12
 
-- [YouTuber Yuppi Faces Backlash for Watching Japan vs Tunis...](../../breakdowns/en/2026-07/tiktok-transcript-youtuber-fifa-a351.md) — 1.6M views · `Curiosity Gap` · 2026-07-05
-
-- [Dominik Mysterio Betrays His Father Rey to Join Judgment Day](../../breakdowns/en/2026-07/tiktok-transcript-dominik-mysterio-was-the-son-of-a-wrestling-legend-who-enter-34e1.md) — 1.6M views · `Rhetorical Question + Surprising Action` · 2026-07-01
-
 - [6-Year-Old Defies Segregation at School](../../breakdowns/en/2026-08/tiktok-transcript-le-jour-o-une-enfant-de-6-ans-a-d-fi-la-s-gr-gation-amazing-3955.md) — 1.6M views · `Historical revelation with emotional contrast` · 2026-08-10
 
 - [No More Parties, Bro](../../breakdowns/en/2026-08/tiktok-transcript-hhyeauh-zionn-heavenlyy-1e9c.md) — 1.6M views · `Repetition for emphasis` · 2026-08-05
 
-- [Men Who Seem Kind but Are Emotionally Cold](../../breakdowns/en/2026-09/tiktok-transcript-3-4m-views-76k-reactions-c-m-t-th-lo-i-n-ng-c-n-ng-s-h-n-lo-ee3f.md) — 1.6M views · `Contrarian Comparison Hook` · 2026-09-23
+- [Dominik Mysterio Betrays His Father Rey to Join Judgment Day](../../breakdowns/en/2026-07/tiktok-transcript-dominik-mysterio-was-the-son-of-a-wrestling-legend-who-enter-34e1.md) — 1.6M views · `Rhetorical Question + Surprising Action` · 2026-07-01
 
-- [Why a Man Constantly Bites His Wife: Affection Overflow](../../breakdowns/en/2026-10/tiktok-transcript-le-d-bordement-affectif-pourquoi-un-homme-mord-constamment-s-a980.md) — 1.5M views · `Contrarian Reframe` · 2026-10-14
+- [YouTuber Yuppi Faces Backlash for Watching Japan vs Tunis...](../../breakdowns/en/2026-07/tiktok-transcript-youtuber-fifa-a351.md) — 1.6M views · `Curiosity Gap` · 2026-07-05
+
+- [Men Who Seem Kind but Are Emotionally Cold](../../breakdowns/en/2026-09/tiktok-transcript-3-4m-views-76k-reactions-c-m-t-th-lo-i-n-ng-c-n-ng-s-h-n-lo-ee3f.md) — 1.6M views · `Contrarian Comparison Hook` · 2026-09-23
 
 - [Paranormal Encounter Horror Story at 3:33 AM](../../breakdowns/en/2026-05/tiktok-transcript-historia-de-terror-de-un-encuentro-paranormal-a-las-3-33-de-36d6.md) — 1.5M views · `Personal anecdote with eerie setting` · 2026-05-24
 
-- [Remember Me in Six Years? Knock Knock](../../breakdowns/en/2026-07/tiktok-transcript-knock-knock-who-s-there-you-don-t-remember-me-c939.md) — 1.5M views · `Escalating Question` · 2026-07-10
+- [Man Longing for a Woman's Love Every Day](../../breakdowns/en/2026-09/tiktok-transcript-tiktok-video-7680354107663715592-ccdd.md) — 1.5M views · `Provocative Question` · 2026-09-17
 
-- [Universe Tarot Warning: Stop Ignoring This Sign](../../breakdowns/en/2026-07/tiktok-transcript-universe-tarotok-viral-tarot-foryou-fypviraltiktok-tarotr-fc1e.md) — 1.5M views · `Urgent Warning` · 2026-07-08
+- [Dear Talia: African AI Series Review](../../breakdowns/en/2026-09/tiktok-transcript-dear-talia-the-african-ai-series-you-need-to-watch-deartalia-31f1.md) — 1.5M views · `Contrast Hook` · 2026-09-16
+
+- [The Curse Part 2: A Barren Wife Story](../../breakdowns/en/2026-09/tiktok-transcript-part-2-the-curse-naijatiktok-viral-fyp-ai-uktiktok-3daf.md) — 1.5M views · `Conflict Hook` · 2026-09-27
+
+- [Why a Man Constantly Bites His Wife: Affection Overflow](../../breakdowns/en/2026-10/tiktok-transcript-le-d-bordement-affectif-pourquoi-un-homme-mord-constamment-s-a980.md) — 1.5M views · `Contrarian Reframe` · 2026-10-14
+
+- [Boy's Father Buys Prostitute as His 11th Mom This Year](../../breakdowns/en/2026-06/tiktok-transcript-tiktok-movie-foryou-fullrecap-fyp-70e8.md) — 1.5M views · `Shocking Reveal` · 2026-06-03
 
 - [John Cena Becomes a Wild WWE Referee](../../breakdowns/en/2026-06/tiktok-transcript-john-cena-is-the-worst-referee-wwe-wrestling-fighting-champi-7449.md) — 1.5M views · `Unexpected Twist` · 2026-06-29
 
 - [Jarvis Plots a Course for Rosehill Tennessee](../../breakdowns/en/2026-06/tiktok-transcript-jarvis-plot-a-course-for-rosehill-tennessee-jarvis-ironman-p-dbf9.md) — 1.5M views · `Call and response` · 2026-06-10
 
-- [Boy's Father Buys Prostitute as His 11th Mom This Year](../../breakdowns/en/2026-06/tiktok-transcript-tiktok-movie-foryou-fullrecap-fyp-70e8.md) — 1.5M views · `Shocking Reveal` · 2026-06-03
-
-- [The Curse Part 2: A Barren Wife Story](../../breakdowns/en/2026-09/tiktok-transcript-part-2-the-curse-naijatiktok-viral-fyp-ai-uktiktok-3daf.md) — 1.5M views · `Conflict Hook` · 2026-09-27
-
-- [Dear Talia: African AI Series Review](../../breakdowns/en/2026-09/tiktok-transcript-dear-talia-the-african-ai-series-you-need-to-watch-deartalia-31f1.md) — 1.5M views · `Contrast Hook` · 2026-09-16
-
-- [Man Longing for a Woman's Love Every Day](../../breakdowns/en/2026-09/tiktok-transcript-tiktok-video-7680354107663715592-ccdd.md) — 1.5M views · `Provocative Question` · 2026-09-17
-
 - [He Ended It Because He Wouldn't Promote My Work](../../breakdowns/en/2026-08/tiktok-transcript-alencarz-o-creatorsearchinsights-creatorsearchinsights2026-f-b5d5.md) — 1.5M views · `Curiosity gap + direct address` · 2026-08-09
+
+- [Universe Tarot Warning: Stop Ignoring This Sign](../../breakdowns/en/2026-07/tiktok-transcript-universe-tarotok-viral-tarot-foryou-fypviraltiktok-tarotr-fc1e.md) — 1.5M views · `Urgent Warning` · 2026-07-08
+
+- [Remember Me in Six Years? Knock Knock](../../breakdowns/en/2026-07/tiktok-transcript-knock-knock-who-s-there-you-don-t-remember-me-c939.md) — 1.5M views · `Escalating Question` · 2026-07-10
 
 - [Money Can Be Re-earned, Family Time Cannot](../../breakdowns/en/2026-09/tiktok-transcript-3-5m-views-108k-reactions-emotional-family-lifequotes-heartt-4095.md) — 1.5M views · `Contrast Hook` · 2026-09-13
 
 - [Subway Hero Stops Harasser Before Job Interview](../../breakdowns/en/2026-05/tiktok-transcript-movie-foryou-usa-tik-tok-a7d3.md) — 1.4M views · `Immediate tension` · 2026-05-22
 
-- [Smart Home Gadgets That Make Life Easier](../../breakdowns/en/2026-07/tiktok-transcript-smart-home-gadgets-make-your-life-easier-home-appliances-sma-18a1.md) — 1.4M views · `One-word teaser` · 2026-07-21
-
 - [Sisters Get Shrink and Enlarge Systems Before Apocalypse](../../breakdowns/en/2026-06/tiktok-transcript-loredeepdive-tiktoktvfilmcontest-shortdramareview-tiktok-fyp-6822.md) — 1.4M views · `Choice with consequence` · 2026-06-20
+
+- [Smart Home Gadgets That Make Life Easier](../../breakdowns/en/2026-07/tiktok-transcript-smart-home-gadgets-make-your-life-easier-home-appliances-sma-18a1.md) — 1.4M views · `One-word teaser` · 2026-07-21
 
 - [Filipino Father's Silent Sacrifice Family Drama Part 1](../../breakdowns/en/2026-09/tiktok-transcript-2-7m-views-81k-reactions-tahimik-na-pasanin-part-1-isang-ama-7d7d.md) — 1.4M views · `Relatable Question Hook` · 2026-09-10
 
@@ -337,15 +337,15 @@
 
 - [What Happens When a Ship Sinks in the Ocean](../../breakdowns/en/2026-07/tiktok-transcript-fyp-reels-viral-shorts-4413.md) — 1.2M views · `Imminent Danger + Visual Surprise` · 2026-07-10
 
-- [Friends Group Singing Girls Just Wanna Have Fun](../../breakdowns/en/2026-10/tiktok-transcript-recommend-doing-this-with-talks-friend-group-friends-traditi-aefb.md) — 1.1M views · `Question + Compliment Hook` · 2026-10-20
-
 - [Virtual Serenade Surprise: What Happened Next](../../breakdowns/en/2026-05/tiktok-transcript-serenata-virtual-mira-lo-que-pas-amor-duosfreefire-garenafre-ff5e.md) — 1.1M views · `Mystery Setup` · 2026-05-26
 
-- [West Coast Anthem Gets Man Ready to Park on Freeway](../../breakdowns/en/2026-07/tiktok-transcript-og-trippin-lol-og-unc-anthem-westcoast-cali-5641.md) — 1.1M views · `Urgent declaration + immediate exit` · 2026-07-04
+- [Friends Group Singing Girls Just Wanna Have Fun](../../breakdowns/en/2026-10/tiktok-transcript-recommend-doing-this-with-talks-friend-group-friends-traditi-aefb.md) — 1.1M views · `Question + Compliment Hook` · 2026-10-20
+
+- [Hiding Baby Secret From Wife](../../breakdowns/en/2026-06/tiktok-transcript-how-long-can-he-keep-little-cuh-a-secret-fruitstory-aistory-ee2e.md) — 1.1M views · `Misdirection / Unexpected Reveal` · 2026-06-26
 
 - [Millionaire Tests Poor Boy and Finds the Truth](../../breakdowns/en/2026-07/tiktok-transcript-millionaire-tested-poor-boy-and-find-the-truth-full-story-ai-8db9.md) — 1.1M views · `Assumption vs. Reality` · 2026-07-20
 
-- [Hiding Baby Secret From Wife](../../breakdowns/en/2026-06/tiktok-transcript-how-long-can-he-keep-little-cuh-a-secret-fruitstory-aistory-ee2e.md) — 1.1M views · `Misdirection / Unexpected Reveal` · 2026-06-26
+- [West Coast Anthem Gets Man Ready to Park on Freeway](../../breakdowns/en/2026-07/tiktok-transcript-og-trippin-lol-og-unc-anthem-westcoast-cali-5641.md) — 1.1M views · `Urgent declaration + immediate exit` · 2026-07-04
 
 - [Dark Psychology Facts: Over-Explaining Signals Guilt](../../breakdowns/en/2026-09/tiktok-transcript-2-4m-views-53k-reactions-read-3-again-darkpsychology-psychol-12d9.md) — 1.1M views · `Contrarian listicle` · 2026-09-07
 
@@ -521,9 +521,9 @@
 
 - [Billionaire Dad Part 1: Daughter Rides Jeep to School](../../breakdowns/en/2026-09/tiktok-transcript-417k-views-19k-reactions-part-1-ang-bilyonaryong-tatay-melom-b4e7.md) — 243.5K views · `Protective Parent Confrontation` · 2026-09-26
 
-- [The Sukli of Kindness - Part 2: A Heartwarming Reunion](../../breakdowns/en/2026-08/tiktok-transcript-405k-views-27k-reactions-ang-sukli-ng-kabutihan-part-2-aral-2dd5.md) — 239.1K views · `Time-jump nostalgia` · 2026-08-17
-
 - [The Sukli of Kindness Part 2: True Goodness Never Fades](../../breakdowns/en/2026-08/tiktok-transcript-405k-views-27k-reactions-ang-sukli-ng-kabutihan-part-2-aral-1bb8.md) — 239.1K views · `Time-jump nostalgia` · 2026-08-17
+
+- [The Sukli of Kindness - Part 2: A Heartwarming Reunion](../../breakdowns/en/2026-08/tiktok-transcript-405k-views-27k-reactions-ang-sukli-ng-kabutihan-part-2-aral-2dd5.md) — 239.1K views · `Time-jump nostalgia` · 2026-08-17
 
 - [Rare Original Photo of Nikola Tesla Compared to Internet...](../../breakdowns/en/2026-08/tiktok-transcript-412k-views-9-7k-reactions-rare-original-photo-of-nikola-tesl-a726.md) — 230.9K views · `Curiosity Gap + Visual Contrast` · 2026-08-21
 

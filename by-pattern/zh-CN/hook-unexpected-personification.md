@@ -1,4 +1,4 @@
-# Hook Pattern: Unexpected personification
+# Hook Pattern: Unexpected Personification
 
 > 2 viral TikTok videos that use this hook pattern.
 
