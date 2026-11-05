@@ -1,6 +1,6 @@
 # entertainment Breakdowns
 
-> 282 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 284 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -373,6 +373,8 @@
 
 - [Man Destroys Beef Tree to Ruin Rival](../../breakdowns/zh-CN/2026-07/tiktok-transcript-he-destroyed-the-beef-tree-to-ruin-his-rival-madewithcantina-329a.md) — 926.8K views · `Question + Incredible Claim` · 2026-07-14
 
+- [Myron Debates Feminist on What Men Want in Dating](../../breakdowns/zh-CN/2026-11/tiktok-transcript-myron-gives-boss-girl-feminist-a-reality-check-credit-uncens-194c.md) — 923.3K views · `Suppressed Truth + Direct Question` · 2026-11-05
+
 - [Cleanest Part of the Human Body Quiz Question](../../breakdowns/zh-CN/2026-10/tiktok-transcript-quiz-quelle-est-la-partie-la-plus-propre-du-corps-humain-qui-4bd1.md) — 916.4K views · `Surprising Question with Immediate Answer` · 2026-10-08
 
 - [Why You Can't Leave a Toxic Partner: Break the Trauma Bond](../../breakdowns/zh-CN/2026-08/tiktok-transcript-here-s-why-you-re-struggling-to-leave-a-toxic-partner-you-ha-459b.md) — 913.9K views · `Direct address with a promise of a solution` · 2026-08-02
@@ -498,6 +500,8 @@
 - [Rebecca Episode 1: Pregnant After Just the Tip](../../breakdowns/zh-CN/2026-09/tiktok-transcript-video-c218.md) — 358.6K views · `Shocking denial` · 2026-09-08
 
 - [Spiderman Bus Stunt Behind the Scenes FX](../../breakdowns/zh-CN/2026-08/tiktok-transcript-866k-views-15k-reactions-spiderman-stunt-on-bus-behind-fx-544e.md) — 353.6K views · `Immediate action call` · 2026-08-17
+
+- [Myron Gaines Debates Women in the Military](../../breakdowns/zh-CN/2026-11/tiktok-transcript-myron-gaines-debates-a-dual-citizen-zionist-jew-on-women-in-3f3a.md) — 344.2K views · `Provocative Statement + Implied Debate` · 2026-11-05
 
 - [Pastor Tells Williams His Prayers Go Unheard](../../breakdowns/zh-CN/2026-09/tiktok-transcript-part-3-fate-cursed-aistoryteller-aistory-ai-a70c.md) — 343.4K views · `Direct Address & Spiritual Challenge` · 2026-09-29
 

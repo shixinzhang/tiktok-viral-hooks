@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 316 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 317 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -214,6 +214,8 @@
 - [No-Heat Pipe Connector Fits Without Soldering](../../breakdowns/zh-CN/2026-09/tiktok-transcript-ventaquincenal-regresoaclasescontiktokshop-ventaveraniega-ti-53e0.md) — 2.6M views · `Rhetorical Question + Praise` · 2026-09-14
 
 - [Screw-Type Tire Plug Repair With a Nail](../../breakdowns/zh-CN/2026-10/tiktok-transcript-a-small-nail-helps-you-repair-the-tire-quickly-repairtires-t-494b.md) — 2.6M views · `Praise + Question Hook` · 2026-10-14
+
+- [Kante and Mbappe Football Clip With Strong Comment](../../breakdowns/zh-CN/2026-11/tiktok-transcript-wow-your-so-strong-kante-football-sakinakarchaoui-mbappe-bf96.md) — 2.6M views · `unknown` · 2026-11-04
 
 - [How Criminals Clean Dirty Money](../../breakdowns/zh-CN/2026-06/tiktok-transcript-how-to-clean-dirty-money-finance-animation-uk-b0d3.md) — 2.6M views · `Rhetorical question + personal stake` · 2026-06-03
 
