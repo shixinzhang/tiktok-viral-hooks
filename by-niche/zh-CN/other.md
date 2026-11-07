@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 317 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 318 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -182,6 +182,8 @@
 - [Nail in Onion Behind Door Blocks Neighbors Evil Eye](../../breakdowns/zh-CN/2026-07/tiktok-transcript-7-1m-views-115k-reactions-protection-bodyfacts-lifestyle-vir-d28c.md) — 3.4M views · `numbered list with surprising remedy` · 2026-07-02
 
 - [Why Silent People Withdraw When Hurt](../../breakdowns/zh-CN/2026-07/tiktok-transcript-people-who-go-silent-38db.md) — 3.3M views · `Psychological label reveal` · 2026-07-02
+
+- [OQ Hair 20 Inch Burmese Curly Bundles Review](../../breakdowns/zh-CN/2026-11/tiktok-transcript-replying-to-mieko-hair-details-ft-oqhair-oqhairshop-oqhairre-11b4.md) — 3.2M views · `unknown` · 2026-11-06
 
 - [Fix Your Juicer Machine, Stop Wasting Money](../../breakdowns/zh-CN/2026-06/tiktok-transcript-saraikimonkey-bandar-viraltiktok-ai-42f3.md) — 3.2M views · `Repetitive command with escalating absurdity` · 2026-06-16
 

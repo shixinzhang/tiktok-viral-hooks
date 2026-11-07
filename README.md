@@ -35,7 +35,7 @@ Want to tear down your own viral candidate? [Paste a TikTok URL into TokTranscri
 ### By niche
 
 <!-- AUTO_GENERATED_NICHE_START -->
-[Other](./by-niche/en/other.md) (317) · [Entertainment](./by-niche/en/entertainment.md) (285) · [Finance](./by-niche/en/finance.md) (39) · [Beauty](./by-niche/en/beauty.md) (21) · [Food](./by-niche/en/food.md) (20) · [Tech](./by-niche/en/tech.md) (13) · [Fitness](./by-niche/en/fitness.md) (7) · [Marketing](./by-niche/en/marketing.md) (7)
+[Other](./by-niche/en/other.md) (318) · [Entertainment](./by-niche/en/entertainment.md) (285) · [Finance](./by-niche/en/finance.md) (39) · [Beauty](./by-niche/en/beauty.md) (21) · [Food](./by-niche/en/food.md) (20) · [Tech](./by-niche/en/tech.md) (13) · [Fitness](./by-niche/en/fitness.md) (7) · [Marketing](./by-niche/en/marketing.md) (7)
 <!-- AUTO_GENERATED_NICHE_END -->
 
 ### By hook pattern

@@ -35,7 +35,7 @@
 ### 按品类
 
 <!-- AUTO_GENERATED_NICHE_START -->
-[Other](./by-niche/zh-CN/other.md) (317) · [Entertainment](./by-niche/zh-CN/entertainment.md) (285) · [Finance](./by-niche/zh-CN/finance.md) (39) · [Beauty](./by-niche/zh-CN/beauty.md) (21) · [Food](./by-niche/zh-CN/food.md) (20) · [Tech](./by-niche/zh-CN/tech.md) (13) · [Fitness](./by-niche/zh-CN/fitness.md) (7) · [Marketing](./by-niche/zh-CN/marketing.md) (7)
+[Other](./by-niche/zh-CN/other.md) (318) · [Entertainment](./by-niche/zh-CN/entertainment.md) (285) · [Finance](./by-niche/zh-CN/finance.md) (39) · [Beauty](./by-niche/zh-CN/beauty.md) (21) · [Food](./by-niche/zh-CN/food.md) (20) · [Tech](./by-niche/zh-CN/tech.md) (13) · [Fitness](./by-niche/zh-CN/fitness.md) (7) · [Marketing](./by-niche/zh-CN/marketing.md) (7)
 <!-- AUTO_GENERATED_NICHE_END -->
 
 ### 按钩子套路
