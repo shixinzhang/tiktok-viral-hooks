@@ -1,6 +1,6 @@
 # other Breakdowns
 
-> 318 viral TikTok videos in this niche, with hook analysis and mind maps.
+> 319 viral TikTok videos in this niche, with hook analysis and mind maps.
 
 [← Back to README](../../README.md).zh-CN.md
 
@@ -404,6 +404,8 @@
 - [Young Woman's Career Ambitions Shift After One Month Working](../../breakdowns/zh-CN/2026-07/tiktok-transcript-2-1m-views-10k-reactions-nh-n-o-y-thuycoluong-thuycoluong-d720.md) — 1.1M views · `Expectation vs Reality` · 2026-07-23
 
 - [Sling Baby Carrier for Moms With Back Pain](../../breakdowns/zh-CN/2026-09/tiktok-transcript-every-mom-needs-one-of-these-babyslingcarrier-babycarrier-mo-e127.md) — 1.1M views · `Problem Callout` · 2026-09-18
+
+- [Curly Me Indian Curly Half Wig Review and Layering](../../breakdowns/zh-CN/2026-11/tiktok-transcript-looove-this-curlyme-hair-curlyme-hair-store-fy-gluelesswigs-09c3.md) — 1.1M views · `unknown` · 2026-11-12
 
 - [A Father's Love Knows No Limits, Waking Tired for His Kids](../../breakdowns/zh-CN/2026-06/tiktok-transcript-l-amour-pour-ses-enfants-ne-conna-t-aucune-limite-je-me-l-ve-1fb3.md) — 1.1M views · `Sacrificial Love` · 2026-06-26
 
