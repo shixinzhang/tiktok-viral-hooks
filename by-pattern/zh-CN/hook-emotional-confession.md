@@ -1,4 +1,4 @@
-# Hook Pattern: Emotional confession
+# Hook Pattern: Emotional Confession
 
 > 8 viral TikTok videos that use this hook pattern.
 
