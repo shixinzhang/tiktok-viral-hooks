@@ -1,4 +1,4 @@
-# Hook Pattern: contrast hook
+# Hook Pattern: Contrast Hook
 
 > 7 viral TikTok videos that use this hook pattern.
 

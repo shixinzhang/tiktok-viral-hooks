@@ -1,4 +1,4 @@
-# Hook Pattern: Exclusive Revelation
+# Hook Pattern: Exclusive revelation
 
 > 2 viral TikTok videos that use this hook pattern.
 
