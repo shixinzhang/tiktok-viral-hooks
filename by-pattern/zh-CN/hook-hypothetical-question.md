@@ -1,4 +1,4 @@
-# Hook Pattern: Hypothetical Question
+# Hook Pattern: Hypothetical question
 
 > 3 viral TikTok videos that use this hook pattern.
 
