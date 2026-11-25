@@ -1,4 +1,4 @@
-# Hook Pattern: Emotional direct address
+# Hook Pattern: Emotional Direct Address
 
 > 2 viral TikTok videos that use this hook pattern.
 

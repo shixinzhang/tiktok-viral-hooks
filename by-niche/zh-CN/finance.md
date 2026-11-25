@@ -11,9 +11,9 @@
 
 - [How to Beat Evil Credit Cards](../../breakdowns/zh-CN/2026-07/tiktok-transcript-how-to-beat-evil-credit-cards-learnontiktok-personalfinance-4b51.md) — 17.7M views · `Unexpected Generosity` · 2026-07-28
 
-- [Carrot Worker Receives Triple Monthly Pay](../../breakdowns/zh-CN/2026-10/tiktok-transcript-drame-fruitstory-aifruits-a4d6.md) — 13.7M views · `Problem-Solution Hook` · 2026-10-09
-
 - [Carrot Worker Receives Triple Monthly Pay](../../breakdowns/zh-CN/2026-10/tiktok-transcript-drame-fruitstory-aifruits-3423.md) — 13.7M views · `Problem-Solution Setup` · 2026-10-09
+
+- [Carrot Worker Receives Triple Monthly Pay](../../breakdowns/zh-CN/2026-10/tiktok-transcript-drame-fruitstory-aifruits-a4d6.md) — 13.7M views · `Problem-Solution Hook` · 2026-10-09
 
 - [The 3 Worst Businesses to Buy According to an Expert](../../breakdowns/zh-CN/2026-07/tiktok-transcript-here-are-the-3-worst-businesses-you-could-ever-buy-because-i-b7ad.md) — 12.4M views · `Listicle with contrarian premise` · 2026-07-01
 
@@ -47,11 +47,11 @@
 
 - [Waiting on Market Drop to Buy? You Lost Buying Power](../../breakdowns/zh-CN/2026-07/tiktok-transcript-if-you-re-waiting-on-the-market-to-go-down-to-buy-you-may-be-a80b.md) — 1.6M views · `Direct Address + Contrarian Question` · 2026-07-12
 
-- [3 Types of People Who Should Never Start a Business](../../breakdowns/zh-CN/2026-09/tiktok-transcript-video-bcdc.md) — 1.5M views · `Direct warning with list promise` · 2026-09-08
-
 - [Wealthy People Don’t Need to Show Off](../../breakdowns/zh-CN/2026-06/tiktok-transcript-you-ever-notice-how-the-loudest-people-in-the-room-are-usual-4cd4.md) — 1.5M views · `Cautionary reversal` · 2026-06-03
 
 - [Top 3 AI Stocks to Buy for the Next Decade](../../breakdowns/zh-CN/2026-06/tiktok-transcript-here-are-the-top-3-a-i-stocks-to-buy-for-the-next-decade-acc-cbda.md) — 1.5M views · `List-based promise with authority` · 2026-06-12
+
+- [3 Types of People Who Should Never Start a Business](../../breakdowns/zh-CN/2026-09/tiktok-transcript-video-bcdc.md) — 1.5M views · `Direct warning with list promise` · 2026-09-08
 
 - [3 Best Stocks to Buy for Wealth Building](../../breakdowns/zh-CN/2026-06/tiktok-transcript-the-best-stocks-to-buy-to-get-rich-9632.md) — 1.4M views · `Unexpected twist` · 2026-06-12
 

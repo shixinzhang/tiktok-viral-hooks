@@ -1,4 +1,4 @@
-# Hook Pattern: Direct Benefit Promise
+# Hook Pattern: Direct benefit promise
 
 > 2 viral TikTok videos that use this hook pattern.
 
